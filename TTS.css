@@ -1,0 +1,111 @@
+/*seletor turmas*/
+div.selector{
+	position:absolute;
+	left: 800px;
+	top: 50px; 
+}
+div.classselector{
+	width:300px;
+	border:1px black solid;
+	margin-bottom:15px;
+}
+
+
+
+/* horario*/
+div.table{
+	margin:20px;
+	width:700px;
+	height:600px;
+	font-size:14px;
+}
+div.tablecell,div.tableheader{
+	border:1px black solid;
+	margin-right:-1px;
+	margin-bottom:-1px;
+	text-align:center;
+	height:22px;
+	width:99px;
+	background-color:#FAFAFA;
+	float:left;
+}
+div.tableheader{
+	background-color:#C1C1C1;
+}
+
+div.teorica,div.pratica,div.teoricopratica,div.laboratorio{
+	position:absolute;
+	width:90px;
+	border:2px black solid;
+	opacity:0.7;
+	display:table;
+}
+div.teorica{
+	background-color:grey;
+	z-index:2;
+}
+div.pratica{
+	background-color:#D7E9C9;
+	z-index:3;
+}
+div.teoricopratica{
+	background-color:#FFFAC9;
+	z-index:3;
+}
+div.laboratorio{
+	background-color:#D7E9C9;
+	z-index:3;
+}
+div.aulawrapper{
+	display:table-cell;
+	vertical-align:middle;
+}
+span.aula{
+	text-align:left;
+	width:40px;
+	padding-left:5px;
+	font-size:10px;
+	opacity:1;
+}
+p.aula{
+	margin:2px;
+}
+
+/* blocks*/
+div.blockprompt{
+	z-index: 1011; 
+	position: fixed;
+	width:30%;
+	height:40%;
+	min-height:180px;
+	left:35%;
+	top:30%;
+	background-color:#FFFFFF;
+	border:10px #C76210 solid;
+	text-align:center;
+	overflow:auto;
+}
+
+div#loading{
+	cursor:wait;
+}
+
+div#promptcadeiras{
+	width:60%;
+	left:20%;
+}
+div#listcadeiras{
+	width:100%;
+	height:70%;
+	margin-bottom:12px;
+	-moz-column-width:75px; /* Firefox */
+-webkit-column-width:75px; /* Safari and Chrome */
+column-width:75px;
+}
+
+span.listcad{
+	display:inline-block;
+    width: 75px;
+    text-align: left;
+	
+}
