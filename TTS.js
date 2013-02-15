@@ -96,7 +96,7 @@ var cadeiras;
 $(document).ready(function(){
 	$.blockUI.defaults.css = {};
 	$.blockUI({ message: $('#promptcurso') }); 
-	
+
 	
 	$('#cursook').click(function(){
 		$.blockUI({message:$('#loading')});
