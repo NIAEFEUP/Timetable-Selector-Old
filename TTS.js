@@ -29,6 +29,7 @@ function Cadeira(sigla,jsonobj){
 	this.teoricas=new Array();
 	this.praticas=new Array();
 	this.nome=sigla;
+	this.nomec=jsonobj.nome;
 	this.turmaselect="-";
 	if (typeof jsonobj.T!="undefined"){
 	for (var i=0;i<jsonobj.T.length;i++)
@@ -47,7 +48,7 @@ function Cadeira(sigla,jsonobj){
 Cadeira.prototype.selectorhtml=function(){
 	var str='';
 	str+='<div class=classselector>';
-	str+='<p>'+this.nome+'</p>';
+	str+='<p>'+this.nomec+' ('+this.nome+')'+'</p>';
 	str+='<select class="turmaselect" data-cadeira="'+this.nome+'">';
 	str+='<option value="-">-----</option>';
 	for (var i=0;i<this.praticas.length;i++)
@@ -132,7 +133,7 @@ function parse_horario(data){
 	cadeiras={};
 	$.each(data,function(cadeira,obj){
 		cadeiras[cadeira]=new Cadeira(cadeira,obj);
-		$('#listcadeiras').append('<span class="listcad"><input class="listcad" value="'+cadeira+'" type="checkbox"/>'+cadeira+'</span>');
+		$('#listcadeiras').append('<span class="listcad"><input class="listcad" value="'+cadeira+'" type="checkbox"/><abbr title="'+obj.nome+'">'+cadeira+'</abbr></span>');
 		
 	});
 

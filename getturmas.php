@@ -133,6 +133,9 @@ Timetable Selector By NIFEUP
 					//passar tudo para o array
 					if (!is_array($horarios[$asigla][$tipo])) $horarios[$asigla][$tipo]=array();
 					array_push($horarios[$asigla][$tipo], array('dia'=>$dia,'hora'=>$hora,'nome'=>$anome,'sigla'=>$asigla,'tipo'=>$tipo,'turma'=>$turma_nome,'turmac'=>$turma_cadeira,'duracao'=>$aduracao,'sala'=>$asala,'profsig'=>$aprofsig,'prof'=>$aprofnome));
+					//gravar o nome da cadeira dentro do objecto da cadeira para facilitar extraçao no js
+					$horarios[$asigla]['nome']=$anome;
+					
 					//echo "<p>".$dia." ".$hora." ".$anome." ".$asigla." ".$tipo." ".$turma_nome." ".$turma_cadeira." ".$aduracao." ".$asala." ".$aprofsig." ".$aprofnome."</p>";
 				}
 				

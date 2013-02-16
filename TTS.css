@@ -5,9 +5,18 @@ div.selector{
 	top: 50px; 
 }
 div.classselector{
-	width:300px;
+	width:360px;
 	border:1px black solid;
 	margin-bottom:15px;
+}
+select.turmaselect{
+	width:250px;
+}
+
+/*footer*/
+span.footerspan
+{
+	margin-left:30px;
 }
 
 
@@ -45,7 +54,7 @@ div.teorica{
 	z-index:2;
 }
 div.pratica{
-	background-color:#D7E9C9;
+	background-color:#FCE3C1;
 	z-index:3;
 }
 div.teoricopratica{
