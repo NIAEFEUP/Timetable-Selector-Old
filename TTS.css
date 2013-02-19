@@ -8,9 +8,11 @@ div.classselector{
 	width:360px;
 	border:1px black solid;
 	margin-bottom:15px;
+	padding:20px;
 }
 select.turmaselect{
-	width:250px;
+	width:300px;
+	display:block;
 }
 
 /*footer*/
@@ -117,4 +119,12 @@ span.listcad{
     width: 75px;
     text-align: left;
 	
+}
+
+
+/*geral*/
+p.error{
+	text-align:center;
+	font-size:18px;
+	color:red;
 }

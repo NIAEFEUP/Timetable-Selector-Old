@@ -14,7 +14,7 @@ Timetable Selector By NIFEUP
 	$password=$_POST['password'];
 	
 //tratar parametros da pagina
-	$anoletivo=$_POST['ano_lectivo'];
+	$anoletivo=$_POST['anolectivo'];
 	switch($_POST['curso'])
 	{
 		case 'MIEIC': $curso_id='742';break;
@@ -153,9 +153,9 @@ Timetable Selector By NIFEUP
 	
 	//fechar a sessao
     curl_close($ch);
-	$filename=''.$_GET['curso'].$_GET['ano_lectivo'].$_GET['periodo'].'.json';
+	$filename=''.$_POST['curso'].$_POST['anolectivo'].$_POST['periodo'].'.json';
 	file_put_contents($filename,json_encode($horarios));
-	chmod($filename,0644);
+	chmod($filename,0664);
 	echo json_encode($horarios);
 
 ?>

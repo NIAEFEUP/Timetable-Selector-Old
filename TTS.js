@@ -1,3 +1,5 @@
+var version="version2/";
+
 function Aula(jsonobj){
 	this.dia=Number(jsonobj.dia)+1;
 	this.horarow=(Number(jsonobj.hora)-8)*2+1;
@@ -10,6 +12,7 @@ function Aula(jsonobj){
 	this.sala=jsonobj.sala;
 	this.prof=jsonobj.prof;
 	this.profsig=jsonobj.profsig;
+	this.vagas="?";
 	
 	this.txtdia=''+this.dia+'ª';
 	this.txthora=''+((this.horarow+this.horarow%2)/2+7)+':'+(((this.horarow-1)%2)*3)+'0';
@@ -53,7 +56,7 @@ Cadeira.prototype.selectorhtml=function(){
 	str+='<option value="-">-----</option>';
 	for (var i=0;i<this.praticas.length;i++)
 	{
-		str+='<option value="'+this.praticas[i].turma+'">'+this.praticas[i].turma+' - '+this.praticas[i].profsig+' '+this.praticas[i].txtdia+' '+this.praticas[i].txthora+'</option>';
+		str+='<option value="'+this.praticas[i].turma+'">'+this.praticas[i].selecttext()+'</option>';
 	}
 	if (this.praticas.length==0) str+='<option value="teoricas">só teoricas</option>'
 	str+='</select>';
@@ -90,8 +93,12 @@ Aula.prototype.horariohtml=function(){
 	str+='</div></div>';
 	return str;
 }
+Aula.prototype.selecttext=function(){
+	var str=this.turma+' - '+this.profsig+' '+this.txtdia+' '+this.txthora+' ('+this.vagas+')';
+	return str;
+}
 
-
+var curso;
 var cadeiras;
 
 $(document).ready(function(){
@@ -102,12 +109,15 @@ $(document).ready(function(){
 	$('#cursook').click(function(){
 		$.blockUI({message:$('#loading')});
 		
-		var curso=$('#cursoselect option:selected').val();
+		curso=$('#cursoselect option:selected').val();
 		var ano_lectivo=$('#anoselect option:selected').val();
 		var periodo=$('#semestreselect option:selected').val();
-		$.getJSON("/~ei09082/TTC/"+curso+ano_lectivo+periodo+".json",function(data){
+		$.getJSON("/~ei09082/TTC/"+version+curso+ano_lectivo+periodo+".json",function(data){
 			parse_horario(data);
 			$.blockUI({message:$('#promptcadeiras')});
+		}).error(function(){
+			$('#promptcursoerror').show();
+			$.blockUI({message:$('#promptcurso')});
 		});
 	});
 	
@@ -124,6 +134,24 @@ $(document).ready(function(){
 	$(document).on('change','.classselector input.mostrarteoricas',function(event){
 		cadeiras[this.getAttribute('data-cadeira')].showteoricas=this.checked;
 		cadeiras[this.getAttribute('data-cadeira')].showTurma();
+	});
+	
+	$('#updatevagasbtn').click(function(){
+		$.getJSON("/~ei09082/TTC/"+version+"getvagas.php",{curso:curso},function(data){
+			$.each(data,function(cadeira,obj){
+				var i="";
+				for (var key in cadeiras) if (cadeiras[key].nomec==cadeira) {i=key;break;}
+				if (i!=""){
+					$.each(obj,function(turma,vagas){
+						var j;
+						for (j=0;j<cadeiras[i].praticas.length&&cadeiras[i].praticas[j].turma==turma;j++);
+						cadeiras[i].praticas[j].vagas=vagas;
+						$('select[data-cadeira="'+cadeiras[i].nome+'"] option[value="'+cadeiras[i].praticas[j].turma+'"]').html(cadeiras[i].praticas[j].selecttext());
+					});
+				}
+			});
+			
+		});
 	});
 	
 });
