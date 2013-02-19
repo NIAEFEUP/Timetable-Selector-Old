@@ -144,9 +144,11 @@ $(document).ready(function(){
 				if (i!=""){
 					$.each(obj,function(turma,vagas){
 						var j;
-						for (j=0;j<cadeiras[i].praticas.length&&cadeiras[i].praticas[j].turma==turma;j++);
-						cadeiras[i].praticas[j].vagas=vagas;
-						$('select[data-cadeira="'+cadeiras[i].nome+'"] option[value="'+cadeiras[i].praticas[j].turma+'"]').html(cadeiras[i].praticas[j].selecttext());
+						for (j=0;j<cadeiras[i].praticas.length&&cadeiras[i].praticas[j].turma!=turma;j++);
+						if (j<cadeiras[i].praticas.length){
+							cadeiras[i].praticas[j].vagas=vagas;
+							$('select[data-cadeira="'+cadeiras[i].nome+'"] option[value="'+cadeiras[i].praticas[j].turma+'"]').html(cadeiras[i].praticas[j].selecttext());
+						}
 					});
 				}
 			});
