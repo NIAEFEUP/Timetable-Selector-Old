@@ -46,7 +46,7 @@ div.tableheader{
 
 div.teorica,div.pratica,div.teoricopratica,div.laboratorio{
 	position:absolute;
-	width:90px;
+	width:89px;
 	border:2px black solid;
 	opacity:0.7;
 	display:table;

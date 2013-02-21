@@ -21,9 +21,9 @@ function Aula(jsonobj){
 	if (this.tipo=="L") this.tipoh="laboratorio";
 	if (this.tipo=="P") this.tipoh="pratica";
 	
-	this.stleft=100*this.dia-67;
+	this.stleft=100*this.dia-68;
 	this.sttop=23+23*this.horarow;
-	this.stheight=22*this.duracao-4;
+	this.stheight=23*this.duracao-9;
 	
 }
 
