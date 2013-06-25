@@ -1,4 +1,4 @@
-var version="version2/";
+var baseURL="/~ei09082/TTC/Alpha"; //versão para o ni: "/TTS"
 
 function Aula(jsonobj){
 	this.dia=Number(jsonobj.dia)+1;
@@ -20,6 +20,8 @@ function Aula(jsonobj){
 	if (this.tipo=="TP") this.tipoh="teoricopratica";
 	if (this.tipo=="L") this.tipoh="laboratorio";
 	if (this.tipo=="P") this.tipoh="pratica";
+	if (this.tipo=="PL") this.tipoh="praticalaboratorial";
+	
 	
 	this.stleft=100*this.dia-68;
 	this.sttop=23+23*this.horarow;
@@ -46,6 +48,9 @@ function Cadeira(sigla,jsonobj){
 	if (typeof jsonobj.L!="undefined"){
 	for (var i=0;i<jsonobj.L.length;i++)
 		this.praticas.push(new Aula(jsonobj.L[i]));}
+	if (typeof jsonobj.PL!="undefined"){
+	for (var i=0;i<jsonobj.PL.length;i++)
+		this.praticas.push(new Aula(jsonobj.PL[i]));}
 	
 }
 Cadeira.prototype.selectorhtml=function(){
@@ -112,7 +117,7 @@ $(document).ready(function(){
 		curso=$('#cursoselect option:selected').val();
 		var ano_lectivo=$('#anoselect option:selected').val();
 		var periodo=$('#semestreselect option:selected').val();
-		$.getJSON("/~ei09082/TTC/"+version+curso+ano_lectivo+periodo+".json",function(data){
+		$.getJSON(baseURL+"/"+curso+ano_lectivo+periodo+".json",function(data){
 			parse_horario(data);
 			$.blockUI({message:$('#promptcadeiras')});
 		}).error(function(){
@@ -136,8 +141,15 @@ $(document).ready(function(){
 		cadeiras[this.getAttribute('data-cadeira')].showTurma();
 	});
 	
+	$(document).on('mouseenter','.aula',function(event){
+		$(this).addClass("mouseoveraula");
+	});
+	$(document).on('mouseleave','.aula',function(event){
+		$(this).removeClass("mouseoveraula");
+	});
+	
 	$('#updatevagasbtn').click(function(){
-		$.getJSON("/~ei09082/TTC/"+version+"getvagas.php",{curso:curso},function(data){
+		$.getJSON(baseURL+"/getvagas.php",{curso:curso},function(data){
 			$.each(data,function(cadeira,obj){
 				var i="";
 				for (var key in cadeiras) if (cadeiras[key].nomec==cadeira) {i=key;break;}

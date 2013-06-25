@@ -44,7 +44,7 @@ div.tableheader{
 	background-color:#C1C1C1;
 }
 
-div.teorica,div.pratica,div.teoricopratica,div.laboratorio{
+div.teorica,div.pratica,div.teoricopratica,div.laboratorio,div.praticalaboratorial{
 	position:absolute;
 	width:89px;
 	border:2px black solid;
@@ -66,6 +66,15 @@ div.teoricopratica{
 div.laboratorio{
 	background-color:#D7E9C9;
 	z-index:3;
+}
+
+div.praticalaboratorial{
+	background-color:#C69C6D;
+	z-index:3;
+}
+div.mouseoveraula{
+	opacity:1;
+	z-index:4;
 }
 div.aulawrapper{
 	display:table-cell;
@@ -116,7 +125,7 @@ column-width:75px;
 
 span.listcad{
 	display:inline-block;
-    width: 75px;
+    width: 95px;
     text-align: left;
 	
 }

@@ -11,18 +11,18 @@ Scrapper de vagas no sifeup
 //tratar parametros da pagina
 	switch($_GET['curso'])
 	{
-		case 'MIEIC': $curso_id='742';break;
-		case 'CINF': $curso_id='454';break;
-		case 'LCEEMG': $curso_id='738';break;
-		case 'MEMG': $curso_id='739';break;
-		case 'MIB': $curso_id='728';break;
-		case 'MIEC': $curso_id='740';break;
-		case 'MIEA': $curso_id='726';break;
-		case 'MIEEC': $curso_id='741';break;
-		case 'MIEIG': $curso_id='725';break;
-		case 'MIEM': $curso_id='743';break;
-		case 'MIEMM': $curso_id='744';break;
-		case 'MIEQ': $curso_id='745';break;
+		case 'feup-MIEIC': $faculdade_codigo='feup';$curso_id='742';break;
+		case 'feup-CINF': $faculdade_codigo='feup';$curso_id='454';break;
+		case 'feup-LCEEMG': $faculdade_codigo='feup';$curso_id='738';break;
+		case 'feup-MEMG': $faculdade_codigo='feup';$curso_id='739';break;
+		case 'feup-MIB': $faculdade_codigo='feup';$curso_id='728';break;
+		case 'feup-MIEC': $faculdade_codigo='feup';$curso_id='740';break;
+		case 'feup-MIEA': $faculdade_codigo='feup';$curso_id='726';break;
+		case 'feup-MIEEC': $faculdade_codigo='feup';$curso_id='741';break;
+		case 'feup-MIEIG': $faculdade_codigo='feup';$curso_id='725';break;
+		case 'feup-MIEM': $faculdade_codigo='feup';$curso_id='743';break;
+		case 'feup-MIEMM': $faculdade_codigo='feup';$curso_id='744';break;
+		case 'feup-MIEQ': $faculdade_codigo='feup';$curso_id='745';break;
 		default : echo 'Error';exit();
 	}
 	

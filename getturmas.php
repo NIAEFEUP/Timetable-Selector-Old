@@ -17,25 +17,40 @@ Timetable Selector By NIFEUP
 	$anoletivo=$_POST['anolectivo'];
 	switch($_POST['curso'])
 	{
-		case 'MIEIC': $curso_id='742';break;
-		case 'CINF': $curso_id='454';break;
-		case 'LCEEMG': $curso_id='738';break;
-		case 'MEMG': $curso_id='739';break;
-		case 'MIB': $curso_id='728';break;
-		case 'MIEC': $curso_id='740';break;
-		case 'MIEA': $curso_id='726';break;
-		case 'MIEEC': $curso_id='741';break;
-		case 'MIEIG': $curso_id='725';break;
-		case 'MIEM': $curso_id='743';break;
-		case 'MIEMM': $curso_id='744';break;
-		case 'MIEQ': $curso_id='745';break;
-		default : echo 'Error';exit();
+		case 'feup-MIEIC': $faculdade_codigo='feup';$curso_id='742';break;
+		case 'feup-CINF': $faculdade_codigo='feup';$curso_id='454';break;
+		case 'feup-LCEEMG': $faculdade_codigo='feup';$curso_id='738';break;
+		case 'feup-MEMG': $faculdade_codigo='feup';$curso_id='739';break;
+		case 'feup-MIB': $faculdade_codigo='feup';$curso_id='728';break;
+		case 'feup-MIEC': $faculdade_codigo='feup';$curso_id='740';break;
+		case 'feup-MIEA': $faculdade_codigo='feup';$curso_id='726';break;
+		case 'feup-MIEEC': $faculdade_codigo='feup';$curso_id='741';break;
+		case 'feup-MIEIG': $faculdade_codigo='feup';$curso_id='725';break;
+		case 'feup-MIEM': $faculdade_codigo='feup';$curso_id='743';break;
+		case 'feup-MIEMM': $faculdade_codigo='feup';$curso_id='744';break;
+		case 'feup-MIEQ': $faculdade_codigo='feup';$curso_id='745';break;
+		
+		case 'fcup-LAP': $faculdade_codigo='fcup';$curso_id='1011';break;
+		case 'fcup-LAST': $faculdade_codigo='fcup';$curso_id='956';break;
+		case 'fcup-LB': $faculdade_codigo='fcup';$curso_id='884';break;
+		case 'fcup-LBQ': $faculdade_codigo='fcup';$curso_id='863';break;
+		case 'fcup-LCC': $faculdade_codigo='fcup';$curso_id='885';break;
+		case 'fcup-LCE': $faculdade_codigo='fcup';$curso_id='886';break;
+		case 'fcup-LCTA': $faculdade_codigo='fcup';$curso_id='887';break;
+		case 'fcup-LF': $faculdade_codigo='fcup';$curso_id='888';break;
+		case 'fcup-LG': $faculdade_codigo='fcup';$curso_id='889';break;
+		case 'fcup-LM': $faculdade_codigo='fcup';$curso_id='864';break;
+		case 'fcup-LQ': $faculdade_codigo='fcup';$curso_id='865';break;
+		case 'fcup-MIERS': $faculdade_codigo='fcup';$curso_id='870';break;
+		case 'fcup-MIEF': $faculdade_codigo='fcup';$curso_id='890';break;
+		
+		default : echo 'Error curso';exit();
 	}
 	switch($_POST['periodo'])
 	{
 		case '1': $periodo_id='2';break;
 		case '2': $periodo_id='3';break;
-		default : echo 'Error';exit();
+		default : echo 'Error semestre';exit();
 	}
 	
 	
@@ -58,7 +73,7 @@ Timetable Selector By NIFEUP
     $loginresult = curl_exec($ch);
 	
 	//POST para sacar as turmas
-	$url= 'https://sigarra.up.pt/feup/pt/hor_geral.lista_turmas_curso';
+	$url= 'https://sigarra.up.pt/'.$faculdade_codigo.'/pt/hor_geral.lista_turmas_curso';
 	$fieldstr = 'pv_curso_id='.$curso_id.'&pv_periodos='.$periodo_id.'&pv_ano_lectivo='.$anoletivo;
     curl_setopt($ch,CURLOPT_URL,$url);
     curl_setopt($ch,CURLOPT_POST,3);
@@ -82,7 +97,7 @@ Timetable Selector By NIFEUP
 		//echo  "<p>".$turma_nome." ".$turma_id."</p>";
 		
 		//POST para sacar o horario
-		$url= 'https://sigarra.up.pt/feup/pt/hor_geral.turmas_view';
+		$url= 'https://sigarra.up.pt/'.$faculdade_codigo.'/pt/hor_geral.turmas_view';
 		$fieldstr = 'pv_turma_id='.$turma_id.'&pv_periodos='.$periodo_id.'&pv_ano_lectivo='.$anoletivo; 
 		curl_setopt($ch,CURLOPT_URL,$url);
 		curl_setopt($ch,CURLOPT_POST,3);
@@ -115,7 +130,7 @@ Timetable Selector By NIFEUP
 				//scrap do td
 				$nodetd=$nodescol->item($col);
 				$tipo=$nodetd->attributes->getNamedItem('class')->nodeValue;
-				if ($tipo=='TP'||$tipo=='T'||$tipo=='P'||$tipo=='L')
+				if ($tipo=='TP'||$tipo=='T'||$tipo=='P'||$tipo=='L'||$tipo=='PL')
 				{	//se for uma aula
 					//contar o rowspan/duracao da aula
 					$aduracao=$nodetd->attributes->getNamedItem('rowspan')->nodeValue;
@@ -153,7 +168,7 @@ Timetable Selector By NIFEUP
 	
 	//fechar a sessao
     curl_close($ch);
-	$filename=''.$_POST['curso'].$_POST['anolectivo'].$_POST['periodo'].'.json';
+	$filename=$_POST['curso'].$_POST['anolectivo'].$_POST['periodo'].'.json';
 	file_put_contents($filename,json_encode($horarios));
 	chmod($filename,0664);
 	echo json_encode($horarios);
