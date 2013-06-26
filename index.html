@@ -1,261 +1,31 @@
+<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8" />
 	<title>TimeTableSelector by NIFEUP</title>
 	<link rel="stylesheet" href="TTS.css" />
+	<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css" rel="stylesheet">
 	<script src="http://code.jquery.com/jquery-1.8.3.js"></script>
 	<script src="http://code.jquery.com/ui/1.10.0/jquery-ui.js"></script>
 	<script src="http://malsup.github.com/jquery.blockUI.js"></script>
 	<script src="TTS.js"></script>
 </head>
 <body>
+	<header>
+		<h1><i class="icon-table"></i> Timetable Selector</h1>
+	</header>
 	<div id="content">
-		<div id="horariotable" class="table">
-			<div class="tablerow">
-				<div class="tableheader">Horas</div>
-				<div class="tableheader">Segunda</div>
-				<div class="tableheader">Terça</div>
-				<div class="tableheader">Quarta</div>
-				<div class="tableheader">Quinta</div>
-				<div class="tableheader">Sexta</div>
-				<div class="tableheader">Sábado</div>
-			</div>
-			<div class="tablerow">
-				<div class="tableheader">8:00 - 8:30</div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-			</div>
-			<div class="tablerow">
-				<div class="tableheader">8:30 - 9:00</div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-			</div>
-			<div class="tablerow">
-				<div class="tableheader">9:00 - 9:30</div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-			</div>
-			<div class="tablerow">
-				<div class="tableheader">9:30 - 10:00</div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-			</div>
-			<div class="tablerow">
-				<div class="tableheader">10:00 - 10:30</div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-			</div>
-			<div class="tablerow">
-				<div class="tableheader">10:30 - 11:00</div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-			</div>
-			<div class="tablerow">
-				<div class="tableheader">11:00 - 11:30</div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-			</div>
-			<div class="tablerow">
-				<div class="tableheader">11:30 - 12:00</div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-			</div>
-			<div class="tablerow">
-				<div class="tableheader">12:00 - 12:30</div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-			</div>
-			<div class="tablerow">
-				<div class="tableheader">12:30 - 13:00</div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-			</div>
-			<div class="tablerow">
-				<div class="tableheader">13:00 - 13:30</div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-			</div>
-			<div class="tablerow">
-				<div class="tableheader">13:30 - 14:00</div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-			</div>
-			<div class="tablerow">
-				<div class="tableheader">14:00 - 14:30</div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-			</div>
-			<div class="tablerow">
-				<div class="tableheader">14:30 - 15:00</div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-			</div>
-			<div class="tablerow">
-				<div class="tableheader">15:00 - 15:30</div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-			</div>
-			<div class="tablerow">
-				<div class="tableheader">15:30 - 16:00</div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-			</div>
-			<div class="tablerow">
-				<div class="tableheader">16:00 - 16:30</div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-			</div>
-			<div class="tablerow">
-				<div class="tableheader">16:30 - 17:00</div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-			</div>
-			<div class="tablerow">
-				<div class="tableheader">17:00 - 17:30</div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-			</div>
-			<div class="tablerow">
-				<div class="tableheader">17:30 - 18:00</div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-			</div>
-			<div class="tablerow">
-				<div class="tableheader">18:00 - 18:30</div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-			</div>
-			<div class="tablerow">
-				<div class="tableheader">18:30 - 19:00</div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-			</div>
-			<div class="tablerow">
-				<div class="tableheader">19:00 - 19:30</div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-			</div>
-			<div class="tablerow">
-				<div class="tableheader">19:30 - 20:00</div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-			</div>
-			<div class="tablerow">
-				<div class="tableheader">20:00 - 20:30</div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-				<div class="tablecell"></div>
-			</div>
-		</div>
-		<div id="footer">
-			<span class="footerspan"><a href="https://github.com/NIFEUP/Timetable-Selector.git">Source Code</a></span>
-			<span class="footerspan">Bugs e feedback: github ou email ei09082 at fe.up.pt</span></p>
-		</div>
-		<div id="selectorsdiv" class="selector">
+		<table id="horario">
+		</table>
+		<div class="selector">
 			<input type="button" id="updatevagasbtn" value="Carregar vagas"/>
+			<div id="selectorsdiv">
+			</div>
 		</div>
 		<div id= "promptcurso" class="blockprompt" style="display: none;">
-			<p  id="promptcursoerror" class="error" style="display:none">Erro a carregar o horário, p.f. verifique os campos e tente outra vez.</p>
-			<p>Curso:
+			<p  id="promptcursoerror" class="error" style="display:none"><i class="icon-warning-sign"></i> Erro a carregar o horário, p.f. verifique os campos e tente outra vez.</p>
+			<p>
+			<label for="cursoselect">Curso:</label>
 			<select id="cursoselect">
 				  <option value="feup-MIEIC">FEUP-MIEIC</option>
 				  <option value="feup-MIEEC">FEUP-MIEEC</option>
@@ -270,8 +40,8 @@
 				  <option value="feup-MEMG">FEUP-MEMG</option>
 				  <option value="feup-CINF">FEUP-CINF</option>
 				  <option value="feup-CINF">FEUP-CINF</option>
-				  <option value="fcup-LAP">FCUP-LAP</option>
-			  
+
+				  <option value="fcup-LAP">FCUP-LAP</option>			  
 				  <option value="fcup-LAST">FCUP-LAST</option>
 				  <option value="fcup-LB">FCUP-LB</option>
 				  <option value="fcup-LBQ">FCUP-LBQ</option>
@@ -285,34 +55,26 @@
 				  <option value="fcup-MIERS">FCUP-MIERS</option>
 				  <option value="fcup-MIEF">FCUP-MIEF</option>
 			</select></p>
-			<p>Semestre:
+			<p>
+			<label for="anoselect">Ano Lectivo:</label>
+			<select id="anoselect">
+				  <option value="2012">2012/2013</option>
+				  <option value="2013">2013/2014</option>
+				  <option value="2014">2014/2015</option>
+				  <option value="2015">2015/2016</option>
+				  <option value="2016">2016/2017</option>
+				  <option value="2017">2017/2018</option>
+				  <option value="2018">2018/2019</option>
+				  <option value="2019">2019/2020</option>
+			</select>
+
+			<label for="semestreselect">Semestre:</label>
 			<select id="semestreselect">
 				  <option value="1">1</option>
 				  <option value="2">2</option>
-			</select></p>
-			<p>Ano lectivo:
-			<select id="anoselect">
-				  <option value="2012">2012</option>
-				  <option value="2013">2013</option>
-				  <option value="2014">2014</option>
-				  <option value="2015">2015</option>
-				  <option value="2016">2016</option>
-				  <option value="2017">2017</option>
-				  <option value="2018">2018</option>
-				  <option value="2019">2019</option>
-				  <option value="2020">2020</option>
-				  <option value="2021">2021</option>
-				  <option value="2022">2022</option>
-				  <option value="2023">2023</option>
-				  <option value="2024">2024</option>
-				  <option value="2025">2025</option>
-				  <option value="2026">2026</option>
-				  <option value="2027">2027</option>
-				  <option value="2028">2028</option>
-				  <option value="2029">2029</option>
-				  <option value="2030">2030</option>
-			</select></p>
-			<input type="button" id="cursook" value="Carregar Horarios"/>
+			</select>
+			</p>
+			<input type="button" id="cursook" value="Carregar Horarios">
 		</div>
 		<div id= "loading" class="blockprompt" style="display: none;">
 			<p>A extrair os horários, poderá demorar um minuto.</p>
@@ -324,5 +86,9 @@
 			<input type="button" id="cadeirasok" value="Selecionar Cadeiras"/>
 		</div>
 	</div>
+	<footer>
+		<i class="icon-github"></i> <a href="https://github.com/NIFEUP/Timetable-Selector.git">Source Code</a>
+		Bugs e feedback: github ou email ei09082 at fe.up.pt
+	</footer>
 </body>
 </html>

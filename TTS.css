@@ -1,77 +1,149 @@
+/* Esquema de cores
+	http://www.colourlovers.com/palette/2553835/little_more_brighter
+	#1B1C26
+	#823C3C
+	#D65C56
+	#EEB667
+	#F2ECB0
+	#F0F0F0
+	#FFFFFF
+*/
+
+/*geral*/
+body {
+	color:#1B1C26;
+	margin:0;
+	font-family:"Trebuchet MS",Helvetica,Arial,sans-serif;
+	background-color:#FFFFFF;
+}
+
+input[type="button"],select {
+	font-weight:bold;
+	background-color:#EEB667;
+	padding:0.5em;
+	border:none;
+}
+
+input[type="button"]:hover,select:hover {
+	background-color:#F2ECB0;
+}
+
+input[type="button"]:active {
+	background-color:#EEB667;
+	color:#FFFFFF;
+}
+
+div#content {
+	padding:1em;
+}
+
+::-webkit-scrollbar {
+    width: 6px;
+	height: 6px;
+}
+ 
+::-webkit-scrollbar-track {
+    width: 3px;
+	height: 3px;
+	background-color:#F0F0F0;
+}
+ 
+::-webkit-scrollbar-thumb {
+    width: 6px;
+	height: 6px;
+	background-color:#823C3C;
+}
+
+/*header*/
+h1 {
+	margin-top:0;
+	margin-bottom:0;
+}
+header {
+	padding-left:1em;
+	color:#FFFFFF;
+	background-color:#1B1C26;
+}
+
 /*seletor turmas*/
 div.selector{
-	position:absolute;
-	left: 800px;
-	top: 50px; 
+	vertical-align:top;
+	display:inline-block;
 }
 div.classselector{
-	width:360px;
-	border:1px black solid;
-	margin-bottom:15px;
-	padding:20px;
+	margin-bottom:0.1em;
+	padding:0.5em;
+	background-color:#823C3C;
+	color:#FFFFFF;
+	margin-top:0.5em;
 }
 select.turmaselect{
-	width:300px;
+	width:100%;
 	display:block;
 }
 
 /*footer*/
-span.footerspan
+footer
 {
-	margin-left:30px;
+	color:#FFFFFF;
+	background-color:#1B1C26;
+	padding:0.5em;
 }
-
-
+footer a {
+	color:#FFFFFF;
+	font-weight:bold;
+}
 
 /* horario*/
-div.table{
-	margin:20px;
-	width:700px;
-	height:600px;
-	font-size:14px;
+table#horario {
+	font-size:12px;
+	vertical-align:top;
+	display:inline-block;
+	max-width:70%;
+	border-spacing:0;
 }
-div.tablecell,div.tableheader{
-	border:1px black solid;
-	margin-right:-1px;
-	margin-bottom:-1px;
+table#horario td,table#horario th{
+	border:1px #FFFFFF solid;
 	text-align:center;
-	height:22px;
-	width:99px;
-	background-color:#FAFAFA;
-	float:left;
+	background-color:#F0F0F0;
+	padding:0.25em;
+	width:100px;
 }
-div.tableheader{
-	background-color:#C1C1C1;
+table#horario th{
+	background-color:#823C3C;
+	color:#FFFFFF;
 }
 
 div.teorica,div.pratica,div.teoricopratica,div.laboratorio,div.praticalaboratorial{
 	position:absolute;
-	width:89px;
-	border:2px black solid;
+	border:2px #1B1C26 solid;
 	opacity:0.7;
-	display:table;
 }
 div.teorica{
-	background-color:grey;
+	background-color:#F2ECB0;
 	z-index:2;
 }
-div.pratica{
-	background-color:#FCE3C1;
-	z-index:3;
-}
+
 div.teoricopratica{
-	background-color:#FFFAC9;
+	background-color:#EBB667;
 	z-index:3;
 }
+
+div.pratica{
+	background-color:#D65C56;
+	z-index:3;
+}
+
+div.praticalaboratorial{
+	background-color:#823C3C;
+	z-index:3;
+}
+
 div.laboratorio{
 	background-color:#D7E9C9;
 	z-index:3;
 }
 
-div.praticalaboratorial{
-	background-color:#C69C6D;
-	z-index:3;
-}
 div.mouseoveraula{
 	opacity:1;
 	z-index:4;
@@ -84,7 +156,8 @@ span.aula{
 	text-align:left;
 	width:40px;
 	padding-left:5px;
-	font-size:10px;
+	font-size:12px;
+	font-weight:bold;
 	opacity:1;
 }
 p.aula{
@@ -92,16 +165,19 @@ p.aula{
 }
 
 /* blocks*/
+
 div.blockprompt{
+	padding:0.5em;
 	z-index: 1011; 
 	position: fixed;
-	width:30%;
-	height:40%;
+	width:100%;
+	height:30%;
 	min-height:180px;
-	left:35%;
-	top:30%;
-	background-color:#FFFFFF;
-	border:10px #C76210 solid;
+	left:0;
+	right:0;
+	top:35%;
+	background-color:#823C3C;
+	color:#FFFFFF;
 	text-align:center;
 	overflow:auto;
 }
@@ -111,16 +187,14 @@ div#loading{
 }
 
 div#promptcadeiras{
-	width:60%;
-	left:20%;
 }
 div#listcadeiras{
 	width:100%;
 	height:70%;
 	margin-bottom:12px;
 	-moz-column-width:75px; /* Firefox */
--webkit-column-width:75px; /* Safari and Chrome */
-column-width:75px;
+	-webkit-column-width:75px; /* Safari and Chrome */
+	column-width:75px;
 }
 
 span.listcad{
@@ -135,5 +209,6 @@ span.listcad{
 p.error{
 	text-align:center;
 	font-size:18px;
-	color:red;
+	color:#FFFFFF;
+	font-weight:bold;
 }
