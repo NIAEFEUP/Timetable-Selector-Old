@@ -1,4 +1,4 @@
-var baseURL="/~ei09082/TTC/Alpha"; //versão para o ni: "/TTS"
+var baseURL="/TTS"; //versão para o ni: "/TTS"
 
 // Campos do horário
 var diasSemana=new Array("Segunda","Terça","Quarta","Quinta","Sexta","Sábado");
