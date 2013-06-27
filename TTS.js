@@ -1,4 +1,4 @@
-var baseURL="/timetableselector"; //versão para o ni: "/TTS"
+var baseURL="/~ei09082/TTC/Alpha"; //versão para o ni: "/TTS"
 
 // Campos do horário
 var diasSemana=new Array("Segunda","Terça","Quarta","Quinta","Sexta","Sábado");
@@ -198,7 +198,7 @@ function parse_horario(data){
 	cadeiras={};
 	$.each(data,function(cadeira,obj){
 		cadeiras[cadeira]=new Cadeira(cadeira,obj);
-		$('#listcadeiras').append('<span class="listcad"><input class="listcad" value="'+cadeira+'" type="checkbox"/><abbr title="'+obj.nome+'">'+cadeira+'</abbr></span>');
+		$('#listcadeiras').append('<span class="listcad"><label><input class="listcad" value="'+cadeira+'" type="checkbox"/><abbr title="'+obj.nome+'">'+cadeira+'</abbr></label></span>');
 		
 	});
 
