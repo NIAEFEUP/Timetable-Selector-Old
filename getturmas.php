@@ -167,6 +167,15 @@ Timetable Selector By NIFEUP
 	}
 	
 	//fechar a sessao
+	
+	
+	
+	$url= 'https://sigarra.up.pt/feup/pt/vld_validacao.sair';
+	$fieldstr = '';
+    curl_setopt($ch,CURLOPT_URL,$url);
+    curl_setopt($ch,CURLOPT_POST,5);
+    curl_setopt($ch,CURLOPT_POSTFIELDS,$fieldstr);
+    $logoutresult = curl_exec($ch);
     curl_close($ch);
 	$filename=$_POST['curso'].$_POST['anolectivo'].$_POST['periodo'].'.json';
 	file_put_contents($filename,json_encode($horarios));
