@@ -1,4 +1,4 @@
-var baseURL="/TTS"; //versão para o ni: "/TTS"
+var baseURL="/~ei09082/TTC/Alpha"; //versão para o ni: "/TTS"
 
 // Campos do horário
 var diasSemana=new Array("Segunda","Terça","Quarta","Quinta","Sexta","Sábado");
@@ -26,7 +26,7 @@ function Aula(jsonobj){
 	this.prof=jsonobj.prof;
 	this.profsig=jsonobj.profsig;
 	this.vagas="?";
-	
+	this.repetido=false;
 	this.txtdia=''+this.dia+'ª';
 	this.txthora=''+((this.horarow+this.horarow%2)/2+7)+':'+(((this.horarow-1)%2)*3)+'0';
 	if (this.tipo=="T") this.tipoh="teorica"; 
@@ -82,7 +82,18 @@ Cadeira.prototype.selectorhtml=function(){
 	str+='<option value="-">-----</option>';
 	for (var i=0;i<this.praticas.length;i++)
 	{
-		str+='<option value="'+this.praticas[i].turma+'">'+this.praticas[i].selecttext()+'</option>';
+		if (!this.praticas[i].repetido){
+			str+='<option value="'+this.praticas[i].turma+'">'+this.praticas[i].selecttext()
+			for (var j=i+1;j<this.praticas.length;j++)
+			{
+				if (this.praticas[j].turma==this.praticas[i].turma)
+				{
+					this.praticas[j].repetido=true;
+					str+=this.praticas[j].selecttextrepetida();
+				}
+			}
+			str+=' ('+this.praticas[i].vagas+')</option>';
+		}
 	}
 	if (this.praticas.length==0) str+='<option value="teoricas">só teoricas</option>'
 	str+='</select>';
@@ -120,7 +131,11 @@ Aula.prototype.horariohtml=function(){
 	return str;
 }
 Aula.prototype.selecttext=function(){
-	var str=this.turma+' - '+this.profsig+' '+this.txtdia+' '+this.txthora+' ('+this.vagas+')';
+	var str=this.turma+' - '+this.profsig+' '+this.txtdia+' '+this.txthora;
+	return str;
+}
+Aula.prototype.selecttextrepetida=function(){
+	var str=' + '+this.txtdia+' '+this.txthora;
 	return str;
 }
 

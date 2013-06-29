@@ -179,7 +179,7 @@ Timetable Selector By NIFEUP
     curl_close($ch);
 	$filename=$_POST['curso'].$_POST['anolectivo'].$_POST['periodo'].'.json';
 	file_put_contents($filename,json_encode($horarios));
-	chmod($filename,0664);
+	chmod($filename,0644);
 	echo json_encode($horarios);
 
 ?>
