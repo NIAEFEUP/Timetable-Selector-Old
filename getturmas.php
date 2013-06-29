@@ -43,6 +43,9 @@ Timetable Selector By NIFEUP
 		case 'fcup-LQ': $faculdade_codigo='fcup';$curso_id='865';break;
 		case 'fcup-MIERS': $faculdade_codigo='fcup';$curso_id='870';break;
 		case 'fcup-MIEF': $faculdade_codigo='fcup';$curso_id='890';break;
+
+		case 'fbaup-AP':$faculdade_codigo='fbaup';$curso_id='1315';break;
+		case 'fbaup-DC':$faculdade_codigo='fbaup';$curso_id='1314';break;
 		
 		default : echo 'Error curso';exit();
 	}
