@@ -9,59 +9,115 @@ Timetable Selector By NIFEUP
 //pv_periodos 2 ->1º semestre 3->2ºsemestre
 //pv_ano_lectivo 2012
 
-//username e password do sifeup
-	$username=$_POST['username'];
-	$password=$_POST['password'];
-	
-//tratar parametros da pagina
-	$anoletivo=$_POST['anolectivo'];
-	switch($_POST['curso'])
-	{
-		case 'feup-MIEIC': $faculdade_codigo='feup';$curso_id='742';break;
-		case 'feup-CINF': $faculdade_codigo='feup';$curso_id='454';break;
-		case 'feup-LCEEMG': $faculdade_codigo='feup';$curso_id='738';break;
-		case 'feup-MEMG': $faculdade_codigo='feup';$curso_id='739';break;
-		case 'feup-MIB': $faculdade_codigo='feup';$curso_id='728';break;
-		case 'feup-MIEC': $faculdade_codigo='feup';$curso_id='740';break;
-		case 'feup-MIEA': $faculdade_codigo='feup';$curso_id='726';break;
-		case 'feup-MIEEC': $faculdade_codigo='feup';$curso_id='741';break;
-		case 'feup-MIEIG': $faculdade_codigo='feup';$curso_id='725';break;
-		case 'feup-MIEM': $faculdade_codigo='feup';$curso_id='743';break;
-		case 'feup-MIEMM': $faculdade_codigo='feup';$curso_id='744';break;
-		case 'feup-MIEQ': $faculdade_codigo='feup';$curso_id='745';break;
-		
-		case 'fcup-LAP': $faculdade_codigo='fcup';$curso_id='1011';break;
-		case 'fcup-LAST': $faculdade_codigo='fcup';$curso_id='956';break;
-		case 'fcup-LB': $faculdade_codigo='fcup';$curso_id='884';break;
-		case 'fcup-LBQ': $faculdade_codigo='fcup';$curso_id='863';break;
-		case 'fcup-LCC': $faculdade_codigo='fcup';$curso_id='885';break;
-		case 'fcup-LCE': $faculdade_codigo='fcup';$curso_id='886';break;
-		case 'fcup-LCTA': $faculdade_codigo='fcup';$curso_id='887';break;
-		case 'fcup-LF': $faculdade_codigo='fcup';$curso_id='888';break;
-		case 'fcup-LG': $faculdade_codigo='fcup';$curso_id='889';break;
-		case 'fcup-LM': $faculdade_codigo='fcup';$curso_id='864';break;
-		case 'fcup-LQ': $faculdade_codigo='fcup';$curso_id='865';break;
-		case 'fcup-MIERS': $faculdade_codigo='fcup';$curso_id='870';break;
-		case 'fcup-MIEF': $faculdade_codigo='fcup';$curso_id='890';break;
+// variaveis
+$anolectivo='2012';			// Ano lectivo
+$faculdade_codigo='feup';	// Codigo da Faculdade
+$curso_id='742';			// Id do curso
+$periodo_id='2';			// Id do semestre (2->1º semestre 3->2ºsemestre)
+$force_update=FALSE;		// Forcar actualizacoes da cache
+$username='';				// Username do sigarra
+$password='';				// Password do sigarra
+$filename='default.json';	// Ficheiro da cache
 
-		case 'fbaup-AP':$faculdade_codigo='fbaup';$curso_id='1315';break;
-		case 'fbaup-DC':$faculdade_codigo='fbaup';$curso_id='1314';break;
-		
-		default : echo 'Error curso';exit();
+
+if (parsePOST()) {
+	$file_contents=file_get_contents($filename);
+	if ($file_contents===FALSE || $force_update) { // Ficheiro nao existe ou update forcado
+		queryFEUP($username,$password,$faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$filename);
 	}
-	switch($_POST['periodo'])
-	{
-		case '1': $periodo_id='2';break;
-		case '2': $periodo_id='3';break;
-		default : echo 'Error semestre';exit();
+	else {
+		echo $file_contents;
+	}
+}
+
+//Parsing e verificação dos argumentos
+// TODO Sistema de erros mais verboso
+// TODO Sistema mais puro (sem variaveis globais)
+function parsePOST() {
+
+	global 	$anolectivo,
+			$faculdade_codigo,
+			$curso_id,
+			$periodo_id,
+			$force_update,
+			$username,
+			$password,
+			$filename;
+
+	if (isset($_POST['force_update'])) {
+		$force_update=($_POST['force_update']=='true'?TRUE:FALSE);
 	}
 	
+	if (isset($_POST['username']) && isset($_POST['password'])) {
+		$username=$_POST['username'];
+		$password=$_POST['password'];
+	}
+	else if ($force_update) {
+		return FALSE; // Erro: Necessita do username e password
+	}
+
+	if (isset($_POST['anolectivo'])) {
+		$anolectivo=$_POST['anolectivo'];
+	}
+	else {
+		return FALSE; // Erro: Necessita do ano lectivo
+	}
+
+	if (isset($_POST['periodo'])) {
+		switch($_POST['periodo'])
+		{
+			case '1': $periodo_id='2';break;
+			case '2': $periodo_id='3';break;
+			default : return FALSE; // Erro: periodo desconhecido
+		}
+	}
+	else {
+		return FALSE; // Erro: Necessita do periodo
+	}
+
+	if (isset($_POST['curso'])) {
+		switch($_POST['curso'])
+		{
+			case 'feup-MIEIC': $faculdade_codigo='feup';$curso_id='742';break;
+			case 'feup-CINF': $faculdade_codigo='feup';$curso_id='454';break;
+			case 'feup-LCEEMG': $faculdade_codigo='feup';$curso_id='738';break;
+			case 'feup-MEMG': $faculdade_codigo='feup';$curso_id='739';break;
+			case 'feup-MIB': $faculdade_codigo='feup';$curso_id='728';break;
+			case 'feup-MIEC': $faculdade_codigo='feup';$curso_id='740';break;
+			case 'feup-MIEA': $faculdade_codigo='feup';$curso_id='726';break;
+			case 'feup-MIEEC': $faculdade_codigo='feup';$curso_id='741';break;
+			case 'feup-MIEIG': $faculdade_codigo='feup';$curso_id='725';break;
+			case 'feup-MIEM': $faculdade_codigo='feup';$curso_id='743';break;
+			case 'feup-MIEMM': $faculdade_codigo='feup';$curso_id='744';break;
+			case 'feup-MIEQ': $faculdade_codigo='feup';$curso_id='745';break;
 	
+			case 'fcup-LAP': $faculdade_codigo='fcup';$curso_id='1011';break;
+			case 'fcup-LAST': $faculdade_codigo='fcup';$curso_id='956';break;
+			case 'fcup-LB': $faculdade_codigo='fcup';$curso_id='884';break;
+			case 'fcup-LBQ': $faculdade_codigo='fcup';$curso_id='863';break;
+			case 'fcup-LCC': $faculdade_codigo='fcup';$curso_id='885';break;
+			case 'fcup-LCE': $faculdade_codigo='fcup';$curso_id='886';break;
+			case 'fcup-LCTA': $faculdade_codigo='fcup';$curso_id='887';break;
+			case 'fcup-LF': $faculdade_codigo='fcup';$curso_id='888';break;
+			case 'fcup-LG': $faculdade_codigo='fcup';$curso_id='889';break;
+			case 'fcup-LM': $faculdade_codigo='fcup';$curso_id='864';break;
+			case 'fcup-LQ': $faculdade_codigo='fcup';$curso_id='865';break;
+			case 'fcup-MIERS': $faculdade_codigo='fcup';$curso_id='870';break;
+			case 'fcup-MIEF': $faculdade_codigo='fcup';$curso_id='890';break;
+
+			case 'fbaup-AP':$faculdade_codigo='fbaup';$curso_id='1315';break;
+			case 'fbaup-DC':$faculdade_codigo='fbaup';$curso_id='1314';break;
+	
+			default : return FALSE; // Erro: Curso desconhecido
+		}
+	}
+
+	$filename=$_POST['curso'].$_POST['anolectivo'].$_POST['periodo'].'.json';
+	return TRUE;
+}
+
 //Query FEUP
-	
-	
-	
-	
+function queryFEUP($username,$password,$faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$filename) {
 	//Iniciar Sessao dos posts
     $ch = curl_init();
 	curl_setopt($ch,CURLOPT_RETURNTRANSFER, true); 
@@ -77,7 +133,7 @@ Timetable Selector By NIFEUP
 	
 	//POST para sacar as turmas
 	$url= 'https://sigarra.up.pt/'.$faculdade_codigo.'/pt/hor_geral.lista_turmas_curso';
-	$fieldstr = 'pv_curso_id='.$curso_id.'&pv_periodos='.$periodo_id.'&pv_ano_lectivo='.$anoletivo;
+	$fieldstr = 'pv_curso_id='.$curso_id.'&pv_periodos='.$periodo_id.'&pv_ano_lectivo='.$anolectivo;
     curl_setopt($ch,CURLOPT_URL,$url);
     curl_setopt($ch,CURLOPT_POST,3);
     curl_setopt($ch,CURLOPT_POSTFIELDS,$fieldstr);
@@ -90,7 +146,6 @@ Timetable Selector By NIFEUP
 	$xp = new DOMXpath($dom);
 	$nodes = $xp->query('//a[@class="t"]');
 	
-	
 	for ($i=0;$i<$nodes->length;$i++)
 	{
 		$turma_nome=$nodes->item($i)->nodeValue;
@@ -101,7 +156,7 @@ Timetable Selector By NIFEUP
 		
 		//POST para sacar o horario
 		$url= 'https://sigarra.up.pt/'.$faculdade_codigo.'/pt/hor_geral.turmas_view';
-		$fieldstr = 'pv_turma_id='.$turma_id.'&pv_periodos='.$periodo_id.'&pv_ano_lectivo='.$anoletivo; 
+		$fieldstr = 'pv_turma_id='.$turma_id.'&pv_periodos='.$periodo_id.'&pv_ano_lectivo='.$anolectivo; 
 		curl_setopt($ch,CURLOPT_URL,$url);
 		curl_setopt($ch,CURLOPT_POST,3);
 		curl_setopt($ch,CURLOPT_POSTFIELDS,$fieldstr);
@@ -170,9 +225,6 @@ Timetable Selector By NIFEUP
 	}
 	
 	//fechar a sessao
-	
-	
-	
 	$url= 'https://sigarra.up.pt/feup/pt/vld_validacao.sair';
 	$fieldstr = '';
     curl_setopt($ch,CURLOPT_URL,$url);
@@ -180,9 +232,9 @@ Timetable Selector By NIFEUP
     curl_setopt($ch,CURLOPT_POSTFIELDS,$fieldstr);
     $logoutresult = curl_exec($ch);
     curl_close($ch);
-	$filename=$_POST['curso'].$_POST['anolectivo'].$_POST['periodo'].'.json';
 	file_put_contents($filename,json_encode($horarios));
 	chmod($filename,0644);
 	echo json_encode($horarios);
+}
 
 ?>

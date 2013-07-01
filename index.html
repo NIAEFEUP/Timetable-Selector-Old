@@ -25,6 +25,10 @@
 		<div id= "promptcurso" class="blockprompt" style="display: none;">
 			<p  id="promptcursoerror" class="error" style="display:none"><i class="icon-warning-sign"></i> Erro a carregar o horário, p.f. verifique os campos e tente outra vez.</p>
 			<p>
+			<label for="username">Username:</label><input type="text" id="username"/>
+			<label for="password">Password:</label><input type="password" id="password"/>
+			</p>
+			<p>
 			<label for="cursoselect">Curso:</label>
 			<select id="cursoselect">
 				  <option value="feup-MIEIC">FEUP-MIEIC</option>
@@ -82,7 +86,7 @@
 		</div>
 		<div id= "loading" class="blockprompt" style="display: none;">
 			<p>A extrair os horários, poderá demorar um minuto.</p>
-			<img src='ajax-loader.gif'>
+			<i class="icon-spinner icon-spin icon-4x"></i>
 		</div>
 		<div id= "promptcadeiras" class="blockprompt" style="display: none;">
 			<div id="listcadeiras">
