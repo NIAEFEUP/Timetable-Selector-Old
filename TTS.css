@@ -204,7 +204,7 @@ div#listcadeiras{
 }
 
 div.listcadano{
-	height:200px;
+	height:200px;	
 	float:center;
     text-align: left;
 }
@@ -214,7 +214,7 @@ p.listcadanop{
 li.listcad{
     width: 85px;
     text-align: left;
-	display:inline;
+	display:inline-block;
 }
 
 
