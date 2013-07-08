@@ -44,6 +44,20 @@ Timetable Selector By NIFEUP
 		case 'fcup-MIERS': $faculdade_codigo='fcup';$curso_id='870';break;
 		case 'fcup-MIEF': $faculdade_codigo='fcup';$curso_id='890';break;
 
+		case 'flup-ARQU': $faculdade_codigo='flup';$curso_id='339';break;
+		case 'flup-CINF': $faculdade_codigo='flup';$curso_id='454';break;
+		case 'flup-CC': $faculdade_codigo='flup';$curso_id='455';break;
+		case 'flup-CL': $faculdade_codigo='flup';$curso_id='460';break;
+		case 'flup-EPL': $faculdade_codigo='flup';$curso_id='459';break;
+		case 'flup-FILO': $faculdade_codigo='flup';$curso_id='340';break;
+		case 'flup-GEOGR': $faculdade_codigo='flup';$curso_id='341';break;
+		case 'flup-HISTO': $faculdade_codigo='flup';$curso_id='342';break;
+		case 'flup-HART': $faculdade_codigo='flup';$curso_id='453';break;
+		case 'flup-LA': $faculdade_codigo='flup';$curso_id='456';break;
+		case 'flup-LRI': $faculdade_codigo='flup';$curso_id='458';break;
+		case 'flup-LLC': $faculdade_codigo='flup';$curso_id='457';break;
+		case 'flup-SOCI': $faculdade_codigo='flup';$curso_id='452';break;
+		
 		case 'fbaup-AP':$faculdade_codigo='fbaup';$curso_id='1315';break;
 		case 'fbaup-DC':$faculdade_codigo='fbaup';$curso_id='1314';break;
 		
@@ -133,7 +147,7 @@ Timetable Selector By NIFEUP
 				//scrap do td
 				$nodetd=$nodescol->item($col);
 				$tipo=$nodetd->attributes->getNamedItem('class')->nodeValue;
-				if ($tipo=='TP'||$tipo=='T'||$tipo=='P'||$tipo=='L'||$tipo=='PL')
+				if ($tipo=='TP'||$tipo=='T'||$tipo=='P'||$tipo=='L'||$tipo=='PL'||$tipo=='OT')
 				{	//se for uma aula
 					//contar o rowspan/duracao da aula
 					$aduracao=$nodetd->attributes->getNamedItem('rowspan')->nodeValue;

@@ -34,7 +34,7 @@ function Aula(jsonobj){
 	if (this.tipo=="L") this.tipoh="laboratorio";
 	if (this.tipo=="P") this.tipoh="pratica";
 	if (this.tipo=="PL") this.tipoh="praticalaboratorial";
-	
+	if (this.tipo=="OT") this.tipoh="orientacaotutorial";
 	
 	/*this.stleft=100*this.dia-68;
 	this.sttop=23+23*this.horarow;
@@ -71,6 +71,9 @@ function Cadeira(sigla,jsonobj){
 	if (typeof jsonobj.PL!="undefined"){
 	for (var i=0;i<jsonobj.PL.length;i++)
 		this.praticas.push(new Aula(jsonobj.PL[i]));}
+		if (typeof jsonobj.PL!="undefined"){
+	for (var i=0;i<jsonobj.OT.length;i++)
+		this.praticas.push(new Aula(jsonobj.OT[i]));}
 	
 }
 Cadeira.prototype.selectorhtml=function(){
