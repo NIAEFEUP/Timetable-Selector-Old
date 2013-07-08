@@ -165,22 +165,23 @@ $(document).ready(function(){
 			$('#promptcursoerror').show();
 			$.blockUI({message:$('#promptcurso')});
 		});*/
-		$.post("getturmas.php",
-			"curso="+curso+
-			"&anolectivo="+ano_lectivo+
-			"&periodo="+periodo+
-			"&username="+username+
-			"&password="+password,
+		$.post("getturmas.php",{curso:curso,anolectivo:ano_lectivo,periodo:periodo,username:username,password:password},
+			
 			function(data){
-				console.log(data);
-				data = JSON.parse(data);
-				parse_horario(data);
-				$.blockUI({message:$('#promptcadeiras')});
-			}).error(
-			function(){
-				$('#promptcursoerror').show();
-				$.blockUI({message:$('#promptcurso')
-			});
+				//console.log(data);
+				if (data=="null")
+				{
+					$('#promptcursoerror').show();
+					$.blockUI({message:$('#promptcurso')});
+				}else{
+					data = JSON.parse(data);
+					parse_horario(data);
+					$.blockUI({message:$('#promptcadeiras')});
+				}
+		}).error(
+		function(){
+			$('#promptcursoerror').show();
+			$.blockUI({message:$('#promptcurso')});
 		});
 	});
 	
@@ -231,10 +232,14 @@ $(document).ready(function(){
 //fazer parse do json, colocar as cadeiras no vector
 function parse_horario(data){
 	cadeiras={};
-	$.each(data,function(cadeira,obj){
-		cadeiras[cadeira]=new Cadeira(cadeira,obj);
-		$('#listcadeiras').append('<span class="listcad"><label><input class="listcad" value="'+cadeira+'" type="checkbox"/><abbr title="'+obj.nome+'">'+cadeira+'</abbr></label></span>');
-		
+	$.each(data,function(ano,data2){
+	$('#listcadeiras').append('<div class="listcadano"><p class="listcadanop">'+ano+'</p><ul  id="listcadeiras'+ano.replace(" ","_")+'"></ul></div>');
+		$.each(data2,function(cadeira,obj){
+			
+			cadeiras[cadeira]=new Cadeira(cadeira,obj);
+			$('#listcadeiras'+ano.replace(" ","_")).append('<li class="listcad"><label><input class="listcad" value="'+cadeira+'" type="checkbox"/><abbr title="'+obj.nome+'">'+cadeira+'</abbr></label></li>');
+			
+		});
 	});
 
 }
