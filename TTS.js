@@ -1,5 +1,3 @@
-var baseURL="/~ei09082/TTC/Alpha"; //versão para o ni: "/TTS"
-
 // Campos do horário
 var diasSemana=new Array("Segunda","Terça","Quarta","Quinta","Sexta","Sábado");
 var diasSemanaMin=new Array("seg","ter","qua","qui","sex","sab");
@@ -158,12 +156,31 @@ $(document).ready(function(){
 		curso=$('#cursoselect option:selected').val();
 		var ano_lectivo=$('#anoselect option:selected').val();
 		var periodo=$('#semestreselect option:selected').val();
-		$.getJSON(baseURL+"/"+curso+ano_lectivo+periodo+".json",function(data){
+		var username=$('#username').val();
+		var password=$('#password').val();
+		/*$.getJSON(baseURL+"/"+curso+ano_lectivo+periodo+".json",function(data){
 			parse_horario(data);
 			$.blockUI({message:$('#promptcadeiras')});
 		}).error(function(){
 			$('#promptcursoerror').show();
 			$.blockUI({message:$('#promptcurso')});
+		});*/
+		$.post("getturmas.php",
+			"curso="+curso+
+			"&anolectivo="+ano_lectivo+
+			"&periodo="+periodo+
+			"&username="+username+
+			"&password="+password,
+			function(data){
+				console.log(data);
+				data = JSON.parse(data);
+				parse_horario(data);
+				$.blockUI({message:$('#promptcadeiras')});
+			}).error(
+			function(){
+				$('#promptcursoerror').show();
+				$.blockUI({message:$('#promptcurso')
+			});
 		});
 	});
 	
@@ -190,7 +207,7 @@ $(document).ready(function(){
 	});
 	
 	$('#updatevagasbtn').click(function(){
-		$.getJSON(baseURL+"/getvagas.php",{curso:curso},function(data){
+		$.getJSON("getvagas.php",{curso:curso},function(data){
 			$.each(data,function(cadeira,obj){
 				var i="";
 				for (var key in cadeiras) if (cadeiras[key].nomec==cadeira) {i=key;break;}
