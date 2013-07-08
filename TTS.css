@@ -176,7 +176,6 @@ div.blockprompt{
 	padding:0.5em;
 	z-index: 1011; 
 	position: fixed;
-	width:100%;
 	min-height:210px;
 	left:0;
 	right:0;
@@ -195,26 +194,36 @@ div#promptcadeiras{
 }
 
 div#listcadeiras{
-	width:90%;
-	min-height:200px;
-	margin-bottom:12px;
-	-moz-column-width:120px; 
-	-webkit-column-width:120px; 
-	column-width:120px;
 }
 
 div.listcadano{
-	height:200px;	
+	height:250px;	
 	float:center;
     text-align: left;
+	display:inline-block;
+	vertical-align:top;
+	max-width:14%;
+	padding-left:1%;
+	padding-right:1%;
+	width:250px;
 }
+
+div.listcadano ul{
+	padding:0px;
+	-moz-columns:2;
+	-webkit-columns:2;
+	-ie-columns:2;
+	columns:2;
+}
+
 p.listcadanop{
 	text-align:center;
 }
 li.listcad{
     width: 85px;
     text-align: left;
-	display:inline-block;
+
+	list-style-type:none;
 }
 
 

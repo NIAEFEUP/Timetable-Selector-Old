@@ -69,7 +69,7 @@ function Cadeira(sigla,jsonobj){
 	if (typeof jsonobj.PL!="undefined"){
 	for (var i=0;i<jsonobj.PL.length;i++)
 		this.praticas.push(new Aula(jsonobj.PL[i]));}
-		if (typeof jsonobj.PL!="undefined"){
+	if (typeof jsonobj.OT!="undefined"){
 	for (var i=0;i<jsonobj.OT.length;i++)
 		this.praticas.push(new Aula(jsonobj.OT[i]));}
 	
