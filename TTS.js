@@ -244,7 +244,6 @@ function parse_horario(data){
 		});
 		nrcol= Math.round(nrcad/8);
 		divwidth=85*nrcol;
-		alert(nrcol);
 		$('#divlistcadeiras'+ano.replace(" ","_")).css({
 			minWidth : divwidth+"px"
 		});	
