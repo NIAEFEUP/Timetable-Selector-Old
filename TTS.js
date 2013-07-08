@@ -233,13 +233,27 @@ $(document).ready(function(){
 function parse_horario(data){
 	cadeiras={};
 	$.each(data,function(ano,data2){
-	$('#listcadeiras').append('<div class="listcadano"><p class="listcadanop">'+ano+'</p><ul  id="listcadeiras'+ano.replace(" ","_")+'"></ul></div>');
+		$('#listcadeiras').append('<div class="listcadano" id="divlistcadeiras'+ano.replace(" ","_")+'"><p class="listcadanop">'+ano+'</p><ul  id="listcadeiras'+ano.replace(" ","_")+'"></ul></div>');
+		nrcad=3;
+		
 		$.each(data2,function(cadeira,obj){
 			
 			cadeiras[cadeira]=new Cadeira(cadeira,obj);
 			$('#listcadeiras'+ano.replace(" ","_")).append('<li class="listcad"><label><input class="listcad" value="'+cadeira+'" type="checkbox"/><abbr title="'+obj.nome+'">'+cadeira+'</abbr></label></li>');
-			
+			nrcad++;
 		});
+		nrcol= Math.round(nrcad/8);
+		divwidth=85*nrcol;
+		alert(nrcol);
+		$('#divlistcadeiras'+ano.replace(" ","_")).css({
+			minWidth : divwidth+"px"
+		});	
+		$('#listcadeiras'+ano.replace(" ","_")).css({
+			padding:"0px",
+			mozColumns:nrcol+" 75px",
+			webkitColumns:nrcol+" 75px",
+			columns:nrcol+" 75px"
+		});	
 	});
 
 }

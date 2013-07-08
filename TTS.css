@@ -194,26 +194,27 @@ div#promptcadeiras{
 }
 
 div#listcadeiras{
+	overflow:auto;
+	max-height:300px;
 }
 
 div.listcadano{
-	height:250px;	
+	/*height:250px;	*/
 	float:center;
     text-align: left;
 	display:inline-block;
 	vertical-align:top;
-	max-width:14%;
+	/*max-width:14%;*/
 	padding-left:1%;
 	padding-right:1%;
-	width:250px;
+	/*width:250px;*/
 }
 
 div.listcadano ul{
 	padding:0px;
-	-moz-columns:2;
-	-webkit-columns:2;
-	-ie-columns:2;
-	columns:2;
+	-moz-columns:2 85px;
+	-webkit-columns:2 85px;
+	columns:2 85px;
 }
 
 p.listcadanop{
@@ -222,7 +223,6 @@ p.listcadanop{
 li.listcad{
     width: 85px;
     text-align: left;
-
 	list-style-type:none;
 }
 
