@@ -78,7 +78,8 @@ div.selector{
 }
 div.classselector{
 	margin-bottom:0.1em;
-	padding:0.5em;
+	border:4px #823C3C solid;
+	padding:4px;
 	background-color:#823C3C;
 	color:#FFFFFF;
 	margin-top:0.5em;
@@ -87,6 +88,11 @@ select.turmaselect{
 	width:100%;
 	display:block;
 }
+
+div.selectoroverlap{
+	border:4px red solid;
+}
+
 
 /*footer*/
 footer
@@ -120,6 +126,7 @@ table#horario th{
 	color:#FFFFFF;
 }
 
+/* aulas */
 div.teorica,div.pratica,div.teoricopratica,div.laboratorio,div.praticalaboratorial{
 	position:absolute;
 	border:2px #1B1C26 solid;
@@ -149,6 +156,10 @@ div.praticalaboratorial{
 div.laboratorio{
 	background-color:#D7E9C9;
 	z-index:3;
+}
+
+div.aulaoverlap{
+	border:2px red solid;
 }
 
 div.mouseoveraula{
