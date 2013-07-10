@@ -12,7 +12,7 @@ var horasMin=new Array(
 	"16","16-5","17","17-5","18","18-5","19","19-5","20","20-5");
 
 function Aula(jsonobj){
-	this.dia=Number(jsonobj.dia)+1;
+	this.dia=Number(jsonobj.dia);
 	this.horarow=(Number(jsonobj.hora)-8)*2+1;
 	this.cadeira=jsonobj.sigla;
 	this.cadeiran=jsonobj.nome;
@@ -25,7 +25,7 @@ function Aula(jsonobj){
 	this.profsig=jsonobj.profsig;
 	this.vagas="?";
 	this.repetido=false;
-	this.txtdia=''+this.dia+'ª';
+	this.txtdia=''+(this.dia+1)+'ª';
 	this.txthora=''+((this.horarow+this.horarow%2)/2+7)+':'+(((this.horarow-1)%2)*3)+'0';
 	if (this.tipo=="T") this.tipoh="teorica"; 
 	if (this.tipo=="TP") this.tipoh="teoricopratica";
@@ -76,7 +76,7 @@ function Cadeira(sigla,jsonobj){
 }
 Cadeira.prototype.selectorhtml=function(){
 	var str='';
-	str+='<div class=classselector>';
+	str+='<div class="classselector" data-cadeira="'+this.nome+'">';
 	//str+='<p>'+this.nomec+' ('+this.nome+')'+'</p>';
 	str+=this.nomec+' ('+this.nome+')';
 	str+='<select class="turmaselect" data-cadeira="'+this.nome+'">';
@@ -104,6 +104,7 @@ Cadeira.prototype.selectorhtml=function(){
 }
 Cadeira.prototype.showTurma=function(){
 	$('.aula[data-cadeira="'+this.nome+'"]').remove();
+	
 	var turmaselect=this.turmaselect;
 	if(turmaselect!="-"){
 		if(this.showteoricas)
@@ -142,6 +143,7 @@ Aula.prototype.selecttextrepetida=function(){
 
 var curso;
 var cadeiras;
+var aulas;
 
 $(document).ready(function(){
 	generateTimetable();
@@ -232,6 +234,7 @@ $(document).ready(function(){
 //fazer parse do json, colocar as cadeiras no vector
 function parse_horario(data){
 	cadeiras={};
+	aulas={};
 	$.each(data,function(ano,data2){
 		$('#listcadeiras').append('<div class="listcadano" id="divlistcadeiras'+ano.replace(" ","_")+'"><p class="listcadanop">'+ano+'</p><ul  id="listcadeiras'+ano.replace(" ","_")+'"></ul></div>');
 		nrcad=3;
@@ -261,6 +264,7 @@ function addCadeiras(){
 	$('input.listcad:checked').each(function(index,element){
 		$('#selectorsdiv').append(cadeiras[$(element).val()].selectorhtml());
 	});
+	
 }
 
 // Cria a tabela o horário

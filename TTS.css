@@ -124,6 +124,7 @@ div.teorica,div.pratica,div.teoricopratica,div.laboratorio,div.praticalaboratori
 	position:absolute;
 	border:2px #1B1C26 solid;
 	opacity:0.7;
+	overflow:hidden;
 }
 div.teorica{
 	background-color:#F2ECB0;
@@ -136,12 +137,12 @@ div.teoricopratica{
 }
 
 div.pratica{
-	background-color:#D65C56;
+	background-color:#FA5A52;
 	z-index:3;
 }
 
 div.praticalaboratorial{
-	background-color:#823C3C;
+	background-color:#BA6A45;
 	z-index:3;
 }
 
@@ -155,19 +156,21 @@ div.mouseoveraula{
 	z-index:4;
 }
 div.aulawrapper{
-	display:table-cell;
-	vertical-align:middle;
+display:table;
 }
+
 span.aula{
-	text-align:left;
-	width:40px;
-	padding-left:5px;
-	font-size:12px;
+	text-align:center;
+	padding:3px;
+	font-size:10px;
 	font-weight:bold;
-	opacity:1;
+	display:table-cell;
+	max-width:50px;
+	width:50px;
 }
 p.aula{
 	margin:2px;
+	display:table-row;
 }
 
 /* blocks*/
