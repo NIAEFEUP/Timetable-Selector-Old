@@ -32,12 +32,14 @@ function Aula(jsonobj){
 	this.profsig=jsonobj.profsig;
 	this.vagas="?";
 	this.id=aulaid;
-	aulas[aulaid]=false;
-	aulaid++;
 	this.repetido=false;
 	this.txtdia=''+(this.dia+1)+'ª';
 	this.txthora=''+((this.horarow+this.horarow%2)/2+7)+':'+(((this.horarow-1)%2)*3)+'0';
 	if (this.tipo=="T") this.tipoh="teorica"; 
+	else {
+		aulas[aulaid]=false;
+		aulaid++;
+	}
 	if (this.tipo=="TP") this.tipoh="teoricopratica";
 	if (this.tipo=="L") this.tipoh="laboratorio";
 	if (this.tipo=="P") this.tipoh="pratica";
@@ -52,8 +54,8 @@ function Aula(jsonobj){
 	var bloco=$("#horario"+diaString+horaString);
 	this.stleft=bloco.offset().left-1;
 	this.sttop=bloco.offset().top-1;
-	this.stwidth=bloco.outerWidth()-1;
-	this.stheight=bloco.outerHeight()*this.duracao-1;
+	this.stwidth=bloco.outerWidth()-2;
+	this.stheight=bloco.outerHeight()*this.duracao-2;
 	
 }
 
@@ -64,27 +66,30 @@ function Cadeira(sigla,jsonobj){
 	this.nome=sigla;
 	this.nomec=jsonobj.nome;
 	this.turmaselect="-";
-	if (typeof jsonobj.T!="undefined"){
-	for (var i=0;i<jsonobj.T.length;i++)
-		this.teoricas.push(new Aula(jsonobj.T[i]));}
-	if (typeof jsonobj.P!="undefined"){
-	for (var i=0;i<jsonobj.P.length;i++)
-		this.praticas.push(new Aula(jsonobj.P[i]));}
-	if (typeof jsonobj.TP!="undefined"){
-	for (var i=0;i<jsonobj.TP.length;i++)
-		this.praticas.push(new Aula(jsonobj.TP[i]));}
-	if (typeof jsonobj.L!="undefined"){
-	for (var i=0;i<jsonobj.L.length;i++)
-		this.praticas.push(new Aula(jsonobj.L[i]));}
-	if (typeof jsonobj.PL!="undefined"){
-	for (var i=0;i<jsonobj.PL.length;i++)
-		this.praticas.push(new Aula(jsonobj.PL[i]));}
-	if (typeof jsonobj.OT!="undefined"){
-	for (var i=0;i<jsonobj.OT.length;i++)
-		this.praticas.push(new Aula(jsonobj.OT[i]));}
-	
+	this.data=jsonobj;
+}
+Cadeira.prototype.addTurmas=function(){
+	if (typeof this.data.T!="undefined"){
+	for (var i=0;i<this.data.T.length;i++)
+		this.teoricas.push(new Aula(this.data.T[i]));}
+	if (typeof this.data.P!="undefined"){
+	for (var i=0;i<this.data.P.length;i++)
+		this.praticas.push(new Aula(this.data.P[i]));}
+	if (typeof this.data.TP!="undefined"){
+	for (var i=0;i<this.data.TP.length;i++)
+		this.praticas.push(new Aula(this.data.TP[i]));}
+	if (typeof this.data.L!="undefined"){
+	for (var i=0;i<this.data.L.length;i++)
+		this.praticas.push(new Aula(this.data.L[i]));}
+	if (typeof this.data.PL!="undefined"){
+	for (var i=0;i<this.data.PL.length;i++)
+		this.praticas.push(new Aula(this.data.PL[i]));}
+	if (typeof this.data.OT!="undefined"){
+	for (var i=0;i<this.data.OT.length;i++)
+		this.praticas.push(new Aula(this.data.OT[i]));}
 }
 Cadeira.prototype.selectorhtml=function(){
+	this.addTurmas();
 	var str='';
 	str+='<div class="classselector" data-cadeira="'+this.nome+'">';
 	//str+='<p>'+this.nomec+' ('+this.nome+')'+'</p>';
@@ -115,7 +120,6 @@ Cadeira.prototype.selectorhtml=function(){
 Cadeira.prototype.showTurma=function(){
 	$('.aula[data-cadeira="'+this.nome+'"]').remove();
 	$('.classselector[data-cadeira="'+this.nome+'"]').removeClass("selectoroverlap");
-	//Procurar aqui se ele fazia overlap para tirar da outra cadeira
 			
 	var turmaselect=this.turmaselect;
 	if(turmaselect!="-"){
@@ -136,31 +140,11 @@ Cadeira.prototype.showTurma=function(){
 			{
 				var flag=false;
 				$('#content').append(aula.horariohtml());
-				for (var i=0;i<aulaid;i++)
-				{
-					if (aulas[i]==true)
-					{
-						var divaula=$('#aula'+i);
-						if (divaula.data("dia")==aula.dia&&(
-						(divaula.data("horai")>=aula.horarow&& divaula.data("horaf")<=aula.horaf)||
-						(divaula.data("horai")<=aula.horarow&& divaula.data("horaf")>=aula.horaf)||
-						(divaula.data("horai")<=aula.horaf&& divaula.data("horaf")>=aula.horarow)))
-						{
-							divaula.addClass("aulaoverlap");
-							$('.classselector[data-cadeira="'+divaula.data("cadeira")+'"]').addClass("selectoroverlap");
-							flag=true;
-						}
-					}
-				}
-				if (flag)
-				{
-					$('#aula'+aula.id).addClass("aulaoverlap");
-					$('.classselector[data-cadeira="'+aula.cadeira+'"]').addClass("selectoroverlap");
-				}
 				aulas[aula.id]=true;
 			}
 		});
 	}
+	verOverlap();
 }
 Aula.prototype.horariohtml=function(){
 	var str='';
@@ -177,6 +161,47 @@ Aula.prototype.selecttext=function(){
 Aula.prototype.selecttextrepetida=function(){
 	var str=' + '+this.txtdia+' '+this.txthora;
 	return str;
+}
+
+function verOverlap(){
+	var flag;
+	var i;
+	var divaula,divaula2;
+
+	for (var j=0;j<aulaid;j++)
+	{
+		if (aulas[j]==true)
+		{
+			divaula2=$('#aula'+j);
+			flag=false;
+			for (i=0;i<aulaid;i++)
+			{
+				if (aulas[i]==true && j!=i)
+				{
+					divaula=$('#aula'+i);
+					if (divaula.data("dia")==divaula2.data("dia")&&(
+					(divaula.data("horai")>=divaula2.data("horai")&& divaula.data("horaf")<=divaula2.data("horaf"))||
+					(divaula.data("horai")<=divaula2.data("horai")&& divaula.data("horaf")>=divaula2.data("horaf"))||
+					(divaula.data("horai")<=divaula2.data("horaf")&& divaula.data("horaf")>=divaula2.data("horai"))))
+					{
+						divaula.addClass("aulaoverlap");
+						$('.classselector[data-cadeira="'+divaula.data("cadeira")+'"]').addClass("selectoroverlap");
+						flag=true;
+					}
+				}
+			}
+			if (flag)
+			{
+				divaula2.addClass("aulaoverlap");
+				$('.classselector[data-cadeira="'+divaula2.data("cadeira")+'"]').addClass("selectoroverlap");
+			}
+			else
+			{
+				divaula2.removeClass("aulaoverlap");
+				$('.classselector[data-cadeira="'+divaula2.data("cadeira")+'"]').removeClass("selectoroverlap");
+			}
+		}
+	}
 }
 
 
