@@ -117,7 +117,7 @@ Cadeira.prototype.selectorhtml=function(){
 	str+='</div>';
 	
 	//str+='<div class="selectorwarning" data-cadeira="'+this.nome+'">';
-	str+='<img class="selectorwarning" data-cadeira="'+this.nome+'"src="error.png" title="conflito">';
+	str+='<img class="selectorwarning" data-cadeira="'+this.nome+'"src="error.png" alt="conflito" title="conflito">';
 	//str+='</div>';
 	str+='</div>';
 	
@@ -173,24 +173,25 @@ function verOverlap(){
 	var flag;
 	var i;
 	var divaula,divaula2;
-
+	var strconf;
 	for (var j=0;j<aulaid;j++)
 	{
 		if (aulas[j]==true)
 		{
 			divaula2=$('#aula'+j);
 			flag=false;
+			dia2=divaula2.data("dia");
+			horai2=divaula2.data("horai");
+			horaf2=divaula2.data("horaf");
+			strconf="Conflitos: ";
 			for (i=0;i<aulaid;i++)
 			{
 				if (aulas[i]==true && j!=i)
 				{
 					divaula=$('#aula'+i);
 					dia1=divaula.data("dia");
-					dia2=divaula2.data("dia");
 					horai1=divaula.data("horai");
-					horai2=divaula2.data("horai");
 					horaf1=divaula.data("horaf");
-					horaf2=divaula2.data("horaf");
 					if (dia1==dia2&&(
 					(horai1>=horai2&& horaf1<=horaf2)||
 					(horai1<=horai2&& horaf1>=horaf2)||
@@ -198,6 +199,7 @@ function verOverlap(){
 					{
 						divaula.addClass("aulaoverlap");
 						$('.selectorwarning[data-cadeira="'+divaula.data("cadeira")+'"]').addClass("selectorwarningoverlap");
+						strconf+=divaula.data("cadeira")+" ";
 						flag=true;
 					}
 				}
@@ -205,11 +207,15 @@ function verOverlap(){
 			if (flag)
 			{
 				divaula2.addClass("aulaoverlap");
-				$('.selectorwarning[data-cadeira="'+divaula2.data("cadeira")+'"]').addClass("selectorwarningoverlap");
+				var img=$('.selectorwarning[data-cadeira="'+divaula2.data("cadeira")+'"]');
+				img.addClass("selectorwarningoverlap");
+				img.attr({alt:strconf,title:strconf});
+				
 			}
 			else
 			{
 				divaula2.removeClass("aulaoverlap");
+				//só fazer remove caso nenhuma aula desta cadeira tenha conflito, acontece em casos da aula ter mais que uma prática p.e. SRSI
 				if (!$('.aula[data-cadeira="'+divaula2.data("cadeira")+'"]').hasClass("aulaoverlap"))
 					$('.selectorwarning[data-cadeira="'+divaula2.data("cadeira")+'"]').removeClass("selectorwarningoverlap");
 				
