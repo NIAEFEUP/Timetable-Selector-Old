@@ -89,6 +89,7 @@ Cadeira.prototype.addTurmas=function(){
 Cadeira.prototype.selectorhtml=function(){
 	this.addTurmas();
 	var str='';
+	str+='<div class="classselectorwrapper">';
 	str+='<div class="classselector" data-cadeira="'+this.nome+'">';
 	str+='<span>'+this.nomec+' ('+this.nome+')'+'</span>';
 	//	str+=this.nomec+' ('+this.nome+')';
@@ -117,6 +118,7 @@ Cadeira.prototype.selectorhtml=function(){
 	
 	//str+='<div class="selectorwarning" data-cadeira="'+this.nome+'">';
 	str+='<img class="selectorwarning" data-cadeira="'+this.nome+'"src="error.png" title="conflito">';
+	//str+='</div>';
 	str+='</div>';
 	
 	return str;

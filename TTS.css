@@ -115,10 +115,12 @@ img.selectorwarning{
 	width:64px;
 	height:64px;
 	display:none;
+	vertical-align:top;
+	padding-top:0.5em;
 }
 
 img.selectorwarningoverlap{
-	display:inline;
+	display:inline-block;
 }
 
 
