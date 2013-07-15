@@ -41,6 +41,7 @@ input[type="button"]:active {
 
 div#content {
 	padding:1em;
+	min-width:1200px;
 }
 
 ::-webkit-scrollbar {
@@ -71,29 +72,6 @@ header {
 	background-color:#1B1C26;
 }
 
-/*seletor turmas*/
-div.selector{
-	vertical-align:top;
-	display:inline-block;
-}
-div.classselector{
-	margin-bottom:0.1em;
-	border:4px #823C3C solid;
-	padding:4px;
-	background-color:#823C3C;
-	color:#FFFFFF;
-	margin-top:0.5em;
-}
-select.turmaselect{
-	width:100%;
-	display:block;
-}
-
-div.selectoroverlap{
-	border:4px red solid;
-}
-
-
 /*footer*/
 footer
 {
@@ -106,11 +84,53 @@ footer a {
 	font-weight:bold;
 }
 
+/*seletor turmas*/
+div.selector{
+	vertical-align:top;
+	display:inline-block;
+	max-width:360px;
+}
+div.classselector{
+	margin-bottom:0.5em;
+	max-width:270px;
+	min-width:270px;
+	/*border:4px #823C3C solid;*/
+	padding:8px;
+	background-color:#823C3C;
+	color:#FFFFFF;
+	margin-top:0.5em;
+	display:inline-block;
+}
+select.turmaselect{
+	width:100%;
+	display:block;
+	margin-top:8px;
+	margin-bottom:6px;
+}
+/*
+div.selectorwarning{
+	display:none;
+}*/
+img.selectorwarning{
+	width:64px;
+	height:64px;
+	display:none;
+}
+
+img.selectorwarningoverlap{
+	display:inline;
+}
+
+
+
+
+
 /* horario*/
 table#horario {
 	font-size:12px;
 	vertical-align:top;
 	display:inline-block;
+	min-width:756px;
 	max-width:70%;
 	border-spacing:0;
 }
@@ -193,7 +213,7 @@ div.blockprompt{
 	min-height:210px;
 	left:0;
 	right:0;
-	top:30%;
+	top:20%;
 	background-color:#823C3C;
 	color:#FFFFFF;
 	text-align:center;

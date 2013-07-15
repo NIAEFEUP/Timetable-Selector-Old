@@ -31,15 +31,13 @@ function Aula(jsonobj){
 	this.prof=jsonobj.prof;
 	this.profsig=jsonobj.profsig;
 	this.vagas="?";
-	this.id=aulaid;
 	this.repetido=false;
 	this.txtdia=''+(this.dia+1)+'ª';
 	this.txthora=''+((this.horarow+this.horarow%2)/2+7)+':'+(((this.horarow-1)%2)*3)+'0';
+	this.id=aulaid;
+	aulas[aulaid]=false;
+	aulaid++;
 	if (this.tipo=="T") this.tipoh="teorica"; 
-	else {
-		aulas[aulaid]=false;
-		aulaid++;
-	}
 	if (this.tipo=="TP") this.tipoh="teoricopratica";
 	if (this.tipo=="L") this.tipoh="laboratorio";
 	if (this.tipo=="P") this.tipoh="pratica";
@@ -92,8 +90,8 @@ Cadeira.prototype.selectorhtml=function(){
 	this.addTurmas();
 	var str='';
 	str+='<div class="classselector" data-cadeira="'+this.nome+'">';
-	//str+='<p>'+this.nomec+' ('+this.nome+')'+'</p>';
-	str+=this.nomec+' ('+this.nome+')';
+	str+='<span>'+this.nomec+' ('+this.nome+')'+'</span>';
+	//	str+=this.nomec+' ('+this.nome+')';
 	str+='<select class="turmaselect" data-cadeira="'+this.nome+'">';
 	str+='<option value="-">-----</option>';
 	for (var i=0;i<this.praticas.length;i++)
@@ -108,18 +106,24 @@ Cadeira.prototype.selectorhtml=function(){
 					str+=this.praticas[j].selecttextrepetida();
 				}
 			}
-			str+=' ('+this.praticas[i].vagas+')</option>';
+			if (this.praticas[i].vagas!='?') str+=' ('+this.praticas[i].vagas+')';
+			str+='</option>';
 		}
 	}
 	if (this.praticas.length==0) str+='<option value="teoricas">só teoricas</option>'
 	str+='</select>';
-	str+='<label><input class="mostrarteoricas" value="'+this.nome+'" type="checkbox" data-cadeira="'+this.nome+'" checked/>Mostrar Teoricas</label>'
+	if (this.teoricas.length!=0) str+='<label><input class="mostrarteoricas" value="'+this.nome+'" type="checkbox" data-cadeira="'+this.nome+'" checked/>Mostrar Teoricas</label>'
 	str+='</div>';
+	
+	//str+='<div class="selectorwarning" data-cadeira="'+this.nome+'">';
+	str+='<img class="selectorwarning" data-cadeira="'+this.nome+'"src="error.png" title="conflito">';
+	str+='</div>';
+	
 	return str;
 }
 Cadeira.prototype.showTurma=function(){
 	$('.aula[data-cadeira="'+this.nome+'"]').remove();
-	$('.classselector[data-cadeira="'+this.nome+'"]').removeClass("selectoroverlap");
+	$('.selectorwarning[data-cadeira="'+this.nome+'"]').removeClass("selectorwarningoverlap");
 			
 	var turmaselect=this.turmaselect;
 	if(turmaselect!="-"){
@@ -155,7 +159,7 @@ Aula.prototype.horariohtml=function(){
 	return str;
 }
 Aula.prototype.selecttext=function(){
-	var str=this.turma+' - '+this.profsig+' '+this.txtdia+' '+this.txthora;
+	var str=this.turma+' - '+this.profsig+' '+this.txtdia+' '+this.txthora;	
 	return str;
 }
 Aula.prototype.selecttextrepetida=function(){
@@ -179,13 +183,19 @@ function verOverlap(){
 				if (aulas[i]==true && j!=i)
 				{
 					divaula=$('#aula'+i);
-					if (divaula.data("dia")==divaula2.data("dia")&&(
-					(divaula.data("horai")>=divaula2.data("horai")&& divaula.data("horaf")<=divaula2.data("horaf"))||
-					(divaula.data("horai")<=divaula2.data("horai")&& divaula.data("horaf")>=divaula2.data("horaf"))||
-					(divaula.data("horai")<=divaula2.data("horaf")&& divaula.data("horaf")>=divaula2.data("horai"))))
+					dia1=divaula.data("dia");
+					dia2=divaula2.data("dia");
+					horai1=divaula.data("horai");
+					horai2=divaula2.data("horai");
+					horaf1=divaula.data("horaf");
+					horaf2=divaula2.data("horaf");
+					if (dia1==dia2&&(
+					(horai1>=horai2&& horaf1<=horaf2)||
+					(horai1<=horai2&& horaf1>=horaf2)||
+					(horai1<=horaf2&& horaf1>=horai2)))
 					{
 						divaula.addClass("aulaoverlap");
-						$('.classselector[data-cadeira="'+divaula.data("cadeira")+'"]').addClass("selectoroverlap");
+						$('.selectorwarning[data-cadeira="'+divaula.data("cadeira")+'"]').addClass("selectorwarningoverlap");
 						flag=true;
 					}
 				}
@@ -193,12 +203,14 @@ function verOverlap(){
 			if (flag)
 			{
 				divaula2.addClass("aulaoverlap");
-				$('.classselector[data-cadeira="'+divaula2.data("cadeira")+'"]').addClass("selectoroverlap");
+				$('.selectorwarning[data-cadeira="'+divaula2.data("cadeira")+'"]').addClass("selectorwarningoverlap");
 			}
 			else
 			{
 				divaula2.removeClass("aulaoverlap");
-				$('.classselector[data-cadeira="'+divaula2.data("cadeira")+'"]').removeClass("selectoroverlap");
+				if (!$('.aula[data-cadeira="'+divaula2.data("cadeira")+'"]').hasClass("aulaoverlap"))
+					$('.selectorwarning[data-cadeira="'+divaula2.data("cadeira")+'"]').removeClass("selectorwarningoverlap");
+				
 			}
 		}
 	}
@@ -280,7 +292,11 @@ $(document).ready(function(){
 						for (j=0;j<cadeiras[i].praticas.length&&cadeiras[i].praticas[j].turma!=turma;j++);
 						if (j<cadeiras[i].praticas.length){
 							cadeiras[i].praticas[j].vagas=vagas;
-							$('select[data-cadeira="'+cadeiras[i].nome+'"] option[value="'+cadeiras[i].praticas[j].turma+'"]').html(cadeiras[i].praticas[j].selecttext());
+							var str=$('select[data-cadeira="'+cadeiras[i].nome+'"] option[value="'+cadeiras[i].praticas[j].turma+'"]').html();
+							var pat=/\([\?0-9]+\)/;
+							if (str.search(pat)==-1) str+=' ('+vagas+')';
+							else str=str.replace(pat,'('+vagas+')');
+							$('select[data-cadeira="'+cadeiras[i].nome+'"] option[value="'+cadeiras[i].praticas[j].turma+'"]').html(str);
 						}
 					});
 				}
