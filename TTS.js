@@ -289,6 +289,24 @@ $(document).ready(function(){
 		$(this).removeClass("mouseoveraula");
 	});
 	
+	$(document).on('mouseenter','.classselector',function(event){
+		var cadeira=$(this).data("cadeira");
+		$('div.aula[data-cadeira="'+cadeira+'"]').addClass("mouseoverselect");
+		
+	});
+	$(document).on('mouseleave','.classselector',function(event){
+		var cadeira=$(this).data("cadeira");
+		$('div.aula[data-cadeira="'+cadeira+'"]').removeClass("mouseoverselect");
+	});
+	
+	$(document).on('click','input.listcadano',function(event){
+		var ano=$(this).attr('value');
+		var checked=$(this).prop("checked");
+		//alert(ano);
+		if (checked==true) $('input.listcad[data-ano="'+ano+'"]').prop("checked",true);
+		else  $('input.listcad[data-ano="'+ano+'"]').prop("checked",false);
+	});
+	
 	$('#updatevagasbtn').click(function(){
 		$.getJSON("getvagas.php",{curso:curso},function(data){
 			$.each(data,function(cadeira,obj){
@@ -321,26 +339,34 @@ function parse_horario(data){
 	aulas={};
 	aulaid=0;
 	$.each(data,function(ano,data2){
-		$('#listcadeiras').append('<div class="listcadano" id="divlistcadeiras'+ano.replace(" ","_")+'"><p class="listcadanop">'+ano+'</p><ul  id="listcadeiras'+ano.replace(" ","_")+'"></ul></div>');
+		$('#listcadeiras').append('<div class="listcadano" id="divlistcadeiras'+ano.replace(" ","_")+'"><p class="listcadanop"><label><input class="listcadano" value="'+ano.replace(" ","_")+'" type="checkbox"/>'+ano+'</label></p><ul  id="listcadeiras'+ano.replace(" ","_")+'"></ul></div>');
 		nrcad=3;
 		
 		$.each(data2,function(cadeira,obj){
 			
 			cadeiras[cadeira]=new Cadeira(cadeira,obj);
-			$('#listcadeiras'+ano.replace(" ","_")).append('<li class="listcad"><label><input class="listcad" value="'+cadeira+'" type="checkbox"/><abbr title="'+obj.nome+'">'+cadeira+'</abbr></label></li>');
+			$('#listcadeiras'+ano.replace(" ","_")).append('<li class="listcad"><label><input class="listcad" data-ano="'+ano.replace(" ","_")+'" value="'+cadeira+'" type="checkbox"/><abbr title="'+obj.nome+'">'+cadeira+'</abbr></label></li>');
 			nrcad++;
 		});
 		nrcol= Math.round(nrcad/8);
 		divwidth=85*nrcol;
+		var align="center";
+		if (nrcol==1) align="left";
+		
 		$('#divlistcadeiras'+ano.replace(" ","_")).css({
 			minWidth : divwidth+"px"
 		});	
+		$('#divlistcadeiras'+ano.replace(" ","_")+' p').css({
+			minWidth : divwidth+"px",
+			textAlign : align
+		});
 		$('#listcadeiras'+ano.replace(" ","_")).css({
 			padding:"0px",
 			mozColumns:nrcol+" 75px",
 			webkitColumns:nrcol+" 75px",
 			columns:nrcol+" 75px"
 		});	
+		
 	});
 
 }

@@ -180,6 +180,12 @@ div.laboratorio{
 	z-index:3;
 }
 
+div.mouseoverselect{
+	opacity:1;
+	z-index:4;
+	border:2px green solid;
+}
+
 div.aulaoverlap{
 	border:2px red solid;
 }
