@@ -31,12 +31,12 @@ function Aula(jsonobj){
 	this.prof=jsonobj.prof;
 	this.profsig=jsonobj.profsig;
 	this.vagas="?";
-	this.id=aulaid;
-	aulas[aulaid]=false;
-	aulaid++;
 	this.repetido=false;
 	this.txtdia=''+(this.dia+1)+'ª';
 	this.txthora=''+((this.horarow+this.horarow%2)/2+7)+':'+(((this.horarow-1)%2)*3)+'0';
+	this.id=aulaid;
+	aulas[aulaid]=false;
+	aulaid++;
 	if (this.tipo=="T") this.tipoh="teorica"; 
 	if (this.tipo=="TP") this.tipoh="teoricopratica";
 	if (this.tipo=="L") this.tipoh="laboratorio";
@@ -52,8 +52,8 @@ function Aula(jsonobj){
 	var bloco=$("#horario"+diaString+horaString);
 	this.stleft=bloco.offset().left-1;
 	this.sttop=bloco.offset().top-1;
-	this.stwidth=bloco.outerWidth()-1;
-	this.stheight=bloco.outerHeight()*this.duracao-1;
+	this.stwidth=bloco.outerWidth()-2;
+	this.stheight=bloco.outerHeight()*this.duracao-2;
 	
 }
 
@@ -64,31 +64,35 @@ function Cadeira(sigla,jsonobj){
 	this.nome=sigla;
 	this.nomec=jsonobj.nome;
 	this.turmaselect="-";
-	if (typeof jsonobj.T!="undefined"){
-	for (var i=0;i<jsonobj.T.length;i++)
-		this.teoricas.push(new Aula(jsonobj.T[i]));}
-	if (typeof jsonobj.P!="undefined"){
-	for (var i=0;i<jsonobj.P.length;i++)
-		this.praticas.push(new Aula(jsonobj.P[i]));}
-	if (typeof jsonobj.TP!="undefined"){
-	for (var i=0;i<jsonobj.TP.length;i++)
-		this.praticas.push(new Aula(jsonobj.TP[i]));}
-	if (typeof jsonobj.L!="undefined"){
-	for (var i=0;i<jsonobj.L.length;i++)
-		this.praticas.push(new Aula(jsonobj.L[i]));}
-	if (typeof jsonobj.PL!="undefined"){
-	for (var i=0;i<jsonobj.PL.length;i++)
-		this.praticas.push(new Aula(jsonobj.PL[i]));}
-	if (typeof jsonobj.OT!="undefined"){
-	for (var i=0;i<jsonobj.OT.length;i++)
-		this.praticas.push(new Aula(jsonobj.OT[i]));}
-	
+	this.data=jsonobj;
+}
+Cadeira.prototype.addTurmas=function(){
+	if (typeof this.data.T!="undefined"){
+	for (var i=0;i<this.data.T.length;i++)
+		this.teoricas.push(new Aula(this.data.T[i]));}
+	if (typeof this.data.P!="undefined"){
+	for (var i=0;i<this.data.P.length;i++)
+		this.praticas.push(new Aula(this.data.P[i]));}
+	if (typeof this.data.TP!="undefined"){
+	for (var i=0;i<this.data.TP.length;i++)
+		this.praticas.push(new Aula(this.data.TP[i]));}
+	if (typeof this.data.L!="undefined"){
+	for (var i=0;i<this.data.L.length;i++)
+		this.praticas.push(new Aula(this.data.L[i]));}
+	if (typeof this.data.PL!="undefined"){
+	for (var i=0;i<this.data.PL.length;i++)
+		this.praticas.push(new Aula(this.data.PL[i]));}
+	if (typeof this.data.OT!="undefined"){
+	for (var i=0;i<this.data.OT.length;i++)
+		this.praticas.push(new Aula(this.data.OT[i]));}
 }
 Cadeira.prototype.selectorhtml=function(){
+	this.addTurmas();
 	var str='';
+	str+='<div class="classselectorwrapper">';
 	str+='<div class="classselector" data-cadeira="'+this.nome+'">';
-	//str+='<p>'+this.nomec+' ('+this.nome+')'+'</p>';
-	str+=this.nomec+' ('+this.nome+')';
+	str+='<span>'+this.nomec+' ('+this.nome+')'+'</span>';
+	//	str+=this.nomec+' ('+this.nome+')';
 	str+='<select class="turmaselect" data-cadeira="'+this.nome+'">';
 	str+='<option value="-">-----</option>';
 	for (var i=0;i<this.praticas.length;i++)
@@ -103,19 +107,25 @@ Cadeira.prototype.selectorhtml=function(){
 					str+=this.praticas[j].selecttextrepetida();
 				}
 			}
-			str+=' ('+this.praticas[i].vagas+')</option>';
+			if (this.praticas[i].vagas!='?') str+=' ('+this.praticas[i].vagas+')';
+			str+='</option>';
 		}
 	}
 	if (this.praticas.length==0) str+='<option value="teoricas">só teoricas</option>'
 	str+='</select>';
-	str+='<label><input class="mostrarteoricas" value="'+this.nome+'" type="checkbox" data-cadeira="'+this.nome+'" checked/>Mostrar Teoricas</label>'
+	if (this.teoricas.length!=0) str+='<label><input class="mostrarteoricas" value="'+this.nome+'" type="checkbox" data-cadeira="'+this.nome+'" checked/>Mostrar Teoricas</label>'
 	str+='</div>';
+	
+	//str+='<div class="selectorwarning" data-cadeira="'+this.nome+'">';
+	str+='<img class="selectorwarning" data-cadeira="'+this.nome+'"src="error.png" alt="conflito" title="conflito">';
+	//str+='</div>';
+	str+='</div>';
+	
 	return str;
 }
 Cadeira.prototype.showTurma=function(){
 	$('.aula[data-cadeira="'+this.nome+'"]').remove();
-	$('.classselector[data-cadeira="'+this.nome+'"]').removeClass("selectoroverlap");
-	//Procurar aqui se ele fazia overlap para tirar da outra cadeira
+	$('.selectorwarning[data-cadeira="'+this.nome+'"]').removeClass("selectorwarningoverlap");
 			
 	var turmaselect=this.turmaselect;
 	if(turmaselect!="-"){
@@ -136,31 +146,11 @@ Cadeira.prototype.showTurma=function(){
 			{
 				var flag=false;
 				$('#content').append(aula.horariohtml());
-				for (var i=0;i<aulaid;i++)
-				{
-					if (aulas[i]==true)
-					{
-						var divaula=$('#aula'+i);
-						if (divaula.data("dia")==aula.dia&&(
-						(divaula.data("horai")>=aula.horarow&& divaula.data("horaf")<=aula.horaf)||
-						(divaula.data("horai")<=aula.horarow&& divaula.data("horaf")>=aula.horaf)||
-						(divaula.data("horai")<=aula.horaf&& divaula.data("horaf")>=aula.horarow)))
-						{
-							divaula.addClass("aulaoverlap");
-							$('.classselector[data-cadeira="'+divaula.data("cadeira")+'"]').addClass("selectoroverlap");
-							flag=true;
-						}
-					}
-				}
-				if (flag)
-				{
-					$('#aula'+aula.id).addClass("aulaoverlap");
-					$('.classselector[data-cadeira="'+aula.cadeira+'"]').addClass("selectoroverlap");
-				}
 				aulas[aula.id]=true;
 			}
 		});
 	}
+	verOverlap();
 }
 Aula.prototype.horariohtml=function(){
 	var str='';
@@ -171,12 +161,67 @@ Aula.prototype.horariohtml=function(){
 	return str;
 }
 Aula.prototype.selecttext=function(){
-	var str=this.turma+' - '+this.profsig+' '+this.txtdia+' '+this.txthora;
+	var str=this.turma+' - '+this.profsig+' '+this.txtdia+' '+this.txthora;	
 	return str;
 }
 Aula.prototype.selecttextrepetida=function(){
 	var str=' + '+this.txtdia+' '+this.txthora;
 	return str;
+}
+
+function verOverlap(){
+	var flag;
+	var i;
+	var divaula,divaula2;
+	var strconf;
+	for (var j=0;j<aulaid;j++)
+	{
+		if (aulas[j]==true)
+		{
+			divaula2=$('#aula'+j);
+			flag=false;
+			dia2=divaula2.data("dia");
+			horai2=divaula2.data("horai");
+			horaf2=divaula2.data("horaf");
+			strconf="Conflitos: ";
+			for (i=0;i<aulaid;i++)
+			{
+				if (aulas[i]==true && j!=i)
+				{
+					divaula=$('#aula'+i);
+					dia1=divaula.data("dia");
+					horai1=divaula.data("horai");
+					horaf1=divaula.data("horaf");
+					if (dia1==dia2&&(
+					(horai1>=horai2&& horaf1<=horaf2)||
+					(horai1<=horai2&& horaf1>=horaf2)||
+					(horai1<=horaf2&& horaf1>=horai2)))
+					{
+						divaula.addClass("aulaoverlap");
+						$('.selectorwarning[data-cadeira="'+divaula.data("cadeira")+'"]').addClass("selectorwarningoverlap");
+						strconf+=divaula.data("cadeira")+" ";
+						flag=true;
+					}
+				}
+			}
+			if (flag)
+			{
+				divaula2.addClass("aulaoverlap");
+				var img=$('.selectorwarning[data-cadeira="'+divaula2.data("cadeira")+'"]');
+				img.addClass("selectorwarningoverlap");
+				img.attr({alt:strconf,title:strconf});
+				
+			}
+			else
+			{
+				divaula2.removeClass("aulaoverlap");
+				//só fazer remove caso nenhuma aula desta cadeira tenha conflito, acontece em casos da aula ter mais que uma prática p.e. SRSI
+				if (!$('.aula[data-cadeira="'+divaula2.data("cadeira")+'"]').hasClass("aulaoverlap"))
+					$('.selectorwarning[data-cadeira="'+divaula2.data("cadeira")+'"]').removeClass("selectorwarningoverlap");
+				
+			}
+		}
+	}
 }
 
 
@@ -244,6 +289,24 @@ $(document).ready(function(){
 		$(this).removeClass("mouseoveraula");
 	});
 	
+	$(document).on('mouseenter','.classselector',function(event){
+		var cadeira=$(this).data("cadeira");
+		$('div.aula[data-cadeira="'+cadeira+'"]').addClass("mouseoverselect");
+		
+	});
+	$(document).on('mouseleave','.classselector',function(event){
+		var cadeira=$(this).data("cadeira");
+		$('div.aula[data-cadeira="'+cadeira+'"]').removeClass("mouseoverselect");
+	});
+	
+	$(document).on('click','input.listcadano',function(event){
+		var ano=$(this).attr('value');
+		var checked=$(this).prop("checked");
+		//alert(ano);
+		if (checked==true) $('input.listcad[data-ano="'+ano+'"]').prop("checked",true);
+		else  $('input.listcad[data-ano="'+ano+'"]').prop("checked",false);
+	});
+	
 	$('#updatevagasbtn').click(function(){
 		$.getJSON("getvagas.php",{curso:curso},function(data){
 			$.each(data,function(cadeira,obj){
@@ -255,7 +318,11 @@ $(document).ready(function(){
 						for (j=0;j<cadeiras[i].praticas.length&&cadeiras[i].praticas[j].turma!=turma;j++);
 						if (j<cadeiras[i].praticas.length){
 							cadeiras[i].praticas[j].vagas=vagas;
-							$('select[data-cadeira="'+cadeiras[i].nome+'"] option[value="'+cadeiras[i].praticas[j].turma+'"]').html(cadeiras[i].praticas[j].selecttext());
+							var str=$('select[data-cadeira="'+cadeiras[i].nome+'"] option[value="'+cadeiras[i].praticas[j].turma+'"]').html();
+							var pat=/\([\?0-9]+\)/;
+							if (str.search(pat)==-1) str+=' ('+vagas+')';
+							else str=str.replace(pat,'('+vagas+')');
+							$('select[data-cadeira="'+cadeiras[i].nome+'"] option[value="'+cadeiras[i].praticas[j].turma+'"]').html(str);
 						}
 					});
 				}
@@ -272,26 +339,34 @@ function parse_horario(data){
 	aulas={};
 	aulaid=0;
 	$.each(data,function(ano,data2){
-		$('#listcadeiras').append('<div class="listcadano" id="divlistcadeiras'+ano.replace(" ","_")+'"><p class="listcadanop">'+ano+'</p><ul  id="listcadeiras'+ano.replace(" ","_")+'"></ul></div>');
+		$('#listcadeiras').append('<div class="listcadano" id="divlistcadeiras'+ano.replace(" ","_")+'"><p class="listcadanop"><label><input class="listcadano" value="'+ano.replace(" ","_")+'" type="checkbox"/>'+ano+'</label></p><ul  id="listcadeiras'+ano.replace(" ","_")+'"></ul></div>');
 		nrcad=3;
 		
 		$.each(data2,function(cadeira,obj){
 			
 			cadeiras[cadeira]=new Cadeira(cadeira,obj);
-			$('#listcadeiras'+ano.replace(" ","_")).append('<li class="listcad"><label><input class="listcad" value="'+cadeira+'" type="checkbox"/><abbr title="'+obj.nome+'">'+cadeira+'</abbr></label></li>');
+			$('#listcadeiras'+ano.replace(" ","_")).append('<li class="listcad"><label><input class="listcad" data-ano="'+ano.replace(" ","_")+'" value="'+cadeira+'" type="checkbox"/><abbr title="'+obj.nome+'">'+cadeira+'</abbr></label></li>');
 			nrcad++;
 		});
 		nrcol= Math.round(nrcad/8);
 		divwidth=85*nrcol;
+		var align="center";
+		if (nrcol==1) align="left";
+		
 		$('#divlistcadeiras'+ano.replace(" ","_")).css({
 			minWidth : divwidth+"px"
 		});	
+		$('#divlistcadeiras'+ano.replace(" ","_")+' p').css({
+			minWidth : divwidth+"px",
+			textAlign : align
+		});
 		$('#listcadeiras'+ano.replace(" ","_")).css({
 			padding:"0px",
 			mozColumns:nrcol+" 75px",
 			webkitColumns:nrcol+" 75px",
 			columns:nrcol+" 75px"
 		});	
+		
 	});
 
 }
