@@ -24,7 +24,7 @@ $filename='default.json';	// Ficheiro da cache
 if (parsePOST()) {
 	$file_contents=file_get_contents($filename);
 	
-	if ($file_contents===FALSE || $force_update) { // Ficheiro nao existe ou update forcado
+	if ($file_contents===FALSE || $force_update||$file_contents=="null") { // Ficheiro nao existe ou update forcado
 		
 		queryFEUP($username,$password,$faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$filename);
 
@@ -177,7 +177,7 @@ function queryFEUP($username,$password,$faculdade_codigo,$curso_id,$periodo_id,$
 				$str=$nodes->item($i)->attributes->getNamedItem("href")->nodeValue;
 				$j=strpos($str,'=')+1;
 				$turma_id=substr($str,$j,strpos($str,'&')-$j);
-				//echo  "<p>".$turma_nome." ".$turma_id."</p>";
+				//echo  $turma_nome." ".$turma_id." "
 				
 				//POST para sacar o horario
 				$url= 'https://sigarra.up.pt/'.$faculdade_codigo[$fci].'/pt/hor_geral.turmas_view';
@@ -192,6 +192,26 @@ function queryFEUP($username,$password,$faculdade_codigo,$curso_id,$periodo_id,$
 				@$dom2->loadHTML($horarioresult);
 				//Scrap todas as rows
 				$xp2 = new DOMXpath($dom2);
+				
+				$nodeslinksemana=$xp2->query('//table[@class="tabela"]/tr[@class="d"]/td/a');
+				if ($nodeslinksemana->length>0&&$faculdade_codigo[0]=='feup'){
+					//recomeçar
+					$url='https://sigarra.up.pt/'.$faculdade_codigo[$fci].'/pt/'.$nodeslinksemana->item(1)->attributes->getNamedItem('href')->nodeValue;
+					//echo 'x'.$url.'</br>';
+					//POST para sacar o horario, isto deveria ser GET mas POST funciona
+					curl_setopt($ch,CURLOPT_URL,$url);
+					curl_setopt($ch,CURLOPT_HTTPGET,true);
+					
+					$horarioresult=curl_exec($ch);
+					
+					$dom2 = new DOMDocument;
+					@$dom2->loadHTML($horarioresult);
+					//Scrap todas as rows
+					$xp2 = new DOMXpath($dom2);
+				}
+				else{
+					//echo $url.$fieldstr .'</br>';
+				}
 				$nodesrow = $xp2->query('//table[@class="tabela"]/tr');
 				
 				$rowspan=array(0,0,0,0,0,0,0,0); //rowspan para as colunas, 0->horas 1-6-> segunda a sabado, 7-> força a saida do while pk e sempre 0

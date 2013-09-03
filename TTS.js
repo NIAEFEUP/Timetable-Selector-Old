@@ -227,7 +227,21 @@ function verOverlap(){
 
 $(document).ready(function(){
 	generateTimetable();
-
+	
+	//verificar data para automatizar seleção de ano e semestre
+	var today = new Date();
+	var mm = today.getMonth()+1; //January is 0!
+	var ano_l = today.getFullYear();
+	var semestre=1;
+	if (mm<8) {//janeiro a julho selecionar 2º semestre, agosto a dezembro 1º
+		ano_l=ano_l-1
+		semestre=2;
+	}
+	$('#anoselect').val(ano_l);
+	$('#anoselect').prop('disabled', true);
+	$('#semestreselect').filter('[value='+semestre+']').prop('checked', true);
+	$('#semestreselect').prop('disabled', true);
+	
 	$.blockUI.defaults.css = {};
 	$.blockUI({ message: $('#promptcurso') }); 
 
