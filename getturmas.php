@@ -30,7 +30,11 @@ if (parsePOST()) {
 
 	}
 	else {
+		
 		echo $file_contents;
+		$today = getdate();
+		file_put_contents('log.txt', $_POST['curso'].' '.$_POST['anolectivo'].' '.$_POST['periodo'].' '.date("Y-m-d H:i:s"). "\r\n", FILE_APPEND | LOCK_EX);
+		chmod('log.txt',0644);
 	}
 }
 
