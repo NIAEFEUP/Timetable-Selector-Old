@@ -197,7 +197,7 @@ function queryFEUP($username,$password,$faculdade_codigo,$curso_id,$periodo_id,$
 				//Scrap todas as rows
 				$xp2 = new DOMXpath($dom2);
 				
-				$nodeslinksemana=$xp2->query('//table[@class="tabela"]/tr[@class="d"]/td/a');
+				$nodeslinksemana=$xp2->query('//td[@valign="top"]/table[@class="tabela"]/tr[@class="d"]/td/a');
 				if ($nodeslinksemana->length>0&&$faculdade_codigo[0]=='feup'){
 					//recomeçar
 					$url='https://sigarra.up.pt/'.$faculdade_codigo[$fci].'/pt/'.$nodeslinksemana->item(1)->attributes->getNamedItem('href')->nodeValue;
@@ -216,7 +216,7 @@ function queryFEUP($username,$password,$faculdade_codigo,$curso_id,$periodo_id,$
 				else{
 					//echo $url.$fieldstr .'</br>';
 				}
-				$nodesrow = $xp2->query('//table[@class="tabela"]/tr');
+				$nodesrow = $xp2->query('//td[@valign="top"]/div[1]/table[@class="tabela"]/tr');
 				
 				$rowspan=array(0,0,0,0,0,0,0,0); //rowspan para as colunas, 0->horas 1-6-> segunda a sabado, 7-> força a saida do while pk e sempre 0
 				//Comecar as 8 da manha
@@ -224,7 +224,8 @@ function queryFEUP($username,$password,$faculdade_codigo,$curso_id,$periodo_id,$
 				//Comecar na row 2, a 1 tem os dias (o xpath comeca a 1 e nao a 0, por isso aumentar o ciclo para <= tb)
 				for($row=2; $row<=$nodesrow->length;$row++)
 				{	
-					$nodescol=$xp2->query('//div/table[@class="tabela"]/tr['.$row.']/td'); //Nao usar child, por causa dos whitespaces nodes.
+					
+					$nodescol=$xp2->query('//td[@valign="top"]/div[1]/table[@class="tabela"]/tr['.$row.']/td'); //Nao usar child, por causa dos whitespaces nodes.
 					$dia=1;
 					for ($col=1;$col<$nodescol->length;$col++)
 					{
@@ -272,6 +273,56 @@ function queryFEUP($username,$password,$faculdade_codigo,$curso_id,$periodo_id,$
 					$hora=$hora+0.5;
 				}
 				
+				//TODO verificar as aulas sobrepostas
+				
+				/*$nodesrow = $xp2->query('//td[@valign="top"]/div[2]/table[@class="tabela"]/tr');
+				for($row=2; $row<$nodesrow->length;$row++)//começar na 3ª linha, caso não exista o length é 0 e o ciclo não entra.
+				{	
+					
+					$nodescol=$xp2->query('.//td',$nodesrow->item($row)); 
+					$dia=;
+					for ($col=1;$col<$nodescol->length;$col++)
+					{
+						while ($rowspan[$dia]>0)
+						{ //compensar os dias que sao comidos pelo rowspan
+							$rowspan[$dia]--;
+							$dia++;
+						}
+						
+						//scrap do horário
+						$nodetd=$nodescol->item($col);
+						$tipo=$nodetd->attributes->getNamedItem('class')->nodeValue;
+						if ($tipo=='TP'||$tipo=='T'||$tipo=='P'||$tipo=='L'||$tipo=='PL'||$tipo=='OT')
+						{	//se for uma aula
+							//contar o rowspan/duracao da aula
+							$aduracao=$nodetd->attributes->getNamedItem('rowspan')->nodeValue;
+							$rowspan[$dia]=$aduracao-1;
+							//nome da aula
+							$anome=$xp2->query('./b/acronym/@title',$nodetd)->item(0)->nodeValue;
+							$asigla=$xp2->query('./b/acronym/a',$nodetd)->item(0)->nodeValue;	
+							//sala -> usar // em vez de / nestes querys porque os br's fo**m tudo (literalmente)
+							$asala=$xp2->query('.//table/tr/td/a',$nodetd)->item(0)->nodeValue;
+							//professor 
+							$aprofsig=$xp2->query('.//table/tr/td[3]//a',$nodetd)->item(0)->nodeValue;
+							$aprofnome=$xp2->query('.//table/tr/td[3]/acronym/@title',$nodetd)->item(0)->nodeValue;
+							//turma da cadeira
+							$turma_cadeira=$xp2->query('.//span/a',$nodetd)->item(0)->nodeValue;
+							//passar tudo para o array
+							
+							if (!is_array($horarios[$ano][$asigla][$tipo])) $horarios[$ano][$asigla][$tipo]=array();
+							array_push($horarios[$ano][$asigla][$tipo], array('dia'=>$dia,'hora'=>$hora,'nome'=>$anome,'sigla'=>$asigla,'tipo'=>$tipo,'turma'=>$turma_nome,'turmac'=>$turma_cadeira,'duracao'=>$aduracao,'sala'=>$asala,'profsig'=>$aprofsig,'prof'=>$aprofnome));
+							//gravar o nome da cadeira dentro do objecto da cadeira para facilitar extraçao no js
+							$horarios[$ano][$asigla]['nome']=$anome;
+							
+							//echo "<p>".$dia." ".$hora." ".$anome." ".$asigla." ".$tipo." ".$turma_nome." ".$turma_cadeira." ".$aduracao." ".$asala." ".$aprofsig." ".$aprofnome."</p>";
+						}
+						
+						$dia++;
+					}
+					
+					$hora=$hora+0.5;
+				}
+				*/
 			}
 		}
 	}
