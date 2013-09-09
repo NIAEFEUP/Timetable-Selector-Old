@@ -66,6 +66,10 @@ function Cadeira(sigla,jsonobj){
 	this.turmaselect="-";
 	this.data=jsonobj;
 }
+Cadeira.prototype.addMoreTurmas=function(jsonobj){
+	this.addTurmas();
+	this.data=jsonobj;
+}
 Cadeira.prototype.addTurmas=function(){
 	if (typeof this.data.T!="undefined"){
 	for (var i=0;i<this.data.T.length;i++)
@@ -358,7 +362,8 @@ function parse_horario(data){
 		
 		$.each(data2,function(cadeira,obj){
 			
-			cadeiras[cadeira]=new Cadeira(cadeira,obj);
+			if (typeof cadeiras[cadeira] == 'undefined' ) cadeiras[cadeira]=new Cadeira(cadeira,obj);
+			else cadeiras[cadeira].addMoreTurmas(obj);
 			$('#listcadeiras'+ano.replace(" ","_")).append('<li class="listcad"><label><input class="listcad" data-ano="'+ano.replace(" ","_")+'" value="'+cadeira+'" type="checkbox"/><abbr title="'+obj.nome+'">'+cadeira+'</abbr></label></li>');
 			nrcad++;
 		});
