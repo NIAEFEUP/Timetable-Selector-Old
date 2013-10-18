@@ -119,7 +119,7 @@ Cadeira.prototype.selectorhtml=function(){
 	}
 	if (this.praticas.length==0) str+='<option value="teoricas">só teoricas</option>'
 	str+='</select>';
-	if (this.teoricas.length!=0) str+='<label><input class="mostrarteoricas" value="'+this.nome+'" type="checkbox" data-cadeira="'+this.nome+'" checked/>Mostrar Teoricas</label>'
+	if (this.teoricas.length!=0) str+='<label><input class="mostrarteóricas" value="'+this.nome+'" type="checkbox" data-cadeira="'+this.nome+'" checked/>Mostrar Teoricas</label>'
 	str+='</div>';
 	
 	//str+='<div class="selectorwarning" data-cadeira="'+this.nome+'">';
@@ -166,6 +166,15 @@ Cadeira.prototype.previewTurma=function(turma){
 				$('#content').append(aula.horariopreviewhtml());		
 			}
 		});
+		if(this.showteoricas)
+		{
+			$.each(this.teoricas,function(i,aula){
+				if(aula.turma==turma||turma=="teoricas")
+				{
+					$('#content').append(aula.horariopreviewhtml());
+				}
+			});
+		}
 	}
 }
 
@@ -330,13 +339,6 @@ $(document).ready(function(){
 	$(document).on('change','.classselector input.mostrarteoricas',function(event){
 		cadeiras[this.getAttribute('data-cadeira')].showteoricas=this.checked;
 		cadeiras[this.getAttribute('data-cadeira')].showTurma();
-	});
-	
-	$(document).on('mouseenter','.aula',function(event){
-		$(this).addClass("mouseoveraula");
-	});
-	$(document).on('mouseleave','.aula',function(event){
-		$(this).removeClass("mouseoveraula");
 	});
 	
 	$(document).on('mouseenter','.classselector select option',function(event){

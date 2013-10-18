@@ -9,7 +9,6 @@
 	#FFFFFF
 */
 
-
 /*geral*/
 body {
 	color:#1B1C26;
@@ -150,11 +149,16 @@ table#horario th{
 }
 
 /* aulas */
-div.teorica,div.pratica,div.teoricopratica,div.laboratorio,div.praticalaboratorial{
+div.aula{
 	position:absolute;
 	border:2px #1B1C26 solid;
 	opacity:0.8;
 	overflow:hidden;
+	z-index:3;
+}
+div.aula:hover{
+	opacity:1;
+	z-index:4;
 }
 div.teorica{
 	background-color:#F2ECB0;
@@ -163,27 +167,25 @@ div.teorica{
 
 div.teoricopratica{
 	background-color:#EBB667;
-	z-index:3;
 }
 
 div.pratica{
 	background-color:#FA5A52;
-	z-index:3;
 }
 
 div.praticalaboratorial{
 	background-color:#BA6A45;
-	z-index:3;
 }
 
 div.laboratorio{
 	background-color:#D7E9C9;
-	z-index:3;
 }
+
 div.aulapreview{
-	z-index:4;
-	opacity:0.7;
+	z-index:5;
+	opacity:0.7
 }
+
 
 div.mouseoverselect{
 	opacity:1;
@@ -195,10 +197,7 @@ div.aulaoverlap{
 	border:2px red solid;
 }
 
-div.mouseoveraula{
-	opacity:1;
-	z-index:4;
-}
+
 div.aulawrapper{
 display:table;
 }
