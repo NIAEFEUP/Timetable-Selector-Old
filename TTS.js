@@ -119,7 +119,7 @@ Cadeira.prototype.selectorhtml=function(){
 	}
 	if (this.praticas.length==0) str+='<option value="teoricas">só teoricas</option>'
 	str+='</select>';
-	if (this.teoricas.length!=0) str+='<label><input class="mostrarteóricas" value="'+this.nome+'" type="checkbox" data-cadeira="'+this.nome+'" checked/>Mostrar Teoricas</label>'
+	if (this.teoricas.length!=0) str+='<label><input class="mostrarteoricas" value="'+this.nome+'" type="checkbox" data-cadeira="'+this.nome+'" checked/>Mostrar Teóricas</label>'
 	str+='</div>';
 	
 	//str+='<div class="selectorwarning" data-cadeira="'+this.nome+'">';
