@@ -274,7 +274,7 @@ $(document).ready(function(){
 		}
 		$('#anoselect').val(ano_l);
 		$('#anoselect').prop('disabled', true);
-		$('#semestreselect').filter('[value='+semestre+']').prop('selected', true);
+		$('#semestreselect option').filter('[value='+semestre+']').prop('selected', true);
 		$('#semestreselect').prop('disabled', true);
 		
 		$.blockUI({ message: $('#promptcurso') }); 
