@@ -152,6 +152,7 @@ function queryFEUP($username,$password,$faculdade_codigo,$curso_id,$periodo_id,$
     curl_setopt($ch,CURLOPT_POST,5);
     curl_setopt($ch,CURLOPT_POSTFIELDS,$fieldstr);
     $loginresult = curl_exec($ch);
+	//echo $loginresult;
 	$fcicount=count($faculdade_codigo);
 	for ($fci=0;$fci<$fcicount;$fci++)
 	{
@@ -181,7 +182,7 @@ function queryFEUP($username,$password,$faculdade_codigo,$curso_id,$periodo_id,$
 				$str=$nodes->item($i)->attributes->getNamedItem("href")->nodeValue;
 				$j=strpos($str,'=')+1;
 				$turma_id=substr($str,$j,strpos($str,'&')-$j);
-				//echo  $turma_nome." ".$turma_id." "
+				//echo  $turma_nome." ".$turma_id." ";
 				
 				//POST para sacar o horario
 				$url= 'https://sigarra.up.pt/'.$faculdade_codigo[$fci].'/pt/hor_geral.turmas_view';
@@ -214,18 +215,19 @@ function queryFEUP($username,$password,$faculdade_codigo,$curso_id,$periodo_id,$
 					$xp2 = new DOMXpath($dom2);
 				}
 				else{
-					//echo $url.$fieldstr .'</br>';
+					//echo 'y'.$url.'?'.$fieldstr .'</br>';
 				}
-				$nodesrow = $xp2->query('//td[@valign="top"]/div[1]/table[@class="tabela"]/tr');
-				
+				$nodesrow = $xp2->query('//td[@valign="top"]/div[1]/table[@class="horario"]/tr');
+				//echo $horarioresult;
 				$rowspan=array(0,0,0,0,0,0,0,0); //rowspan para as colunas, 0->horas 1-6-> segunda a sabado, 7-> força a saida do while pk e sempre 0
 				//Comecar as 8 da manha
 				$hora=8.0;
+				
 				//Comecar na row 2, a 1 tem os dias (o xpath comeca a 1 e nao a 0, por isso aumentar o ciclo para <= tb)
 				for($row=2; $row<=$nodesrow->length;$row++)
 				{	
 					
-					$nodescol=$xp2->query('//td[@valign="top"]/div[1]/table[@class="tabela"]/tr['.$row.']/td'); //Nao usar child, por causa dos whitespaces nodes.
+					$nodescol=$xp2->query('//td[@valign="top"]/div[1]/table[@class="horario"]/tr['.$row.']/td'); //Nao usar child, por causa dos whitespaces nodes.
 					$dia=1;
 					for ($col=1;$col<$nodescol->length;$col++)
 					{
