@@ -25,7 +25,7 @@ if (parsePOST()) {
 	$file_contents=file_get_contents($filename);
 	
 	if ($file_contents===FALSE || $force_update||$file_contents=="null") { // Ficheiro nao existe ou update forcado
-		
+		file_put_contents('log.txt', $_POST['curso'].' '.$_POST['anolectivo'].' '.$_POST['periodo'].' '.date("Y-m-d H:i:s").' '.$force_update."\r\n", FILE_APPEND | LOCK_EX);
 		queryFEUP($username,$password,$faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$filename);
 
 	}
