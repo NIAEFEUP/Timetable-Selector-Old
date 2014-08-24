@@ -198,12 +198,17 @@ function queryFEUP($username,$password,$faculdade_codigo,$curso_id,$periodo_id,$
 				//Scrap todas as rows
 				$xp2 = new DOMXpath($dom2);
 				
-				$nodeslinksemana=$xp2->query('//td[@valign="top"]/table[@class="tabela"]/tr[@class="d"]/td/a');
+				//cuidado com inspector de elementos, ele pode dizer q existe um tbody entre o table e o tr mas se virem o source ele não está lá
+				//fazer //table/tbody/tr/td não selecionaria nenhum TD porque nenhum tr é filho de tbody
+				//relativamente a existirem varias classes num elemento ver http://stackoverflow.com/questions/1390568/how-to-match-attributes-that-contain-a-certain-string
+				$nodeslinksemana=$xp2->query('//td[@valign="top"]/table[@class="horario-semanas ecra"]/tr[@class="d"]/td/a');
+				//isto vai buscar aquele bloco que mostra as semanas para horários diferentes. se exisitir, pega no 2º link e reabre nessa página
 				if ($nodeslinksemana->length>0&&$faculdade_codigo[0]=='feup'){
 					//recomeçar
 					$url='https://sigarra.up.pt/'.$faculdade_codigo[$fci].'/pt/'.$nodeslinksemana->item(1)->attributes->getNamedItem('href')->nodeValue;
+					$fieldstr = "";
 					//echo 'x'.$url.'</br>';
-					//POST para sacar o horario, isto deveria ser GET mas POST funciona
+					//Get para sacar o horario
 					curl_setopt($ch,CURLOPT_URL,$url);
 					curl_setopt($ch,CURLOPT_HTTPGET,true);
 					
@@ -240,7 +245,7 @@ function queryFEUP($username,$password,$faculdade_codigo,$curso_id,$periodo_id,$
 						//scrap do td
 						$nodetd=$nodescol->item($col);
 						$tipo=$nodetd->attributes->getNamedItem('class')->nodeValue;
-						if ($tipo=='TP'||$tipo=='T'||$tipo=='P'||$tipo=='L'||$tipo=='PL'||$tipo=='OT')
+						if ($tipo=='TP'||$tipo=='TE'||$tipo=='T'||$tipo=='P'||$tipo=='L'||$tipo=='PL'||$tipo=='OT')
 						{	//se for uma aula
 							//contar o rowspan/duracao da aula
 							$aduracao=$nodetd->attributes->getNamedItem('rowspan')->nodeValue;
@@ -257,6 +262,10 @@ function queryFEUP($username,$password,$faculdade_codigo,$curso_id,$periodo_id,$
 							$turma_cadeira=$xp2->query('.//span/a',$nodetd)->item(0)->nodeValue;
 							//passar tudo para o array
 							
+							
+							//traduzir o tipo para nao ter de atualizar o JS sempre que atualizo no scrapper
+							if ($tipo=='TE') $tipo='T';
+							
 							if (!is_array($horarios[$ano][$asigla][$tipo])) $horarios[$ano][$asigla][$tipo]=array();
 							array_push($horarios[$ano][$asigla][$tipo], array('dia'=>$dia,'hora'=>$hora,'nome'=>$anome,'sigla'=>$asigla,'tipo'=>$tipo,'turma'=>$turma_nome,'turmac'=>$turma_cadeira,'duracao'=>$aduracao,'sala'=>$asala,'profsig'=>$aprofsig,'prof'=>$aprofnome));
 							//gravar o nome da cadeira dentro do objecto da cadeira para facilitar extraçao no js
@@ -264,7 +273,13 @@ function queryFEUP($username,$password,$faculdade_codigo,$curso_id,$periodo_id,$
 							
 							//echo "<p>".$dia." ".$hora." ".$anome." ".$asigla." ".$tipo." ".$turma_nome." ".$turma_cadeira." ".$aduracao." ".$asala." ".$aprofsig." ".$aprofnome."</p>";
 						}
-						
+						else{ //tipo desconhecido
+							if (!empty($nodetd->attributes->getNamedItem('rowspan')->nodeValue))
+							{  //este tipo tem rowspan, escrever no error log e acrescentar o span
+								$rowspan[$dia]=$nodetd->attributes->getNamedItem('rowspan')->nodeValue-1;
+								file_put_contents('error_log.txt', 'Unknown type with span '.$tipo." ".$_POST['curso'].' '.$_POST['anolectivo'].' '.$_POST['periodo'].' '.date("Y-m-d H:i:s").' '.$url."?".$fieldstr."\r\n", FILE_APPEND | LOCK_EX);
+							}
+						}
 						$dia++;
 					}
 					while ($rowspan[$dia]>0)
