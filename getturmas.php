@@ -18,6 +18,7 @@ $force_update=FALSE;		// Forcar actualizacoes da cache
 $username='';				// Username do sigarra
 $password='';				// Password do sigarra
 $filename='default.json';	// Ficheiro da cache
+$errordebug=true;			//fazer echos
 
 
 
@@ -69,6 +70,10 @@ function parsePOST() {
 	}
 	else {
 		return FALSE; // Erro: Necessita do ano lectivo
+	}
+	
+	if (isset($_POST['fulljson'])) {
+		$errordebug=false;
 	}
 
 	if (isset($_POST['periodo'])) {
@@ -245,7 +250,7 @@ function queryFEUP($username,$password,$faculdade_codigo,$curso_id,$periodo_id,$
 						//scrap do td
 						$nodetd=$nodescol->item($col);
 						$tipo=$nodetd->attributes->getNamedItem('class')->nodeValue;
-						if ($tipo=='TP'||$tipo=='TE'||$tipo=='T'||$tipo=='P'||$tipo=='L'||$tipo=='PL'||$tipo=='OT')
+						if ($tipo=='TP'||$tipo=='TE'||$tipo=='T'||$tipo=='P'||$tipo=='PR'||$tipo=='L'||$tipo=='PL'||$tipo=='OT')
 						{	//se for uma aula
 							//contar o rowspan/duracao da aula
 							$aduracao=$nodetd->attributes->getNamedItem('rowspan')->nodeValue;
@@ -265,6 +270,7 @@ function queryFEUP($username,$password,$faculdade_codigo,$curso_id,$periodo_id,$
 							
 							//traduzir o tipo para nao ter de atualizar o JS sempre que atualizo no scrapper
 							if ($tipo=='TE') $tipo='T';
+							if ($tipo=='PR') $tipo='P';
 							
 							if (!is_array($horarios[$ano][$asigla][$tipo])) $horarios[$ano][$asigla][$tipo]=array();
 							array_push($horarios[$ano][$asigla][$tipo], array('dia'=>$dia,'hora'=>$hora,'nome'=>$anome,'sigla'=>$asigla,'tipo'=>$tipo,'turma'=>$turma_nome,'turmac'=>$turma_cadeira,'duracao'=>$aduracao,'sala'=>$asala,'profsig'=>$aprofsig,'prof'=>$aprofnome));
@@ -278,6 +284,7 @@ function queryFEUP($username,$password,$faculdade_codigo,$curso_id,$periodo_id,$
 							{  //este tipo tem rowspan, escrever no error log e acrescentar o span
 								$rowspan[$dia]=$nodetd->attributes->getNamedItem('rowspan')->nodeValue-1;
 								file_put_contents('error_log.txt', 'Unknown type with span '.$tipo." ".$_POST['curso'].' '.$_POST['anolectivo'].' '.$_POST['periodo'].' '.date("Y-m-d H:i:s").' '.$url."?".$fieldstr."\r\n", FILE_APPEND | LOCK_EX);
+								if ($errordebug) echo 'Unknown type with span '.$tipo." ".$_POST['curso'].$url."?".$fieldstr."</br>";
 							}
 						}
 						$dia++;

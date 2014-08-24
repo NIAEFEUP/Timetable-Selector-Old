@@ -477,7 +477,7 @@ function loadTimetable(args){
 	ano_lectivo=infos[1];
 	periodo=infos[2];
     
-	$.post("getturmas.php",{curso:curso,anolectivo:ano_lectivo,periodo:periodo,username:"",password:""},
+	$.post("getturmas.php",{curso:curso,anolectivo:ano_lectivo,periodo:periodo,username:"",password:"",fulljson:"true"},
 		
 		function(data){
 			//console.log(data);
