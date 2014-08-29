@@ -94,8 +94,10 @@ Cadeira.prototype.addTurmas=function(){
 	if (typeof this.data.OT!="undefined"){
 	for (var i=0;i<this.data.OT.length;i++)
 		this.praticas.push(new Aula(this.data.OT[i]));}
+	if (typeof this.data.TC!="undefined"){
 	for (var i=0;i<this.data.TC.length;i++)
 		this.praticas.push(new Aula(this.data.TC[i]));}
+	if (typeof this.data.S!="undefined"){
 	for (var i=0;i<this.data.S.length;i++)
 		this.praticas.push(new Aula(this.data.S[i]));}
 }
