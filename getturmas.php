@@ -250,7 +250,7 @@ function queryFEUP($username,$password,$faculdade_codigo,$curso_id,$periodo_id,$
 						//scrap do td
 						$nodetd=$nodescol->item($col);
 						$tipo=$nodetd->attributes->getNamedItem('class')->nodeValue;
-						if ($tipo=='TP'||$tipo=='TE'||$tipo=='T'||$tipo=='P'||$tipo=='PR'||$tipo=='L'||$tipo=='PL'||$tipo=='OT'||$tipo=='TC')
+						if ($tipo=='TP'||$tipo=='TE'||$tipo=='T'||$tipo=='P'||$tipo=='PR'||$tipo=='L'||$tipo=='PL'||$tipo=='OT'||$tipo=='TC'||$tipo=='S')
 						{	//se for uma aula
 							//contar o rowspan/duracao da aula
 							$aduracao=$nodetd->attributes->getNamedItem('rowspan')->nodeValue;
