@@ -46,6 +46,8 @@ function Aula(jsonobj){
 	if (this.tipo=="P") this.tipoh="pratica";
 	if (this.tipo=="PL") this.tipoh="praticalaboratorial";
 	if (this.tipo=="OT") this.tipoh="orientacaotutorial";
+	if (this.tipo=="TC") this.tipoh="trabalhocampo";
+	if (this.tipo=="S") this.tipoh="seminario";
 	
 	/*this.stleft=100*this.dia-68;
 	this.sttop=23+23*this.horarow;
@@ -92,6 +94,10 @@ Cadeira.prototype.addTurmas=function(){
 	if (typeof this.data.OT!="undefined"){
 	for (var i=0;i<this.data.OT.length;i++)
 		this.praticas.push(new Aula(this.data.OT[i]));}
+	for (var i=0;i<this.data.TC.length;i++)
+		this.praticas.push(new Aula(this.data.TC[i]));}
+	for (var i=0;i<this.data.S.length;i++)
+		this.praticas.push(new Aula(this.data.S[i]));}
 }
 Cadeira.prototype.selectorhtml=function(){
 	this.addTurmas();
@@ -118,6 +124,10 @@ Cadeira.prototype.selectorhtml=function(){
 			str+='</option>';
 		}
 	}
+	if (this.praticas.length!=0 && this.teoricas.length!=0)
+	{
+		this.especialdeCC();
+	}
 	if (this.praticas.length==0) str+='<option value="teoricas">só teoricas</option>'
 	str+='</select>';
 	if (this.teoricas.length!=0) str+='<label><input class="mostrarteoricas" value="'+this.nome+'" type="checkbox" data-cadeira="'+this.nome+'" checked/>Mostrar Teóricas</label>'
@@ -139,7 +149,7 @@ Cadeira.prototype.showTurma=function(){
 		if(this.showteoricas)
 		{
 			$.each(this.teoricas,function(i,aula){
-				if(aula.turma==turmaselect||turmaselect=="teoricas")
+				if(aula.turma==turmaselect||turmaselect=="teoricas"||aula.turma=="teorica")
 				{
 					$('#content').append(aula.horariohtml());
 				}
@@ -170,7 +180,7 @@ Cadeira.prototype.previewTurma=function(turma){
 		if(this.showteoricas)
 		{
 			$.each(this.teoricas,function(i,aula){
-				if(aula.turma==turma||turma=="teoricas")
+				if(aula.turma==turma||turma=="teoricas"||aula.turma=="teorica")
 				{
 					$('#content').append(aula.horariopreviewhtml());
 				}
@@ -178,7 +188,24 @@ Cadeira.prototype.previewTurma=function(turma){
 		}
 	}
 }
-
+Cadeira.prototype.especialdeCC=function(){
+	var fl;
+	for (var i=0;i<this.teoricas.length;i++)
+	{
+		fl=true;
+		for (var j=0;j<this.praticas.length&&fl;j++)
+		{
+			if (this.praticas[j].turma==this.teoricas[i].turma)
+			{
+				fl=false;
+			}
+		}
+		if (fl)
+		{
+			this.teoricas[i].turma="teorica";
+		}
+	}
+}
 Aula.prototype.horariohtml=function(){
 	var str='';
 	str+='<div id="aula'+this.id+'" class="'+this.tipoh+' aula" data-dia="'+this.dia+'" data-horai="'+this.horarow+'"  data-horaf="'+this.horaf+'" data-cadeira="'+this.cadeira+'" style="left:'+this.stleft+'px;top:'+this.sttop+'px;height:'+this.stheight+'px;width:'+this.stwidth+'px;"><div class="aulawrapper">';

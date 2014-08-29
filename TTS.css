@@ -180,6 +180,12 @@ div.praticalaboratorial{
 div.laboratorio{
 	background-color:#D7E9C9;
 }
+div.trabalhocampo{
+	background-color:#cca67b;
+}
+div.seminario{
+	background-color:#cda8cf;
+}
 
 div.aulapreview{
 	z-index:5;
