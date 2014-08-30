@@ -65,11 +65,19 @@ div#content {
 h1 {
 	margin-top:0;
 	margin-bottom:0;
+	line-height:60px;
+	vertical-align:top;
+	display:inline-block;
 }
 header {
+	height:60px;
 	padding-left:1em;
 	color:#FFFFFF;
 	background-color:#1B1C26;
+}
+.logo{
+height:60px;
+margin-right:30px;
 }
 
 /*footer*/
