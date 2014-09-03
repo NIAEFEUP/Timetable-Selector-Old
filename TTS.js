@@ -303,9 +303,9 @@ $(document).ready(function(){
 			semestre=2;
 		}
 		$('#anoselect').val(ano_l);
-		$('#anoselect').prop('disabled', true);
+		//$('#anoselect').prop('disabled', true);
 		$('#semestreselect option').filter('[value='+semestre+']').prop('selected', true);
-		$('#semestreselect').prop('disabled', true);
+		//$('#semestreselect').prop('disabled', true);
 		
 		$.blockUI({ message: $('#promptcurso') }); 
 		
