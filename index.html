@@ -5,8 +5,8 @@
 	<title>TimeTableSelector by NIAEFEUP</title>
 	<link rel="stylesheet" href="TTS.css" />
 	<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css" rel="stylesheet">
-	<script src="http://code.jquery.com/jquery-1.8.3.js"></script>
-	<script src="http://code.jquery.com/ui/1.10.0/jquery-ui.js"></script>
+	<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+	<script src="http://code.jquery.com/ui/1.11.1/jquery-ui.min.js"></script>
 	<script src="http://malsup.github.com/jquery.blockUI.js"></script>
 	<script src="TTS.js"></script>
 	<script>
@@ -29,7 +29,13 @@
 		</table>
 		<div class="selector">
 			<!-- <input type="button" id="updatevagasbtn" value="Carregar vagas"/> -->
-			<input type="button" id="saveTT" title="Copia horário para o URL" value="Gravar horário" />
+			<div id="menu">
+				<input type="button" id="saveTT" title="Copia horário para o URL" value="Gravar horário">
+				<div id="savelinkdisplay" style="display:none">
+					<p>Copia este link:</p>
+					<p><input type="text" readonly="true" value=""></p>
+				</div>
+			</div>
 			<div id="selectorsdiv">
 			</div>
 		</div>

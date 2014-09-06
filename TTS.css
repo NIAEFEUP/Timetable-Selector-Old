@@ -92,6 +92,28 @@ footer a {
 	font-weight:bold;
 }
 
+/*menu*/
+
+#savelinkdisplay {
+    font-size: 10px;
+    margin: 5px 0;
+    max-width: 286px;
+    min-width: 286px;
+}
+
+#savelinkdisplay p {
+  margin: 2px 0;
+}
+
+#savelinkdisplay input {
+  border: 1px solid black;
+  font-size: 10px;
+  font-weight: 400;
+  min-width: 270px;
+  padding: 7px;
+  background-color:#eee;
+}
+
 /*seletor turmas*/
 div.selector{
 	vertical-align:top;

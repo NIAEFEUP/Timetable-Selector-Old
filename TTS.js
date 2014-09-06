@@ -554,4 +554,7 @@ function saveTimetable(){
 		stringsave+="~"+cadeira+"."+aula;
 	});
 	window.location.hash=stringsave;
+	$('#savelinkinput').val(window.location);
+	$('#savelinkdisplay').animate({height:"show"});
+	$('#savelinkinput').select();
 }
