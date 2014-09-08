@@ -399,124 +399,124 @@ function queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$filename
 function updateAll($periodo_id,$anolectivo){
 	
 	$curso='feup-MIEIC'; $faculdade_codigo[0]='feup';$curso_id[0]='742';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='feup-LCEEMG'; $faculdade_codigo[0]='feup';$curso_id[0]='738';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='feup-MEMG'; $faculdade_codigo[0]='feup';$curso_id[0]='739';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='feup-MIB'; $faculdade_codigo[0]='feup';$curso_id[0]='728';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='feup-MIEC'; $faculdade_codigo[0]='feup';$curso_id[0]='740';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='feup-MIEA'; $faculdade_codigo[0]='feup';$curso_id[0]='726';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='feup-MIEEC'; $faculdade_codigo[0]='feup';$curso_id[0]='741';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='feup-MIEIG'; $faculdade_codigo[0]='feup';$curso_id[0]='725';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='feup-MIEM'; $faculdade_codigo[0]='feup';$curso_id[0]='743';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='feup-MIEMM'; $faculdade_codigo[0]='feup';$curso_id[0]='744';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='feup-MIEQ'; $faculdade_codigo[0]='feup';$curso_id[0]='745';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 
 	$curso='fcup-LAP'; $faculdade_codigo[0]='fcup';$curso_id[0]='1011';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='fcup-LAST'; $faculdade_codigo[0]='fcup';$curso_id[0]='956';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='fcup-LB'; $faculdade_codigo[0]='fcup';$curso_id[0]='884';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='fcup-LBQ'; $faculdade_codigo[0]='fcup';$curso_id[0]='863';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='fcup-LCC'; $faculdade_codigo[0]='fcup';$curso_id[0]='885';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='fcup-LCE'; $faculdade_codigo[0]='fcup';$curso_id[0]='886';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='fcup-LCTA'; $faculdade_codigo[0]='fcup';$curso_id[0]='887';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='fcup-LF'; $faculdade_codigo[0]='fcup';$curso_id[0]='888';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='fcup-LG'; $faculdade_codigo[0]='fcup';$curso_id[0]='889';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='fcup-LM'; $faculdade_codigo[0]='fcup';$curso_id[0]='864';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='fcup-LQ'; $faculdade_codigo[0]='fcup';$curso_id[0]='865';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='fcup-MIERS'; $faculdade_codigo[0]='fcup';$curso_id[0]='870';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='fcup-MIEF'; $faculdade_codigo[0]='fcup';$curso_id[0]='890';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 
 	$curso='flup-ARQU'; $faculdade_codigo[0]='flup';$curso_id[0]='339';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='flup-CINF'; $faculdade_codigo[0]='flup';$curso_id[0]='454'; $faculdade_codigo[1]='feup';$curso_id[1]='454';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); $faculdade_codigo=null;$curso_id=null;
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>"; $faculdade_codigo=null;$curso_id=null;
 
 	$curso='flup-CC'; $faculdade_codigo[0]='flup';$curso_id[0]='455';$faculdade_codigo[1]='fep';$curso_id[1]='455';$faculdade_codigo[2]='feup';$curso_id[2]='455';$faculdade_codigo[3]='fbaup';$curso_id[3]='455';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');$faculdade_codigo=null;$curso_id=null;
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";$faculdade_codigo=null;$curso_id=null;
 
 	$curso='flup-CL'; $faculdade_codigo[0]='flup';$curso_id[0]='460';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='flup-EPL'; $faculdade_codigo[0]='flup';$curso_id[0]='459';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='flup-FILO'; $faculdade_codigo[0]='flup';$curso_id[0]='340';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='flup-GEOGR'; $faculdade_codigo[0]='flup';$curso_id[0]='341';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='flup-HISTO'; $faculdade_codigo[0]='flup';$curso_id[0]='342';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='flup-HART'; $faculdade_codigo[0]='flup';$curso_id[0]='453';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='flup-LA'; $faculdade_codigo[0]='flup';$curso_id[0]='456';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='flup-LRI'; $faculdade_codigo[0]='flup';$curso_id[0]='458';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='flup-LLC'; $faculdade_codigo[0]='flup';$curso_id[0]='457';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='flup-SOCI'; $faculdade_codigo[0]='flup';$curso_id[0]='452';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 
 	$curso='fbaup-AP';$faculdade_codigo[0]='fbaup';$curso_id[0]='1315';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 	$curso='fbaup-DC';$faculdade_codigo[0]='fbaup';$curso_id[0]='1314';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json');
+	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
 
 }
 
