@@ -437,7 +437,10 @@ function parse_horario(data){
 		$.each(data2,function(cadeira,obj){
 			
 			if (typeof cadeiras[cadeira] == 'undefined' ) cadeiras[cadeira]=new Cadeira(cadeira,obj);
-			else cadeiras[cadeira].addMoreTurmas(obj);
+			else{
+			cadeiras[cadeira].addMoreTurmas(obj);
+			$('#bug2').show();
+			}
 			$('#listcadeiras'+ano.replace(" ","_")).append('<li class="listcad"><label><input class="listcad" data-ano="'+ano.replace(" ","_")+'" value="'+cadeira+'" type="checkbox"/><abbr title="'+obj.nome+'">'+cadeira+'</abbr></label></li>');
 			nrcad++;
 		});
