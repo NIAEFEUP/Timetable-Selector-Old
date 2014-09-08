@@ -390,10 +390,10 @@ function queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$filename
 	}
 	
 	if (!empty($horarios)) {
-		file_put_contents($filename,json_encode($horarios));
+		file_put_contents($filename,json_encode($horarios,JSON_PRETTY_PRINT));
 		chmod($filename,0644);
 	}
-	echo json_encode($horarios);
+	echo json_encode($horarios,JSON_PRETTY_PRINT);
 }
 
 function updateAll($periodo_id,$anolectivo){
