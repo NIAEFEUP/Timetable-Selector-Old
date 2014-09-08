@@ -1,1 +1,938 @@
-{"1\u00ba Ano":{"AM I":{"TP":[{"dia":2,"hora":8.5,"nome":"An\u00e1lise Matem\u00e1tica I","sigla":"AM I","tipo":"TP","turma":"1LCEEMG01","turmac":"COMP_1874","duracao":"2","sala":"B232A","profsig":"MCV","prof":"Maria Cristina Vila"},{"dia":1,"hora":12,"nome":"An\u00e1lise Matem\u00e1tica I","sigla":"AM I","tipo":"TP","turma":"1LCEEMG02","turmac":"COMP_559","duracao":"2","sala":"B229","profsig":"MLPAD","prof":"Maria De Lurdes Dinis"},{"dia":1,"hora":14,"nome":"An\u00e1lise Matem\u00e1tica I","sigla":"AM I","tipo":"TP","turma":"1LCEEMG03","turmac":"1LCEEMG03","duracao":"2","sala":"B105","profsig":"MLPAD","prof":"Maria De Lurdes Dinis"}],"nome":"An\u00e1lise Matem\u00e1tica I","T":[{"dia":2,"hora":9.5,"nome":"An\u00e1lise Matem\u00e1tica I","sigla":"AM I","tipo":"T","turma":"1LCEEMG01","turmac":"COMP_1142","duracao":"3","sala":"B007","profsig":"JMSC","prof":"Jos\u00e9 Soeiro Carvalho"},{"dia":5,"hora":11.5,"nome":"An\u00e1lise Matem\u00e1tica I","sigla":"AM I","tipo":"T","turma":"1LCEEMG01","turmac":"COMP_1142","duracao":"3","sala":"B017","profsig":"JMSC","prof":"Jos\u00e9 Soeiro Carvalho"},{"dia":2,"hora":9.5,"nome":"An\u00e1lise Matem\u00e1tica I","sigla":"AM I","tipo":"T","turma":"1LCEEMG02","turmac":"COMP_1142","duracao":"3","sala":"B007","profsig":"JMSC","prof":"Jos\u00e9 Soeiro Carvalho"},{"dia":5,"hora":11.5,"nome":"An\u00e1lise Matem\u00e1tica I","sigla":"AM I","tipo":"T","turma":"1LCEEMG02","turmac":"COMP_1142","duracao":"3","sala":"B017","profsig":"JMSC","prof":"Jos\u00e9 Soeiro Carvalho"},{"dia":2,"hora":9.5,"nome":"An\u00e1lise Matem\u00e1tica I","sigla":"AM I","tipo":"T","turma":"1LCEEMG03","turmac":"COMP_1142","duracao":"3","sala":"B007","profsig":"JMSC","prof":"Jos\u00e9 Soeiro Carvalho"},{"dia":5,"hora":11.5,"nome":"An\u00e1lise Matem\u00e1tica I","sigla":"AM I","tipo":"T","turma":"1LCEEMG03","turmac":"COMP_1142","duracao":"3","sala":"B017","profsig":"JMSC","prof":"Jos\u00e9 Soeiro Carvalho"}]},"G I":{"TP":[{"dia":3,"hora":8.5,"nome":"Geologia I","sigla":"G I","tipo":"TP","turma":"1LCEEMG01","turmac":"COMP_1001","duracao":"6","sala":"F204","profsig":"JPMR","prof":null},{"dia":3,"hora":8.5,"nome":"Geologia I","sigla":"G I","tipo":"TP","turma":"1LCEEMG02","turmac":"COMP_1001","duracao":"6","sala":"F204","profsig":"JPMR","prof":null},{"dia":3,"hora":8.5,"nome":"Geologia I","sigla":"G I","tipo":"TP","turma":"1LCEEMG03","turmac":"COMP_1001","duracao":"6","sala":"F204","profsig":"JPMR","prof":null}],"nome":"Geologia I","PL":[{"dia":5,"hora":10.5,"nome":"Geologia I","sigla":"G I","tipo":"PL","turma":"1LCEEMG01","turmac":"COMP_1001","duracao":"2","sala":"F205","profsig":"JPMR","prof":null},{"dia":5,"hora":10.5,"nome":"Geologia I","sigla":"G I","tipo":"PL","turma":"1LCEEMG02","turmac":"COMP_1001","duracao":"2","sala":"F205","profsig":"JPMR","prof":null},{"dia":5,"hora":10.5,"nome":"Geologia I","sigla":"G I","tipo":"PL","turma":"1LCEEMG03","turmac":"COMP_1001","duracao":"2","sala":"F205","profsig":"JPMR","prof":null}]},"DT":{"TP":[{"dia":5,"hora":8.5,"nome":"Desenho T\u00e9cnico","sigla":"DT","tipo":"TP","turma":"1LCEEMG01","turmac":"COMP_1001","duracao":"4","sala":"B108","profsig":"FXC","prof":"Francisco Xavier De Carvalho"},{"dia":4,"hora":9.5,"nome":"Desenho T\u00e9cnico","sigla":"DT","tipo":"TP","turma":"1LCEEMG01","turmac":"COMP_1001","duracao":"4","sala":"B112","profsig":"FXC","prof":"Francisco Xavier De Carvalho"},{"dia":5,"hora":8.5,"nome":"Desenho T\u00e9cnico","sigla":"DT","tipo":"TP","turma":"1LCEEMG02","turmac":"COMP_1001","duracao":"4","sala":"B108","profsig":"FXC","prof":"Francisco Xavier De Carvalho"},{"dia":4,"hora":9.5,"nome":"Desenho T\u00e9cnico","sigla":"DT","tipo":"TP","turma":"1LCEEMG02","turmac":"COMP_1001","duracao":"4","sala":"B112","profsig":"FXC","prof":"Francisco Xavier De Carvalho"},{"dia":5,"hora":8.5,"nome":"Desenho T\u00e9cnico","sigla":"DT","tipo":"TP","turma":"1LCEEMG03","turmac":"COMP_1001","duracao":"4","sala":"B108","profsig":"FXC","prof":"Francisco Xavier De Carvalho"},{"dia":4,"hora":9.5,"nome":"Desenho T\u00e9cnico","sigla":"DT","tipo":"TP","turma":"1LCEEMG03","turmac":"COMP_1001","duracao":"4","sala":"B112","profsig":"FXC","prof":"Francisco Xavier De Carvalho"}],"nome":"Desenho T\u00e9cnico"},"QUIM1":{"PL":[{"dia":1,"hora":11,"nome":"Qu\u00edmica I","sigla":"QUIM1","tipo":"PL","turma":"1LCEEMG01","turmac":"COMP_1117","duracao":"4","sala":"F303","profsig":"MLopes","prof":"Maria Ascens\u00e3o Lopes"},{"dia":1,"hora":9,"nome":"Qu\u00edmica I","sigla":"QUIM1","tipo":"PL","turma":"1LCEEMG02","turmac":"COMP_1576","duracao":"4","sala":"F303","profsig":"MLopes","prof":"Maria Ascens\u00e3o Lopes"},{"dia":1,"hora":15,"nome":"Qu\u00edmica I","sigla":"QUIM1","tipo":"PL","turma":"1LCEEMG03","turmac":"COMP_1818","duracao":"4","sala":"F303","profsig":"MLopes","prof":"Maria Ascens\u00e3o Lopes"}],"nome":"Qu\u00edmica I","TP":[{"dia":4,"hora":11.5,"nome":"Qu\u00edmica I","sigla":"QUIM1","tipo":"TP","turma":"1LCEEMG01","turmac":"COMP_1578","duracao":"4","sala":"B005","profsig":"MLopes","prof":"Maria Ascens\u00e3o Lopes"},{"dia":4,"hora":11.5,"nome":"Qu\u00edmica I","sigla":"QUIM1","tipo":"TP","turma":"1LCEEMG02","turmac":"COMP_1578","duracao":"4","sala":"B005","profsig":"MLopes","prof":"Maria Ascens\u00e3o Lopes"},{"dia":4,"hora":11.5,"nome":"Qu\u00edmica I","sigla":"QUIM1","tipo":"TP","turma":"1LCEEMG03","turmac":"COMP_1578","duracao":"4","sala":"B005","profsig":"MLopes","prof":"Maria Ascens\u00e3o Lopes"}]},"ALGE":{"TP":[{"dia":3,"hora":11.5,"nome":"\u00c1lgebra","sigla":"ALGE","tipo":"TP","turma":"1LCEEMG01","turmac":"COMP_1851","duracao":"4","sala":"B024","profsig":"JSG","prof":"Joaquim G\u00f3is"},{"dia":2,"hora":14,"nome":"\u00c1lgebra","sigla":"ALGE","tipo":"TP","turma":"1LCEEMG01","turmac":"COMP_843","duracao":"4","sala":"B017","profsig":"JSG","prof":"Joaquim G\u00f3is"},{"dia":3,"hora":11.5,"nome":"\u00c1lgebra","sigla":"ALGE","tipo":"TP","turma":"1LCEEMG02","turmac":"COMP_1851","duracao":"4","sala":"B024","profsig":"JSG","prof":"Joaquim G\u00f3is"},{"dia":2,"hora":14,"nome":"\u00c1lgebra","sigla":"ALGE","tipo":"TP","turma":"1LCEEMG02","turmac":"COMP_843","duracao":"4","sala":"B017","profsig":"JSG","prof":"Joaquim G\u00f3is"},{"dia":3,"hora":11.5,"nome":"\u00c1lgebra","sigla":"ALGE","tipo":"TP","turma":"1LCEEMG03","turmac":"COMP_1851","duracao":"4","sala":"B024","profsig":"JSG","prof":"Joaquim G\u00f3is"},{"dia":2,"hora":14,"nome":"\u00c1lgebra","sigla":"ALGE","tipo":"TP","turma":"1LCEEMG03","turmac":"COMP_843","duracao":"4","sala":"B017","profsig":"JSG","prof":"Joaquim G\u00f3is"}],"nome":"\u00c1lgebra"},"PF":{"TP":[{"dia":2,"hora":16,"nome":"Projeto FEUP","sigla":"PF","tipo":"TP","turma":"1LCEEMG01","turmac":"COMP_326","duracao":"4","sala":"F103","profsig":"FMV","prof":"Filomena Viana"},{"dia":1,"hora":14,"nome":"Projeto FEUP","sigla":"PF","tipo":"TP","turma":"1LCEEMG02","turmac":"COMP_1781","duracao":"4","sala":"F103","profsig":"SS","prof":"Sonia Sim\u00f5es"}],"nome":"Projeto FEUP"}},"2\u00ba Ano":{"RM":{"TP":[{"dia":1,"hora":14,"nome":"Resist\u00eancia de Materiais","sigla":"RM","tipo":"TP","turma":"2LCEEMG01","turmac":"COMP_407","duracao":"4","sala":"B108","profsig":"JSE","prof":"Jos\u00e9 Lu\u00eds Soares Esteves"},{"dia":2,"hora":16,"nome":"Resist\u00eancia de Materiais","sigla":"RM","tipo":"TP","turma":"2LCEEMG01","turmac":"COMP_407","duracao":"4","sala":"B319","profsig":"JSE","prof":"Jos\u00e9 Lu\u00eds Soares Esteves"},{"dia":1,"hora":14,"nome":"Resist\u00eancia de Materiais","sigla":"RM","tipo":"TP","turma":"2LCEEMG02","turmac":"COMP_407","duracao":"4","sala":"B108","profsig":"JSE","prof":"Jos\u00e9 Lu\u00eds Soares Esteves"},{"dia":2,"hora":16,"nome":"Resist\u00eancia de Materiais","sigla":"RM","tipo":"TP","turma":"2LCEEMG02","turmac":"COMP_407","duracao":"4","sala":"B319","profsig":"JSE","prof":"Jos\u00e9 Lu\u00eds Soares Esteves"}],"nome":"Resist\u00eancia de Materiais"},"MN":{"TP":[{"dia":2,"hora":14,"nome":"M\u00e9todos Num\u00e9ricos","sigla":"MN","tipo":"TP","turma":"2LCEEMG01","turmac":"COMP_336","duracao":"4","sala":"B303","profsig":"JMSC","prof":"Jos\u00e9 Soeiro Carvalho"},{"dia":2,"hora":14,"nome":"M\u00e9todos Num\u00e9ricos","sigla":"MN","tipo":"TP","turma":"2LCEEMG02","turmac":"COMP_336","duracao":"4","sala":"B303","profsig":"JMSC","prof":"Jos\u00e9 Soeiro Carvalho"}],"nome":"M\u00e9todos Num\u00e9ricos","T":[{"dia":3,"hora":16,"nome":"M\u00e9todos Num\u00e9ricos","sigla":"MN","tipo":"T","turma":"2LCEEMG01","turmac":"COMP_1855","duracao":"4","sala":"B003","profsig":"JMSC+MCV","prof":null},{"dia":3,"hora":16,"nome":"M\u00e9todos Num\u00e9ricos","sigla":"MN","tipo":"T","turma":"2LCEEMG02","turmac":"COMP_1855","duracao":"4","sala":"B003","profsig":"JMSC+MCV","prof":null}]},"QA":{"TP":[{"dia":3,"hora":14,"nome":"Qu\u00edmica Ambiental","sigla":"QA","tipo":"TP","turma":"2LCEEMG01","turmac":"COMP_407","duracao":"4","sala":"B220","profsig":"MLPAD","prof":"Maria De Lurdes Dinis"},{"dia":3,"hora":14,"nome":"Qu\u00edmica Ambiental","sigla":"QA","tipo":"TP","turma":"2LCEEMG02","turmac":"COMP_407","duracao":"4","sala":"B220","profsig":"MLPAD","prof":"Maria De Lurdes Dinis"}],"nome":"Qu\u00edmica Ambiental","PL":[{"dia":1,"hora":16,"nome":"Qu\u00edmica Ambiental","sigla":"QA","tipo":"PL","turma":"2LCEEMG01","turmac":"COMP_407","duracao":"4","sala":"B222","profsig":"MLPAD","prof":"Maria De Lurdes Dinis"},{"dia":1,"hora":16,"nome":"Qu\u00edmica Ambiental","sigla":"QA","tipo":"PL","turma":"2LCEEMG02","turmac":"COMP_407","duracao":"4","sala":"B222","profsig":"MLPAD","prof":"Maria De Lurdes Dinis"}]},"FISI2":{"PL":[{"dia":4,"hora":14,"nome":"F\u00edsica II","sigla":"FISI2","tipo":"PL","turma":"2LCEEMG01","turmac":"COMP_1253","duracao":"4","sala":"B031","profsig":"PJG","prof":"Paulo Garcia"},{"dia":5,"hora":11,"nome":"F\u00edsica II","sigla":"FISI2","tipo":"PL","turma":"2LCEEMG02","turmac":"COMP_1672","duracao":"4","sala":"B011","profsig":"PJG","prof":"Paulo Garcia"}],"nome":"F\u00edsica II","TP":[{"dia":4,"hora":16,"nome":"F\u00edsica II","sigla":"FISI2","tipo":"TP","turma":"2LCEEMG01","turmac":"COMP_1255","duracao":"4","sala":"B029","profsig":"PJG","prof":"Paulo Garcia"},{"dia":4,"hora":16,"nome":"F\u00edsica II","sigla":"FISI2","tipo":"TP","turma":"2LCEEMG02","turmac":"COMP_1255","duracao":"4","sala":"B029","profsig":"PJG","prof":"Paulo Garcia"}]},"P":{"PL":[{"dia":5,"hora":14,"nome":"Petrologia","sigla":"P","tipo":"PL","turma":"2LCEEMG01","turmac":"COMP_407","duracao":"2","sala":"F205","profsig":"JPMR","prof":null},{"dia":5,"hora":14,"nome":"Petrologia","sigla":"P","tipo":"PL","turma":"2LCEEMG02","turmac":"COMP_407","duracao":"2","sala":"F205","profsig":"JPMR","prof":null}],"nome":"Petrologia","TP":[{"dia":5,"hora":15,"nome":"Petrologia","sigla":"P","tipo":"TP","turma":"2LCEEMG01","turmac":"2LCEEMG01","duracao":"6","sala":"F204","profsig":"JPMR","prof":null}]}},"3\u00ba Ano":{"TMPR I":{"TP":[{"dia":1,"hora":8,"nome":"Tratamento de Mat\u00e9rias Primas e Res\u00edduos I","sigla":"TMPR I","tipo":"TP","turma":"3LCEEMG01","turmac":"3LCEEMG01","duracao":"4","sala":"F204","profsig":"AFS+MML","prof":null}],"nome":"Tratamento de Mat\u00e9rias Primas e Res\u00edduos I","PL":[{"dia":1,"hora":10,"nome":"Tratamento de Mat\u00e9rias Primas e Res\u00edduos I","sigla":"TMPR I","tipo":"PL","turma":"3LCEEMG01","turmac":"3LCEEMG01","duracao":"4","sala":"F204","profsig":"AFS+MML","prof":null}]},"GA":{"PL":[{"dia":5,"hora":8.5,"nome":"Geologia Ambiental","sigla":"GA","tipo":"PL","turma":"3LCEEMG01","turmac":"3LCEEMG01","duracao":"4","sala":"F204","profsig":"AML+AFS","prof":null}],"nome":"Geologia Ambiental","TP":[{"dia":1,"hora":14,"nome":"Geologia Ambiental","sigla":"GA","tipo":"TP","turma":"3LCEEMG01","turmac":"3LCEEMG01","duracao":"4","sala":"F204","profsig":"AML+AFS","prof":null}]},"AAD":{"TP":[{"dia":3,"hora":9.5,"nome":"Aquisi\u00e7\u00e3o e An\u00e1lise de Dados","sigla":"AAD","tipo":"TP","turma":"3LCEEMG01","turmac":"3LCEEMG01","duracao":"4","sala":"B305","profsig":"JSG","prof":"Joaquim G\u00f3is"},{"dia":4,"hora":11,"nome":"Aquisi\u00e7\u00e3o e An\u00e1lise de Dados","sigla":"AAD","tipo":"TP","turma":"3LCEEMG01","turmac":"3LCEEMG01","duracao":"4","sala":"B304","profsig":"JSG","prof":"Joaquim G\u00f3is"}],"nome":"Aquisi\u00e7\u00e3o e An\u00e1lise de Dados"},"ECAP":{"TP":[{"dia":2,"hora":10.5,"nome":"Engenharia de Custos e Avalia\u00e7\u00e3o de Projetos","sigla":"ECAP","tipo":"TP","turma":"3LCEEMG01","turmac":"3LCEEMG01","duracao":"4","sala":"B309","profsig":"JCCG","prof":"Joana Guedes"},{"dia":1,"hora":18,"nome":"Engenharia de Custos e Avalia\u00e7\u00e3o de Projetos","sigla":"ECAP","tipo":"TP","turma":"3LCEEMG01","turmac":"3LCEEMG01","duracao":"4","sala":"B232A","profsig":"JSB","prof":"Jo\u00e3o Santos Baptista"}],"nome":"Engenharia de Custos e Avalia\u00e7\u00e3o de Projetos"},"DM":{"TP":[{"dia":5,"hora":11,"nome":"Desmonte de Maci\u00e7os","sigla":"DM","tipo":"TP","turma":"3LCEEMG01","turmac":"3LCEEMG01","duracao":"4","sala":"F204","profsig":"MFTD+AML+JCG","prof":null},{"dia":4,"hora":15,"nome":"Desmonte de Maci\u00e7os","sigla":"DM","tipo":"TP","turma":"3LCEEMG01","turmac":"3LCEEMG01","duracao":"4","sala":"F204","profsig":"MFTD+AML+JCG","prof":null}],"nome":"Desmonte de Maci\u00e7os"}}}
+{
+    "1\u00ba Ano": {
+        "AM I": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "An\u00e1lise Matem\u00e1tica I",
+                    "sigla": "AM I",
+                    "tipo": "TP",
+                    "turma": "1LCEEMG01",
+                    "turmac": "COMP_1874",
+                    "duracao": "2",
+                    "sala": "B232A",
+                    "profsig": "MCV",
+                    "prof": "Maria Cristina Vila"
+                },
+                {
+                    "dia": 1,
+                    "hora": 12,
+                    "nome": "An\u00e1lise Matem\u00e1tica I",
+                    "sigla": "AM I",
+                    "tipo": "TP",
+                    "turma": "1LCEEMG02",
+                    "turmac": "COMP_559",
+                    "duracao": "2",
+                    "sala": "B229",
+                    "profsig": "MLPAD",
+                    "prof": "Maria De Lurdes Dinis"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "An\u00e1lise Matem\u00e1tica I",
+                    "sigla": "AM I",
+                    "tipo": "TP",
+                    "turma": "1LCEEMG03",
+                    "turmac": "1LCEEMG03",
+                    "duracao": "2",
+                    "sala": "B105",
+                    "profsig": "MLPAD",
+                    "prof": "Maria De Lurdes Dinis"
+                }
+            ],
+            "nome": "An\u00e1lise Matem\u00e1tica I",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 9.5,
+                    "nome": "An\u00e1lise Matem\u00e1tica I",
+                    "sigla": "AM I",
+                    "tipo": "T",
+                    "turma": "1LCEEMG01",
+                    "turmac": "COMP_1142",
+                    "duracao": "3",
+                    "sala": "B007",
+                    "profsig": "JMSC",
+                    "prof": "Jos\u00e9 Soeiro Carvalho"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11.5,
+                    "nome": "An\u00e1lise Matem\u00e1tica I",
+                    "sigla": "AM I",
+                    "tipo": "T",
+                    "turma": "1LCEEMG01",
+                    "turmac": "COMP_1142",
+                    "duracao": "3",
+                    "sala": "B017",
+                    "profsig": "JMSC",
+                    "prof": "Jos\u00e9 Soeiro Carvalho"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9.5,
+                    "nome": "An\u00e1lise Matem\u00e1tica I",
+                    "sigla": "AM I",
+                    "tipo": "T",
+                    "turma": "1LCEEMG02",
+                    "turmac": "COMP_1142",
+                    "duracao": "3",
+                    "sala": "B007",
+                    "profsig": "JMSC",
+                    "prof": "Jos\u00e9 Soeiro Carvalho"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11.5,
+                    "nome": "An\u00e1lise Matem\u00e1tica I",
+                    "sigla": "AM I",
+                    "tipo": "T",
+                    "turma": "1LCEEMG02",
+                    "turmac": "COMP_1142",
+                    "duracao": "3",
+                    "sala": "B017",
+                    "profsig": "JMSC",
+                    "prof": "Jos\u00e9 Soeiro Carvalho"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9.5,
+                    "nome": "An\u00e1lise Matem\u00e1tica I",
+                    "sigla": "AM I",
+                    "tipo": "T",
+                    "turma": "1LCEEMG03",
+                    "turmac": "COMP_1142",
+                    "duracao": "3",
+                    "sala": "B007",
+                    "profsig": "JMSC",
+                    "prof": "Jos\u00e9 Soeiro Carvalho"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11.5,
+                    "nome": "An\u00e1lise Matem\u00e1tica I",
+                    "sigla": "AM I",
+                    "tipo": "T",
+                    "turma": "1LCEEMG03",
+                    "turmac": "COMP_1142",
+                    "duracao": "3",
+                    "sala": "B017",
+                    "profsig": "JMSC",
+                    "prof": "Jos\u00e9 Soeiro Carvalho"
+                }
+            ]
+        },
+        "G I": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 8.5,
+                    "nome": "Geologia I",
+                    "sigla": "G I",
+                    "tipo": "TP",
+                    "turma": "1LCEEMG01",
+                    "turmac": "COMP_1001",
+                    "duracao": "6",
+                    "sala": "F204",
+                    "profsig": "JPMR",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 8.5,
+                    "nome": "Geologia I",
+                    "sigla": "G I",
+                    "tipo": "TP",
+                    "turma": "1LCEEMG02",
+                    "turmac": "COMP_1001",
+                    "duracao": "6",
+                    "sala": "F204",
+                    "profsig": "JPMR",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 8.5,
+                    "nome": "Geologia I",
+                    "sigla": "G I",
+                    "tipo": "TP",
+                    "turma": "1LCEEMG03",
+                    "turmac": "COMP_1001",
+                    "duracao": "6",
+                    "sala": "F204",
+                    "profsig": "JPMR",
+                    "prof": null
+                }
+            ],
+            "nome": "Geologia I",
+            "PL": [
+                {
+                    "dia": 5,
+                    "hora": 10.5,
+                    "nome": "Geologia I",
+                    "sigla": "G I",
+                    "tipo": "PL",
+                    "turma": "1LCEEMG01",
+                    "turmac": "COMP_1001",
+                    "duracao": "2",
+                    "sala": "F205",
+                    "profsig": "JPMR",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 10.5,
+                    "nome": "Geologia I",
+                    "sigla": "G I",
+                    "tipo": "PL",
+                    "turma": "1LCEEMG02",
+                    "turmac": "COMP_1001",
+                    "duracao": "2",
+                    "sala": "F205",
+                    "profsig": "JPMR",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 10.5,
+                    "nome": "Geologia I",
+                    "sigla": "G I",
+                    "tipo": "PL",
+                    "turma": "1LCEEMG03",
+                    "turmac": "COMP_1001",
+                    "duracao": "2",
+                    "sala": "F205",
+                    "profsig": "JPMR",
+                    "prof": null
+                }
+            ]
+        },
+        "DT": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Desenho T\u00e9cnico",
+                    "sigla": "DT",
+                    "tipo": "TP",
+                    "turma": "1LCEEMG01",
+                    "turmac": "COMP_1001",
+                    "duracao": "4",
+                    "sala": "B108",
+                    "profsig": "FXC",
+                    "prof": "Francisco Xavier De Carvalho"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Desenho T\u00e9cnico",
+                    "sigla": "DT",
+                    "tipo": "TP",
+                    "turma": "1LCEEMG01",
+                    "turmac": "COMP_1001",
+                    "duracao": "4",
+                    "sala": "B112",
+                    "profsig": "FXC",
+                    "prof": "Francisco Xavier De Carvalho"
+                },
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Desenho T\u00e9cnico",
+                    "sigla": "DT",
+                    "tipo": "TP",
+                    "turma": "1LCEEMG02",
+                    "turmac": "COMP_1001",
+                    "duracao": "4",
+                    "sala": "B108",
+                    "profsig": "FXC",
+                    "prof": "Francisco Xavier De Carvalho"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Desenho T\u00e9cnico",
+                    "sigla": "DT",
+                    "tipo": "TP",
+                    "turma": "1LCEEMG02",
+                    "turmac": "COMP_1001",
+                    "duracao": "4",
+                    "sala": "B112",
+                    "profsig": "FXC",
+                    "prof": "Francisco Xavier De Carvalho"
+                },
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Desenho T\u00e9cnico",
+                    "sigla": "DT",
+                    "tipo": "TP",
+                    "turma": "1LCEEMG03",
+                    "turmac": "COMP_1001",
+                    "duracao": "4",
+                    "sala": "B108",
+                    "profsig": "FXC",
+                    "prof": "Francisco Xavier De Carvalho"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Desenho T\u00e9cnico",
+                    "sigla": "DT",
+                    "tipo": "TP",
+                    "turma": "1LCEEMG03",
+                    "turmac": "COMP_1001",
+                    "duracao": "4",
+                    "sala": "B112",
+                    "profsig": "FXC",
+                    "prof": "Francisco Xavier De Carvalho"
+                }
+            ],
+            "nome": "Desenho T\u00e9cnico"
+        },
+        "QUIM1": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Qu\u00edmica I",
+                    "sigla": "QUIM1",
+                    "tipo": "PL",
+                    "turma": "1LCEEMG01",
+                    "turmac": "COMP_1117",
+                    "duracao": "4",
+                    "sala": "F303",
+                    "profsig": "MLopes",
+                    "prof": "Maria Ascens\u00e3o Lopes"
+                },
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Qu\u00edmica I",
+                    "sigla": "QUIM1",
+                    "tipo": "PL",
+                    "turma": "1LCEEMG02",
+                    "turmac": "COMP_1576",
+                    "duracao": "4",
+                    "sala": "F303",
+                    "profsig": "MLopes",
+                    "prof": "Maria Ascens\u00e3o Lopes"
+                },
+                {
+                    "dia": 1,
+                    "hora": 15,
+                    "nome": "Qu\u00edmica I",
+                    "sigla": "QUIM1",
+                    "tipo": "PL",
+                    "turma": "1LCEEMG03",
+                    "turmac": "COMP_1818",
+                    "duracao": "4",
+                    "sala": "F303",
+                    "profsig": "MLopes",
+                    "prof": "Maria Ascens\u00e3o Lopes"
+                }
+            ],
+            "nome": "Qu\u00edmica I",
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 11.5,
+                    "nome": "Qu\u00edmica I",
+                    "sigla": "QUIM1",
+                    "tipo": "TP",
+                    "turma": "1LCEEMG01",
+                    "turmac": "COMP_1578",
+                    "duracao": "4",
+                    "sala": "B005",
+                    "profsig": "MLopes",
+                    "prof": "Maria Ascens\u00e3o Lopes"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11.5,
+                    "nome": "Qu\u00edmica I",
+                    "sigla": "QUIM1",
+                    "tipo": "TP",
+                    "turma": "1LCEEMG02",
+                    "turmac": "COMP_1578",
+                    "duracao": "4",
+                    "sala": "B005",
+                    "profsig": "MLopes",
+                    "prof": "Maria Ascens\u00e3o Lopes"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11.5,
+                    "nome": "Qu\u00edmica I",
+                    "sigla": "QUIM1",
+                    "tipo": "TP",
+                    "turma": "1LCEEMG03",
+                    "turmac": "COMP_1578",
+                    "duracao": "4",
+                    "sala": "B005",
+                    "profsig": "MLopes",
+                    "prof": "Maria Ascens\u00e3o Lopes"
+                }
+            ]
+        },
+        "ALGE": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 11.5,
+                    "nome": "\u00c1lgebra",
+                    "sigla": "ALGE",
+                    "tipo": "TP",
+                    "turma": "1LCEEMG01",
+                    "turmac": "COMP_1851",
+                    "duracao": "4",
+                    "sala": "B024",
+                    "profsig": "JSG",
+                    "prof": "Joaquim G\u00f3is"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "\u00c1lgebra",
+                    "sigla": "ALGE",
+                    "tipo": "TP",
+                    "turma": "1LCEEMG01",
+                    "turmac": "COMP_843",
+                    "duracao": "4",
+                    "sala": "B017",
+                    "profsig": "JSG",
+                    "prof": "Joaquim G\u00f3is"
+                },
+                {
+                    "dia": 3,
+                    "hora": 11.5,
+                    "nome": "\u00c1lgebra",
+                    "sigla": "ALGE",
+                    "tipo": "TP",
+                    "turma": "1LCEEMG02",
+                    "turmac": "COMP_1851",
+                    "duracao": "4",
+                    "sala": "B024",
+                    "profsig": "JSG",
+                    "prof": "Joaquim G\u00f3is"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "\u00c1lgebra",
+                    "sigla": "ALGE",
+                    "tipo": "TP",
+                    "turma": "1LCEEMG02",
+                    "turmac": "COMP_843",
+                    "duracao": "4",
+                    "sala": "B017",
+                    "profsig": "JSG",
+                    "prof": "Joaquim G\u00f3is"
+                },
+                {
+                    "dia": 3,
+                    "hora": 11.5,
+                    "nome": "\u00c1lgebra",
+                    "sigla": "ALGE",
+                    "tipo": "TP",
+                    "turma": "1LCEEMG03",
+                    "turmac": "COMP_1851",
+                    "duracao": "4",
+                    "sala": "B024",
+                    "profsig": "JSG",
+                    "prof": "Joaquim G\u00f3is"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "\u00c1lgebra",
+                    "sigla": "ALGE",
+                    "tipo": "TP",
+                    "turma": "1LCEEMG03",
+                    "turmac": "COMP_843",
+                    "duracao": "4",
+                    "sala": "B017",
+                    "profsig": "JSG",
+                    "prof": "Joaquim G\u00f3is"
+                }
+            ],
+            "nome": "\u00c1lgebra"
+        },
+        "PF": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Projeto FEUP",
+                    "sigla": "PF",
+                    "tipo": "TP",
+                    "turma": "1LCEEMG01",
+                    "turmac": "COMP_326",
+                    "duracao": "4",
+                    "sala": "F103",
+                    "profsig": "FMV",
+                    "prof": "Filomena Viana"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Projeto FEUP",
+                    "sigla": "PF",
+                    "tipo": "TP",
+                    "turma": "1LCEEMG02",
+                    "turmac": "COMP_1781",
+                    "duracao": "4",
+                    "sala": "F103",
+                    "profsig": "SS",
+                    "prof": "Sonia Sim\u00f5es"
+                }
+            ],
+            "nome": "Projeto FEUP"
+        }
+    },
+    "2\u00ba Ano": {
+        "RM": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Resist\u00eancia de Materiais",
+                    "sigla": "RM",
+                    "tipo": "TP",
+                    "turma": "2LCEEMG01",
+                    "turmac": "COMP_407",
+                    "duracao": "4",
+                    "sala": "B108",
+                    "profsig": "JSE",
+                    "prof": "Jos\u00e9 Lu\u00eds Soares Esteves"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Resist\u00eancia de Materiais",
+                    "sigla": "RM",
+                    "tipo": "TP",
+                    "turma": "2LCEEMG01",
+                    "turmac": "COMP_407",
+                    "duracao": "4",
+                    "sala": "B319",
+                    "profsig": "JSE",
+                    "prof": "Jos\u00e9 Lu\u00eds Soares Esteves"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Resist\u00eancia de Materiais",
+                    "sigla": "RM",
+                    "tipo": "TP",
+                    "turma": "2LCEEMG02",
+                    "turmac": "COMP_407",
+                    "duracao": "4",
+                    "sala": "B108",
+                    "profsig": "JSE",
+                    "prof": "Jos\u00e9 Lu\u00eds Soares Esteves"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Resist\u00eancia de Materiais",
+                    "sigla": "RM",
+                    "tipo": "TP",
+                    "turma": "2LCEEMG02",
+                    "turmac": "COMP_407",
+                    "duracao": "4",
+                    "sala": "B319",
+                    "profsig": "JSE",
+                    "prof": "Jos\u00e9 Lu\u00eds Soares Esteves"
+                }
+            ],
+            "nome": "Resist\u00eancia de Materiais"
+        },
+        "MN": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "M\u00e9todos Num\u00e9ricos",
+                    "sigla": "MN",
+                    "tipo": "TP",
+                    "turma": "2LCEEMG01",
+                    "turmac": "COMP_336",
+                    "duracao": "4",
+                    "sala": "B303",
+                    "profsig": "JMSC",
+                    "prof": "Jos\u00e9 Soeiro Carvalho"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "M\u00e9todos Num\u00e9ricos",
+                    "sigla": "MN",
+                    "tipo": "TP",
+                    "turma": "2LCEEMG02",
+                    "turmac": "COMP_336",
+                    "duracao": "4",
+                    "sala": "B303",
+                    "profsig": "JMSC",
+                    "prof": "Jos\u00e9 Soeiro Carvalho"
+                }
+            ],
+            "nome": "M\u00e9todos Num\u00e9ricos",
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 16,
+                    "nome": "M\u00e9todos Num\u00e9ricos",
+                    "sigla": "MN",
+                    "tipo": "T",
+                    "turma": "2LCEEMG01",
+                    "turmac": "COMP_1855",
+                    "duracao": "4",
+                    "sala": "B003",
+                    "profsig": "JMSC+MCV",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 16,
+                    "nome": "M\u00e9todos Num\u00e9ricos",
+                    "sigla": "MN",
+                    "tipo": "T",
+                    "turma": "2LCEEMG02",
+                    "turmac": "COMP_1855",
+                    "duracao": "4",
+                    "sala": "B003",
+                    "profsig": "JMSC+MCV",
+                    "prof": null
+                }
+            ]
+        },
+        "QA": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Qu\u00edmica Ambiental",
+                    "sigla": "QA",
+                    "tipo": "TP",
+                    "turma": "2LCEEMG01",
+                    "turmac": "COMP_407",
+                    "duracao": "4",
+                    "sala": "B220",
+                    "profsig": "MLPAD",
+                    "prof": "Maria De Lurdes Dinis"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Qu\u00edmica Ambiental",
+                    "sigla": "QA",
+                    "tipo": "TP",
+                    "turma": "2LCEEMG02",
+                    "turmac": "COMP_407",
+                    "duracao": "4",
+                    "sala": "B220",
+                    "profsig": "MLPAD",
+                    "prof": "Maria De Lurdes Dinis"
+                }
+            ],
+            "nome": "Qu\u00edmica Ambiental",
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Qu\u00edmica Ambiental",
+                    "sigla": "QA",
+                    "tipo": "PL",
+                    "turma": "2LCEEMG01",
+                    "turmac": "COMP_407",
+                    "duracao": "4",
+                    "sala": "B222",
+                    "profsig": "MLPAD",
+                    "prof": "Maria De Lurdes Dinis"
+                },
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Qu\u00edmica Ambiental",
+                    "sigla": "QA",
+                    "tipo": "PL",
+                    "turma": "2LCEEMG02",
+                    "turmac": "COMP_407",
+                    "duracao": "4",
+                    "sala": "B222",
+                    "profsig": "MLPAD",
+                    "prof": "Maria De Lurdes Dinis"
+                }
+            ]
+        },
+        "FISI2": {
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "F\u00edsica II",
+                    "sigla": "FISI2",
+                    "tipo": "PL",
+                    "turma": "2LCEEMG01",
+                    "turmac": "COMP_1253",
+                    "duracao": "4",
+                    "sala": "B031",
+                    "profsig": "PJG",
+                    "prof": "Paulo Garcia"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "F\u00edsica II",
+                    "sigla": "FISI2",
+                    "tipo": "PL",
+                    "turma": "2LCEEMG02",
+                    "turmac": "COMP_1672",
+                    "duracao": "4",
+                    "sala": "B011",
+                    "profsig": "PJG",
+                    "prof": "Paulo Garcia"
+                }
+            ],
+            "nome": "F\u00edsica II",
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "F\u00edsica II",
+                    "sigla": "FISI2",
+                    "tipo": "TP",
+                    "turma": "2LCEEMG01",
+                    "turmac": "COMP_1255",
+                    "duracao": "4",
+                    "sala": "B029",
+                    "profsig": "PJG",
+                    "prof": "Paulo Garcia"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "F\u00edsica II",
+                    "sigla": "FISI2",
+                    "tipo": "TP",
+                    "turma": "2LCEEMG02",
+                    "turmac": "COMP_1255",
+                    "duracao": "4",
+                    "sala": "B029",
+                    "profsig": "PJG",
+                    "prof": "Paulo Garcia"
+                }
+            ]
+        },
+        "P": {
+            "PL": [
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Petrologia",
+                    "sigla": "P",
+                    "tipo": "PL",
+                    "turma": "2LCEEMG01",
+                    "turmac": "COMP_407",
+                    "duracao": "2",
+                    "sala": "F205",
+                    "profsig": "JPMR",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Petrologia",
+                    "sigla": "P",
+                    "tipo": "PL",
+                    "turma": "2LCEEMG02",
+                    "turmac": "COMP_407",
+                    "duracao": "2",
+                    "sala": "F205",
+                    "profsig": "JPMR",
+                    "prof": null
+                }
+            ],
+            "nome": "Petrologia",
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 15,
+                    "nome": "Petrologia",
+                    "sigla": "P",
+                    "tipo": "TP",
+                    "turma": "2LCEEMG01",
+                    "turmac": "2LCEEMG01",
+                    "duracao": "6",
+                    "sala": "F204",
+                    "profsig": "JPMR",
+                    "prof": null
+                }
+            ]
+        }
+    },
+    "3\u00ba Ano": {
+        "TMPR I": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 8,
+                    "nome": "Tratamento de Mat\u00e9rias Primas e Res\u00edduos I",
+                    "sigla": "TMPR I",
+                    "tipo": "TP",
+                    "turma": "3LCEEMG01",
+                    "turmac": "3LCEEMG01",
+                    "duracao": "4",
+                    "sala": "F204",
+                    "profsig": "AFS+MML",
+                    "prof": null
+                }
+            ],
+            "nome": "Tratamento de Mat\u00e9rias Primas e Res\u00edduos I",
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 10,
+                    "nome": "Tratamento de Mat\u00e9rias Primas e Res\u00edduos I",
+                    "sigla": "TMPR I",
+                    "tipo": "PL",
+                    "turma": "3LCEEMG01",
+                    "turmac": "3LCEEMG01",
+                    "duracao": "4",
+                    "sala": "F204",
+                    "profsig": "AFS+MML",
+                    "prof": null
+                }
+            ]
+        },
+        "GA": {
+            "PL": [
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Geologia Ambiental",
+                    "sigla": "GA",
+                    "tipo": "PL",
+                    "turma": "3LCEEMG01",
+                    "turmac": "3LCEEMG01",
+                    "duracao": "4",
+                    "sala": "F204",
+                    "profsig": "AML+AFS",
+                    "prof": null
+                }
+            ],
+            "nome": "Geologia Ambiental",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Geologia Ambiental",
+                    "sigla": "GA",
+                    "tipo": "TP",
+                    "turma": "3LCEEMG01",
+                    "turmac": "3LCEEMG01",
+                    "duracao": "4",
+                    "sala": "F204",
+                    "profsig": "AML+AFS",
+                    "prof": null
+                }
+            ]
+        },
+        "AAD": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 9.5,
+                    "nome": "Aquisi\u00e7\u00e3o e An\u00e1lise de Dados",
+                    "sigla": "AAD",
+                    "tipo": "TP",
+                    "turma": "3LCEEMG01",
+                    "turmac": "3LCEEMG01",
+                    "duracao": "4",
+                    "sala": "B305",
+                    "profsig": "JSG",
+                    "prof": "Joaquim G\u00f3is"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Aquisi\u00e7\u00e3o e An\u00e1lise de Dados",
+                    "sigla": "AAD",
+                    "tipo": "TP",
+                    "turma": "3LCEEMG01",
+                    "turmac": "3LCEEMG01",
+                    "duracao": "4",
+                    "sala": "B304",
+                    "profsig": "JSG",
+                    "prof": "Joaquim G\u00f3is"
+                }
+            ],
+            "nome": "Aquisi\u00e7\u00e3o e An\u00e1lise de Dados"
+        },
+        "ECAP": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "Engenharia de Custos e Avalia\u00e7\u00e3o de Projetos",
+                    "sigla": "ECAP",
+                    "tipo": "TP",
+                    "turma": "3LCEEMG01",
+                    "turmac": "3LCEEMG01",
+                    "duracao": "4",
+                    "sala": "B309",
+                    "profsig": "JCCG",
+                    "prof": "Joana Guedes"
+                },
+                {
+                    "dia": 1,
+                    "hora": 18,
+                    "nome": "Engenharia de Custos e Avalia\u00e7\u00e3o de Projetos",
+                    "sigla": "ECAP",
+                    "tipo": "TP",
+                    "turma": "3LCEEMG01",
+                    "turmac": "3LCEEMG01",
+                    "duracao": "4",
+                    "sala": "B232A",
+                    "profsig": "JSB",
+                    "prof": "Jo\u00e3o Santos Baptista"
+                }
+            ],
+            "nome": "Engenharia de Custos e Avalia\u00e7\u00e3o de Projetos"
+        },
+        "DM": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Desmonte de Maci\u00e7os",
+                    "sigla": "DM",
+                    "tipo": "TP",
+                    "turma": "3LCEEMG01",
+                    "turmac": "3LCEEMG01",
+                    "duracao": "4",
+                    "sala": "F204",
+                    "profsig": "MFTD+AML+JCG",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 15,
+                    "nome": "Desmonte de Maci\u00e7os",
+                    "sigla": "DM",
+                    "tipo": "TP",
+                    "turma": "3LCEEMG01",
+                    "turmac": "3LCEEMG01",
+                    "duracao": "4",
+                    "sala": "F204",
+                    "profsig": "MFTD+AML+JCG",
+                    "prof": null
+                }
+            ],
+            "nome": "Desmonte de Maci\u00e7os"
+        }
+    }
+}

@@ -1,1 +1,569 @@
-{"1\u00ba Ano":{"Q121":{"PL":[{"dia":3,"hora":11,"nome":"Laborat\u00f3rio de Qu\u00edmica","sigla":"Q121","tipo":"PL","turma":"Q121_PL1","turmac":"Q121_PL1","duracao":"2","sala":"FC2014","profsig":"ALM","prof":"Alexandre Magalh\u00e3es"},{"dia":1,"hora":15,"nome":"Laborat\u00f3rio de Qu\u00edmica","sigla":"Q121","tipo":"PL","turma":"Q121_PL1","turmac":"Q121_PL1","duracao":"6","sala":"FC2-105","profsig":"ECP","prof":"Eul\u00e1lia Pereira"},{"dia":3,"hora":9,"nome":"Laborat\u00f3rio de Qu\u00edmica","sigla":"Q121","tipo":"PL","turma":"Q121_PL2","turmac":"Q121_PL2","duracao":"6","sala":"FC2-105","profsig":"AMMVR","prof":"Ana Reis"},{"dia":4,"hora":11.5,"nome":"Laborat\u00f3rio de Qu\u00edmica","sigla":"Q121","tipo":"PL","turma":"Q121_PL2","turmac":"Q121_PL2","duracao":"2","sala":"FC2014","profsig":"ALM","prof":"Alexandre Magalh\u00e3es"},{"dia":3,"hora":9,"nome":"Laborat\u00f3rio de Qu\u00edmica","sigla":"Q121","tipo":"PL","turma":"Q121_PL3","turmac":"Q121_PL3","duracao":"6","sala":"FC2-119","profsig":"CARG","prof":"Carlos Alberto Rocha Gomes"},{"dia":2,"hora":16.5,"nome":"Laborat\u00f3rio de Qu\u00edmica","sigla":"Q121","tipo":"PL","turma":"Q121_PL3","turmac":"Q121_PL3","duracao":"2","sala":"FC2014","profsig":"ALM","prof":"Alexandre Magalh\u00e3es"},{"dia":1,"hora":11,"nome":"Laborat\u00f3rio de Qu\u00edmica","sigla":"Q121","tipo":"PL","turma":"Q121_PL4","turmac":"Q121_PL4","duracao":"2","sala":"FC2014","profsig":"ALM","prof":"Alexandre Magalh\u00e3es"},{"dia":1,"hora":15,"nome":"Laborat\u00f3rio de Qu\u00edmica","sigla":"Q121","tipo":"PL","turma":"Q121_PL4","turmac":"Q121_PL4","duracao":"6","sala":"FC2-119","profsig":"MMHMB","prof":"Margarida Bastos"},{"dia":2,"hora":14,"nome":"Laborat\u00f3rio de Qu\u00edmica","sigla":"Q121","tipo":"PL","turma":"Q121_PL5","turmac":"Q121_PL5","duracao":"2","sala":"FC2014","profsig":"ALM","prof":"Alexandre Magalh\u00e3es"},{"dia":2,"hora":15,"nome":"Laborat\u00f3rio de Qu\u00edmica","sigla":"Q121","tipo":"PL","turma":"Q121_PL5","turmac":"Q121_PL5","duracao":"6","sala":"FC2-105","profsig":"MARM","prof":"Maria Agostinha Matos"},{"dia":3,"hora":14,"nome":"Laborat\u00f3rio de Qu\u00edmica","sigla":"Q121","tipo":"PL","turma":"Q121_PL6","turmac":"Q121_PL6","duracao":"6","sala":"FC2-105","profsig":"MCRMPB","prof":"Maria Clara Basto"},{"dia":3,"hora":17,"nome":"Laborat\u00f3rio de Qu\u00edmica","sigla":"Q121","tipo":"PL","turma":"Q121_PL6","turmac":"Q121_PL6","duracao":"2","sala":"FC2014","profsig":"ALM","prof":"Alexandre Magalh\u00e3es"},{"dia":5,"hora":9,"nome":"Laborat\u00f3rio de Qu\u00edmica","sigla":"Q121","tipo":"PL","turma":"Q121_PL7","turmac":"Q121_PL7","duracao":"6","sala":"FC2-119","profsig":"MARM","prof":"Maria Agostinha Matos"},{"dia":3,"hora":10,"nome":"Laborat\u00f3rio de Qu\u00edmica","sigla":"Q121","tipo":"PL","turma":"Q121_PL7","turmac":"Q121_PL7","duracao":"2","sala":"FC2014","profsig":"ALM","prof":"Alexandre Magalh\u00e3es"}],"nome":"Laborat\u00f3rio de Qu\u00edmica","TP":[{"dia":1,"hora":14,"nome":"Laborat\u00f3rio de Qu\u00edmica","sigla":"Q121","tipo":"TP","turma":"Q121_TP1","turmac":"Q121_TP1","duracao":"2","sala":"FC2-104","profsig":"MMHMB","prof":"Margarida Bastos"},{"dia":3,"hora":8,"nome":"Laborat\u00f3rio de Qu\u00edmica","sigla":"Q121","tipo":"TP","turma":"Q121_TP2","turmac":"Q121_TP2","duracao":"2","sala":"FC2010","profsig":"AMMVR","prof":"Ana Reis"},{"dia":3,"hora":8,"nome":"Laborat\u00f3rio de Qu\u00edmica","sigla":"Q121","tipo":"TP","turma":"Q121_TP3","turmac":"Q121_TP3","duracao":"2","sala":"FC2-104","profsig":"MMHMB","prof":"Margarida Bastos"}]}},"2\u00ba Ano":{"Q253":{"PL":[{"dia":1,"hora":15,"nome":"Qu\u00edmica Anal\u00edtica","sigla":"Q253","tipo":"PL","turma":"Q253_PL1","turmac":"Q253_PL1","duracao":"4","sala":"FC2011+FC2013","profsig":"CNRM","prof":"Cosme Moura"},{"dia":1,"hora":15,"nome":"Qu\u00edmica Anal\u00edtica","sigla":"Q253","tipo":"PL","turma":"Q253_PL2","turmac":"Q253_PL2","duracao":"4","sala":"FC2011+FC2013","profsig":"PJFA","prof":"Paulo Almeida"},{"dia":2,"hora":11,"nome":"Qu\u00edmica Anal\u00edtica","sigla":"Q253","tipo":"PL","turma":"Q253_PL3","turmac":"Q253_PL3","duracao":"4","sala":"FC2011+FC2013","profsig":"CNRM","prof":"Cosme Moura"},{"dia":2,"hora":11,"nome":"Qu\u00edmica Anal\u00edtica","sigla":"Q253","tipo":"PL","turma":"Q253_PL4","turmac":"Q253_PL4","duracao":"4","sala":"FC2011+FC2013","profsig":"JAMR","prof":"Jos\u00e9 Rodrigues"},{"dia":2,"hora":14,"nome":"Qu\u00edmica Anal\u00edtica","sigla":"Q253","tipo":"PL","turma":"Q253_PL5","turmac":"Q253_PL5","duracao":"4","sala":"FC2011+FC2013","profsig":"JAMR","prof":"Jos\u00e9 Rodrigues"},{"dia":2,"hora":14,"nome":"Qu\u00edmica Anal\u00edtica","sigla":"Q253","tipo":"PL","turma":"Q253_PL6","turmac":"Q253_PL6","duracao":"4","sala":"FC2011+FC2013","profsig":"CNRM","prof":"Cosme Moura"},{"dia":2,"hora":16,"nome":"Qu\u00edmica Anal\u00edtica","sigla":"Q253","tipo":"PL","turma":"Q253_PL7","turmac":"Q253_PL7","duracao":"4","sala":"FC2011+FC2013","profsig":"JAMR","prof":"Jos\u00e9 Rodrigues"}],"nome":"Qu\u00edmica Anal\u00edtica","T":[{"dia":1,"hora":14,"nome":"Qu\u00edmica Anal\u00edtica","sigla":"Q253","tipo":"T","turma":"Q253_T","turmac":"Q253_T","duracao":"2","sala":"FC2007","profsig":"CMMP","prof":"Carlos Pereira"},{"dia":4,"hora":14,"nome":"Qu\u00edmica Anal\u00edtica","sigla":"Q253","tipo":"T","turma":"Q253_T","turmac":"Q253_T","duracao":"2","sala":"FC2007","profsig":"CMMP","prof":"Carlos Pereira"}],"TP":[{"dia":1,"hora":15,"nome":"Qu\u00edmica Anal\u00edtica","sigla":"Q253","tipo":"TP","turma":"Q253_TP1","turmac":"Q253_TP1","duracao":"4","sala":"FC2-103","profsig":"CNRM","prof":"Cosme Moura"},{"dia":2,"hora":11,"nome":"Qu\u00edmica Anal\u00edtica","sigla":"Q253","tipo":"TP","turma":"Q253_TP2","turmac":"Q253_TP2","duracao":"4","sala":"FC2-103","profsig":"CNRM","prof":"Cosme Moura"},{"dia":2,"hora":14,"nome":"Qu\u00edmica Anal\u00edtica","sigla":"Q253","tipo":"TP","turma":"Q253_TP3","turmac":"Q253_TP3","duracao":"4","sala":"FC2011+FC2013","profsig":"JAMR","prof":"Jos\u00e9 Rodrigues"},{"dia":2,"hora":16,"nome":"Qu\u00edmica Anal\u00edtica","sigla":"Q253","tipo":"TP","turma":"Q253_TP4","turmac":"Q253_TP4","duracao":"4","sala":"FC2-104","profsig":"JAMR","prof":"Jos\u00e9 Rodrigues"}]},"Q273":{"PL":[{"dia":1,"hora":15,"nome":"Qu\u00edmica Org\u00e2nica II","sigla":"Q273","tipo":"PL","turma":"Q273_PL1","turmac":"Q273_PL1","duracao":"4","sala":"FC2-110+FC2010","profsig":"MJSMPA","prof":"Maria Jo\u00e3o Ara\u00fajo"},{"dia":2,"hora":11,"nome":"Qu\u00edmica Org\u00e2nica II","sigla":"Q273","tipo":"PL","turma":"Q273_PL2","turmac":"Q273_PL2","duracao":"4","sala":"FC2-110+FC2-104","profsig":"MJSMPA","prof":"Maria Jo\u00e3o Ara\u00fajo"},{"dia":3,"hora":11,"nome":"Qu\u00edmica Org\u00e2nica II","sigla":"Q273","tipo":"PL","turma":"Q273_PL3","turmac":"Q273_PL3","duracao":"4","sala":"FC2-110+FC2-104","profsig":"MJSMPA","prof":"Maria Jo\u00e3o Ara\u00fajo"},{"dia":4,"hora":15,"nome":"Qu\u00edmica Org\u00e2nica II","sigla":"Q273","tipo":"PL","turma":"Q273_PL4","turmac":"Q273_PL4","duracao":"4","sala":"FC2-110-FC2-101","profsig":"MJSMPA","prof":"Maria Jo\u00e3o Ara\u00fajo"},{"dia":3,"hora":15,"nome":"Qu\u00edmica Org\u00e2nica II","sigla":"Q273","tipo":"PL","turma":"Q273_PL5","turmac":"Q273_PL5","duracao":"4","sala":"FC2-110+FC2010","profsig":"MJSMPA","prof":"Maria Jo\u00e3o Ara\u00fajo"}],"nome":"Qu\u00edmica Org\u00e2nica II","T":[{"dia":1,"hora":12,"nome":"Qu\u00edmica Org\u00e2nica II","sigla":"Q273","tipo":"T","turma":"Q273_T","turmac":"Q273_T","duracao":"2","sala":"FC2023","profsig":"MJSMPA","prof":"Maria Jo\u00e3o Ara\u00fajo"},{"dia":4,"hora":12,"nome":"Qu\u00edmica Org\u00e2nica II","sigla":"Q273","tipo":"T","turma":"Q273_T","turmac":"Q273_T","duracao":"2","sala":"FC2023","profsig":"MJSMPA","prof":"Maria Jo\u00e3o Ara\u00fajo"}]},"Q285":{"T":[{"dia":1,"hora":10,"nome":"Qu\u00edmica F\u00edsica Biol\u00f3gica","sigla":"Q285","tipo":"T","turma":"Q285_T","turmac":"Q285_T","duracao":"2","sala":"FC2023","profsig":"MJM+MMHMB","prof":null},{"dia":3,"hora":10,"nome":"Qu\u00edmica F\u00edsica Biol\u00f3gica","sigla":"Q285","tipo":"T","turma":"Q285_T","turmac":"Q285_T","duracao":"2","sala":"FC2023","profsig":"MJM+MMHMB","prof":null},{"dia":4,"hora":10,"nome":"Qu\u00edmica F\u00edsica Biol\u00f3gica","sigla":"Q285","tipo":"T","turma":"Q285_T","turmac":"Q285_T","duracao":"2","sala":"FC2023","profsig":"MJM+MMHMB","prof":null}],"nome":"Qu\u00edmica F\u00edsica Biol\u00f3gica","TP":[{"dia":1,"hora":11,"nome":"Qu\u00edmica F\u00edsica Biol\u00f3gica","sigla":"Q285","tipo":"TP","turma":"Q285_TP1","turmac":"Q285_TP1","duracao":"2","sala":"FC2-103","profsig":"MJSM","prof":"Manuel Monte"},{"dia":3,"hora":11,"nome":"Qu\u00edmica F\u00edsica Biol\u00f3gica","sigla":"Q285","tipo":"TP","turma":"Q285_TP2","turmac":"Q285_TP2","duracao":"2","sala":"FC2-103","profsig":"MJSM","prof":"Manuel Monte"},{"dia":4,"hora":11,"nome":"Qu\u00edmica F\u00edsica Biol\u00f3gica","sigla":"Q285","tipo":"TP","turma":"Q285_TP3","turmac":"Q285_TP3","duracao":"2","sala":"FC2-103","profsig":"MJSM","prof":"Manuel Monte"}]}}}
+{
+    "1\u00ba Ano": {
+        "Q121": {
+            "PL": [
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica",
+                    "sigla": "Q121",
+                    "tipo": "PL",
+                    "turma": "Q121_PL1",
+                    "turmac": "Q121_PL1",
+                    "duracao": "2",
+                    "sala": "FC2014",
+                    "profsig": "ALM",
+                    "prof": "Alexandre Magalh\u00e3es"
+                },
+                {
+                    "dia": 1,
+                    "hora": 15,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica",
+                    "sigla": "Q121",
+                    "tipo": "PL",
+                    "turma": "Q121_PL1",
+                    "turmac": "Q121_PL1",
+                    "duracao": "6",
+                    "sala": "FC2-105",
+                    "profsig": "ECP",
+                    "prof": "Eul\u00e1lia Pereira"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica",
+                    "sigla": "Q121",
+                    "tipo": "PL",
+                    "turma": "Q121_PL2",
+                    "turmac": "Q121_PL2",
+                    "duracao": "6",
+                    "sala": "FC2-105",
+                    "profsig": "AMMVR",
+                    "prof": "Ana Reis"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11.5,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica",
+                    "sigla": "Q121",
+                    "tipo": "PL",
+                    "turma": "Q121_PL2",
+                    "turmac": "Q121_PL2",
+                    "duracao": "2",
+                    "sala": "FC2014",
+                    "profsig": "ALM",
+                    "prof": "Alexandre Magalh\u00e3es"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica",
+                    "sigla": "Q121",
+                    "tipo": "PL",
+                    "turma": "Q121_PL3",
+                    "turmac": "Q121_PL3",
+                    "duracao": "6",
+                    "sala": "FC2-119",
+                    "profsig": "MARM",
+                    "prof": "Maria Agostinha Matos"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16.5,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica",
+                    "sigla": "Q121",
+                    "tipo": "PL",
+                    "turma": "Q121_PL3",
+                    "turmac": "Q121_PL3",
+                    "duracao": "2",
+                    "sala": "FC2014",
+                    "profsig": "ALM",
+                    "prof": "Alexandre Magalh\u00e3es"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica",
+                    "sigla": "Q121",
+                    "tipo": "PL",
+                    "turma": "Q121_PL4",
+                    "turmac": "Q121_PL4",
+                    "duracao": "2",
+                    "sala": "FC2014",
+                    "profsig": "ALM",
+                    "prof": "Alexandre Magalh\u00e3es"
+                },
+                {
+                    "dia": 1,
+                    "hora": 15,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica",
+                    "sigla": "Q121",
+                    "tipo": "PL",
+                    "turma": "Q121_PL4",
+                    "turmac": "Q121_PL4",
+                    "duracao": "6",
+                    "sala": "FC2-119",
+                    "profsig": "MMHMB",
+                    "prof": "Margarida Bastos"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica",
+                    "sigla": "Q121",
+                    "tipo": "PL",
+                    "turma": "Q121_PL5",
+                    "turmac": "Q121_PL5",
+                    "duracao": "2",
+                    "sala": "FC2014",
+                    "profsig": "ALM",
+                    "prof": "Alexandre Magalh\u00e3es"
+                },
+                {
+                    "dia": 2,
+                    "hora": 15,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica",
+                    "sigla": "Q121",
+                    "tipo": "PL",
+                    "turma": "Q121_PL5",
+                    "turmac": "Q121_PL5",
+                    "duracao": "6",
+                    "sala": "FC2-105",
+                    "profsig": "MARM",
+                    "prof": "Maria Agostinha Matos"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11.5,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica",
+                    "sigla": "Q121",
+                    "tipo": "PL",
+                    "turma": "Q121_PL6",
+                    "turmac": "Q121_PL6",
+                    "duracao": "2",
+                    "sala": "FC2018",
+                    "profsig": "ALM",
+                    "prof": "Alexandre Magalh\u00e3es"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica",
+                    "sigla": "Q121",
+                    "tipo": "PL",
+                    "turma": "Q121_PL6",
+                    "turmac": "Q121_PL6",
+                    "duracao": "6",
+                    "sala": "FC2-105",
+                    "profsig": "MCRMPB",
+                    "prof": "Maria Clara Basto"
+                }
+            ],
+            "nome": "Laborat\u00f3rio de Qu\u00edmica",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica",
+                    "sigla": "Q121",
+                    "tipo": "TP",
+                    "turma": "Q121_TP1",
+                    "turmac": "Q121_TP1",
+                    "duracao": "2",
+                    "sala": "FC2-104",
+                    "profsig": "MMHMB",
+                    "prof": "Margarida Bastos"
+                },
+                {
+                    "dia": 3,
+                    "hora": 8,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica",
+                    "sigla": "Q121",
+                    "tipo": "TP",
+                    "turma": "Q121_TP2",
+                    "turmac": "Q121_TP2",
+                    "duracao": "2",
+                    "sala": "FC2010",
+                    "profsig": "AMMVR",
+                    "prof": "Ana Reis"
+                },
+                {
+                    "dia": 3,
+                    "hora": 8,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica",
+                    "sigla": "Q121",
+                    "tipo": "TP",
+                    "turma": "Q121_TP3",
+                    "turmac": "Q121_TP3",
+                    "duracao": "2",
+                    "sala": "FC2-104",
+                    "profsig": "MMHMB",
+                    "prof": "Margarida Bastos"
+                }
+            ]
+        }
+    },
+    "2\u00ba Ano": {
+        "Q253": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 15,
+                    "nome": "Qu\u00edmica Anal\u00edtica",
+                    "sigla": "Q253",
+                    "tipo": "PL",
+                    "turma": "Q253_PL1",
+                    "turmac": "Q253_PL1",
+                    "duracao": "4",
+                    "sala": "FC2011+FC2013",
+                    "profsig": "CNRM",
+                    "prof": "Cosme Moura"
+                },
+                {
+                    "dia": 1,
+                    "hora": 15,
+                    "nome": "Qu\u00edmica Anal\u00edtica",
+                    "sigla": "Q253",
+                    "tipo": "PL",
+                    "turma": "Q253_PL2",
+                    "turmac": "Q253_PL2",
+                    "duracao": "4",
+                    "sala": "FC2011+FC2013",
+                    "profsig": "PJFA",
+                    "prof": "Paulo Almeida"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Qu\u00edmica Anal\u00edtica",
+                    "sigla": "Q253",
+                    "tipo": "PL",
+                    "turma": "Q253_PL3",
+                    "turmac": "Q253_PL3",
+                    "duracao": "4",
+                    "sala": "FC2011+FC2013",
+                    "profsig": "CNRM",
+                    "prof": "Cosme Moura"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Qu\u00edmica Anal\u00edtica",
+                    "sigla": "Q253",
+                    "tipo": "PL",
+                    "turma": "Q253_PL4",
+                    "turmac": "Q253_PL4",
+                    "duracao": "4",
+                    "sala": "FC2011+FC2013",
+                    "profsig": "JAMR",
+                    "prof": "Jos\u00e9 Rodrigues"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Qu\u00edmica Anal\u00edtica",
+                    "sigla": "Q253",
+                    "tipo": "PL",
+                    "turma": "Q253_PL5",
+                    "turmac": "Q253_PL5",
+                    "duracao": "4",
+                    "sala": "FC2011+FC2013",
+                    "profsig": "JAMR",
+                    "prof": "Jos\u00e9 Rodrigues"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Qu\u00edmica Anal\u00edtica",
+                    "sigla": "Q253",
+                    "tipo": "PL",
+                    "turma": "Q253_PL6",
+                    "turmac": "Q253_PL6",
+                    "duracao": "4",
+                    "sala": "FC2011+FC2013",
+                    "profsig": "CNRM",
+                    "prof": "Cosme Moura"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Qu\u00edmica Anal\u00edtica",
+                    "sigla": "Q253",
+                    "tipo": "PL",
+                    "turma": "Q253_PL7",
+                    "turmac": "Q253_PL7",
+                    "duracao": "4",
+                    "sala": "FC2011+FC2013",
+                    "profsig": "JAMR",
+                    "prof": "Jos\u00e9 Rodrigues"
+                }
+            ],
+            "nome": "Qu\u00edmica Anal\u00edtica",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Qu\u00edmica Anal\u00edtica",
+                    "sigla": "Q253",
+                    "tipo": "T",
+                    "turma": "Q253_T",
+                    "turmac": "Q253_T",
+                    "duracao": "2",
+                    "sala": "FC2007",
+                    "profsig": "CMMP",
+                    "prof": "Carlos Pereira"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Qu\u00edmica Anal\u00edtica",
+                    "sigla": "Q253",
+                    "tipo": "T",
+                    "turma": "Q253_T",
+                    "turmac": "Q253_T",
+                    "duracao": "2",
+                    "sala": "FC2007",
+                    "profsig": "CMMP",
+                    "prof": "Carlos Pereira"
+                }
+            ],
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 15,
+                    "nome": "Qu\u00edmica Anal\u00edtica",
+                    "sigla": "Q253",
+                    "tipo": "TP",
+                    "turma": "Q253_TP1",
+                    "turmac": "Q253_TP1",
+                    "duracao": "4",
+                    "sala": "FC2-103",
+                    "profsig": "CNRM",
+                    "prof": "Cosme Moura"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Qu\u00edmica Anal\u00edtica",
+                    "sigla": "Q253",
+                    "tipo": "TP",
+                    "turma": "Q253_TP2",
+                    "turmac": "Q253_TP2",
+                    "duracao": "4",
+                    "sala": "FC2-103",
+                    "profsig": "CNRM",
+                    "prof": "Cosme Moura"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Qu\u00edmica Anal\u00edtica",
+                    "sigla": "Q253",
+                    "tipo": "TP",
+                    "turma": "Q253_TP3",
+                    "turmac": "Q253_TP3",
+                    "duracao": "4",
+                    "sala": "FC2011+FC2013",
+                    "profsig": "JAMR",
+                    "prof": "Jos\u00e9 Rodrigues"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Qu\u00edmica Anal\u00edtica",
+                    "sigla": "Q253",
+                    "tipo": "TP",
+                    "turma": "Q253_TP4",
+                    "turmac": "Q253_TP4",
+                    "duracao": "4",
+                    "sala": "FC2-104",
+                    "profsig": "JAMR",
+                    "prof": "Jos\u00e9 Rodrigues"
+                }
+            ]
+        },
+        "Q273": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 15,
+                    "nome": "Qu\u00edmica Org\u00e2nica II",
+                    "sigla": "Q273",
+                    "tipo": "PL",
+                    "turma": "Q273_PL1",
+                    "turmac": "Q273_PL1",
+                    "duracao": "4",
+                    "sala": "FC2-110+FC2010",
+                    "profsig": "MJSMPA",
+                    "prof": "Maria Jo\u00e3o Ara\u00fajo"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Qu\u00edmica Org\u00e2nica II",
+                    "sigla": "Q273",
+                    "tipo": "PL",
+                    "turma": "Q273_PL2",
+                    "turmac": "Q273_PL2",
+                    "duracao": "4",
+                    "sala": "FC2-110+FC2-104",
+                    "profsig": "MJSMPA",
+                    "prof": "Maria Jo\u00e3o Ara\u00fajo"
+                },
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Qu\u00edmica Org\u00e2nica II",
+                    "sigla": "Q273",
+                    "tipo": "PL",
+                    "turma": "Q273_PL3",
+                    "turmac": "Q273_PL3",
+                    "duracao": "4",
+                    "sala": "FC2-110+FC2-104",
+                    "profsig": "MJSMPA",
+                    "prof": "Maria Jo\u00e3o Ara\u00fajo"
+                },
+                {
+                    "dia": 4,
+                    "hora": 15,
+                    "nome": "Qu\u00edmica Org\u00e2nica II",
+                    "sigla": "Q273",
+                    "tipo": "PL",
+                    "turma": "Q273_PL4",
+                    "turmac": "Q273_PL4",
+                    "duracao": "4",
+                    "sala": "FC2-110-FC2-101",
+                    "profsig": "MJSMPA",
+                    "prof": "Maria Jo\u00e3o Ara\u00fajo"
+                },
+                {
+                    "dia": 3,
+                    "hora": 15,
+                    "nome": "Qu\u00edmica Org\u00e2nica II",
+                    "sigla": "Q273",
+                    "tipo": "PL",
+                    "turma": "Q273_PL5",
+                    "turmac": "Q273_PL5",
+                    "duracao": "4",
+                    "sala": "FC2-110+FC2010",
+                    "profsig": "MJSMPA",
+                    "prof": "Maria Jo\u00e3o Ara\u00fajo"
+                }
+            ],
+            "nome": "Qu\u00edmica Org\u00e2nica II",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 12,
+                    "nome": "Qu\u00edmica Org\u00e2nica II",
+                    "sigla": "Q273",
+                    "tipo": "T",
+                    "turma": "Q273_T",
+                    "turmac": "Q273_T",
+                    "duracao": "2",
+                    "sala": "FC2023",
+                    "profsig": "MJSMPA",
+                    "prof": "Maria Jo\u00e3o Ara\u00fajo"
+                },
+                {
+                    "dia": 4,
+                    "hora": 12,
+                    "nome": "Qu\u00edmica Org\u00e2nica II",
+                    "sigla": "Q273",
+                    "tipo": "T",
+                    "turma": "Q273_T",
+                    "turmac": "Q273_T",
+                    "duracao": "2",
+                    "sala": "FC2023",
+                    "profsig": "MJSMPA",
+                    "prof": "Maria Jo\u00e3o Ara\u00fajo"
+                }
+            ]
+        },
+        "Q285": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 10,
+                    "nome": "Qu\u00edmica F\u00edsica Biol\u00f3gica",
+                    "sigla": "Q285",
+                    "tipo": "T",
+                    "turma": "Q285_T",
+                    "turmac": "Q285_T",
+                    "duracao": "2",
+                    "sala": "FC2023",
+                    "profsig": "MJM+MMHMB",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 10,
+                    "nome": "Qu\u00edmica F\u00edsica Biol\u00f3gica",
+                    "sigla": "Q285",
+                    "tipo": "T",
+                    "turma": "Q285_T",
+                    "turmac": "Q285_T",
+                    "duracao": "2",
+                    "sala": "FC2023",
+                    "profsig": "MJM+MMHMB",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Qu\u00edmica F\u00edsica Biol\u00f3gica",
+                    "sigla": "Q285",
+                    "tipo": "T",
+                    "turma": "Q285_T",
+                    "turmac": "Q285_T",
+                    "duracao": "2",
+                    "sala": "FC2023",
+                    "profsig": "MJM+MMHMB",
+                    "prof": null
+                }
+            ],
+            "nome": "Qu\u00edmica F\u00edsica Biol\u00f3gica",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Qu\u00edmica F\u00edsica Biol\u00f3gica",
+                    "sigla": "Q285",
+                    "tipo": "TP",
+                    "turma": "Q285_TP1",
+                    "turmac": "Q285_TP1",
+                    "duracao": "2",
+                    "sala": "FC2-103",
+                    "profsig": "MJSM",
+                    "prof": "Manuel Monte"
+                },
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Qu\u00edmica F\u00edsica Biol\u00f3gica",
+                    "sigla": "Q285",
+                    "tipo": "TP",
+                    "turma": "Q285_TP2",
+                    "turmac": "Q285_TP2",
+                    "duracao": "2",
+                    "sala": "FC2-103",
+                    "profsig": "MJSM",
+                    "prof": "Manuel Monte"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Qu\u00edmica F\u00edsica Biol\u00f3gica",
+                    "sigla": "Q285",
+                    "tipo": "TP",
+                    "turma": "Q285_TP3",
+                    "turmac": "Q285_TP3",
+                    "duracao": "2",
+                    "sala": "FC2-103",
+                    "profsig": "MJSM",
+                    "prof": "Manuel Monte"
+                }
+            ]
+        }
+    }
+}
