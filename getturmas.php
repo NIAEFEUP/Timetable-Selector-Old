@@ -16,6 +16,7 @@ $curso_id[0]='742';			// Id do curso
 $periodo_id='2';			// Id do semestre (2->1º semestre 3->2ºsemestre)
 $force_update=FALSE;		// Forcar actualizacoes da cache
 $force_all=FALSE;			// Ir buscar todos
+$force_all_start=0;			// A partir de algum, é provavel que o script faça timeout a meio e não vá buscar tudo.
 $username='';				// Username do sigarra
 $password='';				// Password do sigarra
 $filename='default.json';	// Ficheiro da cache
@@ -30,7 +31,7 @@ if (parsePOST()) {
 	{
 		file_put_contents('log.txt', 'FORCE ALL '.$_POST['anolectivo'].' '.$_POST['periodo'].' '.date("Y-m-d H:i:s").' '.$username."\r\n", FILE_APPEND | LOCK_EX);
 		login($username,$password);
-		updateAll($periodo_id,$anolectivo);
+		updateAll($force_all_start,$periodo_id,$anolectivo);
 		logout();
 	}
 	else {
@@ -63,6 +64,7 @@ function parsePOST() {
 			$periodo_id,
 			$force_update,
 			$force_all,
+			$force_all_start,
 			$username,
 			$password,
 			$filename;
@@ -109,49 +111,49 @@ function parsePOST() {
 	if (isset($_POST['curso'])&&!$force_all) {
 		switch($_POST['curso'])
 		{
-			case 'feup-MIEIC': $faculdade_codigo[0]='feup';$curso_id[0]='742';break;
-			//case 'feup-CINF':  $faculdade_codigo[0]='flup';$curso_id[0]='454'; $faculdade_codigo[1]='feup';$curso_id[1]='454';break;
-			case 'feup-LCEEMG': $faculdade_codigo[0]='feup';$curso_id[0]='738';break;
-			case 'feup-MEMG': $faculdade_codigo[0]='feup';$curso_id[0]='739';break;
-			case 'feup-MIB': $faculdade_codigo[0]='feup';$curso_id[0]='728';break;
-			case 'feup-MIEC': $faculdade_codigo[0]='feup';$curso_id[0]='740';break;
-			case 'feup-MIEA': $faculdade_codigo[0]='feup';$curso_id[0]='726';break;
-			case 'feup-MIEEC': $faculdade_codigo[0]='feup';$curso_id[0]='741';break;
-			case 'feup-MIEIG': $faculdade_codigo[0]='feup';$curso_id[0]='725';break;
-			case 'feup-MIEM': $faculdade_codigo[0]='feup';$curso_id[0]='743';break;
-			case 'feup-MIEMM': $faculdade_codigo[0]='feup';$curso_id[0]='744';break;
-			case 'feup-MIEQ': $faculdade_codigo[0]='feup';$curso_id[0]='745';break;
+			case 'feup-MIEIC': $force_all_start=0; $faculdade_codigo[0]='feup';$curso_id[0]='742';break;
+			//case 'feup-CINF': $force_all_start=0;  $faculdade_codigo[0]='flup';$curso_id[0]='454'; $faculdade_codigo[1]='feup';$curso_id[1]='454';break;
+			case 'feup-LCEEMG': $force_all_start=1; $faculdade_codigo[0]='feup';$curso_id[0]='738';break;
+			case 'feup-MEMG': $force_all_start=2; $faculdade_codigo[0]='feup';$curso_id[0]='739';break;
+			case 'feup-MIB': $force_all_start=3; $faculdade_codigo[0]='feup';$curso_id[0]='728';break;
+			case 'feup-MIEC': $force_all_start=4; $faculdade_codigo[0]='feup';$curso_id[0]='740';break;
+			case 'feup-MIEA': $force_all_start=5; $faculdade_codigo[0]='feup';$curso_id[0]='726';break;
+			case 'feup-MIEEC': $force_all_start=6; $faculdade_codigo[0]='feup';$curso_id[0]='741';break;
+			case 'feup-MIEIG': $force_all_start=7; $faculdade_codigo[0]='feup';$curso_id[0]='725';break;
+			case 'feup-MIEM': $force_all_start=8; $faculdade_codigo[0]='feup';$curso_id[0]='743';break;
+			case 'feup-MIEMM': $force_all_start=9; $faculdade_codigo[0]='feup';$curso_id[0]='744';break;
+			case 'feup-MIEQ': $force_all_start=10; $faculdade_codigo[0]='feup';$curso_id[0]='745';break;
 	
-			case 'fcup-LAP': $faculdade_codigo[0]='fcup';$curso_id[0]='1011';break;
-			case 'fcup-LAST': $faculdade_codigo[0]='fcup';$curso_id[0]='956';break;
-			case 'fcup-LB': $faculdade_codigo[0]='fcup';$curso_id[0]='884';break;
-			case 'fcup-LBQ': $faculdade_codigo[0]='fcup';$curso_id[0]='863';break;
-			case 'fcup-LCC': $faculdade_codigo[0]='fcup';$curso_id[0]='885';break;
-			case 'fcup-LCE': $faculdade_codigo[0]='fcup';$curso_id[0]='886';break;
-			case 'fcup-LCTA': $faculdade_codigo[0]='fcup';$curso_id[0]='887';break;
-			case 'fcup-LF': $faculdade_codigo[0]='fcup';$curso_id[0]='888';break;
-			case 'fcup-LG': $faculdade_codigo[0]='fcup';$curso_id[0]='889';break;
-			case 'fcup-LM': $faculdade_codigo[0]='fcup';$curso_id[0]='864';break;
-			case 'fcup-LQ': $faculdade_codigo[0]='fcup';$curso_id[0]='865';break;
-			case 'fcup-MIERS': $faculdade_codigo[0]='fcup';$curso_id[0]='870';break;
-			case 'fcup-MIEF': $faculdade_codigo[0]='fcup';$curso_id[0]='890';break;
+			case 'fcup-LAP': $force_all_start=20; $faculdade_codigo[0]='fcup';$curso_id[0]='1011';break;
+			case 'fcup-LAST': $force_all_start=21; $faculdade_codigo[0]='fcup';$curso_id[0]='956';break;
+			case 'fcup-LB': $force_all_start=22; $faculdade_codigo[0]='fcup';$curso_id[0]='884';break;
+			case 'fcup-LBQ': $force_all_start=23; $faculdade_codigo[0]='fcup';$curso_id[0]='863';break;
+			case 'fcup-LCC': $force_all_start=24; $faculdade_codigo[0]='fcup';$curso_id[0]='885';break;
+			case 'fcup-LCE': $force_all_start=25; $faculdade_codigo[0]='fcup';$curso_id[0]='886';break;
+			case 'fcup-LCTA': $force_all_start=26; $faculdade_codigo[0]='fcup';$curso_id[0]='887';break;
+			case 'fcup-LF': $force_all_start=27; $faculdade_codigo[0]='fcup';$curso_id[0]='888';break;
+			case 'fcup-LG': $force_all_start=28; $faculdade_codigo[0]='fcup';$curso_id[0]='889';break;
+			case 'fcup-LM': $force_all_start=29; $faculdade_codigo[0]='fcup';$curso_id[0]='864';break;
+			case 'fcup-LQ': $force_all_start=30; $faculdade_codigo[0]='fcup';$curso_id[0]='865';break;
+			case 'fcup-MIERS': $force_all_start=31; $faculdade_codigo[0]='fcup';$curso_id[0]='870';break;
+			case 'fcup-MIEF': $force_all_start=32; $faculdade_codigo[0]='fcup';$curso_id[0]='890';break;
 
-			case 'flup-ARQU': $faculdade_codigo[0]='flup';$curso_id[0]='339';break;
-			case 'flup-CINF': $faculdade_codigo[0]='flup';$curso_id[0]='454'; $faculdade_codigo[1]='feup';$curso_id[1]='454';break;
-			case 'flup-CC': $faculdade_codigo[0]='flup';$curso_id[0]='455';$faculdade_codigo[1]='fep';$curso_id[1]='455';$faculdade_codigo[2]='feup';$curso_id[2]='455';$faculdade_codigo[3]='fbaup';$curso_id[3]='455';break;
-			case 'flup-CL': $faculdade_codigo[0]='flup';$curso_id[0]='460';break;
-			case 'flup-EPL': $faculdade_codigo[0]='flup';$curso_id[0]='459';break;
-			case 'flup-FILO': $faculdade_codigo[0]='flup';$curso_id[0]='340';break;
-			case 'flup-GEOGR': $faculdade_codigo[0]='flup';$curso_id[0]='341';break;
-			case 'flup-HISTO': $faculdade_codigo[0]='flup';$curso_id[0]='342';break;
-			case 'flup-HART': $faculdade_codigo[0]='flup';$curso_id[0]='453';break;
-			case 'flup-LA': $faculdade_codigo[0]='flup';$curso_id[0]='456';break;
-			case 'flup-LRI': $faculdade_codigo[0]='flup';$curso_id[0]='458';break;
-			case 'flup-LLC': $faculdade_codigo[0]='flup';$curso_id[0]='457';break;
-			case 'flup-SOCI': $faculdade_codigo[0]='flup';$curso_id[0]='452';break;
+			case 'flup-ARQU': $force_all_start=40; $faculdade_codigo[0]='flup';$curso_id[0]='339';break;
+			case 'flup-CINF': $force_all_start=41; $faculdade_codigo[0]='flup';$curso_id[0]='454'; $faculdade_codigo[1]='feup';$curso_id[1]='454';break;
+			case 'flup-CC': $force_all_start=42; $faculdade_codigo[0]='flup';$curso_id[0]='455';$faculdade_codigo[1]='fep';$curso_id[1]='455';$faculdade_codigo[2]='feup';$curso_id[2]='455';$faculdade_codigo[3]='fbaup';$curso_id[3]='455';break;
+			case 'flup-CL': $force_all_start=43; $faculdade_codigo[0]='flup';$curso_id[0]='460';break;
+			case 'flup-EPL': $force_all_start=44; $faculdade_codigo[0]='flup';$curso_id[0]='459';break;
+			case 'flup-FILO': $force_all_start=45; $faculdade_codigo[0]='flup';$curso_id[0]='340';break;
+			case 'flup-GEOGR': $force_all_start=46; $faculdade_codigo[0]='flup';$curso_id[0]='341';break;
+			case 'flup-HISTO': $force_all_start=47; $faculdade_codigo[0]='flup';$curso_id[0]='342';break;
+			case 'flup-HART': $force_all_start=48; $faculdade_codigo[0]='flup';$curso_id[0]='453';break;
+			case 'flup-LA': $force_all_start=49; $faculdade_codigo[0]='flup';$curso_id[0]='456';break;
+			case 'flup-LRI': $force_all_start=50; $faculdade_codigo[0]='flup';$curso_id[0]='458';break;
+			case 'flup-LLC': $force_all_start=51; $faculdade_codigo[0]='flup';$curso_id[0]='457';break;
+			case 'flup-SOCI': $force_all_start=52; $faculdade_codigo[0]='flup';$curso_id[0]='452';break;
 			
-			case 'fbaup-AP':$faculdade_codigo[0]='fbaup';$curso_id[0]='1315';break;
-			case 'fbaup-DC':$faculdade_codigo[0]='fbaup';$curso_id[0]='1314';break;
+			case 'fbaup-AP': $force_all_start=60;$faculdade_codigo[0]='fbaup';$curso_id[0]='1315';break;
+			case 'fbaup-DC': $force_all_start=61;$faculdade_codigo[0]='fbaup';$curso_id[0]='1314';break;
 	
 			default : return FALSE; // Erro: Curso desconhecido
 		}
@@ -396,127 +398,214 @@ function queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$filename
 	echo json_encode($horarios,JSON_PRETTY_PRINT);
 }
 
-function updateAll($periodo_id,$anolectivo){
+function updateAll($force_all_start,$periodo_id,$anolectivo){
+	$faculdade_codigo=null;$curso_id=null; //limpar o selecionado no parse_post()
 	
-	$curso='feup-MIEIC'; $faculdade_codigo[0]='feup';$curso_id[0]='742';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	
+	if ($force_all_start>=0) {
+		$curso='feup-MIEIC'; $faculdade_codigo[0]='feup';$curso_id[0]='742';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
 
-	$curso='feup-LCEEMG'; $faculdade_codigo[0]='feup';$curso_id[0]='738';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	if ($force_all_start>=1) {
+		$curso='feup-LCEEMG'; $faculdade_codigo[0]='feup';$curso_id[0]='738';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
 
-	$curso='feup-MEMG'; $faculdade_codigo[0]='feup';$curso_id[0]='739';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	if ($force_all_start>=2) {
+		$curso='feup-MEMG'; $faculdade_codigo[0]='feup';$curso_id[0]='739';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
 
-	$curso='feup-MIB'; $faculdade_codigo[0]='feup';$curso_id[0]='728';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	if ($force_all_start>=3) {
+		$curso='feup-MIB'; $faculdade_codigo[0]='feup';$curso_id[0]='728';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
 
-	$curso='feup-MIEC'; $faculdade_codigo[0]='feup';$curso_id[0]='740';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	if ($force_all_start>=4) {
+		$curso='feup-MIEC'; $faculdade_codigo[0]='feup';$curso_id[0]='740';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
 
-	$curso='feup-MIEA'; $faculdade_codigo[0]='feup';$curso_id[0]='726';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	if ($force_all_start>=5) {
+		$curso='feup-MIEA'; $faculdade_codigo[0]='feup';$curso_id[0]='726';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
 
-	$curso='feup-MIEEC'; $faculdade_codigo[0]='feup';$curso_id[0]='741';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	if ($force_all_start>=6) {
+		$curso='feup-MIEEC'; $faculdade_codigo[0]='feup';$curso_id[0]='741';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
 
-	$curso='feup-MIEIG'; $faculdade_codigo[0]='feup';$curso_id[0]='725';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	if ($force_all_start>=7) {
+		$curso='feup-MIEIG'; $faculdade_codigo[0]='feup';$curso_id[0]='725';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
 
-	$curso='feup-MIEM'; $faculdade_codigo[0]='feup';$curso_id[0]='743';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	if ($force_all_start>=8) {
+		$curso='feup-MIEM'; $faculdade_codigo[0]='feup';$curso_id[0]='743';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
 
-	$curso='feup-MIEMM'; $faculdade_codigo[0]='feup';$curso_id[0]='744';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	if ($force_all_start>=9) {
+		$curso='feup-MIEMM'; $faculdade_codigo[0]='feup';$curso_id[0]='744';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
 
-	$curso='feup-MIEQ'; $faculdade_codigo[0]='feup';$curso_id[0]='745';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
-
-
-	$curso='fcup-LAP'; $faculdade_codigo[0]='fcup';$curso_id[0]='1011';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
-
-	$curso='fcup-LAST'; $faculdade_codigo[0]='fcup';$curso_id[0]='956';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
-
-	$curso='fcup-LB'; $faculdade_codigo[0]='fcup';$curso_id[0]='884';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
-
-	$curso='fcup-LBQ'; $faculdade_codigo[0]='fcup';$curso_id[0]='863';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
-
-	$curso='fcup-LCC'; $faculdade_codigo[0]='fcup';$curso_id[0]='885';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
-
-	$curso='fcup-LCE'; $faculdade_codigo[0]='fcup';$curso_id[0]='886';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
-
-	$curso='fcup-LCTA'; $faculdade_codigo[0]='fcup';$curso_id[0]='887';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
-
-	$curso='fcup-LF'; $faculdade_codigo[0]='fcup';$curso_id[0]='888';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
-
-	$curso='fcup-LG'; $faculdade_codigo[0]='fcup';$curso_id[0]='889';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
-
-	$curso='fcup-LM'; $faculdade_codigo[0]='fcup';$curso_id[0]='864';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
-
-	$curso='fcup-LQ'; $faculdade_codigo[0]='fcup';$curso_id[0]='865';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
-
-	$curso='fcup-MIERS'; $faculdade_codigo[0]='fcup';$curso_id[0]='870';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
-
-	$curso='fcup-MIEF'; $faculdade_codigo[0]='fcup';$curso_id[0]='890';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	if ($force_all_start>=10) {
+		$curso='feup-MIEQ'; $faculdade_codigo[0]='feup';$curso_id[0]='745';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
 
 
-	$curso='flup-ARQU'; $faculdade_codigo[0]='flup';$curso_id[0]='339';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	
+	
+	if ($force_all_start>=20) {
+		$curso='fcup-LAP'; $faculdade_codigo[0]='fcup';$curso_id[0]='1011';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
 
-	$curso='flup-CINF'; $faculdade_codigo[0]='flup';$curso_id[0]='454'; $faculdade_codigo[1]='feup';$curso_id[1]='454';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>"; $faculdade_codigo=null;$curso_id=null;
+	if ($force_all_start>=21) {
+		$curso='fcup-LAST'; $faculdade_codigo[0]='fcup';$curso_id[0]='956';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
 
-	$curso='flup-CC'; $faculdade_codigo[0]='flup';$curso_id[0]='455';$faculdade_codigo[1]='fep';$curso_id[1]='455';$faculdade_codigo[2]='feup';$curso_id[2]='455';$faculdade_codigo[3]='fbaup';$curso_id[3]='455';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";$faculdade_codigo=null;$curso_id=null;
+	if ($force_all_start>=22) {
+		$curso='fcup-LB'; $faculdade_codigo[0]='fcup';$curso_id[0]='884';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
 
-	$curso='flup-CL'; $faculdade_codigo[0]='flup';$curso_id[0]='460';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	if ($force_all_start>=23) {
+		$curso='fcup-LBQ'; $faculdade_codigo[0]='fcup';$curso_id[0]='863';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
 
-	$curso='flup-EPL'; $faculdade_codigo[0]='flup';$curso_id[0]='459';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	if ($force_all_start>=24) {
+		$curso='fcup-LCC'; $faculdade_codigo[0]='fcup';$curso_id[0]='885';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
 
-	$curso='flup-FILO'; $faculdade_codigo[0]='flup';$curso_id[0]='340';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	if ($force_all_start>=25) {
+		$curso='fcup-LCE'; $faculdade_codigo[0]='fcup';$curso_id[0]='886';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
 
-	$curso='flup-GEOGR'; $faculdade_codigo[0]='flup';$curso_id[0]='341';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	if ($force_all_start>=26) {
+		$curso='fcup-LCTA'; $faculdade_codigo[0]='fcup';$curso_id[0]='887';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
 
-	$curso='flup-HISTO'; $faculdade_codigo[0]='flup';$curso_id[0]='342';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	if ($force_all_start>=27) {
+		$curso='fcup-LF'; $faculdade_codigo[0]='fcup';$curso_id[0]='888';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
 
-	$curso='flup-HART'; $faculdade_codigo[0]='flup';$curso_id[0]='453';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	if ($force_all_start>=28) {
+		$curso='fcup-LG'; $faculdade_codigo[0]='fcup';$curso_id[0]='889';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
 
-	$curso='flup-LA'; $faculdade_codigo[0]='flup';$curso_id[0]='456';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	if ($force_all_start>=29) {
+		$curso='fcup-LM'; $faculdade_codigo[0]='fcup';$curso_id[0]='864';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
 
-	$curso='flup-LRI'; $faculdade_codigo[0]='flup';$curso_id[0]='458';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	if ($force_all_start>=30) {
+		$curso='fcup-LQ'; $faculdade_codigo[0]='fcup';$curso_id[0]='865';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
 
-	$curso='flup-LLC'; $faculdade_codigo[0]='flup';$curso_id[0]='457';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	if ($force_all_start>=31) {
+		$curso='fcup-MIERS'; $faculdade_codigo[0]='fcup';$curso_id[0]='870';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
 
-	$curso='flup-SOCI'; $faculdade_codigo[0]='flup';$curso_id[0]='452';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	if ($force_all_start>=32) {
+		$curso='fcup-MIEF'; $faculdade_codigo[0]='fcup';$curso_id[0]='890';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
 
 
-	$curso='fbaup-AP';$faculdade_codigo[0]='fbaup';$curso_id[0]='1315';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	
+	
+	
+	if ($force_all_start>=40) {
+		$curso='flup-ARQU'; $faculdade_codigo[0]='flup';$curso_id[0]='339';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
 
-	$curso='fbaup-DC';$faculdade_codigo[0]='fbaup';$curso_id[0]='1314';
-	queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	if ($force_all_start>=41) {
+		$curso='flup-CINF'; $faculdade_codigo[0]='flup';$curso_id[0]='454'; $faculdade_codigo[1]='feup';$curso_id[1]='454';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	} $faculdade_codigo=null;$curso_id=null;
+
+	if ($force_all_start>=42) {
+		$curso='flup-CC'; $faculdade_codigo[0]='flup';$curso_id[0]='455';$faculdade_codigo[1]='fep';$curso_id[1]='455';$faculdade_codigo[2]='feup';$curso_id[2]='455';$faculdade_codigo[3]='fbaup';$curso_id[3]='455';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}$faculdade_codigo=null;$curso_id=null;
+
+	if ($force_all_start>=43) {
+		$curso='flup-CL'; $faculdade_codigo[0]='flup';$curso_id[0]='460';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
+
+	if ($force_all_start>=44) {
+		$curso='flup-EPL'; $faculdade_codigo[0]='flup';$curso_id[0]='459';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
+
+	if ($force_all_start>=45) {
+		$curso='flup-FILO'; $faculdade_codigo[0]='flup';$curso_id[0]='340';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
+
+	if ($force_all_start>=46) {
+		$curso='flup-GEOGR'; $faculdade_codigo[0]='flup';$curso_id[0]='341';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
+
+	if ($force_all_start>=47) {
+		$curso='flup-HISTO'; $faculdade_codigo[0]='flup';$curso_id[0]='342';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
+
+	if ($force_all_start>=48) {
+		$curso='flup-HART'; $faculdade_codigo[0]='flup';$curso_id[0]='453';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
+
+	if ($force_all_start>=49) {
+		$curso='flup-LA'; $faculdade_codigo[0]='flup';$curso_id[0]='456';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
+
+	if ($force_all_start>=50) {
+		$curso='flup-LRI'; $faculdade_codigo[0]='flup';$curso_id[0]='458';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
+
+	if ($force_all_start>=51) {
+		$curso='flup-LLC'; $faculdade_codigo[0]='flup';$curso_id[0]='457';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
+
+	if ($force_all_start>=52) {
+		$curso='flup-SOCI'; $faculdade_codigo[0]='flup';$curso_id[0]='452';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
+
+
+	
+	
+	if ($force_all_start>=60) {
+		$curso='fbaup-AP';$faculdade_codigo[0]='fbaup';$curso_id[0]='1315';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
+
+	if ($force_all_start>=61) {
+		$curso='fbaup-DC';$faculdade_codigo[0]='fbaup';$curso_id[0]='1314';
+		queryFEUP($faculdade_codigo,$curso_id,$periodo_id,$anolectivo,$curso.$_POST['anolectivo'].$_POST['periodo'].'.json'); echo "<br>";
+	}
 
 }
 
