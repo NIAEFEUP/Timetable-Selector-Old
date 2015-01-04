@@ -1,0 +1,1663 @@
+{
+    "1\u00ba Ano": {
+        "M112": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "C\u00e1lculo Infinitesimal II",
+                    "sigla": "M112",
+                    "tipo": "TP",
+                    "turma": "M112_TP1",
+                    "turmac": "M112_TP1",
+                    "duracao": "4",
+                    "sala": "FC1029",
+                    "profsig": "APSD",
+                    "prof": "Ana Dias"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16.5,
+                    "nome": "C\u00e1lculo Infinitesimal II",
+                    "sigla": "M112",
+                    "tipo": "TP",
+                    "turma": "M112_TP2",
+                    "turmac": "M112_TP2",
+                    "duracao": "4",
+                    "sala": "FC1029",
+                    "profsig": "APSD",
+                    "prof": "Ana Dias"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "C\u00e1lculo Infinitesimal II",
+                    "sigla": "M112",
+                    "tipo": "TP",
+                    "turma": "M112_TP3",
+                    "turmac": "M112_TP3",
+                    "duracao": "4",
+                    "sala": "FC1122",
+                    "profsig": "JMMR",
+                    "prof": "Jorge Rocha"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "C\u00e1lculo Infinitesimal II",
+                    "sigla": "M112",
+                    "tipo": "TP",
+                    "turma": "M112_TP3",
+                    "turmac": "M112_TP3",
+                    "duracao": "4",
+                    "sala": "FC1107",
+                    "profsig": "APSD",
+                    "prof": "Ana Dias"
+                },
+                {
+                    "dia": 4,
+                    "hora": 17,
+                    "nome": "C\u00e1lculo Infinitesimal II",
+                    "sigla": "M112",
+                    "tipo": "TP",
+                    "turma": "M112_TP4",
+                    "turmac": "M112_TP4",
+                    "duracao": "4",
+                    "sala": "FC1029",
+                    "profsig": "JMMR",
+                    "prof": "Jorge Rocha"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "C\u00e1lculo Infinitesimal II",
+                    "sigla": "M112",
+                    "tipo": "TP",
+                    "turma": "M112_TP5",
+                    "turmac": "M112_TP5",
+                    "duracao": "4",
+                    "sala": "FC1029",
+                    "profsig": "JMMR",
+                    "prof": "Jorge Rocha"
+                },
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "C\u00e1lculo Infinitesimal II",
+                    "sigla": "M112",
+                    "tipo": "TP",
+                    "turma": "M112_TP6",
+                    "turmac": "M112_TP6",
+                    "duracao": "4",
+                    "sala": "FC1107",
+                    "profsig": "JMMR",
+                    "prof": "Jorge Rocha"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9.5,
+                    "nome": "C\u00e1lculo Infinitesimal II",
+                    "sigla": "M112",
+                    "tipo": "TP",
+                    "turma": "M112_TP7",
+                    "turmac": "M112_TP7",
+                    "duracao": "4",
+                    "sala": "FC1107",
+                    "profsig": "JMMR",
+                    "prof": "Jorge Rocha"
+                }
+            ],
+            "nome": "C\u00e1lculo Infinitesimal II",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 11.5,
+                    "nome": "C\u00e1lculo Infinitesimal II",
+                    "sigla": "M112",
+                    "tipo": "T",
+                    "turma": "M112_T1",
+                    "turmac": "M112_T1",
+                    "duracao": "3",
+                    "sala": "FC1027",
+                    "profsig": "APSD",
+                    "prof": "Ana Dias"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11.5,
+                    "nome": "C\u00e1lculo Infinitesimal II",
+                    "sigla": "M112",
+                    "tipo": "T",
+                    "turma": "M112_T1",
+                    "turmac": "M112_T1",
+                    "duracao": "3",
+                    "sala": "FC1027",
+                    "profsig": "APSD",
+                    "prof": "Ana Dias"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11.5,
+                    "nome": "C\u00e1lculo Infinitesimal II",
+                    "sigla": "M112",
+                    "tipo": "T",
+                    "turma": "M112_T2",
+                    "turmac": "M112_T2",
+                    "duracao": "3",
+                    "sala": "FC1003",
+                    "profsig": "JCSOS",
+                    "prof": "Jos\u00e9 Carlos Santos"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11.5,
+                    "nome": "C\u00e1lculo Infinitesimal II",
+                    "sigla": "M112",
+                    "tipo": "T",
+                    "turma": "M112_T2",
+                    "turmac": "M112_T2",
+                    "duracao": "3",
+                    "sala": "FC1003",
+                    "profsig": "JCSOS",
+                    "prof": "Jos\u00e9 Carlos Santos"
+                }
+            ]
+        },
+        "M122": {
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "C\u00e1lculo em Computadores",
+                    "sigla": "M122",
+                    "tipo": "T",
+                    "turma": "M122_T",
+                    "turmac": "M122_T",
+                    "duracao": "2",
+                    "sala": "FC1003",
+                    "profsig": "FJSM",
+                    "prof": "Fernando Moreira"
+                },
+                {
+                    "dia": 1,
+                    "hora": 10.5,
+                    "nome": "C\u00e1lculo em Computadores",
+                    "sigla": "M122",
+                    "tipo": "T",
+                    "turma": "M122_T",
+                    "turmac": "M122_T",
+                    "duracao": "2",
+                    "sala": "FC1003",
+                    "profsig": "FJSM",
+                    "prof": "Fernando Moreira"
+                }
+            ],
+            "nome": "C\u00e1lculo em Computadores",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "C\u00e1lculo em Computadores",
+                    "sigla": "M122",
+                    "tipo": "TP",
+                    "turma": "M122_TP1",
+                    "turmac": "M122_TP1",
+                    "duracao": "3",
+                    "sala": "FC1106",
+                    "profsig": "FJSM",
+                    "prof": "Fernando Moreira"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "C\u00e1lculo em Computadores",
+                    "sigla": "M122",
+                    "tipo": "TP",
+                    "turma": "M122_TP1",
+                    "turmac": "M122_TP1",
+                    "duracao": "3",
+                    "sala": "FC1106",
+                    "profsig": "FJSM",
+                    "prof": "Fernando Moreira"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "C\u00e1lculo em Computadores",
+                    "sigla": "M122",
+                    "tipo": "TP",
+                    "turma": "M122_TP2",
+                    "turmac": "M122_TP2",
+                    "duracao": "3",
+                    "sala": "FC1106",
+                    "profsig": "MZRAR",
+                    "prof": "Maria Z\u00e9lia Rocha"
+                },
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "C\u00e1lculo em Computadores",
+                    "sigla": "M122",
+                    "tipo": "TP",
+                    "turma": "M122_TP2",
+                    "turmac": "M122_TP2",
+                    "duracao": "3",
+                    "sala": "FC1106",
+                    "profsig": "MZRAR",
+                    "prof": "Maria Z\u00e9lia Rocha"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "C\u00e1lculo em Computadores",
+                    "sigla": "M122",
+                    "tipo": "TP",
+                    "turma": "M122_TP3",
+                    "turmac": "M122_TP3",
+                    "duracao": "3",
+                    "sala": "FC1106",
+                    "profsig": "MZRAR",
+                    "prof": "Maria Z\u00e9lia Rocha"
+                },
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "C\u00e1lculo em Computadores",
+                    "sigla": "M122",
+                    "tipo": "TP",
+                    "turma": "M122_TP3",
+                    "turmac": "M122_TP3",
+                    "duracao": "3",
+                    "sala": "FC1106",
+                    "profsig": "MZRAR",
+                    "prof": "Maria Z\u00e9lia Rocha"
+                }
+            ]
+        },
+        "M142": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 11.5,
+                    "nome": "\u00c1lgebra Linear e Geometria Anal\u00edtica II",
+                    "sigla": "M142",
+                    "tipo": "T",
+                    "turma": "M142_T",
+                    "turmac": "M142_T",
+                    "duracao": "3",
+                    "sala": "FC1031",
+                    "profsig": "MGFAC",
+                    "prof": "Gabriela Chaves"
+                },
+                {
+                    "dia": 3,
+                    "hora": 11.5,
+                    "nome": "\u00c1lgebra Linear e Geometria Anal\u00edtica II",
+                    "sigla": "M142",
+                    "tipo": "T",
+                    "turma": "M142_T",
+                    "turmac": "M142_T",
+                    "duracao": "3",
+                    "sala": "FC1031",
+                    "profsig": "MGFAC",
+                    "prof": "Gabriela Chaves"
+                }
+            ],
+            "nome": "\u00c1lgebra Linear e Geometria Anal\u00edtica II",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "\u00c1lgebra Linear e Geometria Anal\u00edtica II",
+                    "sigla": "M142",
+                    "tipo": "TP",
+                    "turma": "M142_TP1",
+                    "turmac": "M142_TP1",
+                    "duracao": "4",
+                    "sala": "FC1031",
+                    "profsig": "MGFAC",
+                    "prof": "Gabriela Chaves"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "\u00c1lgebra Linear e Geometria Anal\u00edtica II",
+                    "sigla": "M142",
+                    "tipo": "TP",
+                    "turma": "M142_TP2",
+                    "turmac": "M142_TP2",
+                    "duracao": "4",
+                    "sala": "FC1031",
+                    "profsig": "AMAMO",
+                    "prof": "Ana Oliveira"
+                }
+            ]
+        },
+        "M152": {
+            "T": [
+                {
+                    "dia": 5,
+                    "hora": 9.5,
+                    "nome": "Geometria",
+                    "sigla": "M152",
+                    "tipo": "T",
+                    "turma": "M152_T",
+                    "turmac": "M152_T",
+                    "duracao": "3",
+                    "sala": "FC1029",
+                    "profsig": "ACHGO",
+                    "prof": "Ant\u00f3nio Carlos  Henriques Guedes de Oliveira"
+                },
+                {
+                    "dia": 2,
+                    "hora": 10,
+                    "nome": "Geometria",
+                    "sigla": "M152",
+                    "tipo": "T",
+                    "turma": "M152_T",
+                    "turmac": "M152_T",
+                    "duracao": "3",
+                    "sala": "FC1029",
+                    "profsig": "ACHGO",
+                    "prof": "Ant\u00f3nio Carlos  Henriques Guedes de Oliveira"
+                }
+            ],
+            "nome": "Geometria",
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Geometria",
+                    "sigla": "M152",
+                    "tipo": "TP",
+                    "turma": "M152_TP",
+                    "turmac": "M152_TP",
+                    "duracao": "4",
+                    "sala": "FC1118",
+                    "profsig": "ACHGO",
+                    "prof": "Ant\u00f3nio Carlos  Henriques Guedes de Oliveira"
+                }
+            ]
+        },
+        "M182": {
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Modelos Matem\u00e1ticos",
+                    "sigla": "M182",
+                    "tipo": "PL",
+                    "turma": "M182_PL1",
+                    "turmac": "M182_PL1",
+                    "duracao": "4",
+                    "sala": "FC1118",
+                    "profsig": "IMBFC",
+                    "prof": "In\u00eas Cruz"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Modelos Matem\u00e1ticos",
+                    "sigla": "M182",
+                    "tipo": "PL",
+                    "turma": "M182_PL2",
+                    "turmac": "M182_PL2",
+                    "duracao": "4",
+                    "sala": "FC1118",
+                    "profsig": "IMBFC",
+                    "prof": "In\u00eas Cruz"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Modelos Matem\u00e1ticos",
+                    "sigla": "M182",
+                    "tipo": "PL",
+                    "turma": "M182_PL3",
+                    "turmac": "M182_PL3",
+                    "duracao": "4",
+                    "sala": "FC1118",
+                    "profsig": "IMBFC",
+                    "prof": "In\u00eas Cruz"
+                }
+            ],
+            "nome": "Modelos Matem\u00e1ticos",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 10,
+                    "nome": "Modelos Matem\u00e1ticos",
+                    "sigla": "M182",
+                    "tipo": "T",
+                    "turma": "M182_T",
+                    "turmac": "M182_T",
+                    "duracao": "3",
+                    "sala": "FC1031",
+                    "profsig": "IMBFC",
+                    "prof": "In\u00eas Cruz"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Modelos Matem\u00e1ticos",
+                    "sigla": "M182",
+                    "tipo": "T",
+                    "turma": "M182_T",
+                    "turmac": "M182_T",
+                    "duracao": "3",
+                    "sala": "FC1031",
+                    "profsig": "IMBFC",
+                    "prof": "In\u00eas Cruz"
+                }
+            ]
+        },
+        "M242": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 9.5,
+                    "nome": "Teoria dos N\u00fameros e Criptografia",
+                    "sigla": "M242",
+                    "tipo": "T",
+                    "turma": "M242_T",
+                    "turmac": "M242_T",
+                    "duracao": "3",
+                    "sala": "FC1122",
+                    "profsig": "CEL",
+                    "prof": "Christian Lomp"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11.5,
+                    "nome": "Teoria dos N\u00fameros e Criptografia",
+                    "sigla": "M242",
+                    "tipo": "T",
+                    "turma": "M242_T",
+                    "turmac": "M242_T",
+                    "duracao": "3",
+                    "sala": "FC1122",
+                    "profsig": "CEL",
+                    "prof": "Christian Lomp"
+                }
+            ],
+            "nome": "Teoria dos N\u00fameros e Criptografia",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Teoria dos N\u00fameros e Criptografia",
+                    "sigla": "M242",
+                    "tipo": "TP",
+                    "turma": "M242_TP",
+                    "turmac": "M242_TP",
+                    "duracao": "4",
+                    "sala": "FC1122",
+                    "profsig": "CEL",
+                    "prof": "Christian Lomp"
+                }
+            ]
+        },
+        "M272": {
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Estat\u00edstica Aplicada",
+                    "sigla": "M272",
+                    "tipo": "T",
+                    "turma": "M272_T",
+                    "turmac": "M272_T",
+                    "duracao": "3",
+                    "sala": "FC1005",
+                    "profsig": "ARPG",
+                    "prof": "A. Rita Gaio"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14.5,
+                    "nome": "Estat\u00edstica Aplicada",
+                    "sigla": "M272",
+                    "tipo": "T",
+                    "turma": "M272_T",
+                    "turmac": "M272_T",
+                    "duracao": "3",
+                    "sala": "FC1003",
+                    "profsig": "ARPG",
+                    "prof": "A. Rita Gaio"
+                }
+            ],
+            "nome": "Estat\u00edstica Aplicada",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Estat\u00edstica Aplicada",
+                    "sigla": "M272",
+                    "tipo": "TP",
+                    "turma": "M272_TP",
+                    "turmac": "M272_TP",
+                    "duracao": "4",
+                    "sala": "FC1106",
+                    "profsig": "ARPG",
+                    "prof": "A. Rita Gaio"
+                }
+            ]
+        },
+        "M312": {
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Introdu\u00e7\u00e3o aos Sistemas Din\u00e2micos",
+                    "sigla": "M312",
+                    "tipo": "T",
+                    "turma": "M312_T",
+                    "turmac": "M312_T",
+                    "duracao": "3",
+                    "sala": "FC1121",
+                    "profsig": "MFTPC",
+                    "prof": "Maria Pires de Carvalho"
+                },
+                {
+                    "dia": 2,
+                    "hora": 17,
+                    "nome": "Introdu\u00e7\u00e3o aos Sistemas Din\u00e2micos",
+                    "sigla": "M312",
+                    "tipo": "T",
+                    "turma": "M312_T",
+                    "turmac": "M312_T",
+                    "duracao": "3",
+                    "sala": "FC1121",
+                    "profsig": "MFTPC",
+                    "prof": "Maria Pires de Carvalho"
+                }
+            ],
+            "nome": "Introdu\u00e7\u00e3o aos Sistemas Din\u00e2micos",
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "Introdu\u00e7\u00e3o aos Sistemas Din\u00e2micos",
+                    "sigla": "M312",
+                    "tipo": "TP",
+                    "turma": "M312_TP",
+                    "turmac": "M312_TP",
+                    "duracao": "3",
+                    "sala": "FC1121",
+                    "profsig": "MFTPC",
+                    "prof": "Maria Pires de Carvalho"
+                }
+            ]
+        },
+        "M328": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "An\u00e1lise Linear",
+                    "sigla": "M328",
+                    "tipo": "T",
+                    "turma": "M328_T",
+                    "turmac": "M328_T",
+                    "duracao": "3",
+                    "sala": "FC1027",
+                    "profsig": "\u00d3ALF",
+                    "prof": "\u00d3scar Felgueiras"
+                },
+                {
+                    "dia": 4,
+                    "hora": 17,
+                    "nome": "An\u00e1lise Linear",
+                    "sigla": "M328",
+                    "tipo": "T",
+                    "turma": "M328_T",
+                    "turmac": "M328_T",
+                    "duracao": "3",
+                    "sala": "FC1027",
+                    "profsig": "\u00d3ALF",
+                    "prof": "\u00d3scar Felgueiras"
+                }
+            ],
+            "nome": "An\u00e1lise Linear",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "An\u00e1lise Linear",
+                    "sigla": "M328",
+                    "tipo": "TP",
+                    "turma": "M328_TP",
+                    "turmac": "M328_TP",
+                    "duracao": "3",
+                    "sala": "FC1027",
+                    "profsig": "\u00d3ALF",
+                    "prof": "\u00d3scar Felgueiras"
+                }
+            ]
+        },
+        "M355": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 10,
+                    "nome": "Geometria Diferencial",
+                    "sigla": "M355",
+                    "tipo": "T",
+                    "turma": "M355_T",
+                    "turmac": "M355_T",
+                    "duracao": "3",
+                    "sala": "FC1120",
+                    "profsig": "PBG",
+                    "prof": "Peter Gothen"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11.5,
+                    "nome": "Geometria Diferencial",
+                    "sigla": "M355",
+                    "tipo": "T",
+                    "turma": "M355_T",
+                    "turmac": "M355_T",
+                    "duracao": "3",
+                    "sala": "FC1109",
+                    "profsig": "PBG",
+                    "prof": "Peter Gothen"
+                }
+            ],
+            "nome": "Geometria Diferencial",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 11.5,
+                    "nome": "Geometria Diferencial",
+                    "sigla": "M355",
+                    "tipo": "TP",
+                    "turma": "M355_TP",
+                    "turmac": "M355_TP",
+                    "duracao": "3",
+                    "sala": "FC1120",
+                    "profsig": "PBG",
+                    "prof": "Peter Gothen"
+                }
+            ]
+        },
+        "M369": {
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 9.5,
+                    "nome": "Sistemas e Controlo Linear",
+                    "sigla": "M369",
+                    "tipo": "OT",
+                    "turma": "M369_OT",
+                    "turmac": "M369_OT",
+                    "duracao": "1",
+                    "sala": "FC1005",
+                    "profsig": "TMGTFM",
+                    "prof": "Teresa Mendon\u00e7a"
+                }
+            ],
+            "nome": "Sistemas e Controlo Linear",
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 10,
+                    "nome": "Sistemas e Controlo Linear",
+                    "sigla": "M369",
+                    "tipo": "T",
+                    "turma": "M369_T",
+                    "turmac": "M369_T",
+                    "duracao": "3",
+                    "sala": "FC1005",
+                    "profsig": "TMGTFM",
+                    "prof": "Teresa Mendon\u00e7a"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "Sistemas e Controlo Linear",
+                    "sigla": "M369",
+                    "tipo": "T",
+                    "turma": "M369_T",
+                    "turmac": "M369_T",
+                    "duracao": "3",
+                    "sala": "FC1005",
+                    "profsig": "TMGTFM",
+                    "prof": "Teresa Mendon\u00e7a"
+                }
+            ],
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 11.5,
+                    "nome": "Sistemas e Controlo Linear",
+                    "sigla": "M369",
+                    "tipo": "TP",
+                    "turma": "M369_TP",
+                    "turmac": "M369_TP",
+                    "duracao": "3",
+                    "sala": "FC1106",
+                    "profsig": "TMGTFM",
+                    "prof": "Teresa Mendon\u00e7a"
+                }
+            ]
+        },
+        "M381": {
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "L\u00f3gica e Fundamentos",
+                    "sigla": "M381",
+                    "tipo": "T",
+                    "turma": "M381_T",
+                    "turmac": "M381_T",
+                    "duracao": "3",
+                    "sala": "FC1121",
+                    "profsig": "PVAS",
+                    "prof": "Pedro Silva"
+                },
+                {
+                    "dia": 3,
+                    "hora": 15.5,
+                    "nome": "L\u00f3gica e Fundamentos",
+                    "sigla": "M381",
+                    "tipo": "T",
+                    "turma": "M381_T",
+                    "turmac": "M381_T",
+                    "duracao": "3",
+                    "sala": "FC1121",
+                    "profsig": "PVAS",
+                    "prof": "Pedro Silva"
+                }
+            ],
+            "nome": "L\u00f3gica e Fundamentos",
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 17,
+                    "nome": "L\u00f3gica e Fundamentos",
+                    "sigla": "M381",
+                    "tipo": "TP",
+                    "turma": "M381_TP",
+                    "turmac": "M381_TP",
+                    "duracao": "3",
+                    "sala": "FC1121",
+                    "profsig": "PVAS",
+                    "prof": "Pedro Silva"
+                }
+            ]
+        },
+        "M382": {
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 17,
+                    "nome": "Teoria da Informa\u00e7\u00e3o e Codifica\u00e7\u00e3o",
+                    "sigla": "M382",
+                    "tipo": "OT",
+                    "turma": "M382_OT",
+                    "turmac": "M382_OT",
+                    "duracao": "1",
+                    "sala": "FC1122",
+                    "profsig": "JMMGA",
+                    "prof": "Jorge Almeida"
+                }
+            ],
+            "nome": "Teoria da Informa\u00e7\u00e3o e Codifica\u00e7\u00e3o",
+            "T": [
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Teoria da Informa\u00e7\u00e3o e Codifica\u00e7\u00e3o",
+                    "sigla": "M382",
+                    "tipo": "T",
+                    "turma": "M382_T",
+                    "turmac": "M382_T",
+                    "duracao": "3",
+                    "sala": "FC1122",
+                    "profsig": "JMMGA",
+                    "prof": "Jorge Almeida"
+                },
+                {
+                    "dia": 1,
+                    "hora": 17,
+                    "nome": "Teoria da Informa\u00e7\u00e3o e Codifica\u00e7\u00e3o",
+                    "sigla": "M382",
+                    "tipo": "T",
+                    "turma": "M382_T",
+                    "turmac": "M382_T",
+                    "duracao": "3",
+                    "sala": "FC1122",
+                    "profsig": "JMMGA",
+                    "prof": "Jorge Almeida"
+                }
+            ],
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 15.5,
+                    "nome": "Teoria da Informa\u00e7\u00e3o e Codifica\u00e7\u00e3o",
+                    "sigla": "M382",
+                    "tipo": "TP",
+                    "turma": "M382_TP",
+                    "turmac": "M382_TP",
+                    "duracao": "3",
+                    "sala": "FC1122",
+                    "profsig": "JMMGA",
+                    "prof": "Jorge Almeida"
+                }
+            ]
+        },
+        "M385": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 10,
+                    "nome": "Hist\u00f3ria da Matem\u00e1tica",
+                    "sigla": "M385",
+                    "tipo": "T",
+                    "turma": "M385_T",
+                    "turmac": "M385_T",
+                    "duracao": "3",
+                    "sala": "FC1004",
+                    "profsig": "AJOM",
+                    "prof": "Ant\u00f3nio Machiavelo"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Hist\u00f3ria da Matem\u00e1tica",
+                    "sigla": "M385",
+                    "tipo": "T",
+                    "turma": "M385_T",
+                    "turmac": "M385_T",
+                    "duracao": "3",
+                    "sala": "FC1004",
+                    "profsig": "AJOM",
+                    "prof": "Ant\u00f3nio Machiavelo"
+                }
+            ],
+            "nome": "Hist\u00f3ria da Matem\u00e1tica",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 11.5,
+                    "nome": "Hist\u00f3ria da Matem\u00e1tica",
+                    "sigla": "M385",
+                    "tipo": "TP",
+                    "turma": "M385_TP",
+                    "turmac": "M385_TP",
+                    "duracao": "3",
+                    "sala": "FC1004",
+                    "profsig": "AJOM",
+                    "prof": "Ant\u00f3nio Machiavelo"
+                }
+            ]
+        }
+    },
+    "2\u00ba Ano": {
+        "M212": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "An\u00e1lise Complexa e An\u00e1lise de Fourier",
+                    "sigla": "M212",
+                    "tipo": "T",
+                    "turma": "M212_T",
+                    "turmac": "M212_T",
+                    "duracao": "3",
+                    "sala": "FC1007",
+                    "profsig": "PVA",
+                    "prof": "Paulo Ara\u00fajo"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "An\u00e1lise Complexa e An\u00e1lise de Fourier",
+                    "sigla": "M212",
+                    "tipo": "T",
+                    "turma": "M212_T",
+                    "turmac": "M212_T",
+                    "duracao": "3",
+                    "sala": "FC1007",
+                    "profsig": "PVA",
+                    "prof": "Paulo Ara\u00fajo"
+                }
+            ],
+            "nome": "An\u00e1lise Complexa e An\u00e1lise de Fourier",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "An\u00e1lise Complexa e An\u00e1lise de Fourier",
+                    "sigla": "M212",
+                    "tipo": "TP",
+                    "turma": "M212_TP1",
+                    "turmac": "M212_TP1",
+                    "duracao": "4",
+                    "sala": "FC1005",
+                    "profsig": "PVA",
+                    "prof": "Paulo Ara\u00fajo"
+                },
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "An\u00e1lise Complexa e An\u00e1lise de Fourier",
+                    "sigla": "M212",
+                    "tipo": "TP",
+                    "turma": "M212_TP2",
+                    "turmac": "M212_TP2",
+                    "duracao": "4",
+                    "sala": "FC1005",
+                    "profsig": "PVA",
+                    "prof": "Paulo Ara\u00fajo"
+                }
+            ]
+        },
+        "M222": {
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 9.5,
+                    "nome": "Equa\u00e7\u00f5es Diferenciais",
+                    "sigla": "M222",
+                    "tipo": "T",
+                    "turma": "M222_T",
+                    "turmac": "M222_T",
+                    "duracao": "3",
+                    "sala": "FC1030",
+                    "profsig": "MHPRMM",
+                    "prof": "Maria Helena Matos"
+                },
+                {
+                    "dia": 5,
+                    "hora": 9.5,
+                    "nome": "Equa\u00e7\u00f5es Diferenciais",
+                    "sigla": "M222",
+                    "tipo": "T",
+                    "turma": "M222_T",
+                    "turmac": "M222_T",
+                    "duracao": "3",
+                    "sala": "FC1030",
+                    "profsig": "MHPRMM",
+                    "prof": "Maria Helena Matos"
+                }
+            ],
+            "nome": "Equa\u00e7\u00f5es Diferenciais",
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Equa\u00e7\u00f5es Diferenciais",
+                    "sigla": "M222",
+                    "tipo": "TP",
+                    "turma": "M222_TP2",
+                    "turmac": "M222_TP2",
+                    "duracao": "4",
+                    "sala": "FC1122",
+                    "profsig": "IMBFC+MHMM",
+                    "prof": null
+                }
+            ]
+        },
+        "M231": {
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "An\u00e1lise Num\u00e9rica I",
+                    "sigla": "M231",
+                    "tipo": "T",
+                    "turma": "M231_T",
+                    "turmac": "M231_T",
+                    "duracao": "3",
+                    "sala": "FC1003",
+                    "profsig": "MJPSR",
+                    "prof": "Maria Jo\u00e3o Rodrigues"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "An\u00e1lise Num\u00e9rica I",
+                    "sigla": "M231",
+                    "tipo": "T",
+                    "turma": "M231_T",
+                    "turmac": "M231_T",
+                    "duracao": "3",
+                    "sala": "FC1003",
+                    "profsig": "MJPSR",
+                    "prof": "Maria Jo\u00e3o Rodrigues"
+                }
+            ],
+            "nome": "An\u00e1lise Num\u00e9rica I",
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "An\u00e1lise Num\u00e9rica I",
+                    "sigla": "M231",
+                    "tipo": "TP",
+                    "turma": "M231_TP1",
+                    "turmac": "M231_TP1",
+                    "duracao": "4",
+                    "sala": "FC1118",
+                    "profsig": "MJPSR",
+                    "prof": "Maria Jo\u00e3o Rodrigues"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "An\u00e1lise Num\u00e9rica I",
+                    "sigla": "M231",
+                    "tipo": "TP",
+                    "turma": "M231_TP2",
+                    "turmac": "M231_TP2",
+                    "duracao": "4",
+                    "sala": "FC1106",
+                    "profsig": "MJPSR",
+                    "prof": "Maria Jo\u00e3o Rodrigues"
+                }
+            ]
+        }
+    },
+    "3\u00ba Ano": {
+        "CC218": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Modelos de Computa\u00e7\u00e3o",
+                    "sigla": "CC218",
+                    "tipo": "PL",
+                    "turma": "CC218_PL1",
+                    "turmac": "CC218_PL1",
+                    "duracao": "4",
+                    "sala": "FC6140",
+                    "profsig": "RVLSR",
+                    "prof": "Rog\u00e9rio Reis"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Modelos de Computa\u00e7\u00e3o",
+                    "sigla": "CC218",
+                    "tipo": "PL",
+                    "turma": "CC218_PL2",
+                    "turmac": "CC218_PL2",
+                    "duracao": "4",
+                    "sala": "FC6140",
+                    "profsig": "NRAM",
+                    "prof": "Nelma Moreira"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Modelos de Computa\u00e7\u00e3o",
+                    "sigla": "CC218",
+                    "tipo": "PL",
+                    "turma": "CC218_PL3",
+                    "turmac": "CC218_PL3",
+                    "duracao": "4",
+                    "sala": "FC6137",
+                    "profsig": "NRAM",
+                    "prof": "Nelma Moreira"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Modelos de Computa\u00e7\u00e3o",
+                    "sigla": "CC218",
+                    "tipo": "PL",
+                    "turma": "CC218_PL4",
+                    "turmac": "CC218_PL4",
+                    "duracao": "4",
+                    "sala": "FC6146",
+                    "profsig": "LFCA",
+                    "prof": "Lu\u00eds Antunes"
+                }
+            ],
+            "nome": "Modelos de Computa\u00e7\u00e3o",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Modelos de Computa\u00e7\u00e3o",
+                    "sigla": "CC218",
+                    "tipo": "T",
+                    "turma": "CC218_T",
+                    "turmac": "CC218_T",
+                    "duracao": "2",
+                    "sala": "FC1027",
+                    "profsig": "APNGT",
+                    "prof": "Ana Paula Tom\u00e1s"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Modelos de Computa\u00e7\u00e3o",
+                    "sigla": "CC218",
+                    "tipo": "T",
+                    "turma": "CC218_T",
+                    "turmac": "CC218_T",
+                    "duracao": "2",
+                    "sala": "FC1027",
+                    "profsig": "APNGT",
+                    "prof": "Ana Paula Tom\u00e1s"
+                }
+            ]
+        },
+        "CC222": {
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Sistemas de Opera\u00e7\u00e3o",
+                    "sigla": "CC222",
+                    "tipo": "PL",
+                    "turma": "CC222_PL1",
+                    "turmac": "CC222_PL1",
+                    "duracao": "4",
+                    "sala": "FC6155",
+                    "profsig": "RJGLR",
+                    "prof": "Ricardo Rocha"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Sistemas de Opera\u00e7\u00e3o",
+                    "sigla": "CC222",
+                    "tipo": "PL",
+                    "turma": "CC222_PL2",
+                    "turmac": "CC222_PL2",
+                    "duracao": "4",
+                    "sala": "FC6163",
+                    "profsig": "SALC",
+                    "prof": "S\u00e9rgio Cris\u00f3stomo"
+                },
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Sistemas de Opera\u00e7\u00e3o",
+                    "sigla": "CC222",
+                    "tipo": "PL",
+                    "turma": "CC222_PL3",
+                    "turmac": "CC222_PL3",
+                    "duracao": "4",
+                    "sala": "FC6157",
+                    "profsig": "SALC",
+                    "prof": "S\u00e9rgio Cris\u00f3stomo"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Sistemas de Opera\u00e7\u00e3o",
+                    "sigla": "CC222",
+                    "tipo": "PL",
+                    "turma": "CC222_PL4",
+                    "turmac": "CC222_PL4",
+                    "duracao": "4",
+                    "sala": "FC6163",
+                    "profsig": "SALC",
+                    "prof": "S\u00e9rgio Cris\u00f3stomo"
+                }
+            ],
+            "nome": "Sistemas de Opera\u00e7\u00e3o",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 12,
+                    "nome": "Sistemas de Opera\u00e7\u00e3o",
+                    "sigla": "CC222",
+                    "tipo": "T",
+                    "turma": "CC222_T",
+                    "turmac": "CC222_T",
+                    "duracao": "2",
+                    "sala": "FC1005",
+                    "profsig": "RJGLR",
+                    "prof": "Ricardo Rocha"
+                },
+                {
+                    "dia": 5,
+                    "hora": 12,
+                    "nome": "Sistemas de Opera\u00e7\u00e3o",
+                    "sigla": "CC222",
+                    "tipo": "T",
+                    "turma": "CC222_T",
+                    "turmac": "CC222_T",
+                    "duracao": "2",
+                    "sala": "FC6029",
+                    "profsig": "RJGLR",
+                    "prof": "Ricardo Rocha"
+                }
+            ]
+        },
+        "CC226": {
+            "PL": [
+                {
+                    "dia": 5,
+                    "hora": 15,
+                    "nome": "Arquitectura de Software",
+                    "sigla": "CC226",
+                    "tipo": "PL",
+                    "turma": "CC226_PL",
+                    "turmac": "CC226_PL",
+                    "duracao": "3",
+                    "sala": "FC6163",
+                    "profsig": "jpleal",
+                    "prof": "Jos\u00e9 Paulo Leal"
+                }
+            ],
+            "nome": "Arquitectura de Software",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Arquitectura de Software",
+                    "sigla": "CC226",
+                    "tipo": "T",
+                    "turma": "CC226_T",
+                    "turmac": "CC226_T",
+                    "duracao": "2",
+                    "sala": "FC6006",
+                    "profsig": "jpleal",
+                    "prof": "Jos\u00e9 Paulo Leal"
+                },
+                {
+                    "dia": 2,
+                    "hora": 10,
+                    "nome": "Arquitectura de Software",
+                    "sigla": "CC226",
+                    "tipo": "T",
+                    "turma": "CC226_T",
+                    "turmac": "CC226_T",
+                    "duracao": "2",
+                    "sala": "FC6006",
+                    "profsig": "jpleal",
+                    "prof": "Jos\u00e9 Paulo Leal"
+                }
+            ]
+        },
+        "CC301": {
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Bases de Dados",
+                    "sigla": "CC301",
+                    "tipo": "PL",
+                    "turma": "CC301_PL1",
+                    "turmac": "CC301_PL1",
+                    "duracao": "4",
+                    "sala": "FC6157",
+                    "profsig": "jpleal",
+                    "prof": "Jos\u00e9 Paulo Leal"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Bases de Dados",
+                    "sigla": "CC301",
+                    "tipo": "PL",
+                    "turma": "CC301_PL2",
+                    "turmac": "CC301_PL2",
+                    "duracao": "4",
+                    "sala": "FC6157",
+                    "profsig": "RJGLR",
+                    "prof": "Ricardo Rocha"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Bases de Dados",
+                    "sigla": "CC301",
+                    "tipo": "PL",
+                    "turma": "CC301_PL3",
+                    "turmac": "CC301_PL3",
+                    "duracao": "4",
+                    "sala": "FC6165",
+                    "profsig": "MCPF",
+                    "prof": "Michel Ferreira"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Bases de Dados",
+                    "sigla": "CC301",
+                    "tipo": "PL",
+                    "turma": "CC301_PL4",
+                    "turmac": "CC301_PL4",
+                    "duracao": "4",
+                    "sala": "FC6155",
+                    "profsig": "MCPF",
+                    "prof": "Michel Ferreira"
+                },
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Bases de Dados",
+                    "sigla": "CC301",
+                    "tipo": "PL",
+                    "turma": "CC301_PL5",
+                    "turmac": "CC301_PL5",
+                    "duracao": "4",
+                    "sala": "FC6155",
+                    "profsig": "jpleal",
+                    "prof": "Jos\u00e9 Paulo Leal"
+                }
+            ],
+            "nome": "Bases de Dados",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Bases de Dados",
+                    "sigla": "CC301",
+                    "tipo": "T",
+                    "turma": "CC301_T",
+                    "turmac": "CC301_T",
+                    "duracao": "2",
+                    "sala": "FC1005",
+                    "profsig": "RJGLR",
+                    "prof": "Ricardo Rocha"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Bases de Dados",
+                    "sigla": "CC301",
+                    "tipo": "T",
+                    "turma": "CC301_T",
+                    "turmac": "CC301_T",
+                    "duracao": "2",
+                    "sala": "FC6029",
+                    "profsig": "RJGLR",
+                    "prof": "Ricardo Rocha"
+                }
+            ]
+        },
+        "CC322": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Sistemas Inteligentes",
+                    "sigla": "CC322",
+                    "tipo": "PL",
+                    "turma": "CC322_PL1",
+                    "turmac": "CC322_PL1",
+                    "duracao": "4",
+                    "sala": "FC6163",
+                    "profsig": "ICD",
+                    "prof": "In\u00eas Dutra"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Sistemas Inteligentes",
+                    "sigla": "CC322",
+                    "tipo": "PL",
+                    "turma": "CC322_PL2",
+                    "turmac": "CC322_PL2",
+                    "duracao": "4",
+                    "sala": "FC6157",
+                    "profsig": "RPAR",
+                    "prof": "Rita P. Ribeiro"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Sistemas Inteligentes",
+                    "sigla": "CC322",
+                    "tipo": "PL",
+                    "turma": "CC322_PL3",
+                    "turmac": "CC322_PL3",
+                    "duracao": "4",
+                    "sala": "FC6155",
+                    "profsig": "RPAR",
+                    "prof": "Rita P. Ribeiro"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Sistemas Inteligentes",
+                    "sigla": "CC322",
+                    "tipo": "PL",
+                    "turma": "CC322_PL4",
+                    "turmac": "CC322_PL4",
+                    "duracao": "4",
+                    "sala": "FC6155",
+                    "profsig": "RPAR",
+                    "prof": "Rita P. Ribeiro"
+                }
+            ],
+            "nome": "Sistemas Inteligentes",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 10,
+                    "nome": "Sistemas Inteligentes",
+                    "sigla": "CC322",
+                    "tipo": "T",
+                    "turma": "CC322_T",
+                    "turmac": "CC322_T",
+                    "duracao": "2",
+                    "sala": "FC1027",
+                    "profsig": "ICD",
+                    "prof": "In\u00eas Dutra"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Sistemas Inteligentes",
+                    "sigla": "CC322",
+                    "tipo": "T",
+                    "turma": "CC322_T",
+                    "turmac": "CC322_T",
+                    "duracao": "2",
+                    "sala": "FC1027",
+                    "profsig": "ICD",
+                    "prof": "In\u00eas Dutra"
+                }
+            ]
+        },
+        "CC328": {
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Sistemas Multim\u00e9dia",
+                    "sigla": "CC328",
+                    "tipo": "PL",
+                    "turma": "CC328_PL",
+                    "turmac": "CC328_PL",
+                    "duracao": "4",
+                    "sala": "FC6165",
+                    "profsig": "MTC",
+                    "prof": "Miguel Coimbra"
+                }
+            ],
+            "nome": "Sistemas Multim\u00e9dia",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Sistemas Multim\u00e9dia",
+                    "sigla": "CC328",
+                    "tipo": "T",
+                    "turma": "CC328_T",
+                    "turmac": "CC328_T",
+                    "duracao": "2",
+                    "sala": "FC6029",
+                    "profsig": "MTC",
+                    "prof": "Miguel Coimbra"
+                },
+                {
+                    "dia": 2,
+                    "hora": 10,
+                    "nome": "Sistemas Multim\u00e9dia",
+                    "sigla": "CC328",
+                    "tipo": "T",
+                    "turma": "CC328_T",
+                    "turmac": "CC328_T",
+                    "duracao": "2",
+                    "sala": "FC6029",
+                    "profsig": "MTC",
+                    "prof": "Miguel Coimbra"
+                }
+            ]
+        },
+        "CC330": {
+            "PL": [
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "M\u00e9todos de Apoio \u00e0 Decis\u00e3o",
+                    "sigla": "CC330",
+                    "tipo": "PL",
+                    "turma": "CC330_PL",
+                    "turmac": "CC330_PL",
+                    "duracao": "4",
+                    "sala": "FC6157",
+                    "profsig": "JPP",
+                    "prof": "Jo\u00e3o Pedro Pedroso"
+                }
+            ],
+            "nome": "M\u00e9todos de Apoio \u00e0 Decis\u00e3o",
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "M\u00e9todos de Apoio \u00e0 Decis\u00e3o",
+                    "sigla": "CC330",
+                    "tipo": "T",
+                    "turma": "CC330_T",
+                    "turmac": "CC330_T",
+                    "duracao": "2",
+                    "sala": "FC6029",
+                    "profsig": "JPP",
+                    "prof": "Jo\u00e3o Pedro Pedroso"
+                },
+                {
+                    "dia": 1,
+                    "hora": 12,
+                    "nome": "M\u00e9todos de Apoio \u00e0 Decis\u00e3o",
+                    "sigla": "CC330",
+                    "tipo": "T",
+                    "turma": "CC330_T",
+                    "turmac": "CC330_T",
+                    "duracao": "2",
+                    "sala": "FC6142",
+                    "profsig": "JPP",
+                    "prof": "Jo\u00e3o Pedro Pedroso"
+                }
+            ]
+        },
+        "CC333": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 15,
+                    "nome": "Computabilidade",
+                    "sigla": "CC333",
+                    "tipo": "PL",
+                    "turma": "CC333_PL",
+                    "turmac": "CC333_PL",
+                    "duracao": "2",
+                    "sala": "FC6137",
+                    "profsig": "SBB",
+                    "prof": "Sabine Broda"
+                },
+                {
+                    "dia": 4,
+                    "hora": 15,
+                    "nome": "Computabilidade",
+                    "sigla": "CC333",
+                    "tipo": "PL",
+                    "turma": "CC333_PL",
+                    "turmac": "CC333_PL",
+                    "duracao": "2",
+                    "sala": "FC6137",
+                    "profsig": "SBB",
+                    "prof": "Sabine Broda"
+                }
+            ],
+            "nome": "Computabilidade",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Computabilidade",
+                    "sigla": "CC333",
+                    "tipo": "T",
+                    "turma": "CC333_T",
+                    "turmac": "CC333_T",
+                    "duracao": "2",
+                    "sala": "FC6137",
+                    "profsig": "SBB",
+                    "prof": "Sabine Broda"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Computabilidade",
+                    "sigla": "CC333",
+                    "tipo": "T",
+                    "turma": "CC333_T",
+                    "turmac": "CC333_T",
+                    "duracao": "2",
+                    "sala": "FC6137",
+                    "profsig": "SBB",
+                    "prof": "Sabine Broda"
+                }
+            ]
+        },
+        "M386": {
+            "T": [
+                {
+                    "dia": 5,
+                    "hora": 11.5,
+                    "nome": "M\u00e9todos Matem\u00e1ticos em Biologia e Medicina",
+                    "sigla": "M386",
+                    "tipo": "T",
+                    "turma": "M386_T",
+                    "turmac": "M386_T",
+                    "duracao": "3",
+                    "sala": "FC1003",
+                    "profsig": "ISL",
+                    "prof": "Isabel Labouriau"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "M\u00e9todos Matem\u00e1ticos em Biologia e Medicina",
+                    "sigla": "M386",
+                    "tipo": "T",
+                    "turma": "M386_T",
+                    "turmac": "M386_T",
+                    "duracao": "3",
+                    "sala": "FC1003",
+                    "profsig": "ISL",
+                    "prof": "Isabel Labouriau"
+                }
+            ],
+            "nome": "M\u00e9todos Matem\u00e1ticos em Biologia e Medicina",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "M\u00e9todos Matem\u00e1ticos em Biologia e Medicina",
+                    "sigla": "M386",
+                    "tipo": "TP",
+                    "turma": "M386_TP",
+                    "turmac": "M386_TP",
+                    "duracao": "3",
+                    "sala": "FC1122",
+                    "profsig": "ISL",
+                    "prof": "Isabel Labouriau"
+                }
+            ]
+        }
+    }
+}

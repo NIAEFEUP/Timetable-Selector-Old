@@ -1,0 +1,669 @@
+{
+    "1\u00ba Ano": {
+        "G101": {
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Cristalografia e Mineralogia",
+                    "sigla": "G101",
+                    "tipo": "PL",
+                    "turma": "G101_PL1",
+                    "turmac": "G101_PL1",
+                    "duracao": "4",
+                    "sala": "FC3-113",
+                    "profsig": "IBR",
+                    "prof": "Iuliu Bobos-Radu"
+                },
+                {
+                    "dia": 1,
+                    "hora": 10,
+                    "nome": "Cristalografia e Mineralogia",
+                    "sigla": "G101",
+                    "tipo": "PL",
+                    "turma": "G101_PL2",
+                    "turmac": "G101_PL2",
+                    "duracao": "4",
+                    "sala": "FC3-113",
+                    "profsig": "IBR",
+                    "prof": "Iuliu Bobos-Radu"
+                }
+            ],
+            "nome": "Cristalografia e Mineralogia",
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Cristalografia e Mineralogia",
+                    "sigla": "G101",
+                    "tipo": "T",
+                    "turma": "G101_T",
+                    "turmac": "G101_T",
+                    "duracao": "4",
+                    "sala": "FC3-116",
+                    "profsig": "IBR",
+                    "prof": "Iuliu Bobos-Radu"
+                }
+            ]
+        },
+        "G122": {
+            "TC": [
+                {
+                    "dia": 5,
+                    "hora": 11.5,
+                    "nome": "M\u00e9todos em Cartografia Geol\u00f3gica",
+                    "sigla": "G122",
+                    "tipo": "TC",
+                    "turma": "G122_TC1",
+                    "turmac": "G122_TC1",
+                    "duracao": "4",
+                    "sala": "FC3015",
+                    "profsig": "MAMG",
+                    "prof": "Maria Alexandra Guedes"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "M\u00e9todos em Cartografia Geol\u00f3gica",
+                    "sigla": "G122",
+                    "tipo": "TC",
+                    "turma": "G122_TC2",
+                    "turmac": "G122_TC2",
+                    "duracao": "4",
+                    "sala": "FC3-116",
+                    "profsig": "AJNGM",
+                    "prof": "Ant\u00f3nio Moura"
+                }
+            ],
+            "nome": "M\u00e9todos em Cartografia Geol\u00f3gica",
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 9.5,
+                    "nome": "M\u00e9todos em Cartografia Geol\u00f3gica",
+                    "sigla": "G122",
+                    "tipo": "TP",
+                    "turma": "G122_TP1",
+                    "turmac": "G122_TP1",
+                    "duracao": "4",
+                    "sala": "FC3015",
+                    "profsig": "MAMG",
+                    "prof": "Maria Alexandra Guedes"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "M\u00e9todos em Cartografia Geol\u00f3gica",
+                    "sigla": "G122",
+                    "tipo": "TP",
+                    "turma": "G122_TP2",
+                    "turmac": "G122_TP2",
+                    "duracao": "4",
+                    "sala": "FC3-116",
+                    "profsig": "AJNGM",
+                    "prof": "Ant\u00f3nio Moura"
+                }
+            ]
+        },
+        "G131": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 10,
+                    "nome": "Petrografia",
+                    "sigla": "G131",
+                    "tipo": "PL",
+                    "turma": "G131_PL1",
+                    "turmac": "G131_PL1",
+                    "duracao": "6",
+                    "sala": "FC3-124B",
+                    "profsig": "HCBM",
+                    "prof": "Helena Brites Martins"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Petrografia",
+                    "sigla": "G131",
+                    "tipo": "PL",
+                    "turma": "G131_PL2",
+                    "turmac": "G131_PL2",
+                    "duracao": "6",
+                    "sala": "FC3-124B",
+                    "profsig": "HCBM",
+                    "prof": "Helena Brites Martins"
+                }
+            ],
+            "nome": "Petrografia"
+        },
+        "G242": {
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 9.5,
+                    "nome": "Laborat\u00f3rios de Geologia II",
+                    "sigla": "G242",
+                    "tipo": "PL",
+                    "turma": "G242_PL1",
+                    "turmac": "G242_PL1",
+                    "duracao": "4",
+                    "sala": "FC3-123",
+                    "profsig": "JE+AA",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 10,
+                    "nome": "Laborat\u00f3rios de Geologia II",
+                    "sigla": "G242",
+                    "tipo": "PL",
+                    "turma": "G242_PL2",
+                    "turmac": "G242_PL2",
+                    "duracao": "4",
+                    "sala": "FC3-123",
+                    "profsig": "JE+AA",
+                    "prof": null
+                }
+            ],
+            "nome": "Laborat\u00f3rios de Geologia II"
+        },
+        "M194": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 11.5,
+                    "nome": "Matem\u00e1tica II",
+                    "sigla": "M194",
+                    "tipo": "T",
+                    "turma": "M194_T",
+                    "turmac": "M194_T",
+                    "duracao": "3",
+                    "sala": "FC1007",
+                    "profsig": "LATO",
+                    "prof": "Lu\u00eds Oliveira"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11.5,
+                    "nome": "Matem\u00e1tica II",
+                    "sigla": "M194",
+                    "tipo": "T",
+                    "turma": "M194_T",
+                    "turmac": "M194_T",
+                    "duracao": "3",
+                    "sala": "FC1007",
+                    "profsig": "LATO",
+                    "prof": "Lu\u00eds Oliveira"
+                }
+            ],
+            "nome": "Matem\u00e1tica II",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 9.5,
+                    "nome": "Matem\u00e1tica II",
+                    "sigla": "M194",
+                    "tipo": "TP",
+                    "turma": "M194_TP1",
+                    "turmac": "M194_TP1",
+                    "duracao": "4",
+                    "sala": "FC1030",
+                    "profsig": "LATO",
+                    "prof": "Lu\u00eds Oliveira"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Matem\u00e1tica II",
+                    "sigla": "M194",
+                    "tipo": "TP",
+                    "turma": "M194_TP2",
+                    "turmac": "M194_TP2",
+                    "duracao": "4",
+                    "sala": "FC1004",
+                    "profsig": "LATO",
+                    "prof": "Lu\u00eds Oliveira"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Matem\u00e1tica II",
+                    "sigla": "M194",
+                    "tipo": "TP",
+                    "turma": "M194_TP3",
+                    "turmac": "M194_TP3",
+                    "duracao": "4",
+                    "sala": "FC1029",
+                    "profsig": "MRMLSP",
+                    "prof": "Maria do Ros\u00e1rio Pinto"
+                }
+            ]
+        }
+    },
+    "2\u00ba Ano": {
+        "G124": {
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 8,
+                    "nome": "M\u00e9todos em Cartografia Geol\u00f3gica",
+                    "sigla": "G124",
+                    "tipo": "T",
+                    "turma": "G124_T",
+                    "turmac": "G124_T",
+                    "duracao": "4",
+                    "sala": "FC6051",
+                    "profsig": "RMMM",
+                    "prof": "Rui Moura"
+                }
+            ],
+            "nome": "M\u00e9todos em Cartografia Geol\u00f3gica",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "M\u00e9todos em Cartografia Geol\u00f3gica",
+                    "sigla": "G124",
+                    "tipo": "TP",
+                    "turma": "G124_TP1",
+                    "turmac": "G124_TP1",
+                    "duracao": "4",
+                    "sala": "FC6055",
+                    "profsig": "RMMM",
+                    "prof": "Rui Moura"
+                },
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "M\u00e9todos em Cartografia Geol\u00f3gica",
+                    "sigla": "G124",
+                    "tipo": "TP",
+                    "turma": "G124_TP2",
+                    "turmac": "G124_TP2",
+                    "duracao": "4",
+                    "sala": "FC6055",
+                    "profsig": "RMMM",
+                    "prof": "Rui Moura"
+                }
+            ]
+        },
+        "G224": {
+            "TC": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Trabalho de Campo",
+                    "sigla": "G224",
+                    "tipo": "TC",
+                    "turma": "G224_TC",
+                    "turmac": "G224_TC",
+                    "duracao": "12",
+                    "sala": "FC3-113",
+                    "profsig": "AL+MAR",
+                    "prof": null
+                }
+            ],
+            "nome": "Trabalho de Campo"
+        },
+        "G232": {
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "Petrologia Sedimentar e Pedologia",
+                    "sigla": "G232",
+                    "tipo": "PL",
+                    "turma": "G232_PL1",
+                    "turmac": "G232_PL1",
+                    "duracao": "5",
+                    "sala": "FC3-124B",
+                    "profsig": "AJ+JE+AG",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 10.5,
+                    "nome": "Petrologia Sedimentar e Pedologia",
+                    "sigla": "G232",
+                    "tipo": "PL",
+                    "turma": "G232_PL2",
+                    "turmac": "G232_PL2",
+                    "duracao": "5",
+                    "sala": "FC3-124B",
+                    "profsig": "ADPJ",
+                    "prof": "Ary Jesus"
+                }
+            ],
+            "nome": "Petrologia Sedimentar e Pedologia",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 8.5,
+                    "nome": "Petrologia Sedimentar e Pedologia",
+                    "sigla": "G232",
+                    "tipo": "T",
+                    "turma": "G232_T",
+                    "turmac": "G232_T",
+                    "duracao": "3",
+                    "sala": "FC3-119",
+                    "profsig": "AJ+JE+AA+BV",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 8.5,
+                    "nome": "Petrologia Sedimentar e Pedologia",
+                    "sigla": "G232",
+                    "tipo": "T",
+                    "turma": "G232_T",
+                    "turmac": "G232_T",
+                    "duracao": "3",
+                    "sala": "FC3-119",
+                    "profsig": "AJ+JE+AA+BV",
+                    "prof": null
+                }
+            ]
+        },
+        "G252": {
+            "T": [
+                {
+                    "dia": 5,
+                    "hora": 16,
+                    "nome": "Avalia\u00e7\u00e3o de Recursos Geol\u00f3gicos",
+                    "sigla": "G252",
+                    "tipo": "T",
+                    "turma": "G252_T",
+                    "turmac": "G252_T",
+                    "duracao": "4",
+                    "sala": "FC3028",
+                    "profsig": "JMDC",
+                    "prof": "Jo\u00e3o Coelho"
+                }
+            ],
+            "nome": "Avalia\u00e7\u00e3o de Recursos Geol\u00f3gicos",
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 18,
+                    "nome": "Avalia\u00e7\u00e3o de Recursos Geol\u00f3gicos",
+                    "sigla": "G252",
+                    "tipo": "TP",
+                    "turma": "G252_TP",
+                    "turmac": "G252_TP",
+                    "duracao": "4",
+                    "sala": "FC3028",
+                    "profsig": "JMDC",
+                    "prof": "Jo\u00e3o Coelho"
+                }
+            ]
+        },
+        "G281": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 10,
+                    "nome": "Geologia Planet\u00e1ria",
+                    "sigla": "G281",
+                    "tipo": "T",
+                    "turma": "G281_T",
+                    "turmac": "G281_T",
+                    "duracao": "6",
+                    "sala": "FC3-119",
+                    "profsig": "M\u00c2CFA",
+                    "prof": "Maria \u00c2ngela Almeida"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Geologia Planet\u00e1ria",
+                    "sigla": "G281",
+                    "tipo": "T",
+                    "turma": "G281_T",
+                    "turmac": "G281_T",
+                    "duracao": "2",
+                    "sala": "FC3025",
+                    "profsig": "M\u00c2CFA",
+                    "prof": "Maria \u00c2ngela Almeida"
+                }
+            ],
+            "nome": "Geologia Planet\u00e1ria",
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 15,
+                    "nome": "Geologia Planet\u00e1ria",
+                    "sigla": "G281",
+                    "tipo": "TP",
+                    "turma": "G281_TP",
+                    "turmac": "G281_TP",
+                    "duracao": "2",
+                    "sala": "FC3025",
+                    "profsig": "M\u00c2CFA",
+                    "prof": "Maria \u00c2ngela Almeida"
+                }
+            ]
+        },
+        "G362": {
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Geologia de Engenharia",
+                    "sigla": "G362",
+                    "tipo": "T",
+                    "turma": "G362_T",
+                    "turmac": "G362_T",
+                    "duracao": "4",
+                    "sala": "FC3025",
+                    "profsig": "MIGF",
+                    "prof": "Maria Fernandes"
+                }
+            ],
+            "nome": "Geologia de Engenharia",
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 16,
+                    "nome": "Geologia de Engenharia",
+                    "sigla": "G362",
+                    "tipo": "TP",
+                    "turma": "G362_TP",
+                    "turmac": "G362_TP",
+                    "duracao": "4",
+                    "sala": "FC3025",
+                    "profsig": "MIGF",
+                    "prof": "Maria Fernandes"
+                }
+            ]
+        },
+        "G372": {
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Riscos Geol\u00f3gicos",
+                    "sigla": "G372",
+                    "tipo": "T",
+                    "turma": "G372_T",
+                    "turmac": "G372_T",
+                    "duracao": "4",
+                    "sala": "FC3-119",
+                    "profsig": "RMMM",
+                    "prof": "Rui Moura"
+                }
+            ],
+            "nome": "Riscos Geol\u00f3gicos",
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Riscos Geol\u00f3gicos",
+                    "sigla": "G372",
+                    "tipo": "TP",
+                    "turma": "G372_TP",
+                    "turmac": "G372_TP",
+                    "duracao": "4",
+                    "sala": "FC3-119",
+                    "profsig": "RMMM",
+                    "prof": "Rui Moura"
+                }
+            ]
+        }
+    },
+    "3\u00ba Ano": {
+        "CC202": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Estrutura de Dados",
+                    "sigla": "CC202",
+                    "tipo": "PL",
+                    "turma": "CC202_PL1",
+                    "turmac": "CC202_PL1",
+                    "duracao": "4",
+                    "sala": "FC6165",
+                    "profsig": "LFRAT",
+                    "prof": "Lu\u00eds Torgo"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Estrutura de Dados",
+                    "sigla": "CC202",
+                    "tipo": "PL",
+                    "turma": "CC202_PL2",
+                    "turmac": "CC202_PL2",
+                    "duracao": "4",
+                    "sala": "FC6157",
+                    "profsig": "AMGJ",
+                    "prof": "Al\u00edpio Jorge"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Estrutura de Dados",
+                    "sigla": "CC202",
+                    "tipo": "PL",
+                    "turma": "CC202_PL3",
+                    "turmac": "CC202_PL3",
+                    "duracao": "4",
+                    "sala": "FC6163",
+                    "profsig": "LFRAT",
+                    "prof": "Lu\u00eds Torgo"
+                },
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Estrutura de Dados",
+                    "sigla": "CC202",
+                    "tipo": "PL",
+                    "turma": "CC202_PL4",
+                    "turmac": "CC202_PL4",
+                    "duracao": "4",
+                    "sala": "FC6163",
+                    "profsig": "AMGJ",
+                    "prof": "Al\u00edpio Jorge"
+                }
+            ],
+            "nome": "Estrutura de Dados",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Estrutura de Dados",
+                    "sigla": "CC202",
+                    "tipo": "T",
+                    "turma": "CC202_T",
+                    "turmac": "CC202_T",
+                    "duracao": "3",
+                    "sala": "FC4041",
+                    "profsig": "AMGJ",
+                    "prof": "Al\u00edpio Jorge"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Estrutura de Dados",
+                    "sigla": "CC202",
+                    "tipo": "T",
+                    "turma": "CC202_T",
+                    "turmac": "CC202_T",
+                    "duracao": "3",
+                    "sala": "FC4041",
+                    "profsig": "AMGJ",
+                    "prof": "Al\u00edpio Jorge"
+                }
+            ]
+        },
+        "G254": {
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "M\u00e9todos de Prospec\u00e7\u00e3o",
+                    "sigla": "G254",
+                    "tipo": "T",
+                    "turma": "G254_T",
+                    "turmac": "G254_T",
+                    "duracao": "4",
+                    "sala": "FC3-119",
+                    "profsig": "AL+RM",
+                    "prof": null
+                }
+            ],
+            "nome": "M\u00e9todos de Prospec\u00e7\u00e3o",
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 10.5,
+                    "nome": "M\u00e9todos de Prospec\u00e7\u00e3o",
+                    "sigla": "G254",
+                    "tipo": "TP",
+                    "turma": "G254_TP",
+                    "turmac": "G254_TP",
+                    "duracao": "4",
+                    "sala": "FC3-119",
+                    "profsig": "AL+RM",
+                    "prof": null
+                }
+            ]
+        },
+        "G316": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Geologia Global",
+                    "sigla": "G316",
+                    "tipo": "TP",
+                    "turma": "G316_TP",
+                    "turmac": "G316_TP",
+                    "duracao": "8",
+                    "sala": "FC3-113",
+                    "profsig": "ADPJ",
+                    "prof": "Ary Jesus"
+                }
+            ],
+            "nome": "Geologia Global"
+        },
+        "G322": {
+            "TC": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Cartografia Geol\u00f3gica",
+                    "sigla": "G322",
+                    "tipo": "TC",
+                    "turma": "G322_TC",
+                    "turmac": "G322_TC",
+                    "duracao": "10",
+                    "sala": "FC3-113",
+                    "profsig": "AMCL",
+                    "prof": "Alexandre Lima"
+                }
+            ],
+            "nome": "Cartografia Geol\u00f3gica"
+        }
+    }
+}
