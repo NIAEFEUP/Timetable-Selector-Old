@@ -319,7 +319,7 @@ p.error{
 
 
 @media print {
-    header, footer, div.selector{
+    footer, div.selector{
 		display:none;
     }
 	
