@@ -170,7 +170,7 @@ table#horario td,table#horario th{
 	border:1px #FFFFFF solid;
 	text-align:center;
 	background-color:#F0F0F0;
-	padding:0.25em;
+	padding:3px;
 	width:100px;
 }
 table#horario th{
@@ -322,6 +322,13 @@ p.error{
     footer, div.selector{
 		display:none;
     }
+	
+	
+	table#horario td,table#horario th{
+		border:2px #FFFFFF solid;
+		height:18px;
+		padding:2px;
+	}
 	
 	div#content{
 		min-width:unset;
