@@ -323,7 +323,7 @@ p.error{
 		display:none;
     }
 	
-	#content{
-		min-width:none;
+	div#content{
+		min-width:unset;
 	}
 }
