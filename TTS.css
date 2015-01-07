@@ -316,3 +316,14 @@ p.error{
 	color:#FFFFFF;
 	font-weight:bold;
 }
+
+
+@media print {
+    header, footer, div.selector{
+		display:none;
+    }
+	
+	#content{
+		min-width:none;
+	}
+}
