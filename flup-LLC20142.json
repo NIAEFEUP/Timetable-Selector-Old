@@ -1,0 +1,2308 @@
+{
+    "Sem Ano": {
+        "EA2": {
+            "P": [
+                {
+                    "dia": 5,
+                    "hora": 13.5,
+                    "nome": "Espanhol A2",
+                    "sigla": "EA2",
+                    "tipo": "P",
+                    "turma": "FCNAUP_EA2",
+                    "turmac": "FCNAUP_EA2",
+                    "duracao": "6",
+                    "sala": "FCNAUP",
+                    "profsig": "MPA",
+                    "prof": "Marta Anido"
+                }
+            ],
+            "nome": "Espanhol A2",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 16.5,
+                    "nome": "Espanhol A2",
+                    "sigla": "EA2",
+                    "tipo": "OT",
+                    "turma": "FCNAUP_EA2",
+                    "turmac": "FCNAUP_EA2",
+                    "duracao": "2",
+                    "sala": "FCNAUP",
+                    "profsig": "MPA",
+                    "prof": "Marta Anido"
+                }
+            ]
+        }
+    },
+    "1\u00ba Ano": {
+        "AA1.2": {
+            "P": [
+                {
+                    "dia": 1,
+                    "hora": 8.5,
+                    "nome": "Alem\u00e3o A1.2",
+                    "sigla": "AA1.2",
+                    "tipo": "P",
+                    "turma": "1LLC01",
+                    "turmac": "1LLC01",
+                    "duracao": "4",
+                    "sala": "G409",
+                    "profsig": "NRA",
+                    "prof": "Nina Aretz"
+                },
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Alem\u00e3o A1.2",
+                    "sigla": "AA1.2",
+                    "tipo": "P",
+                    "turma": "1LLC01",
+                    "turmac": "1LLC01",
+                    "duracao": "2",
+                    "sala": "G409",
+                    "profsig": "NRA",
+                    "prof": "Nina Aretz"
+                },
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "Alem\u00e3o A1.2",
+                    "sigla": "AA1.2",
+                    "tipo": "P",
+                    "turma": "1LLC02",
+                    "turmac": "1LLC02",
+                    "duracao": "4",
+                    "sala": "G111",
+                    "profsig": "SMADMAT",
+                    "prof": "Simone Tom\u00e9"
+                },
+                {
+                    "dia": 2,
+                    "hora": 17.5,
+                    "nome": "Alem\u00e3o A1.2",
+                    "sigla": "AA1.2",
+                    "tipo": "P",
+                    "turma": "1LLC02",
+                    "turmac": "1LLC02",
+                    "duracao": "2",
+                    "sala": "G105",
+                    "profsig": "SMADMAT",
+                    "prof": "Simone Tom\u00e9"
+                },
+                {
+                    "dia": 1,
+                    "hora": 17.5,
+                    "nome": "Alem\u00e3o A1.2",
+                    "sigla": "AA1.2",
+                    "tipo": "P",
+                    "turma": "1LLC03",
+                    "turmac": "1LLC03",
+                    "duracao": "4",
+                    "sala": "G305",
+                    "profsig": "AIGB",
+                    "prof": "Ana Isabel Boura"
+                }
+            ],
+            "nome": "Alem\u00e3o A1.2",
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 9.5,
+                    "nome": "Alem\u00e3o A1.2",
+                    "sigla": "AA1.2",
+                    "tipo": "OT",
+                    "turma": "1LLC01",
+                    "turmac": "1LLC01",
+                    "duracao": "2",
+                    "sala": "G409",
+                    "profsig": "NRA",
+                    "prof": "Nina Aretz"
+                },
+                {
+                    "dia": 2,
+                    "hora": 18.5,
+                    "nome": "Alem\u00e3o A1.2",
+                    "sigla": "AA1.2",
+                    "tipo": "OT",
+                    "turma": "1LLC02",
+                    "turmac": "1LLC02",
+                    "duracao": "2",
+                    "sala": "G105",
+                    "profsig": "SMADMAT",
+                    "prof": "Simone Tom\u00e9"
+                }
+            ]
+        },
+        "ICLNA": {
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Cultura e \u00e0 Literatura Norte-Americanas",
+                    "sigla": "ICLNA",
+                    "tipo": "T",
+                    "turma": "1LLC01",
+                    "turmac": "1LLC01",
+                    "duracao": "2",
+                    "sala": "G302",
+                    "profsig": "MTLC",
+                    "prof": "Maria Teresa Castilho"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Cultura e \u00e0 Literatura Norte-Americanas",
+                    "sigla": "ICLNA",
+                    "tipo": "T",
+                    "turma": "1LLC02",
+                    "turmac": "1LLC02",
+                    "duracao": "2",
+                    "sala": "G302",
+                    "profsig": "MTLC",
+                    "prof": "Maria Teresa Castilho"
+                }
+            ],
+            "nome": "Introdu\u00e7\u00e3o \u00e0 Cultura e \u00e0 Literatura Norte-Americanas",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Cultura e \u00e0 Literatura Norte-Americanas",
+                    "sigla": "ICLNA",
+                    "tipo": "OT",
+                    "turma": "1LLC01",
+                    "turmac": "1LLC01",
+                    "duracao": "2",
+                    "sala": "G302",
+                    "profsig": "MTLC",
+                    "prof": "Maria Teresa Castilho"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Cultura e \u00e0 Literatura Norte-Americanas",
+                    "sigla": "ICLNA",
+                    "tipo": "OT",
+                    "turma": "1LLC02",
+                    "turmac": "1LLC02",
+                    "duracao": "2",
+                    "sala": "G302",
+                    "profsig": "MTLC",
+                    "prof": "Maria Teresa Castilho"
+                }
+            ]
+        },
+        "EA2": {
+            "P": [
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Espanhol A2",
+                    "sigla": "EA2",
+                    "tipo": "P",
+                    "turma": "1LLC01",
+                    "turmac": "1LLC01",
+                    "duracao": "2",
+                    "sala": "G303",
+                    "profsig": "MPA",
+                    "prof": "Marta Anido"
+                },
+                {
+                    "dia": 2,
+                    "hora": 17.5,
+                    "nome": "Espanhol A2",
+                    "sigla": "EA2",
+                    "tipo": "P",
+                    "turma": "1LLC01",
+                    "turmac": "1LLC01",
+                    "duracao": "4",
+                    "sala": "G304",
+                    "profsig": "MPA",
+                    "prof": "Marta Anido"
+                },
+                {
+                    "dia": 1,
+                    "hora": 17.5,
+                    "nome": "Espanhol A2",
+                    "sigla": "EA2",
+                    "tipo": "P",
+                    "turma": "1LLC02",
+                    "turmac": "1LLC02",
+                    "duracao": "4",
+                    "sala": "G208",
+                    "profsig": "Docente",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "Espanhol A2",
+                    "sigla": "EA2",
+                    "tipo": "P",
+                    "turma": "1LLC03",
+                    "turmac": "1LLC03",
+                    "duracao": "2",
+                    "sala": "G210",
+                    "profsig": "MPA",
+                    "prof": "Marta Anido"
+                }
+            ],
+            "nome": "Espanhol A2",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 9.5,
+                    "nome": "Espanhol A2",
+                    "sigla": "EA2",
+                    "tipo": "OT",
+                    "turma": "1LLC01",
+                    "turmac": "1LLC01",
+                    "duracao": "2",
+                    "sala": "G303",
+                    "profsig": "MPA",
+                    "prof": "Marta Anido"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Espanhol A2",
+                    "sigla": "EA2",
+                    "tipo": "OT",
+                    "turma": "1LLC03",
+                    "turmac": "1LLC03",
+                    "duracao": "2",
+                    "sala": "G210",
+                    "profsig": "MPA",
+                    "prof": "Marta Anido"
+                }
+            ]
+        },
+        "FA2": {
+            "P": [
+                {
+                    "dia": 1,
+                    "hora": 10.5,
+                    "nome": "Franc\u00eas A2",
+                    "sigla": "FA2",
+                    "tipo": "P",
+                    "turma": "1LLC01",
+                    "turmac": "1LLC01",
+                    "duracao": "4",
+                    "sala": "G208",
+                    "profsig": "NFBA",
+                    "prof": "Nicolina Almeida"
+                },
+                {
+                    "dia": 3,
+                    "hora": 10.5,
+                    "nome": "Franc\u00eas A2",
+                    "sigla": "FA2",
+                    "tipo": "P",
+                    "turma": "1LLC01",
+                    "turmac": "1LLC01",
+                    "duracao": "2",
+                    "sala": "G104",
+                    "profsig": "NFBA",
+                    "prof": "Nicolina Almeida"
+                },
+                {
+                    "dia": 1,
+                    "hora": 8.5,
+                    "nome": "Franc\u00eas A2",
+                    "sigla": "FA2",
+                    "tipo": "P",
+                    "turma": "1LLC02",
+                    "turmac": "1LLC02",
+                    "duracao": "4",
+                    "sala": "G105",
+                    "profsig": "NFBA",
+                    "prof": "Nicolina Almeida"
+                },
+                {
+                    "dia": 3,
+                    "hora": 8.5,
+                    "nome": "Franc\u00eas A2",
+                    "sigla": "FA2",
+                    "tipo": "P",
+                    "turma": "1LLC02",
+                    "turmac": "1LLC02",
+                    "duracao": "2",
+                    "sala": "G305",
+                    "profsig": "NFBA",
+                    "prof": "Nicolina Almeida"
+                }
+            ],
+            "nome": "Franc\u00eas A2",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 9.5,
+                    "nome": "Franc\u00eas A2",
+                    "sigla": "FA2",
+                    "tipo": "OT",
+                    "turma": "1LLC02",
+                    "turmac": "1LLC02",
+                    "duracao": "2",
+                    "sala": "G305",
+                    "profsig": "NFBA",
+                    "prof": "Nicolina Almeida"
+                }
+            ]
+        },
+        "AA2.2": {
+            "P": [
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "Alem\u00e3o A2.2",
+                    "sigla": "AA2.2",
+                    "tipo": "P",
+                    "turma": "1LLC01",
+                    "turmac": "1LLC01",
+                    "duracao": "4",
+                    "sala": "G409",
+                    "profsig": "NRA",
+                    "prof": "Nina Aretz"
+                },
+                {
+                    "dia": 3,
+                    "hora": 17.5,
+                    "nome": "Alem\u00e3o A2.2",
+                    "sigla": "AA2.2",
+                    "tipo": "P",
+                    "turma": "1LLC02",
+                    "turmac": "1LLC02",
+                    "duracao": "4",
+                    "sala": "G202",
+                    "profsig": "MAAGT",
+                    "prof": "Maria Ant\u00f3nia Gaspar Teixeira"
+                },
+                {
+                    "dia": 4,
+                    "hora": 17.5,
+                    "nome": "Alem\u00e3o A2.2",
+                    "sigla": "AA2.2",
+                    "tipo": "P",
+                    "turma": "1LLC02",
+                    "turmac": "1LLC02",
+                    "duracao": "2",
+                    "sala": "G408",
+                    "profsig": "MAAGT",
+                    "prof": "Maria Ant\u00f3nia Gaspar Teixeira"
+                },
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "Alem\u00e3o A2.2",
+                    "sigla": "AA2.2",
+                    "tipo": "P",
+                    "turma": "1LLC03",
+                    "turmac": "1LLC03",
+                    "duracao": "4",
+                    "sala": "G111",
+                    "profsig": "MAAGT",
+                    "prof": "Maria Ant\u00f3nia Gaspar Teixeira"
+                },
+                {
+                    "dia": 5,
+                    "hora": 15.5,
+                    "nome": "Alem\u00e3o A2.2",
+                    "sigla": "AA2.2",
+                    "tipo": "P",
+                    "turma": "1LLC03",
+                    "turmac": "1LLC03",
+                    "duracao": "2",
+                    "sala": "G202",
+                    "profsig": "MAAGT",
+                    "prof": "Maria Ant\u00f3nia Gaspar Teixeira"
+                }
+            ],
+            "nome": "Alem\u00e3o A2.2",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 11.5,
+                    "nome": "Alem\u00e3o A2.2",
+                    "sigla": "AA2.2",
+                    "tipo": "OT",
+                    "turma": "1LLC01",
+                    "turmac": "1LLC01",
+                    "duracao": "2",
+                    "sala": "G409",
+                    "profsig": "NRA",
+                    "prof": "Nina Aretz"
+                },
+                {
+                    "dia": 4,
+                    "hora": 18.5,
+                    "nome": "Alem\u00e3o A2.2",
+                    "sigla": "AA2.2",
+                    "tipo": "OT",
+                    "turma": "1LLC02",
+                    "turmac": "1LLC02",
+                    "duracao": "2",
+                    "sala": "G408",
+                    "profsig": "MAAGT",
+                    "prof": "Maria Ant\u00f3nia Gaspar Teixeira"
+                },
+                {
+                    "dia": 5,
+                    "hora": 16.5,
+                    "nome": "Alem\u00e3o A2.2",
+                    "sigla": "AA2.2",
+                    "tipo": "OT",
+                    "turma": "1LLC03",
+                    "turmac": "1LLC03",
+                    "duracao": "2",
+                    "sala": "G202",
+                    "profsig": "MAAGT",
+                    "prof": "Maria Ant\u00f3nia Gaspar Teixeira"
+                }
+            ]
+        },
+        "FB1.2": {
+            "P": [
+                {
+                    "dia": 5,
+                    "hora": 10.5,
+                    "nome": "Franc\u00eas B1.2",
+                    "sigla": "FB1.2",
+                    "tipo": "P",
+                    "turma": "1LLC01",
+                    "turmac": "1LLC01",
+                    "duracao": "2",
+                    "sala": "G303",
+                    "profsig": "Docente",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 17.5,
+                    "nome": "Franc\u00eas B1.2",
+                    "sigla": "FB1.2",
+                    "tipo": "P",
+                    "turma": "1LLC01",
+                    "turmac": "1LLC01",
+                    "duracao": "4",
+                    "sala": "G106.A\/B",
+                    "profsig": "Docente",
+                    "prof": null
+                }
+            ],
+            "nome": "Franc\u00eas B1.2",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 11.5,
+                    "nome": "Franc\u00eas B1.2",
+                    "sigla": "FB1.2",
+                    "tipo": "OT",
+                    "turma": "1LLC01",
+                    "turmac": "1LLC01",
+                    "duracao": "2",
+                    "sala": "G303",
+                    "profsig": "Docente",
+                    "prof": null
+                }
+            ]
+        },
+        "INTLIN": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 13.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Lingu\u00edstica",
+                    "sigla": "INTLIN",
+                    "tipo": "T",
+                    "turma": "1LLC01",
+                    "turmac": "1LLC01",
+                    "duracao": "2",
+                    "sala": "G105",
+                    "profsig": "MPMS",
+                    "prof": "Maria Silvano"
+                },
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Lingu\u00edstica",
+                    "sigla": "INTLIN",
+                    "tipo": "T",
+                    "turma": "1LLC03",
+                    "turmac": "1LLC03",
+                    "duracao": "2",
+                    "sala": "G111",
+                    "profsig": "MPMS",
+                    "prof": "Maria Silvano"
+                }
+            ],
+            "nome": "Introdu\u00e7\u00e3o \u00e0 Lingu\u00edstica",
+            "OT": [
+                {
+                    "dia": 1,
+                    "hora": 14.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Lingu\u00edstica",
+                    "sigla": "INTLIN",
+                    "tipo": "OT",
+                    "turma": "1LLC01",
+                    "turmac": "1LLC01",
+                    "duracao": "2",
+                    "sala": "G105",
+                    "profsig": "MPMS",
+                    "prof": "Maria Silvano"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Lingu\u00edstica",
+                    "sigla": "INTLIN",
+                    "tipo": "OT",
+                    "turma": "1LLC03",
+                    "turmac": "1LLC03",
+                    "duracao": "2",
+                    "sala": "G111",
+                    "profsig": "MPMS",
+                    "prof": "Maria Silvano"
+                }
+            ],
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 13.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Lingu\u00edstica",
+                    "sigla": "INTLIN",
+                    "tipo": "TP",
+                    "turma": "1LLC02",
+                    "turmac": "1LLC02",
+                    "duracao": "4",
+                    "sala": "G303",
+                    "profsig": "AJRL",
+                    "prof": "Ant\u00f3nio Leal"
+                },
+                {
+                    "dia": 5,
+                    "hora": 15.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Lingu\u00edstica",
+                    "sigla": "INTLIN",
+                    "tipo": "TP",
+                    "turma": "1LLC04",
+                    "turmac": "1LLC04",
+                    "duracao": "4",
+                    "sala": "G303",
+                    "profsig": "AJRL",
+                    "prof": "Ant\u00f3nio Leal"
+                }
+            ]
+        },
+        "TCOE1": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "T\u00e9cnicas de Comunica\u00e7\u00e3o Oral e Escrita I",
+                    "sigla": "TCOE1",
+                    "tipo": "T",
+                    "turma": "1LLC01",
+                    "turmac": "1LLC01",
+                    "duracao": "2",
+                    "sala": "G210",
+                    "profsig": "IMVMB",
+                    "prof": "Isabel Moruj\u00e3o"
+                },
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "T\u00e9cnicas de Comunica\u00e7\u00e3o Oral e Escrita I",
+                    "sigla": "TCOE1",
+                    "tipo": "T",
+                    "turma": "1LLC02",
+                    "turmac": "1LLC02",
+                    "duracao": "2",
+                    "sala": "G210",
+                    "profsig": "MLRMS",
+                    "prof": "Maria de Lurdes Sampaio"
+                },
+                {
+                    "dia": 3,
+                    "hora": 8.5,
+                    "nome": "T\u00e9cnicas de Comunica\u00e7\u00e3o Oral e Escrita I",
+                    "sigla": "TCOE1",
+                    "tipo": "T",
+                    "turma": "1LLC03",
+                    "turmac": "1LLC03",
+                    "duracao": "2",
+                    "sala": "G208",
+                    "profsig": "MIOV",
+                    "prof": "Marta V\u00e1rzeas"
+                },
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "T\u00e9cnicas de Comunica\u00e7\u00e3o Oral e Escrita I",
+                    "sigla": "TCOE1",
+                    "tipo": "T",
+                    "turma": "1LLC04",
+                    "turmac": "1LLC04",
+                    "duracao": "2",
+                    "sala": "G301",
+                    "profsig": "MIOV",
+                    "prof": "Marta V\u00e1rzeas"
+                }
+            ],
+            "nome": "T\u00e9cnicas de Comunica\u00e7\u00e3o Oral e Escrita I",
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "T\u00e9cnicas de Comunica\u00e7\u00e3o Oral e Escrita I",
+                    "sigla": "TCOE1",
+                    "tipo": "TP",
+                    "turma": "1LLC01",
+                    "turmac": "1LLC01",
+                    "duracao": "4",
+                    "sala": "G202",
+                    "profsig": "IMVMB",
+                    "prof": "Isabel Moruj\u00e3o"
+                },
+                {
+                    "dia": 3,
+                    "hora": 15.5,
+                    "nome": "T\u00e9cnicas de Comunica\u00e7\u00e3o Oral e Escrita I",
+                    "sigla": "TCOE1",
+                    "tipo": "TP",
+                    "turma": "1LLC02",
+                    "turmac": "1LLC02",
+                    "duracao": "4",
+                    "sala": "G302",
+                    "profsig": "MLRMS",
+                    "prof": "Maria de Lurdes Sampaio"
+                },
+                {
+                    "dia": 4,
+                    "hora": 13.5,
+                    "nome": "T\u00e9cnicas de Comunica\u00e7\u00e3o Oral e Escrita I",
+                    "sigla": "TCOE1",
+                    "tipo": "TP",
+                    "turma": "1LLC03",
+                    "turmac": "1LLC03",
+                    "duracao": "4",
+                    "sala": "G303",
+                    "profsig": "MIOV",
+                    "prof": "Marta V\u00e1rzeas"
+                }
+            ],
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 14.5,
+                    "nome": "T\u00e9cnicas de Comunica\u00e7\u00e3o Oral e Escrita I",
+                    "sigla": "TCOE1",
+                    "tipo": "OT",
+                    "turma": "1LLC01",
+                    "turmac": "1LLC01",
+                    "duracao": "2",
+                    "sala": "G210",
+                    "profsig": "IMVMB",
+                    "prof": "Isabel Moruj\u00e3o"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16.5,
+                    "nome": "T\u00e9cnicas de Comunica\u00e7\u00e3o Oral e Escrita I",
+                    "sigla": "TCOE1",
+                    "tipo": "OT",
+                    "turma": "1LLC02",
+                    "turmac": "1LLC02",
+                    "duracao": "2",
+                    "sala": "G210",
+                    "profsig": "MLRMS",
+                    "prof": "Maria de Lurdes Sampaio"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9.5,
+                    "nome": "T\u00e9cnicas de Comunica\u00e7\u00e3o Oral e Escrita I",
+                    "sigla": "TCOE1",
+                    "tipo": "OT",
+                    "turma": "1LLC03",
+                    "turmac": "1LLC03",
+                    "duracao": "2",
+                    "sala": "G208",
+                    "profsig": "MIOV",
+                    "prof": "Marta V\u00e1rzeas"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "T\u00e9cnicas de Comunica\u00e7\u00e3o Oral e Escrita I",
+                    "sigla": "TCOE1",
+                    "tipo": "OT",
+                    "turma": "1LLC04",
+                    "turmac": "1LLC04",
+                    "duracao": "2",
+                    "sala": "G301",
+                    "profsig": "MIOV",
+                    "prof": "Marta V\u00e1rzeas"
+                }
+            ]
+        },
+        "MELI2": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 13.5,
+                    "nome": "Metodologia dos Estudos Liter\u00e1rios_Ingl\u00eas II",
+                    "sigla": "MELI2",
+                    "tipo": "TP",
+                    "turma": "1LLC01",
+                    "turmac": "1LLC01",
+                    "duracao": "4",
+                    "sala": "G103",
+                    "profsig": "FMEAV",
+                    "prof": "Filomena Vasconcelos"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10.5,
+                    "nome": "Metodologia dos Estudos Liter\u00e1rios_Ingl\u00eas II",
+                    "sigla": "MELI2",
+                    "tipo": "TP",
+                    "turma": "1LLC02",
+                    "turmac": "1LLC02",
+                    "duracao": "4",
+                    "sala": "G103",
+                    "profsig": "FMEAV",
+                    "prof": "Filomena Vasconcelos"
+                }
+            ],
+            "nome": "Metodologia dos Estudos Liter\u00e1rios_Ingl\u00eas II"
+        },
+        "ICLA2": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Cultura e \u00e0 Literatura Alem\u00e3s II",
+                    "sigla": "ICLA2",
+                    "tipo": "T",
+                    "turma": "1LLC01",
+                    "turmac": "1LLC01",
+                    "duracao": "2",
+                    "sala": "G209",
+                    "profsig": "MTVMOS",
+                    "prof": "Teresa Martins de Oliveira"
+                }
+            ],
+            "nome": "Introdu\u00e7\u00e3o \u00e0 Cultura e \u00e0 Literatura Alem\u00e3s II",
+            "OT": [
+                {
+                    "dia": 1,
+                    "hora": 16.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Cultura e \u00e0 Literatura Alem\u00e3s II",
+                    "sigla": "ICLA2",
+                    "tipo": "OT",
+                    "turma": "1LLC01",
+                    "turmac": "1LLC01",
+                    "duracao": "2",
+                    "sala": "G209",
+                    "profsig": "MTVMOS",
+                    "prof": "Teresa Martins de Oliveira"
+                }
+            ]
+        },
+        "FMUN": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 15.5,
+                    "nome": "Francofonia e Mundializa\u00e7\u00e3o",
+                    "sigla": "FMUN",
+                    "tipo": "TP",
+                    "turma": "1LLC01",
+                    "turmac": "1LLC01",
+                    "duracao": "4",
+                    "sala": "G209",
+                    "profsig": "CAMMPR",
+                    "prof": "Cristina Marinho"
+                }
+            ],
+            "nome": "Francofonia e Mundializa\u00e7\u00e3o"
+        },
+        "IB2.2": {
+            "P": [
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Ingl\u00eas B2.2",
+                    "sigla": "IB2.2",
+                    "tipo": "P",
+                    "turma": "1LLC02",
+                    "turmac": "1LLC02",
+                    "duracao": "2",
+                    "sala": "G103",
+                    "profsig": "MWP",
+                    "prof": "Mark Poole"
+                },
+                {
+                    "dia": 1,
+                    "hora": 10.5,
+                    "nome": "Ingl\u00eas B2.2",
+                    "sigla": "IB2.2",
+                    "tipo": "P",
+                    "turma": "1LLC02",
+                    "turmac": "1LLC02",
+                    "duracao": "4",
+                    "sala": "G304",
+                    "profsig": "MWP",
+                    "prof": "Mark Poole"
+                },
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Ingl\u00eas B2.2",
+                    "sigla": "IB2.2",
+                    "tipo": "P",
+                    "turma": "1LLC03",
+                    "turmac": "1LLC03",
+                    "duracao": "4",
+                    "sala": "G302",
+                    "profsig": "JDL",
+                    "prof": "Jonathan Lewis"
+                },
+                {
+                    "dia": 4,
+                    "hora": 17.5,
+                    "nome": "Ingl\u00eas B2.2",
+                    "sigla": "IB2.2",
+                    "tipo": "P",
+                    "turma": "1LLC03",
+                    "turmac": "1LLC03",
+                    "duracao": "2",
+                    "sala": "G302",
+                    "profsig": "JDL",
+                    "prof": "Jonathan Lewis"
+                },
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "Ingl\u00eas B2.2",
+                    "sigla": "IB2.2",
+                    "tipo": "P",
+                    "turma": "1LLC04",
+                    "turmac": "1LLC04",
+                    "duracao": "4",
+                    "sala": "G310",
+                    "profsig": "JDL",
+                    "prof": "Jonathan Lewis"
+                },
+                {
+                    "dia": 5,
+                    "hora": 13.5,
+                    "nome": "Ingl\u00eas B2.2",
+                    "sigla": "IB2.2",
+                    "tipo": "P",
+                    "turma": "1LLC04",
+                    "turmac": "1LLC04",
+                    "duracao": "2",
+                    "sala": "G310",
+                    "profsig": "JDL",
+                    "prof": "Jonathan Lewis"
+                },
+                {
+                    "dia": 4,
+                    "hora": 13.5,
+                    "nome": "Ingl\u00eas B2.2",
+                    "sigla": "IB2.2",
+                    "tipo": "P",
+                    "turma": "1LLC05",
+                    "turmac": "1LLC05",
+                    "duracao": "4",
+                    "sala": "G310",
+                    "profsig": "JDL",
+                    "prof": "Jonathan Lewis"
+                },
+                {
+                    "dia": 5,
+                    "hora": 15.5,
+                    "nome": "Ingl\u00eas B2.2",
+                    "sigla": "IB2.2",
+                    "tipo": "P",
+                    "turma": "1LLC05",
+                    "turmac": "1LLC05",
+                    "duracao": "2",
+                    "sala": "G301",
+                    "profsig": "JDL",
+                    "prof": "Jonathan Lewis"
+                }
+            ],
+            "nome": "Ingl\u00eas B2.2",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 9.5,
+                    "nome": "Ingl\u00eas B2.2",
+                    "sigla": "IB2.2",
+                    "tipo": "OT",
+                    "turma": "1LLC02",
+                    "turmac": "1LLC02",
+                    "duracao": "2",
+                    "sala": "G103",
+                    "profsig": "MWP",
+                    "prof": "Mark Poole"
+                },
+                {
+                    "dia": 4,
+                    "hora": 18.5,
+                    "nome": "Ingl\u00eas B2.2",
+                    "sigla": "IB2.2",
+                    "tipo": "OT",
+                    "turma": "1LLC03",
+                    "turmac": "1LLC03",
+                    "duracao": "2",
+                    "sala": "G302",
+                    "profsig": "JDL",
+                    "prof": "Jonathan Lewis"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14.5,
+                    "nome": "Ingl\u00eas B2.2",
+                    "sigla": "IB2.2",
+                    "tipo": "OT",
+                    "turma": "1LLC04",
+                    "turmac": "1LLC04",
+                    "duracao": "2",
+                    "sala": "G310",
+                    "profsig": "JDL",
+                    "prof": "Jonathan Lewis"
+                },
+                {
+                    "dia": 5,
+                    "hora": 16.5,
+                    "nome": "Ingl\u00eas B2.2",
+                    "sigla": "IB2.2",
+                    "tipo": "OT",
+                    "turma": "1LLC05",
+                    "turmac": "1LLC05",
+                    "duracao": "2",
+                    "sala": "G301",
+                    "profsig": "JDL",
+                    "prof": "Jonathan Lewis"
+                }
+            ]
+        },
+        "MELP2": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "Metodologia dos Estudos Liter\u00e1rios_Portugu\u00eas II",
+                    "sigla": "MELP2",
+                    "tipo": "T",
+                    "turma": "1LLC02",
+                    "turmac": "1LLC02",
+                    "duracao": "2",
+                    "sala": "G101",
+                    "profsig": "JMF",
+                    "prof": "Joana Matos Frias"
+                }
+            ],
+            "nome": "Metodologia dos Estudos Liter\u00e1rios_Portugu\u00eas II",
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Metodologia dos Estudos Liter\u00e1rios_Portugu\u00eas II",
+                    "sigla": "MELP2",
+                    "tipo": "TP",
+                    "turma": "1LLC02",
+                    "turmac": "MELP2_TP",
+                    "duracao": "4",
+                    "sala": "G306.A\/B",
+                    "profsig": "JMF",
+                    "prof": "Joana Matos Frias"
+                }
+            ],
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 14.5,
+                    "nome": "Metodologia dos Estudos Liter\u00e1rios_Portugu\u00eas II",
+                    "sigla": "MELP2",
+                    "tipo": "OT",
+                    "turma": "1LLC02",
+                    "turmac": "1LLC02",
+                    "duracao": "2",
+                    "sala": "G101",
+                    "profsig": "JMF",
+                    "prof": "Joana Matos Frias"
+                }
+            ]
+        }
+    },
+    "2\u00ba Ano": {
+        "LITING": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 8.5,
+                    "nome": "Literatura Inglesa - S\u00e9culo XVIII e XIX",
+                    "sigla": "LITING",
+                    "tipo": "T",
+                    "turma": "2LLC_op01",
+                    "turmac": "2LLC_op01",
+                    "duracao": "2",
+                    "sala": "G301",
+                    "profsig": "MJPPS",
+                    "prof": "Maria Jo\u00e3o Pires"
+                }
+            ],
+            "nome": "Literatura Inglesa - S\u00e9culo XVIII e XIX",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Literatura Inglesa - S\u00e9culo XVIII e XIX",
+                    "sigla": "LITING",
+                    "tipo": "TP",
+                    "turma": "2LLC_op01",
+                    "turmac": "2LLC_op01",
+                    "duracao": "4",
+                    "sala": "G301",
+                    "profsig": "MJPPS",
+                    "prof": "Maria Jo\u00e3o Pires"
+                }
+            ],
+            "OT": [
+                {
+                    "dia": 1,
+                    "hora": 9.5,
+                    "nome": "Literatura Inglesa - S\u00e9culo XVIII e XIX",
+                    "sigla": "LITING",
+                    "tipo": "OT",
+                    "turma": "2LLC_op01",
+                    "turmac": "2LLC_op01",
+                    "duracao": "2",
+                    "sala": "G301",
+                    "profsig": "MJPPS",
+                    "prof": "Maria Jo\u00e3o Pires"
+                }
+            ]
+        },
+        "EIRL": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "Estudos Irlandeses",
+                    "sigla": "EIRL",
+                    "tipo": "TP",
+                    "turma": "2LLC_op01",
+                    "turmac": "2LLC_op01",
+                    "duracao": "4",
+                    "sala": "G105",
+                    "profsig": "RMGCH",
+                    "prof": "Rui Carvalho Homem"
+                }
+            ],
+            "nome": "Estudos Irlandeses",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 13.5,
+                    "nome": "Estudos Irlandeses",
+                    "sigla": "EIRL",
+                    "tipo": "T",
+                    "turma": "2LLC_op01",
+                    "turmac": "2LLC_op01",
+                    "duracao": "2",
+                    "sala": "G311",
+                    "profsig": "RMGCH",
+                    "prof": "Rui Carvalho Homem"
+                }
+            ],
+            "OT": [
+                {
+                    "dia": 1,
+                    "hora": 14.5,
+                    "nome": "Estudos Irlandeses",
+                    "sigla": "EIRL",
+                    "tipo": "OT",
+                    "turma": "2LLC_op01",
+                    "turmac": "2LLC_op01",
+                    "duracao": "2",
+                    "sala": "G311",
+                    "profsig": "RMGCH",
+                    "prof": "Rui Carvalho Homem"
+                }
+            ]
+        },
+        "RCLFRA": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 10.5,
+                    "nome": "Rela\u00e7\u00f5es Culturais Luso-Francesas",
+                    "sigla": "RCLFRA",
+                    "tipo": "TP",
+                    "turma": "2LLC_op01",
+                    "turmac": "2LLC_op01",
+                    "duracao": "4",
+                    "sala": "G307",
+                    "profsig": "MFCO",
+                    "prof": "Maria de F\u00e1tima Outeirinho"
+                }
+            ],
+            "nome": "Rela\u00e7\u00f5es Culturais Luso-Francesas"
+        },
+        "LISR": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 15.5,
+                    "nome": "Literatura Inglesa - Shakespeare e o Renascimento Ingl\u00eas",
+                    "sigla": "LISR",
+                    "tipo": "TP",
+                    "turma": "2LLC_op01",
+                    "turmac": "2LLC_op01",
+                    "duracao": "4",
+                    "sala": "G304",
+                    "profsig": "NMDPR",
+                    "prof": "Nuno Ribeiro"
+                }
+            ],
+            "nome": "Literatura Inglesa - Shakespeare e o Renascimento Ingl\u00eas",
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 17.5,
+                    "nome": "Literatura Inglesa - Shakespeare e o Renascimento Ingl\u00eas",
+                    "sigla": "LISR",
+                    "tipo": "T",
+                    "turma": "2LLC_op01",
+                    "turmac": "2LLC_op01",
+                    "duracao": "2",
+                    "sala": "G111",
+                    "profsig": "NMDPR",
+                    "prof": "Nuno Ribeiro"
+                }
+            ],
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 18.5,
+                    "nome": "Literatura Inglesa - Shakespeare e o Renascimento Ingl\u00eas",
+                    "sigla": "LISR",
+                    "tipo": "OT",
+                    "turma": "2LLC_op01",
+                    "turmac": "2LLC_op01",
+                    "duracao": "2",
+                    "sala": "G111",
+                    "profsig": "NMDPR",
+                    "prof": "Nuno Ribeiro"
+                }
+            ]
+        },
+        "MITC": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 8.5,
+                    "nome": "Mitologia Cl\u00e1ssica",
+                    "sigla": "MITC",
+                    "tipo": "T",
+                    "turma": "2LLC01",
+                    "turmac": "2LLC01",
+                    "duracao": "2",
+                    "sala": "G307",
+                    "profsig": "BFP",
+                    "prof": "Belmiro Fernandes Pereira"
+                }
+            ],
+            "nome": "Mitologia Cl\u00e1ssica",
+            "OT": [
+                {
+                    "dia": 1,
+                    "hora": 9.5,
+                    "nome": "Mitologia Cl\u00e1ssica",
+                    "sigla": "MITC",
+                    "tipo": "OT",
+                    "turma": "2LLC01",
+                    "turmac": "2LLC01",
+                    "duracao": "2",
+                    "sala": "G307",
+                    "profsig": "BFP",
+                    "prof": "Belmiro Fernandes Pereira"
+                }
+            ],
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 17.5,
+                    "nome": "Mitologia Cl\u00e1ssica",
+                    "sigla": "MITC",
+                    "tipo": "TP",
+                    "turma": "2LLC01",
+                    "turmac": "2LLC01",
+                    "duracao": "4",
+                    "sala": "G109",
+                    "profsig": "BFP",
+                    "prof": "Belmiro Fernandes Pereira"
+                }
+            ]
+        },
+        "LFRA": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Literaturas Franc\u00f3fonas",
+                    "sigla": "LFRA",
+                    "tipo": "TP",
+                    "turma": "2LLC01",
+                    "turmac": "2LLC01",
+                    "duracao": "4",
+                    "sala": "G207",
+                    "profsig": "JDA",
+                    "prof": "Jos\u00e9 Domingues de Almeida"
+                }
+            ],
+            "nome": "Literaturas Franc\u00f3fonas"
+        },
+        "AB1.2": {
+            "P": [
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "Alem\u00e3o B1.2",
+                    "sigla": "AB1.2",
+                    "tipo": "P",
+                    "turma": "2LLC01",
+                    "turmac": "2LLC01",
+                    "duracao": "2",
+                    "sala": "G101",
+                    "profsig": "IS",
+                    "prof": "Ingrid Scholz"
+                },
+                {
+                    "dia": 1,
+                    "hora": 13.5,
+                    "nome": "Alem\u00e3o B1.2",
+                    "sigla": "AB1.2",
+                    "tipo": "P",
+                    "turma": "2LLC01",
+                    "turmac": "2LLC01",
+                    "duracao": "4",
+                    "sala": "G101",
+                    "profsig": "IS",
+                    "prof": "Ingrid Scholz"
+                },
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Alem\u00e3o B1.2",
+                    "sigla": "AB1.2",
+                    "tipo": "P",
+                    "turma": "2LLC02",
+                    "turmac": "2LLC02",
+                    "duracao": "2",
+                    "sala": "G101",
+                    "profsig": "IS",
+                    "prof": "Ingrid Scholz"
+                }
+            ],
+            "nome": "Alem\u00e3o B1.2",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Alem\u00e3o B1.2",
+                    "sigla": "AB1.2",
+                    "tipo": "OT",
+                    "turma": "2LLC01",
+                    "turmac": "2LLC01",
+                    "duracao": "2",
+                    "sala": "G101",
+                    "profsig": "IS",
+                    "prof": "Ingrid Scholz"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14.5,
+                    "nome": "Alem\u00e3o B1.2",
+                    "sigla": "AB1.2",
+                    "tipo": "OT",
+                    "turma": "2LLC02",
+                    "turmac": "2LLC02",
+                    "duracao": "2",
+                    "sala": "G101",
+                    "profsig": "IS",
+                    "prof": "Ingrid Scholz"
+                }
+            ]
+        },
+        "IB2.4": {
+            "P": [
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Ingl\u00eas B2.4",
+                    "sigla": "IB2.4",
+                    "tipo": "P",
+                    "turma": "2LLC01",
+                    "turmac": "2LLC01",
+                    "duracao": "2",
+                    "sala": "G302",
+                    "profsig": "JBR",
+                    "prof": "John Ross"
+                },
+                {
+                    "dia": 1,
+                    "hora": 17.5,
+                    "nome": "Ingl\u00eas B2.4",
+                    "sigla": "IB2.4",
+                    "tipo": "P",
+                    "turma": "2LLC01",
+                    "turmac": "2LLC01",
+                    "duracao": "4",
+                    "sala": "G304",
+                    "profsig": "JBR",
+                    "prof": "John Ross"
+                },
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "Ingl\u00eas B2.4",
+                    "sigla": "IB2.4",
+                    "tipo": "P",
+                    "turma": "2LLC02",
+                    "turmac": "2LLC02",
+                    "duracao": "4",
+                    "sala": "G104",
+                    "profsig": "EZCG",
+                    "prof": "Elena Galv\u00e3o"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10.5,
+                    "nome": "Ingl\u00eas B2.4",
+                    "sigla": "IB2.4",
+                    "tipo": "P",
+                    "turma": "2LLC02",
+                    "turmac": "2LLC02",
+                    "duracao": "2",
+                    "sala": "G102",
+                    "profsig": "EZCG",
+                    "prof": "Elena Galv\u00e3o"
+                },
+                {
+                    "dia": 3,
+                    "hora": 8.5,
+                    "nome": "Ingl\u00eas B2.4",
+                    "sigla": "IB2.4",
+                    "tipo": "P",
+                    "turma": "2LLC03",
+                    "turmac": "2LLC03",
+                    "duracao": "4",
+                    "sala": "G302",
+                    "profsig": "JBR",
+                    "prof": "John Ross"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10.5,
+                    "nome": "Ingl\u00eas B2.4",
+                    "sigla": "IB2.4",
+                    "tipo": "P",
+                    "turma": "2LLC03",
+                    "turmac": "2LLC03",
+                    "duracao": "2",
+                    "sala": "G310",
+                    "profsig": "JBR",
+                    "prof": "John Ross"
+                },
+                {
+                    "dia": 3,
+                    "hora": 10.5,
+                    "nome": "Ingl\u00eas B2.4",
+                    "sigla": "IB2.4",
+                    "tipo": "P",
+                    "turma": "2LLC04",
+                    "turmac": "2LLC04",
+                    "duracao": "4",
+                    "sala": "G310",
+                    "profsig": "JBR",
+                    "prof": "John Ross"
+                },
+                {
+                    "dia": 5,
+                    "hora": 13.5,
+                    "nome": "Ingl\u00eas B2.4",
+                    "sigla": "IB2.4",
+                    "tipo": "P",
+                    "turma": "2LLC04",
+                    "turmac": "2LLC04",
+                    "duracao": "2",
+                    "sala": "G301",
+                    "profsig": "JBR",
+                    "prof": "John Ross"
+                }
+            ],
+            "nome": "Ingl\u00eas B2.4",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 9.5,
+                    "nome": "Ingl\u00eas B2.4",
+                    "sigla": "IB2.4",
+                    "tipo": "OT",
+                    "turma": "2LLC01",
+                    "turmac": "2LLC01",
+                    "duracao": "2",
+                    "sala": "G302",
+                    "profsig": "JBR",
+                    "prof": "John Ross"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11.5,
+                    "nome": "Ingl\u00eas B2.4",
+                    "sigla": "IB2.4",
+                    "tipo": "OT",
+                    "turma": "2LLC02",
+                    "turmac": "2LLC02",
+                    "duracao": "2",
+                    "sala": "G102",
+                    "profsig": "EZCG",
+                    "prof": "Elena Galv\u00e3o"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11.5,
+                    "nome": "Ingl\u00eas B2.4",
+                    "sigla": "IB2.4",
+                    "tipo": "OT",
+                    "turma": "2LLC03",
+                    "turmac": "2LLC03",
+                    "duracao": "2",
+                    "sala": "G310",
+                    "profsig": "JBR",
+                    "prof": "John Ross"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14.5,
+                    "nome": "Ingl\u00eas B2.4",
+                    "sigla": "IB2.4",
+                    "tipo": "OT",
+                    "turma": "2LLC04",
+                    "turmac": "2LLC04",
+                    "duracao": "2",
+                    "sala": "G301",
+                    "profsig": "JBR",
+                    "prof": "John Ross"
+                }
+            ]
+        },
+        "EB1.2": {
+            "P": [
+                {
+                    "dia": 1,
+                    "hora": 10.5,
+                    "nome": "Espanhol B1.2",
+                    "sigla": "EB1.2",
+                    "tipo": "P",
+                    "turma": "2LLC01",
+                    "turmac": "2LLC01",
+                    "duracao": "4",
+                    "sala": "G103",
+                    "profsig": "FRP",
+                    "prof": "Fernando P\u00e9rez"
+                },
+                {
+                    "dia": 3,
+                    "hora": 10.5,
+                    "nome": "Espanhol B1.2",
+                    "sigla": "EB1.2",
+                    "tipo": "P",
+                    "turma": "2LLC01",
+                    "turmac": "2LLC01",
+                    "duracao": "2",
+                    "sala": "G103",
+                    "profsig": "FRP",
+                    "prof": "Fernando P\u00e9rez"
+                },
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "Espanhol B1.2",
+                    "sigla": "EB1.2",
+                    "tipo": "P",
+                    "turma": "2LLC02",
+                    "turmac": "2LLC02",
+                    "duracao": "4",
+                    "sala": "G103",
+                    "profsig": "FRP",
+                    "prof": "Fernando P\u00e9rez"
+                },
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Espanhol B1.2",
+                    "sigla": "EB1.2",
+                    "tipo": "P",
+                    "turma": "2LLC02",
+                    "turmac": "2LLC02",
+                    "duracao": "2",
+                    "sala": "G103",
+                    "profsig": "FRP",
+                    "prof": "Fernando P\u00e9rez"
+                },
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "Espanhol B1.2",
+                    "sigla": "EB1.2",
+                    "tipo": "P",
+                    "turma": "2LLC03",
+                    "turmac": "2LLC03",
+                    "duracao": "4",
+                    "sala": "G103",
+                    "profsig": "MPA",
+                    "prof": "Marta Anido"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10.5,
+                    "nome": "Espanhol B1.2",
+                    "sigla": "EB1.2",
+                    "tipo": "P",
+                    "turma": "2LLC03",
+                    "turmac": "2LLC03",
+                    "duracao": "2",
+                    "sala": "G210",
+                    "profsig": "MPA",
+                    "prof": "Marta Anido"
+                }
+            ],
+            "nome": "Espanhol B1.2",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 11.5,
+                    "nome": "Espanhol B1.2",
+                    "sigla": "EB1.2",
+                    "tipo": "OT",
+                    "turma": "2LLC01",
+                    "turmac": "2LLC01",
+                    "duracao": "2",
+                    "sala": "G103",
+                    "profsig": "FRP",
+                    "prof": "Fernando P\u00e9rez"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16.5,
+                    "nome": "Espanhol B1.2",
+                    "sigla": "EB1.2",
+                    "tipo": "OT",
+                    "turma": "2LLC02",
+                    "turmac": "2LLC02",
+                    "duracao": "2",
+                    "sala": "G103",
+                    "profsig": "FRP",
+                    "prof": "Fernando P\u00e9rez"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11.5,
+                    "nome": "Espanhol B1.2",
+                    "sigla": "EB1.2",
+                    "tipo": "OT",
+                    "turma": "2LLC03",
+                    "turmac": "2LLC03",
+                    "duracao": "2",
+                    "sala": "G210",
+                    "profsig": "MPA",
+                    "prof": "Marta Anido"
+                }
+            ]
+        },
+        "LNAC": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "Literatura Norte-Americana Contempor\u00e2nea",
+                    "sigla": "LNAC",
+                    "tipo": "TP",
+                    "turma": "2LLC01",
+                    "turmac": "2LLC01",
+                    "duracao": "4",
+                    "sala": "GA2",
+                    "profsig": "CMRBA",
+                    "prof": "Carlos Azevedo"
+                }
+            ],
+            "nome": "Literatura Norte-Americana Contempor\u00e2nea"
+        },
+        "FB2.2": {
+            "P": [
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "Franc\u00eas B2.2",
+                    "sigla": "FB2.2",
+                    "tipo": "P",
+                    "turma": "2LLC01",
+                    "turmac": "2LLC01",
+                    "duracao": "4",
+                    "sala": "G311",
+                    "profsig": "FMEB",
+                    "prof": "Fran\u00e7oise Bacquelaine"
+                },
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Franc\u00eas B2.2",
+                    "sigla": "FB2.2",
+                    "tipo": "P",
+                    "turma": "2LLC01",
+                    "turmac": "2LLC01",
+                    "duracao": "2",
+                    "sala": "G111",
+                    "profsig": "FMEB",
+                    "prof": "Fran\u00e7oise Bacquelaine"
+                }
+            ],
+            "nome": "Franc\u00eas B2.2",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 14.5,
+                    "nome": "Franc\u00eas B2.2",
+                    "sigla": "FB2.2",
+                    "tipo": "OT",
+                    "turma": "2LLC01",
+                    "turmac": "2LLC01",
+                    "duracao": "2",
+                    "sala": "G111",
+                    "profsig": "FMEB",
+                    "prof": "Fran\u00e7oise Bacquelaine"
+                }
+            ]
+        },
+        "POEA2": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 13.5,
+                    "nome": "Produ\u00e7\u00e3o Oral e Escrita de Alem\u00e3o II",
+                    "sigla": "POEA2",
+                    "tipo": "TP",
+                    "turma": "2LLC01",
+                    "turmac": "2LLC01",
+                    "duracao": "4",
+                    "sala": "G404",
+                    "profsig": "AK",
+                    "prof": "Anette Kind"
+                }
+            ],
+            "nome": "Produ\u00e7\u00e3o Oral e Escrita de Alem\u00e3o II"
+        },
+        "CC2": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 15.5,
+                    "nome": "Cultura Cl\u00e1ssica II",
+                    "sigla": "CC2",
+                    "tipo": "TP",
+                    "turma": "2LLC01",
+                    "turmac": "2LLC01",
+                    "duracao": "4",
+                    "sala": "G111",
+                    "profsig": "BFP",
+                    "prof": "Belmiro Fernandes Pereira"
+                }
+            ],
+            "nome": "Cultura Cl\u00e1ssica II"
+        },
+        "LEA2": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 17.5,
+                    "nome": "Literatura de Express\u00e3o Alem\u00e3 II",
+                    "sigla": "LEA2",
+                    "tipo": "T",
+                    "turma": "2LLC01",
+                    "turmac": "2LLC01",
+                    "duracao": "2",
+                    "sala": "G209",
+                    "profsig": "GJVPV",
+                    "prof": "Gon\u00e7alo Vilas-Boas"
+                }
+            ],
+            "nome": "Literatura de Express\u00e3o Alem\u00e3 II",
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 18.5,
+                    "nome": "Literatura de Express\u00e3o Alem\u00e3 II",
+                    "sigla": "LEA2",
+                    "tipo": "OT",
+                    "turma": "2LLC01",
+                    "turmac": "2LLC01",
+                    "duracao": "2",
+                    "sala": "G209",
+                    "profsig": "GJVPV",
+                    "prof": "Gon\u00e7alo Vilas-Boas"
+                }
+            ]
+        }
+    },
+    "3\u00ba Ano": {
+        "CIEIFI": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 10.5,
+                    "nome": "Cultura Inglesa - da Era Industrial ao Fim do Imp\u00e9rio",
+                    "sigla": "CIEIFI",
+                    "tipo": "TP",
+                    "turma": "3LLC_op01",
+                    "turmac": "3LLC_op01",
+                    "duracao": "4",
+                    "sala": "G305",
+                    "profsig": "NMDPR",
+                    "prof": "Nuno Ribeiro"
+                }
+            ],
+            "nome": "Cultura Inglesa - da Era Industrial ao Fim do Imp\u00e9rio",
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 13.5,
+                    "nome": "Cultura Inglesa - da Era Industrial ao Fim do Imp\u00e9rio",
+                    "sigla": "CIEIFI",
+                    "tipo": "T",
+                    "turma": "3LLC_op01",
+                    "turmac": "3LLC_op01",
+                    "duracao": "2",
+                    "sala": "G111",
+                    "profsig": "NMDPR",
+                    "prof": "Nuno Ribeiro"
+                }
+            ],
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 14.5,
+                    "nome": "Cultura Inglesa - da Era Industrial ao Fim do Imp\u00e9rio",
+                    "sigla": "CIEIFI",
+                    "tipo": "OT",
+                    "turma": "3LLC_op01",
+                    "turmac": "3LLC_op01",
+                    "duracao": "2",
+                    "sala": "G111",
+                    "profsig": "NMDPR",
+                    "prof": "Nuno Ribeiro"
+                }
+            ]
+        },
+        "LIM": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Literatura Inglesa - Modernismo",
+                    "sigla": "LIM",
+                    "tipo": "T",
+                    "turma": "3LLC_op01",
+                    "turmac": "3LLC_op01",
+                    "duracao": "2",
+                    "sala": "G101",
+                    "profsig": "GC",
+                    "prof": "Gualter Cunha"
+                }
+            ],
+            "nome": "Literatura Inglesa - Modernismo",
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 16.5,
+                    "nome": "Literatura Inglesa - Modernismo",
+                    "sigla": "LIM",
+                    "tipo": "OT",
+                    "turma": "3LLC_op01",
+                    "turmac": "3LLC_op01",
+                    "duracao": "2",
+                    "sala": "G101",
+                    "profsig": "GC",
+                    "prof": "Gualter Cunha"
+                }
+            ],
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 17.5,
+                    "nome": "Literatura Inglesa - Modernismo",
+                    "sigla": "LIM",
+                    "tipo": "TP",
+                    "turma": "3LLC_op01",
+                    "turmac": "3LLC_op01",
+                    "duracao": "4",
+                    "sala": "G311",
+                    "profsig": "GC",
+                    "prof": "Gualter Cunha"
+                }
+            ]
+        },
+        "LE_19": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Literatura Espanhola do S\u00e9culo XIX - Romantismo e Realismo",
+                    "sigla": "LE_19",
+                    "tipo": "TP",
+                    "turma": "3LLC01",
+                    "turmac": "3LLC01",
+                    "duracao": "4",
+                    "sala": "G310",
+                    "profsig": "MBL",
+                    "prof": "M\u00f3nica Lorenzo"
+                }
+            ],
+            "nome": "Literatura Espanhola do S\u00e9culo XIX - Romantismo e Realismo"
+        },
+        "AB2.2": {
+            "P": [
+                {
+                    "dia": 1,
+                    "hora": 10.5,
+                    "nome": "Alem\u00e3o B2.2",
+                    "sigla": "AB2.2",
+                    "tipo": "P",
+                    "turma": "3LLC01",
+                    "turmac": "3LLC01",
+                    "duracao": "4",
+                    "sala": "G207",
+                    "profsig": "IS",
+                    "prof": "Ingrid Scholz"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10.5,
+                    "nome": "Alem\u00e3o B2.2",
+                    "sigla": "AB2.2",
+                    "tipo": "P",
+                    "turma": "3LLC01",
+                    "turmac": "3LLC01",
+                    "duracao": "2",
+                    "sala": "G107",
+                    "profsig": "IS",
+                    "prof": "Ingrid Scholz"
+                }
+            ],
+            "nome": "Alem\u00e3o B2.2",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 11.5,
+                    "nome": "Alem\u00e3o B2.2",
+                    "sigla": "AB2.2",
+                    "tipo": "OT",
+                    "turma": "3LLC01",
+                    "turmac": "3LLC01",
+                    "duracao": "2",
+                    "sala": "G107",
+                    "profsig": "IS",
+                    "prof": "Ingrid Scholz"
+                }
+            ]
+        },
+        "LVI": {
+            "P": [
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "Latim VI",
+                    "sigla": "LVI",
+                    "tipo": "P",
+                    "turma": "3LLC01",
+                    "turmac": "3LLC01",
+                    "duracao": "2",
+                    "sala": "A105",
+                    "profsig": "BFP",
+                    "prof": "Belmiro Fernandes Pereira"
+                },
+                {
+                    "dia": 1,
+                    "hora": 13.5,
+                    "nome": "Latim VI",
+                    "sigla": "LVI",
+                    "tipo": "P",
+                    "turma": "3LLC01",
+                    "turmac": "3LLC01",
+                    "duracao": "4",
+                    "sala": "A105",
+                    "profsig": "BFP",
+                    "prof": "Belmiro Fernandes Pereira"
+                }
+            ],
+            "nome": "Latim VI",
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 11.5,
+                    "nome": "Latim VI",
+                    "sigla": "LVI",
+                    "tipo": "OT",
+                    "turma": "3LLC01",
+                    "turmac": "3LLC01",
+                    "duracao": "2",
+                    "sala": "A105",
+                    "profsig": "BFP",
+                    "prof": "Belmiro Fernandes Pereira"
+                }
+            ]
+        },
+        "LLPI": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "Literatura Latina do Per\u00edodo Imperial",
+                    "sigla": "LLPI",
+                    "tipo": "T",
+                    "turma": "3LLC01",
+                    "turmac": "3LLC01",
+                    "duracao": "2",
+                    "sala": "A104",
+                    "profsig": "MFR",
+                    "prof": "Manuel Ramos"
+                }
+            ],
+            "nome": "Literatura Latina do Per\u00edodo Imperial",
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 14.5,
+                    "nome": "Literatura Latina do Per\u00edodo Imperial",
+                    "sigla": "LLPI",
+                    "tipo": "OT",
+                    "turma": "3LLC01",
+                    "turmac": "3LLC01",
+                    "duracao": "2",
+                    "sala": "A104",
+                    "profsig": "MFR",
+                    "prof": "Manuel Ramos"
+                }
+            ],
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 17.5,
+                    "nome": "Literatura Latina do Per\u00edodo Imperial",
+                    "sigla": "LLPI",
+                    "tipo": "TP",
+                    "turma": "3LLC01",
+                    "turmac": "3LLC01",
+                    "duracao": "4",
+                    "sala": "A105",
+                    "profsig": "MFR",
+                    "prof": "Manuel Ramos"
+                }
+            ]
+        },
+        "IC1.2": {
+            "P": [
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Ingl\u00eas C1.2",
+                    "sigla": "IC1.2",
+                    "tipo": "P",
+                    "turma": "3LLC01",
+                    "turmac": "3LLC01",
+                    "duracao": "2",
+                    "sala": "G103",
+                    "profsig": "JBR",
+                    "prof": "John Ross"
+                },
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "Ingl\u00eas C1.2",
+                    "sigla": "IC1.2",
+                    "tipo": "P",
+                    "turma": "3LLC02",
+                    "turmac": "3LLC02",
+                    "duracao": "4",
+                    "sala": "G301",
+                    "profsig": "MWP",
+                    "prof": "Mark Poole"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10.5,
+                    "nome": "Ingl\u00eas C1.2",
+                    "sigla": "IC1.2",
+                    "tipo": "P",
+                    "turma": "3LLC02",
+                    "turmac": "3LLC02",
+                    "duracao": "2",
+                    "sala": "G304",
+                    "profsig": "MWP",
+                    "prof": "Mark Poole"
+                },
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Ingl\u00eas C1.2",
+                    "sigla": "IC1.2",
+                    "tipo": "P",
+                    "turma": "3LLC03",
+                    "turmac": "3LLC03",
+                    "duracao": "4",
+                    "sala": "G103",
+                    "profsig": "NRH",
+                    "prof": "Nicolas Hurst"
+                },
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Ingl\u00eas C1.2",
+                    "sigla": "IC1.2",
+                    "tipo": "P",
+                    "turma": "3LLC03",
+                    "turmac": "3LLC03",
+                    "duracao": "2",
+                    "sala": "G304",
+                    "profsig": "NRH",
+                    "prof": "Nicolas Hurst"
+                }
+            ],
+            "nome": "Ingl\u00eas C1.2",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 14.5,
+                    "nome": "Ingl\u00eas C1.2",
+                    "sigla": "IC1.2",
+                    "tipo": "OT",
+                    "turma": "3LLC01",
+                    "turmac": "3LLC01",
+                    "duracao": "2",
+                    "sala": "G103",
+                    "profsig": "JBR",
+                    "prof": "John Ross"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11.5,
+                    "nome": "Ingl\u00eas C1.2",
+                    "sigla": "IC1.2",
+                    "tipo": "OT",
+                    "turma": "3LLC02",
+                    "turmac": "3LLC02",
+                    "duracao": "2",
+                    "sala": "G304",
+                    "profsig": "MWP",
+                    "prof": "Mark Poole"
+                },
+                {
+                    "dia": 5,
+                    "hora": 9.5,
+                    "nome": "Ingl\u00eas C1.2",
+                    "sigla": "IC1.2",
+                    "tipo": "OT",
+                    "turma": "3LLC03",
+                    "turmac": "3LLC03",
+                    "duracao": "2",
+                    "sala": "G304",
+                    "profsig": "NRH",
+                    "prof": "Nicolas Hurst"
+                }
+            ]
+        },
+        "FC1.2": {
+            "P": [
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "Franc\u00eas C1.2",
+                    "sigla": "FC1.2",
+                    "tipo": "P",
+                    "turma": "3LLC01",
+                    "turmac": "3LLC01",
+                    "duracao": "4",
+                    "sala": "G409",
+                    "profsig": "Docente",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 17.5,
+                    "nome": "Franc\u00eas C1.2",
+                    "sigla": "FC1.2",
+                    "tipo": "P",
+                    "turma": "3LLC01",
+                    "turmac": "3LLC01",
+                    "duracao": "2",
+                    "sala": "G107",
+                    "profsig": "Docente",
+                    "prof": null
+                }
+            ],
+            "nome": "Franc\u00eas C1.2",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 18.5,
+                    "nome": "Franc\u00eas C1.2",
+                    "sigla": "FC1.2",
+                    "tipo": "OT",
+                    "turma": "3LLC01",
+                    "turmac": "3LLC01",
+                    "duracao": "2",
+                    "sala": "G107",
+                    "profsig": "Docente",
+                    "prof": null
+                }
+            ]
+        },
+        "EB2.2": {
+            "P": [
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Espanhol B2.2",
+                    "sigla": "EB2.2",
+                    "tipo": "P",
+                    "turma": "3LLC01",
+                    "turmac": "3LLC01",
+                    "duracao": "2",
+                    "sala": "G102",
+                    "profsig": "MFA",
+                    "prof": "Miriam \u00c1vila"
+                },
+                {
+                    "dia": 1,
+                    "hora": 17.5,
+                    "nome": "Espanhol B2.2",
+                    "sigla": "EB2.2",
+                    "tipo": "P",
+                    "turma": "3LLC02",
+                    "turmac": "3LLC02",
+                    "duracao": "4",
+                    "sala": "G302",
+                    "profsig": "MFA",
+                    "prof": "Miriam \u00c1vila"
+                },
+                {
+                    "dia": 2,
+                    "hora": 17.5,
+                    "nome": "Espanhol B2.2",
+                    "sigla": "EB2.2",
+                    "tipo": "P",
+                    "turma": "3LLC02",
+                    "turmac": "3LLC02",
+                    "duracao": "2",
+                    "sala": "G302",
+                    "profsig": "MFA",
+                    "prof": "Miriam \u00c1vila"
+                },
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "Espanhol B2.2",
+                    "sigla": "EB2.2",
+                    "tipo": "P",
+                    "turma": "3LLC03",
+                    "turmac": "3LLC03",
+                    "duracao": "2",
+                    "sala": "G102",
+                    "profsig": "MSF",
+                    "prof": "Mirta Santos Fern\u00e1ndez"
+                },
+                {
+                    "dia": 3,
+                    "hora": 10.5,
+                    "nome": "Espanhol B2.2",
+                    "sigla": "EB2.2",
+                    "tipo": "P",
+                    "turma": "3LLC03",
+                    "turmac": "3LLC03",
+                    "duracao": "4",
+                    "sala": "G301",
+                    "profsig": "MSF",
+                    "prof": "Mirta Santos Fern\u00e1ndez"
+                }
+            ],
+            "nome": "Espanhol B2.2",
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 18.5,
+                    "nome": "Espanhol B2.2",
+                    "sigla": "EB2.2",
+                    "tipo": "OT",
+                    "turma": "3LLC02",
+                    "turmac": "3LLC02",
+                    "duracao": "2",
+                    "sala": "G302",
+                    "profsig": "MFA",
+                    "prof": "Miriam \u00c1vila"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Espanhol B2.2",
+                    "sigla": "EB2.2",
+                    "tipo": "OT",
+                    "turma": "3LLC03",
+                    "turmac": "3LLC03",
+                    "duracao": "2",
+                    "sala": "G102",
+                    "profsig": "MSF",
+                    "prof": "Mirta Santos Fern\u00e1ndez"
+                }
+            ]
+        },
+        "SL_LLC": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "Semin\u00e1rio de Literatura e Cultura Alem\u00e3s",
+                    "sigla": "SL_LLC",
+                    "tipo": "TP",
+                    "turma": "3LLC01",
+                    "turmac": "3LLC01",
+                    "duracao": "4",
+                    "sala": "G309",
+                    "profsig": "GJVPV",
+                    "prof": "Gon\u00e7alo Vilas-Boas"
+                }
+            ],
+            "nome": "Semin\u00e1rio de Literatura e Cultura Alem\u00e3s",
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 16.5,
+                    "nome": "Semin\u00e1rio de Literatura e Cultura Alem\u00e3s",
+                    "sigla": "SL_LLC",
+                    "tipo": "OT",
+                    "turma": "3LLC01",
+                    "turmac": "3LLC01",
+                    "duracao": "2",
+                    "sala": "G209",
+                    "profsig": "GJVPV",
+                    "prof": "Gon\u00e7alo Vilas-Boas"
+                }
+            ]
+        }
+    }
+}

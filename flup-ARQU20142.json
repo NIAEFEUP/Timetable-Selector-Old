@@ -1,0 +1,643 @@
+{
+    "1\u00ba Ano": {
+        "HROM": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "Hist\u00f3ria de Roma",
+                    "sigla": "HROM",
+                    "tipo": "TP",
+                    "turma": "1LARQU01",
+                    "turmac": "1LARQU01",
+                    "duracao": "2",
+                    "sala": "G311",
+                    "profsig": "RMLSM",
+                    "prof": "Rui Morais"
+                },
+                {
+                    "dia": 1,
+                    "hora": 10.5,
+                    "nome": "Hist\u00f3ria de Roma",
+                    "sigla": "HROM",
+                    "tipo": "TP",
+                    "turma": "1LARQU01",
+                    "turmac": "1LARQU01",
+                    "duracao": "4",
+                    "sala": "G301",
+                    "profsig": "RMLSM",
+                    "prof": "Rui Morais"
+                }
+            ],
+            "nome": "Hist\u00f3ria de Roma",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Hist\u00f3ria de Roma",
+                    "sigla": "HROM",
+                    "tipo": "OT",
+                    "turma": "1LARQU01",
+                    "turmac": "1LARQU01",
+                    "duracao": "2",
+                    "sala": "G311",
+                    "profsig": "RMLSM",
+                    "prof": "Rui Morais"
+                }
+            ]
+        },
+        "PHIS_II": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Pr\u00e9-Hist\u00f3ria II",
+                    "sigla": "PHIS_II",
+                    "tipo": "TP",
+                    "turma": "1LARQU01",
+                    "turmac": "1LARQU01",
+                    "duracao": "2",
+                    "sala": "G408",
+                    "profsig": "MJS",
+                    "prof": "Maria de Jesus Sanches"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10.5,
+                    "nome": "Pr\u00e9-Hist\u00f3ria II",
+                    "sigla": "PHIS_II",
+                    "tipo": "TP",
+                    "turma": "1LARQU01",
+                    "turmac": "1LARQU01",
+                    "duracao": "4",
+                    "sala": "G311",
+                    "profsig": "MJS",
+                    "prof": "Maria de Jesus Sanches"
+                }
+            ],
+            "nome": "Pr\u00e9-Hist\u00f3ria II",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 9.5,
+                    "nome": "Pr\u00e9-Hist\u00f3ria II",
+                    "sigla": "PHIS_II",
+                    "tipo": "OT",
+                    "turma": "1LARQU01",
+                    "turmac": "1LARQU01",
+                    "duracao": "2",
+                    "sala": "G408",
+                    "profsig": "MJS",
+                    "prof": "Maria de Jesus Sanches"
+                }
+            ]
+        },
+        "ARQPRO": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 10.5,
+                    "nome": "Arqueologia Proto-Hist\u00f3rica Peninsular",
+                    "sigla": "ARQPRO",
+                    "tipo": "TP",
+                    "turma": "1LARQU01",
+                    "turmac": "1LARQU01",
+                    "duracao": "2",
+                    "sala": "G305",
+                    "profsig": "VNHC",
+                    "prof": "Virg\u00edlio Correia"
+                },
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Arqueologia Proto-Hist\u00f3rica Peninsular",
+                    "sigla": "ARQPRO",
+                    "tipo": "TP",
+                    "turma": "1LARQU01",
+                    "turmac": "1LARQU01",
+                    "duracao": "4",
+                    "sala": "G305",
+                    "profsig": "VNHC",
+                    "prof": "Virg\u00edlio Correia"
+                }
+            ],
+            "nome": "Arqueologia Proto-Hist\u00f3rica Peninsular",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 11.5,
+                    "nome": "Arqueologia Proto-Hist\u00f3rica Peninsular",
+                    "sigla": "ARQPRO",
+                    "tipo": "OT",
+                    "turma": "1LARQU01",
+                    "turmac": "1LARQU01",
+                    "duracao": "2",
+                    "sala": "G305",
+                    "profsig": "VNHC",
+                    "prof": "Virg\u00edlio Correia"
+                }
+            ]
+        },
+        "ARQCL": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 10.5,
+                    "nome": "Arqueologia de Campo e Laboratorial",
+                    "sigla": "ARQCL",
+                    "tipo": "TP",
+                    "turma": "1LARQU01",
+                    "turmac": "1LARQU01",
+                    "duracao": "2",
+                    "sala": "GLabCR-SP",
+                    "profsig": "MJS",
+                    "prof": "Maria de Jesus Sanches"
+                },
+                {
+                    "dia": 4,
+                    "hora": 13.5,
+                    "nome": "Arqueologia de Campo e Laboratorial",
+                    "sigla": "ARQCL",
+                    "tipo": "TP",
+                    "turma": "1LARQU01",
+                    "turmac": "1LARQU01",
+                    "duracao": "4",
+                    "sala": "GLabCR-SP",
+                    "profsig": "MJS",
+                    "prof": "Maria de Jesus Sanches"
+                }
+            ],
+            "nome": "Arqueologia de Campo e Laboratorial",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 11.5,
+                    "nome": "Arqueologia de Campo e Laboratorial",
+                    "sigla": "ARQCL",
+                    "tipo": "OT",
+                    "turma": "1LARQU01",
+                    "turmac": "1LARQU01",
+                    "duracao": "2",
+                    "sala": "GLabCR-SP",
+                    "profsig": "MJS",
+                    "prof": "Maria de Jesus Sanches"
+                }
+            ]
+        },
+        "HICPAT": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 13.5,
+                    "nome": "Hist\u00f3ria da Investiga\u00e7\u00e3o em Ci\u00eancias do Patrim\u00f3nio",
+                    "sigla": "HICPAT",
+                    "tipo": "TP",
+                    "turma": "1LARQU01",
+                    "turmac": "1LARQU01",
+                    "duracao": "4",
+                    "sala": "G103",
+                    "profsig": "docentes_HICPAT",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 13.5,
+                    "nome": "Hist\u00f3ria da Investiga\u00e7\u00e3o em Ci\u00eancias do Patrim\u00f3nio",
+                    "sigla": "HICPAT",
+                    "tipo": "TP",
+                    "turma": "1LARQU01",
+                    "turmac": "1LARQU01",
+                    "duracao": "2",
+                    "sala": "G208",
+                    "profsig": "docentes_HICPAT",
+                    "prof": null
+                }
+            ],
+            "nome": "Hist\u00f3ria da Investiga\u00e7\u00e3o em Ci\u00eancias do Patrim\u00f3nio",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 14.5,
+                    "nome": "Hist\u00f3ria da Investiga\u00e7\u00e3o em Ci\u00eancias do Patrim\u00f3nio",
+                    "sigla": "HICPAT",
+                    "tipo": "OT",
+                    "turma": "1LARQU01",
+                    "turmac": "1LARQU01",
+                    "duracao": "2",
+                    "sala": "G208",
+                    "profsig": "SEMR",
+                    "prof": "S\u00e9rgio Monteiro-Rodrigues"
+                }
+            ]
+        }
+    },
+    "2\u00ba Ano": {
+        "CPRE": {
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "Conserva\u00e7\u00e3o Preventiva",
+                    "sigla": "CPRE",
+                    "tipo": "OT",
+                    "turma": "2LARQU_OP01",
+                    "turmac": "2LARQU_OP01",
+                    "duracao": "2",
+                    "sala": "GLabCR-SP",
+                    "profsig": "PCMDH",
+                    "prof": "Paula Homem"
+                }
+            ],
+            "nome": "Conserva\u00e7\u00e3o Preventiva",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 14.5,
+                    "nome": "Conserva\u00e7\u00e3o Preventiva",
+                    "sigla": "CPRE",
+                    "tipo": "TP",
+                    "turma": "2LARQU_OP01",
+                    "turmac": "2LARQU_OP01",
+                    "duracao": "2",
+                    "sala": "GLabCR-SP",
+                    "profsig": "PCMDH",
+                    "prof": "Paula Homem"
+                }
+            ],
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Conserva\u00e7\u00e3o Preventiva",
+                    "sigla": "CPRE",
+                    "tipo": "PL",
+                    "turma": "2LARQU_OP01",
+                    "turmac": "2LARQU_OP01",
+                    "duracao": "4",
+                    "sala": "GLabCR-SP",
+                    "profsig": "PCMDH",
+                    "prof": "Paula Homem"
+                }
+            ]
+        },
+        "NUMP": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 13.5,
+                    "nome": "Numism\u00e1tica Portuguesa",
+                    "sigla": "NUMP",
+                    "tipo": "TP",
+                    "turma": "2LARQU_OP01",
+                    "turmac": "2LARQU_OP01",
+                    "duracao": "2",
+                    "sala": "GLabCR-SP",
+                    "profsig": "MJLNB",
+                    "prof": "M\u00e1rio Barroca"
+                }
+            ],
+            "nome": "Numism\u00e1tica Portuguesa",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 14.5,
+                    "nome": "Numism\u00e1tica Portuguesa",
+                    "sigla": "NUMP",
+                    "tipo": "OT",
+                    "turma": "2LARQU_OP01",
+                    "turmac": "2LARQU_OP01",
+                    "duracao": "2",
+                    "sala": "GLabCR-SP",
+                    "profsig": "MJLNB",
+                    "prof": "M\u00e1rio Barroca"
+                }
+            ],
+            "PL": [
+                {
+                    "dia": 3,
+                    "hora": 15.5,
+                    "nome": "Numism\u00e1tica Portuguesa",
+                    "sigla": "NUMP",
+                    "tipo": "PL",
+                    "turma": "2LARQU_OP01",
+                    "turmac": "2LARQU_OP01",
+                    "duracao": "4",
+                    "sala": "GLabCR-SP",
+                    "profsig": "MJLNB",
+                    "prof": "M\u00e1rio Barroca"
+                }
+            ]
+        },
+        "ARQC2": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 8.5,
+                    "nome": "Arqueologia Cl\u00e1ssica II",
+                    "sigla": "ARQC2",
+                    "tipo": "TP",
+                    "turma": "2LARQU01",
+                    "turmac": "2LARQU01",
+                    "duracao": "4",
+                    "sala": "G311",
+                    "profsig": "RMSC",
+                    "prof": "Rui Centeno"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10.5,
+                    "nome": "Arqueologia Cl\u00e1ssica II",
+                    "sigla": "ARQC2",
+                    "tipo": "TP",
+                    "turma": "2LARQU01",
+                    "turmac": "2LARQU01",
+                    "duracao": "2",
+                    "sala": "G105",
+                    "profsig": "RMSC",
+                    "prof": "Rui Centeno"
+                }
+            ],
+            "nome": "Arqueologia Cl\u00e1ssica II",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 11.5,
+                    "nome": "Arqueologia Cl\u00e1ssica II",
+                    "sigla": "ARQC2",
+                    "tipo": "OT",
+                    "turma": "2LARQU01",
+                    "turmac": "2LARQU01",
+                    "duracao": "2",
+                    "sala": "G105",
+                    "profsig": "RMSC",
+                    "prof": "Rui Centeno"
+                }
+            ]
+        },
+        "ARQME2": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 10.5,
+                    "nome": "Arqueologia Medieval II",
+                    "sigla": "ARQME2",
+                    "tipo": "TP",
+                    "turma": "2LARQU01",
+                    "turmac": "2LARQU01",
+                    "duracao": "4",
+                    "sala": "G408",
+                    "profsig": "ACMA",
+                    "prof": "Andreia Arezes"
+                },
+                {
+                    "dia": 4,
+                    "hora": 13.5,
+                    "nome": "Arqueologia Medieval II",
+                    "sigla": "ARQME2",
+                    "tipo": "TP",
+                    "turma": "2LARQU01",
+                    "turmac": "2LARQU01",
+                    "duracao": "2",
+                    "sala": "G409",
+                    "profsig": "ACMA",
+                    "prof": "Andreia Arezes"
+                }
+            ],
+            "nome": "Arqueologia Medieval II",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 14.5,
+                    "nome": "Arqueologia Medieval II",
+                    "sigla": "ARQME2",
+                    "tipo": "OT",
+                    "turma": "2LARQU01",
+                    "turmac": "2LARQU01",
+                    "duracao": "2",
+                    "sala": "G409",
+                    "profsig": "ACMA",
+                    "prof": "Andreia Arezes"
+                }
+            ]
+        },
+        "GPAT": {
+            "OT": [
+                {
+                    "dia": 1,
+                    "hora": 13.5,
+                    "nome": "Gest\u00e3o do Patrim\u00f3nio",
+                    "sigla": "GPAT",
+                    "tipo": "OT",
+                    "turma": "2LARQU01",
+                    "turmac": "2LARQU01",
+                    "duracao": "2",
+                    "sala": "106.A\/B",
+                    "profsig": "MLB",
+                    "prof": "Maria Leonor Botelho"
+                }
+            ],
+            "nome": "Gest\u00e3o do Patrim\u00f3nio",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 14.5,
+                    "nome": "Gest\u00e3o do Patrim\u00f3nio",
+                    "sigla": "GPAT",
+                    "tipo": "TP",
+                    "turma": "2LARQU01",
+                    "turmac": "2LARQU01",
+                    "duracao": "6",
+                    "sala": "106.A\/B",
+                    "profsig": "MLB",
+                    "prof": "Maria Leonor Botelho"
+                }
+            ]
+        }
+    },
+    "3\u00ba Ano": {
+        "ARQMC2": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 8.5,
+                    "nome": "Arqueologia Moderna e Contempor\u00e2nea II",
+                    "sigla": "ARQMC2",
+                    "tipo": "TP",
+                    "turma": "3LARQU01 ",
+                    "turmac": "3LARQU01",
+                    "duracao": "2",
+                    "sala": "G101",
+                    "profsig": "MTCMS",
+                    "prof": "Teresa Soeiro"
+                },
+                {
+                    "dia": 4,
+                    "hora": 13.5,
+                    "nome": "Arqueologia Moderna e Contempor\u00e2nea II",
+                    "sigla": "ARQMC2",
+                    "tipo": "TP",
+                    "turma": "3LARQU01 ",
+                    "turmac": "3LARQU01",
+                    "duracao": "4",
+                    "sala": "G305",
+                    "profsig": "MTCMS",
+                    "prof": "Teresa Soeiro"
+                }
+            ],
+            "nome": "Arqueologia Moderna e Contempor\u00e2nea II",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 9.5,
+                    "nome": "Arqueologia Moderna e Contempor\u00e2nea II",
+                    "sigla": "ARQMC2",
+                    "tipo": "OT",
+                    "turma": "3LARQU01 ",
+                    "turmac": "3LARQU01",
+                    "duracao": "2",
+                    "sala": "G101",
+                    "profsig": "MTCMS",
+                    "prof": "Teresa Soeiro"
+                }
+            ]
+        },
+        "HCP": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 10.5,
+                    "nome": "Hist\u00f3ria Contempor\u00e2nea de Portugal",
+                    "sigla": "HCP",
+                    "tipo": "TP",
+                    "turma": "3LARQU01 ",
+                    "turmac": "3LARQU01",
+                    "duracao": "2",
+                    "sala": "G101",
+                    "profsig": "LAMA",
+                    "prof": "Lu\u00eds Alberto Marques Alves"
+                },
+                {
+                    "dia": 2,
+                    "hora": 17.5,
+                    "nome": "Hist\u00f3ria Contempor\u00e2nea de Portugal",
+                    "sigla": "HCP",
+                    "tipo": "TP",
+                    "turma": "3LARQU01 ",
+                    "turmac": "3LARQU01",
+                    "duracao": "4",
+                    "sala": "G202",
+                    "profsig": "LAMA",
+                    "prof": "Lu\u00eds Alberto Marques Alves"
+                }
+            ],
+            "nome": "Hist\u00f3ria Contempor\u00e2nea de Portugal",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 11.5,
+                    "nome": "Hist\u00f3ria Contempor\u00e2nea de Portugal",
+                    "sigla": "HCP",
+                    "tipo": "OT",
+                    "turma": "3LARQU01 ",
+                    "turmac": "3LARQU01",
+                    "duracao": "2",
+                    "sala": "G101",
+                    "profsig": "LAMA",
+                    "prof": "Lu\u00eds Alberto Marques Alves"
+                }
+            ]
+        },
+        "ARQME2": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 10.5,
+                    "nome": "Arqueologia Medieval II",
+                    "sigla": "ARQME2",
+                    "tipo": "TP",
+                    "turma": "3LARQU01 ",
+                    "turmac": "3LARQU01",
+                    "duracao": "2",
+                    "sala": "G302",
+                    "profsig": "MJLNB",
+                    "prof": "M\u00e1rio Barroca"
+                },
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Arqueologia Medieval II",
+                    "sigla": "ARQME2",
+                    "tipo": "TP",
+                    "turma": "3LARQU01 ",
+                    "turmac": "3LARQU01",
+                    "duracao": "4",
+                    "sala": "G301",
+                    "profsig": "MJLNB",
+                    "prof": "M\u00e1rio Barroca"
+                }
+            ],
+            "nome": "Arqueologia Medieval II",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 11.5,
+                    "nome": "Arqueologia Medieval II",
+                    "sigla": "ARQME2",
+                    "tipo": "OT",
+                    "turma": "3LARQU01 ",
+                    "turmac": "3LARQU01",
+                    "duracao": "2",
+                    "sala": "G302",
+                    "profsig": "MJLNB",
+                    "prof": "M\u00e1rio Barroca"
+                }
+            ]
+        },
+        "TE_ARQ": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "Teoria da Arqueologia",
+                    "sigla": "TE_ARQ",
+                    "tipo": "TP",
+                    "turma": "3LARQU01 ",
+                    "turmac": "3LARQU01",
+                    "duracao": "4",
+                    "sala": "G408",
+                    "profsig": "SEMR",
+                    "prof": "S\u00e9rgio Monteiro-Rodrigues"
+                },
+                {
+                    "dia": 5,
+                    "hora": 15.5,
+                    "nome": "Teoria da Arqueologia",
+                    "sigla": "TE_ARQ",
+                    "tipo": "TP",
+                    "turma": "3LARQU01 ",
+                    "turmac": "3LARQU01",
+                    "duracao": "2",
+                    "sala": "G305",
+                    "profsig": "SEMR",
+                    "prof": "S\u00e9rgio Monteiro-Rodrigues"
+                }
+            ],
+            "nome": "Teoria da Arqueologia",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 16.5,
+                    "nome": "Teoria da Arqueologia",
+                    "sigla": "TE_ARQ",
+                    "tipo": "OT",
+                    "turma": "3LARQU01 ",
+                    "turmac": "3LARQU01",
+                    "duracao": "2",
+                    "sala": "G305",
+                    "profsig": "SEMR",
+                    "prof": "S\u00e9rgio Monteiro-Rodrigues"
+                }
+            ]
+        }
+    }
+}

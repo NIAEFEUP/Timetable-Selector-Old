@@ -1,0 +1,462 @@
+{
+    "1\u00ba Ano": {
+        "HAAIM": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 8.5,
+                    "nome": "Hist\u00f3ria da Arquitetura da Alta Idade M\u00e9dia",
+                    "sigla": "HAAIM",
+                    "tipo": "TP",
+                    "turma": "1LHART01",
+                    "turmac": "1LHART01",
+                    "duracao": "6",
+                    "sala": "G202",
+                    "profsig": "CFS",
+                    "prof": "Celso Santos"
+                },
+                {
+                    "dia": 3,
+                    "hora": 17.5,
+                    "nome": "Hist\u00f3ria da Arquitetura da Alta Idade M\u00e9dia",
+                    "sigla": "HAAIM",
+                    "tipo": "TP",
+                    "turma": "1LHART01",
+                    "turmac": "1LHART01",
+                    "duracao": "2",
+                    "sala": "G308",
+                    "profsig": "CFS",
+                    "prof": "Celso Santos"
+                }
+            ],
+            "nome": "Hist\u00f3ria da Arquitetura da Alta Idade M\u00e9dia"
+        },
+        "HACEME": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "Hist\u00f3ria da Arte e Cultura da \u00c9poca Medieval",
+                    "sigla": "HACEME",
+                    "tipo": "TP",
+                    "turma": "1LHART01",
+                    "turmac": "1LHART01",
+                    "duracao": "6",
+                    "sala": "G202",
+                    "profsig": "LMCR",
+                    "prof": "L\u00facia Rosas"
+                }
+            ],
+            "nome": "Hist\u00f3ria da Arte e Cultura da \u00c9poca Medieval",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Hist\u00f3ria da Arte e Cultura da \u00c9poca Medieval",
+                    "sigla": "HACEME",
+                    "tipo": "OT",
+                    "turma": "1LHART01",
+                    "turmac": "1LHART01",
+                    "duracao": "2",
+                    "sala": "G210",
+                    "profsig": "LMCR",
+                    "prof": "L\u00facia Rosas"
+                }
+            ]
+        },
+        "HAEMED": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 11.5,
+                    "nome": "Hist\u00f3ria da Arquitetura da \u00c9poca Medieval",
+                    "sigla": "HAEMED",
+                    "tipo": "TP",
+                    "turma": "1LHART01",
+                    "turmac": "1LHART01",
+                    "duracao": "6",
+                    "sala": "G202",
+                    "profsig": "CFS",
+                    "prof": "Celso Santos"
+                }
+            ],
+            "nome": "Hist\u00f3ria da Arquitetura da \u00c9poca Medieval",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 18.5,
+                    "nome": "Hist\u00f3ria da Arquitetura da \u00c9poca Medieval",
+                    "sigla": "HAEMED",
+                    "tipo": "OT",
+                    "turma": "1LHART01",
+                    "turmac": "1LHART01",
+                    "duracao": "2",
+                    "sala": "G308",
+                    "profsig": "CFS",
+                    "prof": "Celso Santos"
+                }
+            ]
+        },
+        "HURB1": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 12.5,
+                    "nome": "Hist\u00f3ria Urbana I",
+                    "sigla": "HURB1",
+                    "tipo": "TP",
+                    "turma": "1LHART01",
+                    "turmac": "1LHART01",
+                    "duracao": "2",
+                    "sala": "G210",
+                    "profsig": "MLB",
+                    "prof": "Maria Leonor Botelho"
+                },
+                {
+                    "dia": 4,
+                    "hora": 13.5,
+                    "nome": "Hist\u00f3ria Urbana I",
+                    "sigla": "HURB1",
+                    "tipo": "TP",
+                    "turma": "1LHART01",
+                    "turmac": "1LHART01",
+                    "duracao": "6",
+                    "sala": "G102",
+                    "profsig": "MLB",
+                    "prof": "Maria Leonor Botelho"
+                }
+            ],
+            "nome": "Hist\u00f3ria Urbana I"
+        },
+        "IR": {
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 14.5,
+                    "nome": "Iconografia Religiosa",
+                    "sigla": "IR",
+                    "tipo": "OT",
+                    "turma": "1LHART01",
+                    "turmac": "1LHART01",
+                    "duracao": "2",
+                    "sala": "G210",
+                    "profsig": "ACCS",
+                    "prof": "Ana Sousa"
+                }
+            ],
+            "nome": "Iconografia Religiosa",
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 16.5,
+                    "nome": "Iconografia Religiosa",
+                    "sigla": "IR",
+                    "tipo": "TP",
+                    "turma": "1LHART01",
+                    "turmac": "1LHART01",
+                    "duracao": "6",
+                    "sala": "G102",
+                    "profsig": "ACCS",
+                    "prof": "Ana Sousa"
+                }
+            ]
+        }
+    },
+    "2\u00ba Ano": {
+        "HA": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 10.5,
+                    "nome": "Hist\u00f3ria da Azulejaria",
+                    "sigla": "HA",
+                    "tipo": "TP",
+                    "turma": " \t2LHART_OP01",
+                    "turmac": " \t2LHART_OP01",
+                    "duracao": "6",
+                    "sala": "G305",
+                    "profsig": "MJMR",
+                    "prof": "Manuel Rocha"
+                }
+            ],
+            "nome": "Hist\u00f3ria da Azulejaria",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 12.5,
+                    "nome": "Hist\u00f3ria da Azulejaria",
+                    "sigla": "HA",
+                    "tipo": "OT",
+                    "turma": " \t2LHART_OP01",
+                    "turmac": " \t2LHART_OP01",
+                    "duracao": "2",
+                    "sala": "G304",
+                    "profsig": "MJMR",
+                    "prof": "Manuel Rocha"
+                }
+            ]
+        },
+        "HAECO1": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Hist\u00f3ria da Arquitetura da \u00c9poca Contempor\u00e2nea I",
+                    "sigla": "HAECO1",
+                    "tipo": "TP",
+                    "turma": "2LHART01 ",
+                    "turmac": "2LHART01",
+                    "duracao": "6",
+                    "sala": "G102",
+                    "profsig": "Docente",
+                    "prof": null
+                }
+            ],
+            "nome": "Hist\u00f3ria da Arquitetura da \u00c9poca Contempor\u00e2nea I",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 15.5,
+                    "nome": "Hist\u00f3ria da Arquitetura da \u00c9poca Contempor\u00e2nea I",
+                    "sigla": "HAECO1",
+                    "tipo": "OT",
+                    "turma": "2LHART01 ",
+                    "turmac": "2LHART01",
+                    "duracao": "2",
+                    "sala": "G102",
+                    "profsig": "Docente",
+                    "prof": null
+                }
+            ]
+        },
+        "HAECO2": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 10.5,
+                    "nome": "Hist\u00f3ria da Arquitetura da \u00c9poca Contempor\u00e2nea II",
+                    "sigla": "HAECO2",
+                    "tipo": "TP",
+                    "turma": "2LHART01 ",
+                    "turmac": "2LHART01",
+                    "duracao": "6",
+                    "sala": "G202",
+                    "profsig": "MLBS",
+                    "prof": "Leonor Soares"
+                }
+            ],
+            "nome": "Hist\u00f3ria da Arquitetura da \u00c9poca Contempor\u00e2nea II",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 14.5,
+                    "nome": "Hist\u00f3ria da Arquitetura da \u00c9poca Contempor\u00e2nea II",
+                    "sigla": "HAECO2",
+                    "tipo": "OT",
+                    "turma": "2LHART01 ",
+                    "turmac": "2LHART01",
+                    "duracao": "2",
+                    "sala": "G304",
+                    "profsig": "MLBS",
+                    "prof": "Leonor Soares"
+                }
+            ]
+        },
+        "HACEC1": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 12.5,
+                    "nome": "Hist\u00f3ria da Arte e Cultura da \u00c9poca Contempor\u00e2nea I",
+                    "sigla": "HACEC1",
+                    "tipo": "TP",
+                    "turma": "2LHART01 ",
+                    "turmac": "2LHART01",
+                    "duracao": "6",
+                    "sala": "G202",
+                    "profsig": "Docente",
+                    "prof": null
+                }
+            ],
+            "nome": "Hist\u00f3ria da Arte e Cultura da \u00c9poca Contempor\u00e2nea I",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 16.5,
+                    "nome": "Hist\u00f3ria da Arte e Cultura da \u00c9poca Contempor\u00e2nea I",
+                    "sigla": "HACEC1",
+                    "tipo": "OT",
+                    "turma": "2LHART01 ",
+                    "turmac": "2LHART01",
+                    "duracao": "2",
+                    "sala": "G102",
+                    "profsig": "Docente",
+                    "prof": null
+                }
+            ]
+        },
+        "HACEC2": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Hist\u00f3ria da Arte e Cultura da \u00c9poca Contempor\u00e2nea II",
+                    "sigla": "HACEC2",
+                    "tipo": "TP",
+                    "turma": "2LHART01 ",
+                    "turmac": "2LHART01",
+                    "duracao": "2",
+                    "sala": "G304",
+                    "profsig": "MLBS",
+                    "prof": "Leonor Soares"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14.5,
+                    "nome": "Hist\u00f3ria da Arte e Cultura da \u00c9poca Contempor\u00e2nea II",
+                    "sigla": "HACEC2",
+                    "tipo": "TP",
+                    "turma": "2LHART01 ",
+                    "turmac": "2LHART01",
+                    "duracao": "6",
+                    "sala": "G202",
+                    "profsig": "MLBS",
+                    "prof": "Leonor Soares"
+                }
+            ],
+            "nome": "Hist\u00f3ria da Arte e Cultura da \u00c9poca Contempor\u00e2nea II"
+        }
+    },
+    "3\u00ba Ano": {
+        "TCART": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Teorias e Cr\u00edtica da Arte",
+                    "sigla": "TCART",
+                    "tipo": "TP",
+                    "turma": "3LHART01",
+                    "turmac": "3LHART01",
+                    "duracao": "6",
+                    "sala": "G102",
+                    "profsig": "CFS",
+                    "prof": "Celso Santos"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14.5,
+                    "nome": "Teorias e Cr\u00edtica da Arte",
+                    "sigla": "TCART",
+                    "tipo": "TP",
+                    "turma": "3LHART01",
+                    "turmac": "3LHART01",
+                    "duracao": "2",
+                    "sala": "G408",
+                    "profsig": "CFS",
+                    "prof": "Celso Santos"
+                }
+            ],
+            "nome": "Teorias e Cr\u00edtica da Arte"
+        },
+        "HFOT": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Hist\u00f3ria da Fotografia",
+                    "sigla": "HFOT",
+                    "tipo": "TP",
+                    "turma": "3LHART01",
+                    "turmac": "3LHART01",
+                    "duracao": "6",
+                    "sala": "G105",
+                    "profsig": "NR",
+                    "prof": "Nuno Resende"
+                }
+            ],
+            "nome": "Hist\u00f3ria da Fotografia",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 17.5,
+                    "nome": "Hist\u00f3ria da Fotografia",
+                    "sigla": "HFOT",
+                    "tipo": "OT",
+                    "turma": "3LHART01",
+                    "turmac": "3LHART01",
+                    "duracao": "2",
+                    "sala": "G305",
+                    "profsig": "NR",
+                    "prof": "Nuno Resende"
+                }
+            ]
+        },
+        "MTIHA": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 12.5,
+                    "nome": "M\u00e9todos e T\u00e9cnicas de Investiga\u00e7\u00e3o em Hist\u00f3ria da Arte",
+                    "sigla": "MTIHA",
+                    "tipo": "TP",
+                    "turma": "3LHART01",
+                    "turmac": "3LHART01",
+                    "duracao": "6",
+                    "sala": "G111",
+                    "profsig": "NR",
+                    "prof": "Nuno Resende"
+                }
+            ],
+            "nome": "M\u00e9todos e T\u00e9cnicas de Investiga\u00e7\u00e3o em Hist\u00f3ria da Arte",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 18.5,
+                    "nome": "M\u00e9todos e T\u00e9cnicas de Investiga\u00e7\u00e3o em Hist\u00f3ria da Arte",
+                    "sigla": "MTIHA",
+                    "tipo": "OT",
+                    "turma": "3LHART01",
+                    "turmac": "3LHART01",
+                    "duracao": "2",
+                    "sala": "G305",
+                    "profsig": "NR",
+                    "prof": "Nuno Resende"
+                }
+            ]
+        },
+        "GPATR": {
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Gest\u00e3o do Patrim\u00f3nio",
+                    "sigla": "GPATR",
+                    "tipo": "OT",
+                    "turma": "3LHART01",
+                    "turmac": "3LHART01",
+                    "duracao": "2",
+                    "sala": "G408",
+                    "profsig": "MLB",
+                    "prof": "Maria Leonor Botelho"
+                }
+            ],
+            "nome": "Gest\u00e3o do Patrim\u00f3nio",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 14.5,
+                    "nome": "Gest\u00e3o do Patrim\u00f3nio",
+                    "sigla": "GPATR",
+                    "tipo": "TP",
+                    "turma": "3LHART01",
+                    "turmac": "3LHART01",
+                    "duracao": "6",
+                    "sala": "106.A\/B",
+                    "profsig": "MLB",
+                    "prof": "Maria Leonor Botelho"
+                }
+            ]
+        }
+    }
+}
