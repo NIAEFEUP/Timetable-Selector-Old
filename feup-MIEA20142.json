@@ -536,7 +536,7 @@
                 },
                 {
                     "dia": 3,
-                    "hora": 15,
+                    "hora": 10.5,
                     "nome": "Mec\u00e2nica de Fluidos II",
                     "sigla": "MF II",
                     "tipo": "TP",
@@ -556,7 +556,7 @@
                     "turma": "MIEA202",
                     "turmac": "MIEA202",
                     "duracao": "4",
-                    "sala": "B019",
+                    "sala": "B018",
                     "profsig": "CYC+FOP+MPF",
                     "prof": null
                 },

@@ -162,15 +162,15 @@
             "nome": "Circuitos",
             "PL": [
                 {
-                    "dia": 2,
-                    "hora": 11,
+                    "dia": 3,
+                    "hora": 8,
                     "nome": "Circuitos",
                     "sigla": "CIRC",
                     "tipo": "PL",
                     "turma": "1MIEEC01",
                     "turmac": "1MIEEC01",
                     "duracao": "4",
-                    "sala": "B229",
+                    "sala": "B223",
                     "profsig": "JCA",
                     "prof": "Jos\u00e9 Carlos Alves"
                 },

@@ -17,14 +17,14 @@
                 },
                 {
                     "dia": 2,
-                    "hora": 16,
+                    "hora": 10.5,
                     "nome": "Fundamentos de Astronomia",
                     "sigla": "AST112",
                     "tipo": "T",
                     "turma": "AST112_T",
                     "turmac": "AST112_T",
                     "duracao": "3",
-                    "sala": "FC3015",
+                    "sala": "FC3014",
                     "profsig": "PTPV",
                     "prof": "Pedro Viana"
                 }
@@ -51,8 +51,21 @@
         "AST232": {
             "T": [
                 {
-                    "dia": 2,
-                    "hora": 11,
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Astronomia Estelar",
+                    "sigla": "AST232",
+                    "tipo": "T",
+                    "turma": "AST232_T",
+                    "turmac": "AST232_T",
+                    "duracao": "3",
+                    "sala": "FC3015",
+                    "profsig": "MJPFGM",
+                    "prof": "M\u00e1rio Jo\u00e3o Monteiro"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
                     "nome": "Astronomia Estelar",
                     "sigla": "AST232",
                     "tipo": "T",
@@ -62,26 +75,13 @@
                     "sala": "FC3014",
                     "profsig": "MJPFGM",
                     "prof": "M\u00e1rio Jo\u00e3o Monteiro"
-                },
-                {
-                    "dia": 3,
-                    "hora": 11,
-                    "nome": "Astronomia Estelar",
-                    "sigla": "AST232",
-                    "tipo": "T",
-                    "turma": "AST232_T",
-                    "turmac": "AST232_T",
-                    "duracao": "3",
-                    "sala": "FC3023",
-                    "profsig": "MJPFGM",
-                    "prof": "M\u00e1rio Jo\u00e3o Monteiro"
                 }
             ],
             "nome": "Astronomia Estelar",
             "TP": [
                 {
-                    "dia": 2,
-                    "hora": 14,
+                    "dia": 1,
+                    "hora": 16,
                     "nome": "Astronomia Estelar",
                     "sigla": "AST232",
                     "tipo": "TP",
@@ -97,8 +97,8 @@
         "F220": {
             "PL": [
                 {
-                    "dia": 5,
-                    "hora": 9,
+                    "dia": 2,
+                    "hora": 14,
                     "nome": "Laborat\u00f3rio de F\u00edsica - A",
                     "sigla": "F220",
                     "tipo": "PL",

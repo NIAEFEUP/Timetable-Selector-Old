@@ -2671,20 +2671,20 @@
                 },
                 {
                     "dia": 4,
-                    "hora": 11.5,
+                    "hora": 8,
                     "nome": "Resist\u00eancia dos Materiais 2",
                     "sigla": "RMAT2",
                     "tipo": "TP",
                     "turma": "22MC02",
                     "turmac": "22MC02",
                     "duracao": "3",
-                    "sala": "B219",
+                    "sala": "B103",
                     "profsig": "LFJ",
                     "prof": "Lu\u00eds Filipe Pereira Juvandes"
                 },
                 {
                     "dia": 3,
-                    "hora": 12,
+                    "hora": 8.5,
                     "nome": "Resist\u00eancia dos Materiais 2",
                     "sigla": "RMAT2",
                     "tipo": "TP",
@@ -3136,15 +3136,15 @@
                     "prof": "Luciana Das Neves"
                 },
                 {
-                    "dia": 5,
-                    "hora": 15.5,
+                    "dia": 4,
+                    "hora": 11.5,
                     "nome": "Hidr\u00e1ulica Geral 1",
                     "sigla": "HGER1",
                     "tipo": "TP",
                     "turma": "22MC02",
                     "turmac": "22MC02",
                     "duracao": "4",
-                    "sala": "B110",
+                    "sala": "B102",
                     "profsig": "JPGMP",
                     "prof": "Jo\u00e3o Pedro P\u00eago"
                 },
@@ -3214,15 +3214,15 @@
                     "prof": "Francisco Taveira Pinto"
                 },
                 {
-                    "dia": 5,
-                    "hora": 13.5,
+                    "dia": 2,
+                    "hora": 15,
                     "nome": "Hidr\u00e1ulica Geral 1",
                     "sigla": "HGER1",
                     "tipo": "TP",
                     "turma": "22MC08",
                     "turmac": "22MC08",
                     "duracao": "4",
-                    "sala": "B110",
+                    "sala": "B322",
                     "profsig": "JPGMP",
                     "prof": "Jo\u00e3o Pedro P\u00eago"
                 },
@@ -4023,28 +4023,28 @@
                     "prof": null
                 },
                 {
-                    "dia": 4,
-                    "hora": 14,
+                    "dia": 2,
+                    "hora": 9,
                     "nome": "Hidrologia e Recursos H\u00eddricos",
                     "sigla": "HRHI",
                     "tipo": "T",
                     "turma": "32MC08",
                     "turmac": "32MC08",
                     "duracao": "2",
-                    "sala": "B020",
+                    "sala": "B012",
                     "profsig": "JPGMP",
                     "prof": "Jo\u00e3o Pedro P\u00eago"
                 },
                 {
-                    "dia": 2,
-                    "hora": 16,
+                    "dia": 4,
+                    "hora": 15,
                     "nome": "Hidrologia e Recursos H\u00eddricos",
                     "sigla": "HRHI",
                     "tipo": "T",
                     "turma": "32MC08",
                     "turmac": "32MC08",
                     "duracao": "2",
-                    "sala": "B015",
+                    "sala": "B024",
                     "profsig": "JPGMP",
                     "prof": "Jo\u00e3o Pedro P\u00eago"
                 },
@@ -4196,14 +4196,14 @@
                 },
                 {
                     "dia": 2,
-                    "hora": 11,
+                    "hora": 10,
                     "nome": "Hidrologia e Recursos H\u00eddricos",
                     "sigla": "HRHI",
                     "tipo": "TP",
                     "turma": "32MC08",
                     "turmac": "32MC08",
                     "duracao": "4",
-                    "sala": "B110",
+                    "sala": "B323",
                     "profsig": "JPGMP",
                     "prof": "Jo\u00e3o Pedro P\u00eago"
                 },
@@ -4328,14 +4328,14 @@
                 },
                 {
                     "dia": 4,
-                    "hora": 15,
+                    "hora": 16,
                     "nome": "Hidrologia e Recursos H\u00eddricos",
                     "sigla": "HRHI",
                     "tipo": "P",
                     "turma": "32MC08",
                     "turmac": "32MC08",
                     "duracao": "2",
-                    "sala": "B119",
+                    "sala": "B101",
                     "profsig": "JPGMP",
                     "prof": "Jo\u00e3o Pedro P\u00eago"
                 },
@@ -4936,19 +4936,6 @@
                     "prof": "Vitor Abrantes Almeida"
                 },
                 {
-                    "dia": 2,
-                    "hora": 9,
-                    "nome": "Tecnologia das Constru\u00e7\u00f5es",
-                    "sigla": "TCON",
-                    "tipo": "T",
-                    "turma": "32MC08",
-                    "turmac": "32MC08",
-                    "duracao": "2",
-                    "sala": "B030",
-                    "profsig": "NMR",
-                    "prof": "Nuno Ramos"
-                },
-                {
                     "dia": 5,
                     "hora": 9.5,
                     "nome": "Tecnologia das Constru\u00e7\u00f5es",
@@ -4958,6 +4945,19 @@
                     "turmac": "32MC08",
                     "duracao": "2",
                     "sala": "B031",
+                    "profsig": "NMR",
+                    "prof": "Nuno Ramos"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Tecnologia das Constru\u00e7\u00f5es",
+                    "sigla": "TCON",
+                    "tipo": "T",
+                    "turma": "32MC08",
+                    "turmac": "32MC08",
+                    "duracao": "2",
+                    "sala": "B030",
                     "profsig": "NMR",
                     "prof": "Nuno Ramos"
                 }
@@ -5346,19 +5346,6 @@
                     "prof": null
                 },
                 {
-                    "dia": 2,
-                    "hora": 10,
-                    "nome": "Teoria das Estruturas 2",
-                    "sigla": "TEST2",
-                    "tipo": "T",
-                    "turma": "32MC08",
-                    "turmac": "32MC08",
-                    "duracao": "2",
-                    "sala": "B225",
-                    "profsig": "AA",
-                    "prof": "Ant\u00f3nio Ar\u00eade"
-                },
-                {
                     "dia": 3,
                     "hora": 11.5,
                     "nome": "Teoria das Estruturas 2",
@@ -5368,6 +5355,19 @@
                     "turmac": "32MC08",
                     "duracao": "2",
                     "sala": "B110",
+                    "profsig": "AA",
+                    "prof": "Ant\u00f3nio Ar\u00eade"
+                },
+                {
+                    "dia": 2,
+                    "hora": 12,
+                    "nome": "Teoria das Estruturas 2",
+                    "sigla": "TEST2",
+                    "tipo": "T",
+                    "turma": "32MC08",
+                    "turmac": "32MC08",
+                    "duracao": "2",
+                    "sala": "B323",
                     "profsig": "AA",
                     "prof": "Ant\u00f3nio Ar\u00eade"
                 },
@@ -5844,7 +5844,7 @@
                     "turma": "42MC09",
                     "turmac": "42MC09",
                     "duracao": "4",
-                    "sala": "B103",
+                    "sala": "B101",
                     "profsig": "MJSP",
                     "prof": "M\u00e1rio Jorge Pimentel"
                 },
@@ -7104,7 +7104,7 @@
                 },
                 {
                     "dia": 4,
-                    "hora": 16,
+                    "hora": 14,
                     "nome": "Vias de Comunica\u00e7\u00e3o 2",
                     "sigla": "VCOM2",
                     "tipo": "T",
