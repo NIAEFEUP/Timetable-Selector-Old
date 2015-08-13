@@ -1129,15 +1129,15 @@
                     "prof": "Ant\u00f3nio J\u00falio Vasconcelos"
                 },
                 {
-                    "dia": 1,
-                    "hora": 9.5,
+                    "dia": 4,
+                    "hora": 10.5,
                     "nome": "Topografia",
                     "sigla": "TOPO",
                     "tipo": "TP",
                     "turma": "12MC06",
                     "turmac": "12MC06",
                     "duracao": "3",
-                    "sala": "B103",
+                    "sala": "B220",
                     "profsig": "SPF",
                     "prof": "Sara Ferreira"
                 },
@@ -1435,15 +1435,15 @@
                     "prof": "Ana Maria Faustino"
                 },
                 {
-                    "dia": 3,
-                    "hora": 11,
+                    "dia": 2,
+                    "hora": 16.5,
                     "nome": "An\u00e1lise Num\u00e9rica",
                     "sigla": "ANUM",
                     "tipo": "T",
                     "turma": "12MC06",
                     "turmac": "12MC06",
                     "duracao": "4",
-                    "sala": "B011",
+                    "sala": "B021",
                     "profsig": "VGS",
                     "prof": "Victor Gon\u00e7alves De Sousa"
                 }
@@ -1465,14 +1465,14 @@
                 },
                 {
                     "dia": 5,
-                    "hora": 9,
+                    "hora": 10,
                     "nome": "An\u00e1lise Num\u00e9rica",
                     "sigla": "ANUM",
                     "tipo": "P",
                     "turma": "12MC02",
                     "turmac": "12MC02",
                     "duracao": "4",
-                    "sala": "B011",
+                    "sala": "B008",
                     "profsig": "MCC",
                     "prof": "Maria Do Carmo Coimbra"
                 },
@@ -1516,15 +1516,15 @@
                     "prof": "Ana Maria Faustino"
                 },
                 {
-                    "dia": 2,
-                    "hora": 16.5,
+                    "dia": 3,
+                    "hora": 11,
                     "nome": "An\u00e1lise Num\u00e9rica",
                     "sigla": "ANUM",
                     "tipo": "P",
                     "turma": "12MC06",
                     "turmac": "12MC06",
                     "duracao": "4",
-                    "sala": "B021",
+                    "sala": "B011",
                     "profsig": "VGS",
                     "prof": "Victor Gon\u00e7alves De Sousa"
                 }
@@ -1845,7 +1845,7 @@
                     "turma": "22MC04",
                     "turmac": "22MC04",
                     "duracao": "4",
-                    "sala": "B202",
+                    "sala": "B309",
                     "profsig": "MLS",
                     "prof": "Maria de Lurdes Sim\u00f5es"
                 },
@@ -3754,7 +3754,7 @@
                     "turma": "32MC02",
                     "turmac": "32MC02",
                     "duracao": "4",
-                    "sala": "B303",
+                    "sala": "B310",
                     "profsig": "MBM",
                     "prof": "Alberto Manuel Miranda"
                 },
