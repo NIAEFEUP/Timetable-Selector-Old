@@ -1,1 +1,2 @@
-curl -X POST --data '{"input":{"username":"'"$TTSUSER"'","password":"'"$TTSPASSWORD"'","semestre":"2","anolectivo":"2015","curso":"feup-MIEIC","force_update":"true","force_all":"false"}} "localhost/TTS/getturmas.html"
+
+curl -X POST --data "username=$TTSUSER&password=$TTSPASSWORD&periodo=2&anolectivo=2015&curso=fcup-LAP&force_update=true&force_all=false" "http://ni.fe.up.pt/TTS/getturmas.php"
