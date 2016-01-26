@@ -1,0 +1,762 @@
+{
+    "1\u00ba Ano": {
+        "HIDR": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 8.5,
+                    "nome": "Hidrologia",
+                    "sigla": "HIDR",
+                    "tipo": "TP",
+                    "turma": "1LGEOGR01 ",
+                    "turmac": "1LGEOGR01",
+                    "duracao": "4",
+                    "sala": "G311",
+                    "profsig": "CVMB_CCGF",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Hidrologia",
+                    "sigla": "HIDR",
+                    "tipo": "TP",
+                    "turma": "1LGEOGR01 ",
+                    "turmac": "HIDR_T",
+                    "duracao": "4",
+                    "sala": "GA1",
+                    "profsig": "CVMB_CCGF",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 10.5,
+                    "nome": "Hidrologia",
+                    "sigla": "HIDR",
+                    "tipo": "TP",
+                    "turma": "1LGEOGR02",
+                    "turmac": "1LGEOGR02",
+                    "duracao": "4",
+                    "sala": "G311",
+                    "profsig": "CVMB_CCGF",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Hidrologia",
+                    "sigla": "HIDR",
+                    "tipo": "TP",
+                    "turma": "1LGEOGR02",
+                    "turmac": "HIDR_T",
+                    "duracao": "4",
+                    "sala": "GA1",
+                    "profsig": "CVMB_CCGF",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "Hidrologia",
+                    "sigla": "HIDR",
+                    "tipo": "TP",
+                    "turma": "1LGEOGR03",
+                    "turmac": "1LGEOGR03",
+                    "duracao": "4",
+                    "sala": "G301",
+                    "profsig": "CVMB_CCGF",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Hidrologia",
+                    "sigla": "HIDR",
+                    "tipo": "TP",
+                    "turma": "1LGEOGR03",
+                    "turmac": "HIDR_T",
+                    "duracao": "4",
+                    "sala": "GA1",
+                    "profsig": "CVMB_CCGF",
+                    "prof": null
+                }
+            ],
+            "nome": "Hidrologia"
+        },
+        "GEOPOP": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 8.5,
+                    "nome": "Geografia da Popula\u00e7\u00e3o",
+                    "sigla": "GEOPOP",
+                    "tipo": "TP",
+                    "turma": "1LGEOGR01 ",
+                    "turmac": "GEOPOP_T",
+                    "duracao": "4",
+                    "sala": "GA1",
+                    "profsig": "FMST",
+                    "prof": "Fantina Tedim"
+                },
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Geografia da Popula\u00e7\u00e3o",
+                    "sigla": "GEOPOP",
+                    "tipo": "TP",
+                    "turma": "1LGEOGR01 ",
+                    "turmac": "1LGEOGR01",
+                    "duracao": "4",
+                    "sala": "G302",
+                    "profsig": "FMST",
+                    "prof": "Fantina Tedim"
+                },
+                {
+                    "dia": 3,
+                    "hora": 8.5,
+                    "nome": "Geografia da Popula\u00e7\u00e3o",
+                    "sigla": "GEOPOP",
+                    "tipo": "TP",
+                    "turma": "1LGEOGR02",
+                    "turmac": "GEOPOP_T",
+                    "duracao": "4",
+                    "sala": "GA1",
+                    "profsig": "FMST",
+                    "prof": "Fantina Tedim"
+                },
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "Geografia da Popula\u00e7\u00e3o",
+                    "sigla": "GEOPOP",
+                    "tipo": "TP",
+                    "turma": "1LGEOGR02",
+                    "turmac": "1LGEOGR02",
+                    "duracao": "4",
+                    "sala": "G305",
+                    "profsig": "FMST",
+                    "prof": "Fantina Tedim"
+                },
+                {
+                    "dia": 3,
+                    "hora": 8.5,
+                    "nome": "Geografia da Popula\u00e7\u00e3o",
+                    "sigla": "GEOPOP",
+                    "tipo": "TP",
+                    "turma": "1LGEOGR03",
+                    "turmac": "GEOPOP_T",
+                    "duracao": "4",
+                    "sala": "GA1",
+                    "profsig": "FMST",
+                    "prof": "Fantina Tedim"
+                },
+                {
+                    "dia": 4,
+                    "hora": 17.5,
+                    "nome": "Geografia da Popula\u00e7\u00e3o",
+                    "sigla": "GEOPOP",
+                    "tipo": "TP",
+                    "turma": "1LGEOGR03",
+                    "turmac": "1LGEOGR03",
+                    "duracao": "4",
+                    "sala": "G305",
+                    "profsig": "FMST",
+                    "prof": "Fantina Tedim"
+                }
+            ],
+            "nome": "Geografia da Popula\u00e7\u00e3o"
+        },
+        "CLIM": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 13.5,
+                    "nome": "Climatologia",
+                    "sigla": "CLIM",
+                    "tipo": "TP",
+                    "turma": "1LGEOGR01 ",
+                    "turmac": "1LGEOGR01",
+                    "duracao": "4",
+                    "sala": "G102",
+                    "profsig": "CCGF_HCFFM",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "Climatologia",
+                    "sigla": "CLIM",
+                    "tipo": "TP",
+                    "turma": "1LGEOGR01 ",
+                    "turmac": "CLIM_T",
+                    "duracao": "4",
+                    "sala": "GA1",
+                    "profsig": "CCGF_HCFFM",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "Climatologia",
+                    "sigla": "CLIM",
+                    "tipo": "TP",
+                    "turma": "1LGEOGR02",
+                    "turmac": "1LGEOGR02",
+                    "duracao": "4",
+                    "sala": "G304",
+                    "profsig": "CCGF_HCFFM",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "Climatologia",
+                    "sigla": "CLIM",
+                    "tipo": "TP",
+                    "turma": "1LGEOGR02",
+                    "turmac": "CLIM_T",
+                    "duracao": "4",
+                    "sala": "GA1",
+                    "profsig": "CCGF_HCFFM",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 10.5,
+                    "nome": "Climatologia",
+                    "sigla": "CLIM",
+                    "tipo": "TP",
+                    "turma": "1LGEOGR03",
+                    "turmac": "1LGEOGR03",
+                    "duracao": "4",
+                    "sala": "G304",
+                    "profsig": "CCGF_HCFFM",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "Climatologia",
+                    "sigla": "CLIM",
+                    "tipo": "TP",
+                    "turma": "1LGEOGR03",
+                    "turmac": "CLIM_T",
+                    "duracao": "4",
+                    "sala": "GA1",
+                    "profsig": "CCGF_HCFFM",
+                    "prof": null
+                }
+            ],
+            "nome": "Climatologia"
+        },
+        "GEOM": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 17.5,
+                    "nome": "Geomorfologia",
+                    "sigla": "GEOM",
+                    "tipo": "TP",
+                    "turma": "1LGEOGR01 ",
+                    "turmac": "GEOM_T",
+                    "duracao": "4",
+                    "sala": "GA1",
+                    "profsig": "CVMB",
+                    "prof": "Carlos Bateira"
+                },
+                {
+                    "dia": 3,
+                    "hora": 15.5,
+                    "nome": "Geomorfologia",
+                    "sigla": "GEOM",
+                    "tipo": "TP",
+                    "turma": "1LGEOGR02",
+                    "turmac": "1LGEOGR02",
+                    "duracao": "4",
+                    "sala": "G101",
+                    "profsig": "CVMB",
+                    "prof": "Carlos Bateira"
+                },
+                {
+                    "dia": 1,
+                    "hora": 17.5,
+                    "nome": "Geomorfologia",
+                    "sigla": "GEOM",
+                    "tipo": "TP",
+                    "turma": "1LGEOGR02",
+                    "turmac": "GEOM_T",
+                    "duracao": "4",
+                    "sala": "GA1",
+                    "profsig": "CVMB",
+                    "prof": "Carlos Bateira"
+                },
+                {
+                    "dia": 1,
+                    "hora": 17.5,
+                    "nome": "Geomorfologia",
+                    "sigla": "GEOM",
+                    "tipo": "TP",
+                    "turma": "1LGEOGR03",
+                    "turmac": "GEOM_T",
+                    "duracao": "4",
+                    "sala": "GA1",
+                    "profsig": "CVMB",
+                    "prof": "Carlos Bateira"
+                },
+                {
+                    "dia": 3,
+                    "hora": 17.5,
+                    "nome": "Geomorfologia",
+                    "sigla": "GEOM",
+                    "tipo": "TP",
+                    "turma": "1LGEOGR03",
+                    "turmac": "1LGEOGR03",
+                    "duracao": "4",
+                    "sala": "G101",
+                    "profsig": "CVMB",
+                    "prof": "Carlos Bateira"
+                }
+            ],
+            "nome": "Geomorfologia"
+        },
+        "SIG": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Sistemas de Informa\u00e7\u00e3o Geogr\u00e1fica",
+                    "sigla": "SIG",
+                    "tipo": "TP",
+                    "turma": "1LGEOGR02",
+                    "turmac": "1LGEOGR02",
+                    "duracao": "8",
+                    "sala": "206.A\/B",
+                    "profsig": "AATG_LMPMS",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 17.5,
+                    "nome": "Sistemas de Informa\u00e7\u00e3o Geogr\u00e1fica",
+                    "sigla": "SIG",
+                    "tipo": "TP",
+                    "turma": "1LGEOGR03",
+                    "turmac": "1LGEOGR03",
+                    "duracao": "8",
+                    "sala": "206.A\/B",
+                    "profsig": "AATG_LMPMS",
+                    "prof": null
+                }
+            ],
+            "nome": "Sistemas de Informa\u00e7\u00e3o Geogr\u00e1fica"
+        }
+    },
+    "2\u00ba Ano": {
+        "GEOTUR": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Geografia do Turismo",
+                    "sigla": "GEOTUR",
+                    "tipo": "TP",
+                    "turma": " \t2LGEOGR_OP01 ",
+                    "turmac": " \t2LGEOGR_OP01",
+                    "duracao": "7",
+                    "sala": "G303",
+                    "profsig": "LPSM",
+                    "prof": "Lu\u00eds Martins"
+                }
+            ],
+            "nome": "Geografia do Turismo",
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 12,
+                    "nome": "Geografia do Turismo",
+                    "sigla": "GEOTUR",
+                    "tipo": "OT",
+                    "turma": " \t2LGEOGR_OP01 ",
+                    "turmac": " \t2LGEOGR_OP01",
+                    "duracao": "1",
+                    "sala": "G303",
+                    "profsig": "LPSM",
+                    "prof": "Lu\u00eds Martins"
+                }
+            ]
+        },
+        "GEOPOR": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "Geografia do Porto",
+                    "sigla": "GEOPOR",
+                    "tipo": "TP",
+                    "turma": " \t2LGEOGR_OP01 ",
+                    "turmac": " \t2LGEOGR_OP01",
+                    "duracao": "7",
+                    "sala": "G409",
+                    "profsig": "GEOPOR_DOC",
+                    "prof": null
+                }
+            ],
+            "nome": "Geografia do Porto",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 12,
+                    "nome": "Geografia do Porto",
+                    "sigla": "GEOPOR",
+                    "tipo": "OT",
+                    "turma": " \t2LGEOGR_OP01 ",
+                    "turmac": " \t2LGEOGR_OP01",
+                    "duracao": "1",
+                    "sala": "G409",
+                    "profsig": "GEOPOR_DOC",
+                    "prof": null
+                }
+            ]
+        },
+        "AGRN": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "An\u00e1lise e Gest\u00e3o de Riscos Naturais",
+                    "sigla": "AGRN",
+                    "tipo": "TP",
+                    "turma": " \t2LGEOGR_OP01 ",
+                    "turmac": " \t2LGEOGR_OP01",
+                    "duracao": "4",
+                    "sala": "G104",
+                    "profsig": "FMST",
+                    "prof": "Fantina Tedim"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10.5,
+                    "nome": "An\u00e1lise e Gest\u00e3o de Riscos Naturais",
+                    "sigla": "AGRN",
+                    "tipo": "TP",
+                    "turma": " \t2LGEOGR_OP01 ",
+                    "turmac": " \t2LGEOGR_OP01",
+                    "duracao": "3",
+                    "sala": "G204",
+                    "profsig": "FMST",
+                    "prof": "Fantina Tedim"
+                }
+            ],
+            "nome": "An\u00e1lise e Gest\u00e3o de Riscos Naturais",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 12,
+                    "nome": "An\u00e1lise e Gest\u00e3o de Riscos Naturais",
+                    "sigla": "AGRN",
+                    "tipo": "OT",
+                    "turma": " \t2LGEOGR_OP01 ",
+                    "turmac": " \t2LGEOGR_OP01",
+                    "duracao": "1",
+                    "sala": "G204",
+                    "profsig": "FMST",
+                    "prof": "Fantina Tedim"
+                }
+            ]
+        },
+        "AURB": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Ambiente Urbano",
+                    "sigla": "AURB",
+                    "tipo": "TP",
+                    "turma": " \t2LGEOGR_OP01 ",
+                    "turmac": " \t2LGEOGR_OP01",
+                    "duracao": "7",
+                    "sala": "206.A\/B",
+                    "profsig": "HCFFM",
+                    "prof": "Helena Madureira"
+                }
+            ],
+            "nome": "Ambiente Urbano",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 17,
+                    "nome": "Ambiente Urbano",
+                    "sigla": "AURB",
+                    "tipo": "OT",
+                    "turma": " \t2LGEOGR_OP01 ",
+                    "turmac": " \t2LGEOGR_OP01",
+                    "duracao": "1",
+                    "sala": "206.A\/B",
+                    "profsig": "HCFFM",
+                    "prof": "Helena Madureira"
+                }
+            ]
+        },
+        "QMG": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 13.5,
+                    "nome": "Quatern\u00e1rio e Mudan\u00e7as Globais",
+                    "sigla": "QMG",
+                    "tipo": "TP",
+                    "turma": " \t2LGEOGR_OP01 ",
+                    "turmac": " \t2LGEOGR_OP01",
+                    "duracao": "7",
+                    "sala": "G105",
+                    "profsig": "MAFPA_LMPMS",
+                    "prof": null
+                }
+            ],
+            "nome": "Quatern\u00e1rio e Mudan\u00e7as Globais",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 17,
+                    "nome": "Quatern\u00e1rio e Mudan\u00e7as Globais",
+                    "sigla": "QMG",
+                    "tipo": "OT",
+                    "turma": " \t2LGEOGR_OP01 ",
+                    "turmac": " \t2LGEOGR_OP01",
+                    "duracao": "1",
+                    "sala": "G105",
+                    "profsig": "MAFPA_LMPMS",
+                    "prof": null
+                }
+            ]
+        },
+        "TTMOB": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Territ\u00f3rio, Transportes e Mobilidade",
+                    "sigla": "TTMOB",
+                    "tipo": "TP",
+                    "turma": " \t2LGEOGR_OP01 ",
+                    "turmac": " \t2LGEOGR_OP01",
+                    "duracao": "7",
+                    "sala": "G303",
+                    "profsig": "EMTP",
+                    "prof": "Elsa Pacheco"
+                }
+            ],
+            "nome": "Territ\u00f3rio, Transportes e Mobilidade",
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 19,
+                    "nome": "Territ\u00f3rio, Transportes e Mobilidade",
+                    "sigla": "TTMOB",
+                    "tipo": "OT",
+                    "turma": " \t2LGEOGR_OP01 ",
+                    "turmac": " \t2LGEOGR_OP01",
+                    "duracao": "1",
+                    "sala": "G303",
+                    "profsig": "EMTP",
+                    "prof": "Elsa Pacheco"
+                }
+            ]
+        },
+        "GEOLIT": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "Geomorfologia do Litoral",
+                    "sigla": "GEOLIT",
+                    "tipo": "TP",
+                    "turma": " \t2LGEOGR_OP01 ",
+                    "turmac": " \t2LGEOGR_OP01",
+                    "duracao": "4",
+                    "sala": "206.A\/B",
+                    "profsig": "MAFPA",
+                    "prof": "Assun\u00e7\u00e3o Ara\u00fajo"
+                },
+                {
+                    "dia": 4,
+                    "hora": 17.5,
+                    "nome": "Geomorfologia do Litoral",
+                    "sigla": "GEOLIT",
+                    "tipo": "TP",
+                    "turma": " \t2LGEOGR_OP01 ",
+                    "turmac": " \t2LGEOGR_OP01",
+                    "duracao": "3",
+                    "sala": "G202",
+                    "profsig": "MAFPA",
+                    "prof": "Assun\u00e7\u00e3o Ara\u00fajo"
+                }
+            ],
+            "nome": "Geomorfologia do Litoral",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 19,
+                    "nome": "Geomorfologia do Litoral",
+                    "sigla": "GEOLIT",
+                    "tipo": "OT",
+                    "turma": " \t2LGEOGR_OP01 ",
+                    "turmac": " \t2LGEOGR_OP01",
+                    "duracao": "1",
+                    "sala": "G202",
+                    "profsig": "MAFPA",
+                    "prof": "Assun\u00e7\u00e3o Ara\u00fajo"
+                }
+            ]
+        },
+        "GEOEUR": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 8.5,
+                    "nome": "Geografia da Europa",
+                    "sigla": "GEOEUR",
+                    "tipo": "TP",
+                    "turma": "2LGEOGR01 ",
+                    "turmac": "2LGEOGR01",
+                    "duracao": "8",
+                    "sala": "306.A\/B",
+                    "profsig": "JCSG_JRP_MAFPA",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Geografia da Europa",
+                    "sigla": "GEOEUR",
+                    "tipo": "TP",
+                    "turma": "2LGEOGR02",
+                    "turmac": "2LGEOGR02",
+                    "duracao": "8",
+                    "sala": "G104",
+                    "profsig": "JCSG_JRP_MAFPA",
+                    "prof": null
+                }
+            ],
+            "nome": "Geografia da Europa"
+        },
+        "GHUPOR": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 13.5,
+                    "nome": "Geografia Humana de Portugal",
+                    "sigla": "GHUPOR",
+                    "tipo": "TP",
+                    "turma": "2LGEOGR01 ",
+                    "turmac": "2LGEOGR01",
+                    "duracao": "7",
+                    "sala": "G308",
+                    "profsig": "HTGM_JCSG_TMVSM",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "Geografia Humana de Portugal",
+                    "sigla": "GHUPOR",
+                    "tipo": "TP",
+                    "turma": "2LGEOGR02",
+                    "turmac": "2LGEOGR02",
+                    "duracao": "7",
+                    "sala": "G301",
+                    "profsig": "HTGM_JCSG_TMVSM",
+                    "prof": null
+                }
+            ],
+            "nome": "Geografia Humana de Portugal",
+            "TC": [
+                {
+                    "dia": 1,
+                    "hora": 17,
+                    "nome": "Geografia Humana de Portugal",
+                    "sigla": "GHUPOR",
+                    "tipo": "TC",
+                    "turma": "2LGEOGR01 ",
+                    "turmac": "2LGEOGR01",
+                    "duracao": "1",
+                    "sala": "G308",
+                    "profsig": "HTGM_JCSG",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 19,
+                    "nome": "Geografia Humana de Portugal",
+                    "sigla": "GHUPOR",
+                    "tipo": "TC",
+                    "turma": "2LGEOGR02",
+                    "turmac": "2LGEOGR02",
+                    "duracao": "1",
+                    "sala": "G301",
+                    "profsig": "HTGM_JCSG",
+                    "prof": null
+                }
+            ]
+        }
+    },
+    "3\u00ba Ano": {
+        "SP": {
+            "S": [
+                {
+                    "dia": 1,
+                    "hora": 8.5,
+                    "nome": "Semin\u00e1rio de Projeto",
+                    "sigla": "SP",
+                    "tipo": "S",
+                    "turma": "3LGEOGR01 ",
+                    "turmac": "3LGEOGR01",
+                    "duracao": "8",
+                    "sala": "G111",
+                    "profsig": "DOCENTES_SP",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "Semin\u00e1rio de Projeto",
+                    "sigla": "SP",
+                    "tipo": "S",
+                    "turma": "3LGEOGR01 ",
+                    "turmac": "3LGEOGR01",
+                    "duracao": "8",
+                    "sala": "B309",
+                    "profsig": "DOCENTES_SP",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Semin\u00e1rio de Projeto",
+                    "sigla": "SP",
+                    "tipo": "S",
+                    "turma": "3LGEOGR02",
+                    "turmac": "3LGEOGR02",
+                    "duracao": "8",
+                    "sala": "B309",
+                    "profsig": "DOCENTES_SP",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "Semin\u00e1rio de Projeto",
+                    "sigla": "SP",
+                    "tipo": "S",
+                    "turma": "3LGEOGR02",
+                    "turmac": "3LGEOGR02",
+                    "duracao": "8",
+                    "sala": "G301",
+                    "profsig": "DOCENTES_SP",
+                    "prof": null
+                }
+            ],
+            "nome": "Semin\u00e1rio de Projeto"
+        }
+    }
+}

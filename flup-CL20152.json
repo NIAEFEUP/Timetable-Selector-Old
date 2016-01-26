@@ -1,0 +1,540 @@
+{
+    "1\u00ba Ano": {
+        "TCOE1": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "T\u00e9cnicas de Comunica\u00e7\u00e3o Oral e Escrita I",
+                    "sigla": "TCOE1",
+                    "tipo": "T",
+                    "turma": "1LCL01",
+                    "turmac": "1LCL01",
+                    "duracao": "2",
+                    "sala": "G304",
+                    "profsig": "MCFABG",
+                    "prof": "Maria Clara Barros"
+                }
+            ],
+            "nome": "T\u00e9cnicas de Comunica\u00e7\u00e3o Oral e Escrita I",
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 9.5,
+                    "nome": "T\u00e9cnicas de Comunica\u00e7\u00e3o Oral e Escrita I",
+                    "sigla": "TCOE1",
+                    "tipo": "OT",
+                    "turma": "1LCL01",
+                    "turmac": "1LCL01",
+                    "duracao": "2",
+                    "sala": "G304",
+                    "profsig": "MCFABG",
+                    "prof": "Maria Clara Barros"
+                }
+            ],
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 10.5,
+                    "nome": "T\u00e9cnicas de Comunica\u00e7\u00e3o Oral e Escrita I",
+                    "sigla": "TCOE1",
+                    "tipo": "TP",
+                    "turma": "1LCL01",
+                    "turmac": "1LCL01",
+                    "duracao": "4",
+                    "sala": "G303",
+                    "profsig": "MCFABG",
+                    "prof": "Maria Clara Barros"
+                }
+            ]
+        },
+        "FONET": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Fon\u00e9tica",
+                    "sigla": "FONET",
+                    "tipo": "TP",
+                    "turma": "1LCL01",
+                    "turmac": "1LCL01",
+                    "duracao": "4",
+                    "sala": "G204",
+                    "profsig": "JMPSAV",
+                    "prof": "Jo\u00e3o Veloso"
+                }
+            ],
+            "nome": "Fon\u00e9tica",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 10.5,
+                    "nome": "Fon\u00e9tica",
+                    "sigla": "FONET",
+                    "tipo": "T",
+                    "turma": "1LCL01",
+                    "turmac": "1LCL01",
+                    "duracao": "2",
+                    "sala": "G204",
+                    "profsig": "JMPSAV",
+                    "prof": "Jo\u00e3o Veloso"
+                }
+            ],
+            "OT": [
+                {
+                    "dia": 1,
+                    "hora": 11.5,
+                    "nome": "Fon\u00e9tica",
+                    "sigla": "FONET",
+                    "tipo": "OT",
+                    "turma": "1LCL01",
+                    "turmac": "1LCL01",
+                    "duracao": "2",
+                    "sala": "G204",
+                    "profsig": "JMPSAV",
+                    "prof": "Jo\u00e3o Veloso"
+                }
+            ]
+        },
+        "INTLIN": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 13.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Lingu\u00edstica",
+                    "sigla": "INTLIN",
+                    "tipo": "T",
+                    "turma": "1LCL01",
+                    "turmac": "1LCL01",
+                    "duracao": "2",
+                    "sala": "G105",
+                    "profsig": "MPMS",
+                    "prof": "Maria Silvano"
+                },
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Lingu\u00edstica",
+                    "sigla": "INTLIN",
+                    "tipo": "T",
+                    "turma": "1LCL02",
+                    "turmac": "1LCL02",
+                    "duracao": "2",
+                    "sala": "G105",
+                    "profsig": "AJRL",
+                    "prof": "Ant\u00f3nio Leal"
+                },
+                {
+                    "dia": 1,
+                    "hora": 17.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Lingu\u00edstica",
+                    "sigla": "INTLIN",
+                    "tipo": "T",
+                    "turma": "1LCL03",
+                    "turmac": "1LCL03",
+                    "duracao": "2",
+                    "sala": "G105",
+                    "profsig": "AJRL",
+                    "prof": "Ant\u00f3nio Leal"
+                },
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Lingu\u00edstica",
+                    "sigla": "INTLIN",
+                    "tipo": "T",
+                    "turma": "1LCL04",
+                    "turmac": "1LCL04",
+                    "duracao": "2",
+                    "sala": "G202",
+                    "profsig": "MPMS",
+                    "prof": "Maria Silvano"
+                }
+            ],
+            "nome": "Introdu\u00e7\u00e3o \u00e0 Lingu\u00edstica",
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 17.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Lingu\u00edstica",
+                    "sigla": "INTLIN",
+                    "tipo": "TP",
+                    "turma": "1LCL01",
+                    "turmac": "1LCL01",
+                    "duracao": "4",
+                    "sala": "G103",
+                    "profsig": "MPMS",
+                    "prof": "Maria Silvano"
+                },
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Lingu\u00edstica",
+                    "sigla": "INTLIN",
+                    "tipo": "TP",
+                    "turma": "1LCL02",
+                    "turmac": "1LCL02",
+                    "duracao": "4",
+                    "sala": "G305",
+                    "profsig": "AJRL",
+                    "prof": "Ant\u00f3nio Leal"
+                },
+                {
+                    "dia": 2,
+                    "hora": 17.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Lingu\u00edstica",
+                    "sigla": "INTLIN",
+                    "tipo": "TP",
+                    "turma": "1LCL03",
+                    "turmac": "1LCL03",
+                    "duracao": "4",
+                    "sala": "G111",
+                    "profsig": "AJRL",
+                    "prof": "Ant\u00f3nio Leal"
+                },
+                {
+                    "dia": 4,
+                    "hora": 13.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Lingu\u00edstica",
+                    "sigla": "INTLIN",
+                    "tipo": "TP",
+                    "turma": "1LCL04",
+                    "turmac": "1LCL04",
+                    "duracao": "4",
+                    "sala": "G302",
+                    "profsig": "MPMS",
+                    "prof": "Maria Silvano"
+                }
+            ],
+            "OT": [
+                {
+                    "dia": 1,
+                    "hora": 16.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Lingu\u00edstica",
+                    "sigla": "INTLIN",
+                    "tipo": "OT",
+                    "turma": "1LCL02",
+                    "turmac": "1LCL02",
+                    "duracao": "2",
+                    "sala": "G105",
+                    "profsig": "AJRL",
+                    "prof": "Ant\u00f3nio Leal"
+                },
+                {
+                    "dia": 1,
+                    "hora": 18.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Lingu\u00edstica",
+                    "sigla": "INTLIN",
+                    "tipo": "OT",
+                    "turma": "1LCL03",
+                    "turmac": "1LCL03",
+                    "duracao": "2",
+                    "sala": "G105",
+                    "profsig": "AJRL",
+                    "prof": "Ant\u00f3nio Leal"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Lingu\u00edstica",
+                    "sigla": "INTLIN",
+                    "tipo": "OT",
+                    "turma": "1LCL04",
+                    "turmac": "1LCL04",
+                    "duracao": "2",
+                    "sala": "G202",
+                    "profsig": "MPMS",
+                    "prof": "Maria Silvano"
+                }
+            ]
+        },
+        "ELING": {
+            "OT": [
+                {
+                    "dia": 1,
+                    "hora": 14.5,
+                    "nome": "Est\u00e9tica e Linguagem",
+                    "sigla": "ELING",
+                    "tipo": "OT",
+                    "turma": "1LCL01",
+                    "turmac": "1LCL01",
+                    "duracao": "2",
+                    "sala": "G409",
+                    "profsig": "MLMRB",
+                    "prof": "Maria Lu\u00edsa Malato Borralho"
+                }
+            ],
+            "nome": "Est\u00e9tica e Linguagem",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Est\u00e9tica e Linguagem",
+                    "sigla": "ELING",
+                    "tipo": "TP",
+                    "turma": "1LCL01",
+                    "turmac": "1LCL01",
+                    "duracao": "4",
+                    "sala": "G408",
+                    "profsig": "MLMRB",
+                    "prof": "Maria Lu\u00edsa Malato Borralho"
+                }
+            ]
+        },
+        "GEPORT": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "Geografia de Portugal",
+                    "sigla": "GEPORT",
+                    "tipo": "TP",
+                    "turma": "1LCL01",
+                    "turmac": "1LCL01",
+                    "duracao": "4",
+                    "sala": "G308",
+                    "profsig": "HTGM_JCSG",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 17.5,
+                    "nome": "Geografia de Portugal",
+                    "sigla": "GEPORT",
+                    "tipo": "TP",
+                    "turma": "1LCL02",
+                    "turmac": "1LCL02",
+                    "duracao": "4",
+                    "sala": "G301",
+                    "profsig": "HTGM_JCSG",
+                    "prof": null
+                }
+            ],
+            "nome": "Geografia de Portugal",
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "Geografia de Portugal",
+                    "sigla": "GEPORT",
+                    "tipo": "T",
+                    "turma": "1LCL02",
+                    "turmac": "1LCL02",
+                    "duracao": "2",
+                    "sala": "G301",
+                    "profsig": "TMVSM",
+                    "prof": "Teresa S\u00e1 Marques"
+                }
+            ],
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 16.5,
+                    "nome": "Geografia de Portugal",
+                    "sigla": "GEPORT",
+                    "tipo": "OT",
+                    "turma": "1LCL02",
+                    "turmac": "1LCL02",
+                    "duracao": "2",
+                    "sala": "G301",
+                    "profsig": "HTGM",
+                    "prof": "Helder Marques"
+                }
+            ]
+        }
+    },
+    "2\u00ba Ano": {
+        "ESSP2": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Estruturas Sint\u00e1ticas e Sem\u00e2nticas do Portugu\u00eas II",
+                    "sigla": "ESSP2",
+                    "tipo": "T",
+                    "turma": "2LCL01",
+                    "turmac": "2LCL01",
+                    "duracao": "2",
+                    "sala": "G209",
+                    "profsig": "MPMS",
+                    "prof": "Maria Silvano"
+                }
+            ],
+            "nome": "Estruturas Sint\u00e1ticas e Sem\u00e2nticas do Portugu\u00eas II",
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "Estruturas Sint\u00e1ticas e Sem\u00e2nticas do Portugu\u00eas II",
+                    "sigla": "ESSP2",
+                    "tipo": "TP",
+                    "turma": "2LCL01",
+                    "turmac": "2LCL01",
+                    "duracao": "4",
+                    "sala": "G207",
+                    "profsig": "MPMS",
+                    "prof": "Maria Silvano"
+                }
+            ],
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 16.5,
+                    "nome": "Estruturas Sint\u00e1ticas e Sem\u00e2nticas do Portugu\u00eas II",
+                    "sigla": "ESSP2",
+                    "tipo": "OT",
+                    "turma": "2LCL01",
+                    "turmac": "2LCL01",
+                    "duracao": "2",
+                    "sala": "G209",
+                    "profsig": "MPMS",
+                    "prof": "Maria Silvano"
+                }
+            ]
+        }
+    },
+    "3\u00ba Ano": {
+        "ADIS": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "An\u00e1lise do Discurso",
+                    "sigla": "ADIS",
+                    "tipo": "T",
+                    "turma": "3LCL01",
+                    "turmac": "3LCL01",
+                    "duracao": "2",
+                    "sala": "G205",
+                    "profsig": "MAAGP",
+                    "prof": "Maria Alexandra Guedes Pinto"
+                },
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "An\u00e1lise do Discurso",
+                    "sigla": "ADIS",
+                    "tipo": "T",
+                    "turma": "3LCL01",
+                    "turmac": "3LCL01",
+                    "duracao": "4",
+                    "sala": "G404",
+                    "profsig": "MAAGP",
+                    "prof": "Maria Alexandra Guedes Pinto"
+                }
+            ],
+            "nome": "An\u00e1lise do Discurso",
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 11.5,
+                    "nome": "An\u00e1lise do Discurso",
+                    "sigla": "ADIS",
+                    "tipo": "OT",
+                    "turma": "3LCL01",
+                    "turmac": "3LCL01",
+                    "duracao": "2",
+                    "sala": "G205",
+                    "profsig": "MAAGP",
+                    "prof": "Maria Alexandra Guedes Pinto"
+                }
+            ]
+        },
+        "LINTEX": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 10.5,
+                    "nome": "Lingu\u00edstica de Texto",
+                    "sigla": "LINTEX",
+                    "tipo": "TP",
+                    "turma": "3LCL01",
+                    "turmac": "3LCL01",
+                    "duracao": "4",
+                    "sala": "G107",
+                    "profsig": "MFHS",
+                    "prof": "Maria de F\u00e1tima Henriques da Silva"
+                }
+            ],
+            "nome": "Lingu\u00edstica de Texto",
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "Lingu\u00edstica de Texto",
+                    "sigla": "LINTEX",
+                    "tipo": "T",
+                    "turma": "3LCL01",
+                    "turmac": "3LCL01",
+                    "duracao": "2",
+                    "sala": "G307",
+                    "profsig": "MFHS",
+                    "prof": "Maria de F\u00e1tima Henriques da Silva"
+                }
+            ],
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 16.5,
+                    "nome": "Lingu\u00edstica de Texto",
+                    "sigla": "LINTEX",
+                    "tipo": "OT",
+                    "turma": "3LCL01",
+                    "turmac": "3LCL01",
+                    "duracao": "2",
+                    "sala": "G307",
+                    "profsig": "MFHS",
+                    "prof": "Maria de F\u00e1tima Henriques da Silva"
+                }
+            ]
+        },
+        "VPORT": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "Variedades do Portugu\u00eas",
+                    "sigla": "VPORT",
+                    "tipo": "T",
+                    "turma": "3LCL01",
+                    "turmac": "3LCL01",
+                    "duracao": "2",
+                    "sala": "G309",
+                    "profsig": "AMB_CB",
+                    "prof": null
+                }
+            ],
+            "nome": "Variedades do Portugu\u00eas",
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 13.5,
+                    "nome": "Variedades do Portugu\u00eas",
+                    "sigla": "VPORT",
+                    "tipo": "TP",
+                    "turma": "3LCL01",
+                    "turmac": "3LCL01",
+                    "duracao": "4",
+                    "sala": "G307",
+                    "profsig": "AMB_CB",
+                    "prof": null
+                }
+            ],
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 14.5,
+                    "nome": "Variedades do Portugu\u00eas",
+                    "sigla": "VPORT",
+                    "tipo": "OT",
+                    "turma": "3LCL01",
+                    "turmac": "3LCL01",
+                    "duracao": "2",
+                    "sala": "G309",
+                    "profsig": "AMB_CB",
+                    "prof": null
+                }
+            ]
+        }
+    }
+}
