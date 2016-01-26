@@ -1,0 +1,2177 @@
+{
+    "1\u00ba Ano": {
+        "FQ II": {
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 14.5,
+                    "nome": "Fundamentos de Qu\u00edmica II",
+                    "sigla": "FQ II",
+                    "tipo": "PL",
+                    "turma": "Q1FQII01",
+                    "turmac": "Q1FQII01",
+                    "duracao": "6",
+                    "sala": "E104",
+                    "profsig": "JIM",
+                    "prof": "Jos\u00e9 Martins"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14.5,
+                    "nome": "Fundamentos de Qu\u00edmica II",
+                    "sigla": "FQ II",
+                    "tipo": "PL",
+                    "turma": "Q1FQII02",
+                    "turmac": "Q1FQII02",
+                    "duracao": "6",
+                    "sala": "E104",
+                    "profsig": "JIM",
+                    "prof": "Jos\u00e9 Martins"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14.5,
+                    "nome": "Fundamentos de Qu\u00edmica II",
+                    "sigla": "FQ II",
+                    "tipo": "PL",
+                    "turma": "Q1FQII03",
+                    "turmac": "Q1FQII03",
+                    "duracao": "6",
+                    "sala": "E104",
+                    "profsig": "JIM",
+                    "prof": "Jos\u00e9 Martins"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14.5,
+                    "nome": "Fundamentos de Qu\u00edmica II",
+                    "sigla": "FQ II",
+                    "tipo": "PL",
+                    "turma": "Q1FQII04",
+                    "turmac": "Q1FQII04",
+                    "duracao": "6",
+                    "sala": "E104",
+                    "profsig": "JIM",
+                    "prof": "Jos\u00e9 Martins"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14.5,
+                    "nome": "Fundamentos de Qu\u00edmica II",
+                    "sigla": "FQ II",
+                    "tipo": "PL",
+                    "turma": "Q1FQII05",
+                    "turmac": "Q1FQII05",
+                    "duracao": "6",
+                    "sala": "E104",
+                    "profsig": "JIM",
+                    "prof": "Jos\u00e9 Martins"
+                }
+            ],
+            "nome": "Fundamentos de Qu\u00edmica II",
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "Fundamentos de Qu\u00edmica II",
+                    "sigla": "FQ II",
+                    "tipo": "T",
+                    "turma": "Q1Q01",
+                    "turmac": "COMP_1268",
+                    "duracao": "2",
+                    "sala": "B035",
+                    "profsig": "JDF",
+                    "prof": "Joaquim Lu\u00eds Faria"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Fundamentos de Qu\u00edmica II",
+                    "sigla": "FQ II",
+                    "tipo": "T",
+                    "turma": "Q1Q01",
+                    "turmac": "COMP_1268",
+                    "duracao": "3",
+                    "sala": "B035",
+                    "profsig": "JDF",
+                    "prof": "Joaquim Lu\u00eds Faria"
+                },
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "Fundamentos de Qu\u00edmica II",
+                    "sigla": "FQ II",
+                    "tipo": "T",
+                    "turma": "Q1Q02",
+                    "turmac": "COMP_1268",
+                    "duracao": "2",
+                    "sala": "B035",
+                    "profsig": "JDF",
+                    "prof": "Joaquim Lu\u00eds Faria"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Fundamentos de Qu\u00edmica II",
+                    "sigla": "FQ II",
+                    "tipo": "T",
+                    "turma": "Q1Q02",
+                    "turmac": "COMP_1268",
+                    "duracao": "3",
+                    "sala": "B035",
+                    "profsig": "JDF",
+                    "prof": "Joaquim Lu\u00eds Faria"
+                },
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "Fundamentos de Qu\u00edmica II",
+                    "sigla": "FQ II",
+                    "tipo": "T",
+                    "turma": "Q1Q03",
+                    "turmac": "COMP_1268",
+                    "duracao": "2",
+                    "sala": "B035",
+                    "profsig": "JDF",
+                    "prof": "Joaquim Lu\u00eds Faria"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Fundamentos de Qu\u00edmica II",
+                    "sigla": "FQ II",
+                    "tipo": "T",
+                    "turma": "Q1Q03",
+                    "turmac": "COMP_1268",
+                    "duracao": "3",
+                    "sala": "B035",
+                    "profsig": "JDF",
+                    "prof": "Joaquim Lu\u00eds Faria"
+                },
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "Fundamentos de Qu\u00edmica II",
+                    "sigla": "FQ II",
+                    "tipo": "T",
+                    "turma": "Q1Q04",
+                    "turmac": "COMP_1268",
+                    "duracao": "2",
+                    "sala": "B035",
+                    "profsig": "JDF",
+                    "prof": "Joaquim Lu\u00eds Faria"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Fundamentos de Qu\u00edmica II",
+                    "sigla": "FQ II",
+                    "tipo": "T",
+                    "turma": "Q1Q04",
+                    "turmac": "COMP_1268",
+                    "duracao": "3",
+                    "sala": "B035",
+                    "profsig": "JDF",
+                    "prof": "Joaquim Lu\u00eds Faria"
+                }
+            ],
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 9.5,
+                    "nome": "Fundamentos de Qu\u00edmica II",
+                    "sigla": "FQ II",
+                    "tipo": "TP",
+                    "turma": "Q1Q01",
+                    "turmac": "Q1Q01",
+                    "duracao": "2",
+                    "sala": "B101",
+                    "profsig": "JDF",
+                    "prof": "Joaquim Lu\u00eds Faria"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10.5,
+                    "nome": "Fundamentos de Qu\u00edmica II",
+                    "sigla": "FQ II",
+                    "tipo": "TP",
+                    "turma": "Q1Q02",
+                    "turmac": "Q1Q02",
+                    "duracao": "2",
+                    "sala": "B101",
+                    "profsig": "JDF",
+                    "prof": "Joaquim Lu\u00eds Faria"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11.5,
+                    "nome": "Fundamentos de Qu\u00edmica II",
+                    "sigla": "FQ II",
+                    "tipo": "TP",
+                    "turma": "Q1Q03",
+                    "turmac": "Q1Q03",
+                    "duracao": "2",
+                    "sala": "B101",
+                    "profsig": "JDF",
+                    "prof": "Joaquim Lu\u00eds Faria"
+                }
+            ]
+        },
+        "QO II": {
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 14.5,
+                    "nome": "Qu\u00edmica Org\u00e2nica II",
+                    "sigla": "QO II",
+                    "tipo": "PL",
+                    "turma": "Q1QOII01",
+                    "turmac": "Q1QOII01",
+                    "duracao": "6",
+                    "sala": "E104",
+                    "profsig": "LSS",
+                    "prof": "L\u00facia Silveira Santos"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14.5,
+                    "nome": "Qu\u00edmica Org\u00e2nica II",
+                    "sigla": "QO II",
+                    "tipo": "PL",
+                    "turma": "Q1QOII02",
+                    "turmac": "Q1QOII02",
+                    "duracao": "6",
+                    "sala": "E104",
+                    "profsig": "LSS",
+                    "prof": "L\u00facia Silveira Santos"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14.5,
+                    "nome": "Qu\u00edmica Org\u00e2nica II",
+                    "sigla": "QO II",
+                    "tipo": "PL",
+                    "turma": "Q1QOII03",
+                    "turmac": "Q1QOII03",
+                    "duracao": "6",
+                    "sala": "E104",
+                    "profsig": "LSS",
+                    "prof": "L\u00facia Silveira Santos"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14.5,
+                    "nome": "Qu\u00edmica Org\u00e2nica II",
+                    "sigla": "QO II",
+                    "tipo": "PL",
+                    "turma": "Q1QOII04",
+                    "turmac": "Q1QOII04",
+                    "duracao": "6",
+                    "sala": "E104",
+                    "profsig": "LSS",
+                    "prof": "L\u00facia Silveira Santos"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14.5,
+                    "nome": "Qu\u00edmica Org\u00e2nica II",
+                    "sigla": "QO II",
+                    "tipo": "PL",
+                    "turma": "Q1QOII05",
+                    "turmac": "Q1QOII05",
+                    "duracao": "6",
+                    "sala": "E104",
+                    "profsig": "LSS",
+                    "prof": "L\u00facia Silveira Santos"
+                }
+            ],
+            "nome": "Qu\u00edmica Org\u00e2nica II",
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Qu\u00edmica Org\u00e2nica II",
+                    "sigla": "QO II",
+                    "tipo": "T",
+                    "turma": "Q1Q01",
+                    "turmac": "COMP_1268",
+                    "duracao": "2",
+                    "sala": "B035",
+                    "profsig": "LSS",
+                    "prof": "L\u00facia Silveira Santos"
+                },
+                {
+                    "dia": 1,
+                    "hora": 10,
+                    "nome": "Qu\u00edmica Org\u00e2nica II",
+                    "sigla": "QO II",
+                    "tipo": "T",
+                    "turma": "Q1Q01",
+                    "turmac": "COMP_1268",
+                    "duracao": "3",
+                    "sala": "B013",
+                    "profsig": "LSS",
+                    "prof": "L\u00facia Silveira Santos"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Qu\u00edmica Org\u00e2nica II",
+                    "sigla": "QO II",
+                    "tipo": "T",
+                    "turma": "Q1Q02",
+                    "turmac": "COMP_1268",
+                    "duracao": "2",
+                    "sala": "B035",
+                    "profsig": "LSS",
+                    "prof": "L\u00facia Silveira Santos"
+                },
+                {
+                    "dia": 1,
+                    "hora": 10,
+                    "nome": "Qu\u00edmica Org\u00e2nica II",
+                    "sigla": "QO II",
+                    "tipo": "T",
+                    "turma": "Q1Q02",
+                    "turmac": "COMP_1268",
+                    "duracao": "3",
+                    "sala": "B013",
+                    "profsig": "LSS",
+                    "prof": "L\u00facia Silveira Santos"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Qu\u00edmica Org\u00e2nica II",
+                    "sigla": "QO II",
+                    "tipo": "T",
+                    "turma": "Q1Q03",
+                    "turmac": "COMP_1268",
+                    "duracao": "2",
+                    "sala": "B035",
+                    "profsig": "LSS",
+                    "prof": "L\u00facia Silveira Santos"
+                },
+                {
+                    "dia": 1,
+                    "hora": 10,
+                    "nome": "Qu\u00edmica Org\u00e2nica II",
+                    "sigla": "QO II",
+                    "tipo": "T",
+                    "turma": "Q1Q03",
+                    "turmac": "COMP_1268",
+                    "duracao": "3",
+                    "sala": "B013",
+                    "profsig": "LSS",
+                    "prof": "L\u00facia Silveira Santos"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Qu\u00edmica Org\u00e2nica II",
+                    "sigla": "QO II",
+                    "tipo": "T",
+                    "turma": "Q1Q04",
+                    "turmac": "COMP_1268",
+                    "duracao": "2",
+                    "sala": "B035",
+                    "profsig": "LSS",
+                    "prof": "L\u00facia Silveira Santos"
+                },
+                {
+                    "dia": 1,
+                    "hora": 10,
+                    "nome": "Qu\u00edmica Org\u00e2nica II",
+                    "sigla": "QO II",
+                    "tipo": "T",
+                    "turma": "Q1Q04",
+                    "turmac": "COMP_1268",
+                    "duracao": "3",
+                    "sala": "B013",
+                    "profsig": "LSS",
+                    "prof": "L\u00facia Silveira Santos"
+                }
+            ]
+        },
+        "AM II": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 8.5,
+                    "nome": "An\u00e1lise Matem\u00e1tica II",
+                    "sigla": "AM II",
+                    "tipo": "T",
+                    "turma": "Q1Q01",
+                    "turmac": "COMP_1268",
+                    "duracao": "3",
+                    "sala": "B013",
+                    "profsig": "JCB",
+                    "prof": "Jo\u00e3o Bastos"
+                },
+                {
+                    "dia": 3,
+                    "hora": 10.5,
+                    "nome": "An\u00e1lise Matem\u00e1tica II",
+                    "sigla": "AM II",
+                    "tipo": "T",
+                    "turma": "Q1Q01",
+                    "turmac": "COMP_1268",
+                    "duracao": "3",
+                    "sala": "B035",
+                    "profsig": "JCB",
+                    "prof": "Jo\u00e3o Bastos"
+                },
+                {
+                    "dia": 1,
+                    "hora": 8.5,
+                    "nome": "An\u00e1lise Matem\u00e1tica II",
+                    "sigla": "AM II",
+                    "tipo": "T",
+                    "turma": "Q1Q02",
+                    "turmac": "COMP_1268",
+                    "duracao": "3",
+                    "sala": "B013",
+                    "profsig": "JCB",
+                    "prof": "Jo\u00e3o Bastos"
+                },
+                {
+                    "dia": 3,
+                    "hora": 10.5,
+                    "nome": "An\u00e1lise Matem\u00e1tica II",
+                    "sigla": "AM II",
+                    "tipo": "T",
+                    "turma": "Q1Q02",
+                    "turmac": "COMP_1268",
+                    "duracao": "3",
+                    "sala": "B035",
+                    "profsig": "JCB",
+                    "prof": "Jo\u00e3o Bastos"
+                },
+                {
+                    "dia": 1,
+                    "hora": 8.5,
+                    "nome": "An\u00e1lise Matem\u00e1tica II",
+                    "sigla": "AM II",
+                    "tipo": "T",
+                    "turma": "Q1Q03",
+                    "turmac": "COMP_1268",
+                    "duracao": "3",
+                    "sala": "B013",
+                    "profsig": "JCB",
+                    "prof": "Jo\u00e3o Bastos"
+                },
+                {
+                    "dia": 3,
+                    "hora": 10.5,
+                    "nome": "An\u00e1lise Matem\u00e1tica II",
+                    "sigla": "AM II",
+                    "tipo": "T",
+                    "turma": "Q1Q03",
+                    "turmac": "COMP_1268",
+                    "duracao": "3",
+                    "sala": "B035",
+                    "profsig": "JCB",
+                    "prof": "Jo\u00e3o Bastos"
+                },
+                {
+                    "dia": 1,
+                    "hora": 8.5,
+                    "nome": "An\u00e1lise Matem\u00e1tica II",
+                    "sigla": "AM II",
+                    "tipo": "T",
+                    "turma": "Q1Q04",
+                    "turmac": "COMP_1268",
+                    "duracao": "3",
+                    "sala": "B013",
+                    "profsig": "JCB",
+                    "prof": "Jo\u00e3o Bastos"
+                },
+                {
+                    "dia": 3,
+                    "hora": 10.5,
+                    "nome": "An\u00e1lise Matem\u00e1tica II",
+                    "sigla": "AM II",
+                    "tipo": "T",
+                    "turma": "Q1Q04",
+                    "turmac": "COMP_1268",
+                    "duracao": "3",
+                    "sala": "B035",
+                    "profsig": "JCB",
+                    "prof": "Jo\u00e3o Bastos"
+                }
+            ],
+            "nome": "An\u00e1lise Matem\u00e1tica II",
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 12,
+                    "nome": "An\u00e1lise Matem\u00e1tica II",
+                    "sigla": "AM II",
+                    "tipo": "TP",
+                    "turma": "Q1Q01",
+                    "turmac": "Q1Q01",
+                    "duracao": "2",
+                    "sala": "B220",
+                    "profsig": "JCB",
+                    "prof": "Jo\u00e3o Bastos"
+                },
+                {
+                    "dia": 3,
+                    "hora": 12,
+                    "nome": "An\u00e1lise Matem\u00e1tica II",
+                    "sigla": "AM II",
+                    "tipo": "TP",
+                    "turma": "Q1Q02",
+                    "turmac": "Q1Q02",
+                    "duracao": "2",
+                    "sala": "B327",
+                    "profsig": "JCB",
+                    "prof": "Jo\u00e3o Bastos"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10.5,
+                    "nome": "An\u00e1lise Matem\u00e1tica II",
+                    "sigla": "AM II",
+                    "tipo": "TP",
+                    "turma": "Q1Q03",
+                    "turmac": "Q1Q03",
+                    "duracao": "2",
+                    "sala": "B220",
+                    "profsig": "JCB",
+                    "prof": "Jo\u00e3o Bastos"
+                }
+            ]
+        },
+        "PMN": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Programa\u00e7\u00e3o e M\u00e9todos Num\u00e9ricos",
+                    "sigla": "PMN",
+                    "tipo": "T",
+                    "turma": "Q1Q01",
+                    "turmac": "COMP_1268",
+                    "duracao": "6",
+                    "sala": "B035",
+                    "profsig": "MMD",
+                    "prof": "Madalena Dias"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Programa\u00e7\u00e3o e M\u00e9todos Num\u00e9ricos",
+                    "sigla": "PMN",
+                    "tipo": "T",
+                    "turma": "Q1Q02",
+                    "turmac": "COMP_1268",
+                    "duracao": "6",
+                    "sala": "B035",
+                    "profsig": "MMD",
+                    "prof": "Madalena Dias"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Programa\u00e7\u00e3o e M\u00e9todos Num\u00e9ricos",
+                    "sigla": "PMN",
+                    "tipo": "T",
+                    "turma": "Q1Q03",
+                    "turmac": "COMP_1268",
+                    "duracao": "6",
+                    "sala": "B035",
+                    "profsig": "MMD",
+                    "prof": "Madalena Dias"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Programa\u00e7\u00e3o e M\u00e9todos Num\u00e9ricos",
+                    "sigla": "PMN",
+                    "tipo": "T",
+                    "turma": "Q1Q04",
+                    "turmac": "COMP_1268",
+                    "duracao": "6",
+                    "sala": "B035",
+                    "profsig": "MMD",
+                    "prof": "Madalena Dias"
+                }
+            ],
+            "nome": "Programa\u00e7\u00e3o e M\u00e9todos Num\u00e9ricos",
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 11.5,
+                    "nome": "Programa\u00e7\u00e3o e M\u00e9todos Num\u00e9ricos",
+                    "sigla": "PMN",
+                    "tipo": "PL",
+                    "turma": "Q1Q01",
+                    "turmac": "Q1Q01",
+                    "duracao": "4",
+                    "sala": "B207",
+                    "profsig": "MMD",
+                    "prof": "Madalena Dias"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11.5,
+                    "nome": "Programa\u00e7\u00e3o e M\u00e9todos Num\u00e9ricos",
+                    "sigla": "PMN",
+                    "tipo": "PL",
+                    "turma": "Q1Q02",
+                    "turmac": "Q1Q02",
+                    "duracao": "4",
+                    "sala": "B301",
+                    "profsig": "MMD",
+                    "prof": "Madalena Dias"
+                },
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Programa\u00e7\u00e3o e M\u00e9todos Num\u00e9ricos",
+                    "sigla": "PMN",
+                    "tipo": "PL",
+                    "turma": "Q1Q03",
+                    "turmac": "Q1Q03",
+                    "duracao": "4",
+                    "sala": "B307",
+                    "profsig": "MMD",
+                    "prof": "Madalena Dias"
+                }
+            ]
+        },
+        "F I": {
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 10.5,
+                    "nome": "F\u00edsica I",
+                    "sigla": "F I",
+                    "tipo": "T",
+                    "turma": "Q1Q01",
+                    "turmac": "COMP_1268",
+                    "duracao": "2",
+                    "sala": "B035",
+                    "profsig": "PAS",
+                    "prof": "Paulo S\u00e1"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11.5,
+                    "nome": "F\u00edsica I",
+                    "sigla": "F I",
+                    "tipo": "T",
+                    "turma": "Q1Q01",
+                    "turmac": "COMP_1268",
+                    "duracao": "3",
+                    "sala": "B013",
+                    "profsig": "PAS",
+                    "prof": "Paulo S\u00e1"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10.5,
+                    "nome": "F\u00edsica I",
+                    "sigla": "F I",
+                    "tipo": "T",
+                    "turma": "Q1Q02",
+                    "turmac": "COMP_1268",
+                    "duracao": "2",
+                    "sala": "B035",
+                    "profsig": "PAS",
+                    "prof": "Paulo S\u00e1"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11.5,
+                    "nome": "F\u00edsica I",
+                    "sigla": "F I",
+                    "tipo": "T",
+                    "turma": "Q1Q02",
+                    "turmac": "COMP_1268",
+                    "duracao": "3",
+                    "sala": "B013",
+                    "profsig": "PAS",
+                    "prof": "Paulo S\u00e1"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10.5,
+                    "nome": "F\u00edsica I",
+                    "sigla": "F I",
+                    "tipo": "T",
+                    "turma": "Q1Q03",
+                    "turmac": "COMP_1268",
+                    "duracao": "2",
+                    "sala": "B035",
+                    "profsig": "PAS",
+                    "prof": "Paulo S\u00e1"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11.5,
+                    "nome": "F\u00edsica I",
+                    "sigla": "F I",
+                    "tipo": "T",
+                    "turma": "Q1Q03",
+                    "turmac": "COMP_1268",
+                    "duracao": "3",
+                    "sala": "B013",
+                    "profsig": "PAS",
+                    "prof": "Paulo S\u00e1"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10.5,
+                    "nome": "F\u00edsica I",
+                    "sigla": "F I",
+                    "tipo": "T",
+                    "turma": "Q1Q04",
+                    "turmac": "COMP_1268",
+                    "duracao": "2",
+                    "sala": "B035",
+                    "profsig": "PAS",
+                    "prof": "Paulo S\u00e1"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11.5,
+                    "nome": "F\u00edsica I",
+                    "sigla": "F I",
+                    "tipo": "T",
+                    "turma": "Q1Q04",
+                    "turmac": "COMP_1268",
+                    "duracao": "3",
+                    "sala": "B013",
+                    "profsig": "PAS",
+                    "prof": "Paulo S\u00e1"
+                }
+            ],
+            "nome": "F\u00edsica I",
+            "PL": [
+                {
+                    "dia": 5,
+                    "hora": 10.5,
+                    "nome": "F\u00edsica I",
+                    "sigla": "F I",
+                    "tipo": "PL",
+                    "turma": "Q1Q01",
+                    "turmac": "Q1Q01",
+                    "duracao": "3",
+                    "sala": "B225",
+                    "profsig": "JCREO",
+                    "prof": "Joana Oliveira"
+                },
+                {
+                    "dia": 2,
+                    "hora": 12,
+                    "nome": "F\u00edsica I",
+                    "sigla": "F I",
+                    "tipo": "PL",
+                    "turma": "Q1Q02",
+                    "turmac": "Q1Q02",
+                    "duracao": "3",
+                    "sala": "B101",
+                    "profsig": "JCREO",
+                    "prof": "Joana Oliveira"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11.5,
+                    "nome": "F\u00edsica I",
+                    "sigla": "F I",
+                    "tipo": "PL",
+                    "turma": "Q1Q03",
+                    "turmac": "Q1Q03",
+                    "duracao": "3",
+                    "sala": "B101",
+                    "profsig": "PAS",
+                    "prof": "Paulo S\u00e1"
+                },
+                {
+                    "dia": 5,
+                    "hora": 12,
+                    "nome": "F\u00edsica I",
+                    "sigla": "F I",
+                    "tipo": "PL",
+                    "turma": "Q1Q04",
+                    "turmac": "Q1Q04",
+                    "duracao": "3",
+                    "sala": "B225",
+                    "profsig": "PAS",
+                    "prof": "Paulo S\u00e1"
+                }
+            ]
+        }
+    },
+    "2\u00ba Ano": {
+        "LQF": {
+            "PL": [
+                {
+                    "dia": 5,
+                    "hora": 9.5,
+                    "nome": "Laborat\u00f3rios de Qu\u00edmica-F\u00edsica",
+                    "sigla": "LQF",
+                    "tipo": "PL",
+                    "turma": "Q2LQF01",
+                    "turmac": "Q2LQF01",
+                    "duracao": "6",
+                    "sala": "E001",
+                    "profsig": "MRPFNC+MCP",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 9.5,
+                    "nome": "Laborat\u00f3rios de Qu\u00edmica-F\u00edsica",
+                    "sigla": "LQF",
+                    "tipo": "PL",
+                    "turma": "Q2LQF02",
+                    "turmac": "Q2LQF02",
+                    "duracao": "6",
+                    "sala": "E001",
+                    "profsig": "MRPFNC+MCP",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Laborat\u00f3rios de Qu\u00edmica-F\u00edsica",
+                    "sigla": "LQF",
+                    "tipo": "PL",
+                    "turma": "Q2LQF03",
+                    "turmac": "Q2LQF03",
+                    "duracao": "6",
+                    "sala": "E001",
+                    "profsig": "MRPFNC+MCP",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 9.5,
+                    "nome": "Laborat\u00f3rios de Qu\u00edmica-F\u00edsica",
+                    "sigla": "LQF",
+                    "tipo": "PL",
+                    "turma": "Q2LQF04",
+                    "turmac": "Q2LQF04",
+                    "duracao": "6",
+                    "sala": "E001",
+                    "profsig": "MRPFNC+MCP",
+                    "prof": null
+                }
+            ],
+            "nome": "Laborat\u00f3rios de Qu\u00edmica-F\u00edsica",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 13.5,
+                    "nome": "Laborat\u00f3rios de Qu\u00edmica-F\u00edsica",
+                    "sigla": "LQF",
+                    "tipo": "TP",
+                    "turma": "Q2Q01",
+                    "turmac": "Q2Q01",
+                    "duracao": "4",
+                    "sala": "B112",
+                    "profsig": "JSA",
+                    "prof": "Jos\u00e9 Almacinha"
+                },
+                {
+                    "dia": 5,
+                    "hora": 16.5,
+                    "nome": "Laborat\u00f3rios de Qu\u00edmica-F\u00edsica",
+                    "sigla": "LQF",
+                    "tipo": "TP",
+                    "turma": "Q2Q02",
+                    "turmac": "Q2Q02",
+                    "duracao": "4",
+                    "sala": "B112",
+                    "profsig": "IARL",
+                    "prof": "Igor Lopes"
+                },
+                {
+                    "dia": 3,
+                    "hora": 17,
+                    "nome": "Laborat\u00f3rios de Qu\u00edmica-F\u00edsica",
+                    "sigla": "LQF",
+                    "tipo": "TP",
+                    "turma": "Q2Q03",
+                    "turmac": "Q2Q03",
+                    "duracao": "4",
+                    "sala": "B108",
+                    "profsig": "FPBM",
+                    "prof": "Fernando Macedo"
+                }
+            ]
+        },
+        "EEQ II": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "Elementos de Engenharia Qu\u00edmica II",
+                    "sigla": "EEQ II",
+                    "tipo": "T",
+                    "turma": "Q2Q01",
+                    "turmac": "COMP_720",
+                    "duracao": "3",
+                    "sala": "B029",
+                    "profsig": "MEM",
+                    "prof": "Maria Eug\u00e9nia Macedo"
+                },
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Elementos de Engenharia Qu\u00edmica II",
+                    "sigla": "EEQ II",
+                    "tipo": "T",
+                    "turma": "Q2Q01",
+                    "turmac": "COMP_720",
+                    "duracao": "3",
+                    "sala": "B020",
+                    "profsig": "MEM",
+                    "prof": "Maria Eug\u00e9nia Macedo"
+                },
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "Elementos de Engenharia Qu\u00edmica II",
+                    "sigla": "EEQ II",
+                    "tipo": "T",
+                    "turma": "Q2Q02",
+                    "turmac": "COMP_720",
+                    "duracao": "3",
+                    "sala": "B029",
+                    "profsig": "MEM",
+                    "prof": "Maria Eug\u00e9nia Macedo"
+                },
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Elementos de Engenharia Qu\u00edmica II",
+                    "sigla": "EEQ II",
+                    "tipo": "T",
+                    "turma": "Q2Q02",
+                    "turmac": "COMP_720",
+                    "duracao": "3",
+                    "sala": "B020",
+                    "profsig": "MEM",
+                    "prof": "Maria Eug\u00e9nia Macedo"
+                },
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "Elementos de Engenharia Qu\u00edmica II",
+                    "sigla": "EEQ II",
+                    "tipo": "T",
+                    "turma": "Q2Q03",
+                    "turmac": "COMP_720",
+                    "duracao": "3",
+                    "sala": "B029",
+                    "profsig": "MEM",
+                    "prof": "Maria Eug\u00e9nia Macedo"
+                },
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Elementos de Engenharia Qu\u00edmica II",
+                    "sigla": "EEQ II",
+                    "tipo": "T",
+                    "turma": "Q2Q03",
+                    "turmac": "COMP_720",
+                    "duracao": "3",
+                    "sala": "B020",
+                    "profsig": "MEM",
+                    "prof": "Maria Eug\u00e9nia Macedo"
+                }
+            ],
+            "nome": "Elementos de Engenharia Qu\u00edmica II",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Elementos de Engenharia Qu\u00edmica II",
+                    "sigla": "EEQ II",
+                    "tipo": "TP",
+                    "turma": "Q2Q01",
+                    "turmac": "Q2Q01",
+                    "duracao": "3",
+                    "sala": "B113",
+                    "profsig": "MEM",
+                    "prof": "Maria Eug\u00e9nia Macedo"
+                },
+                {
+                    "dia": 3,
+                    "hora": 16.5,
+                    "nome": "Elementos de Engenharia Qu\u00edmica II",
+                    "sigla": "EEQ II",
+                    "tipo": "TP",
+                    "turma": "Q2Q02",
+                    "turmac": "Q2Q02",
+                    "duracao": "3",
+                    "sala": "B318",
+                    "profsig": "MEM",
+                    "prof": "Maria Eug\u00e9nia Macedo"
+                }
+            ]
+        },
+        "FT I": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 13.5,
+                    "nome": "Fen\u00f3menos de Transfer\u00eancia I",
+                    "sigla": "FT I",
+                    "tipo": "TP",
+                    "turma": "Q2Q01",
+                    "turmac": "COMP_720",
+                    "duracao": "3",
+                    "sala": "B002",
+                    "profsig": "ARP+JBC",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "Fen\u00f3menos de Transfer\u00eancia I",
+                    "sigla": "FT I",
+                    "tipo": "TP",
+                    "turma": "Q2Q01",
+                    "turmac": "COMP_720",
+                    "duracao": "3",
+                    "sala": "B001",
+                    "profsig": "ARP+JBC",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Fen\u00f3menos de Transfer\u00eancia I",
+                    "sigla": "FT I",
+                    "tipo": "TP",
+                    "turma": "Q2Q01",
+                    "turmac": "COMP_720",
+                    "duracao": "2",
+                    "sala": "B001",
+                    "profsig": "ARP+JBC",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 13.5,
+                    "nome": "Fen\u00f3menos de Transfer\u00eancia I",
+                    "sigla": "FT I",
+                    "tipo": "TP",
+                    "turma": "Q2Q02",
+                    "turmac": "COMP_720",
+                    "duracao": "3",
+                    "sala": "B002",
+                    "profsig": "ARP+JBC",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "Fen\u00f3menos de Transfer\u00eancia I",
+                    "sigla": "FT I",
+                    "tipo": "TP",
+                    "turma": "Q2Q02",
+                    "turmac": "COMP_720",
+                    "duracao": "3",
+                    "sala": "B001",
+                    "profsig": "ARP+JBC",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Fen\u00f3menos de Transfer\u00eancia I",
+                    "sigla": "FT I",
+                    "tipo": "TP",
+                    "turma": "Q2Q02",
+                    "turmac": "COMP_720",
+                    "duracao": "2",
+                    "sala": "B001",
+                    "profsig": "ARP+JBC",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 13.5,
+                    "nome": "Fen\u00f3menos de Transfer\u00eancia I",
+                    "sigla": "FT I",
+                    "tipo": "TP",
+                    "turma": "Q2Q03",
+                    "turmac": "COMP_720",
+                    "duracao": "3",
+                    "sala": "B002",
+                    "profsig": "ARP+JBC",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "Fen\u00f3menos de Transfer\u00eancia I",
+                    "sigla": "FT I",
+                    "tipo": "TP",
+                    "turma": "Q2Q03",
+                    "turmac": "COMP_720",
+                    "duracao": "3",
+                    "sala": "B001",
+                    "profsig": "ARP+JBC",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Fen\u00f3menos de Transfer\u00eancia I",
+                    "sigla": "FT I",
+                    "tipo": "TP",
+                    "turma": "Q2Q03",
+                    "turmac": "COMP_720",
+                    "duracao": "2",
+                    "sala": "B001",
+                    "profsig": "ARP+JBC",
+                    "prof": null
+                }
+            ],
+            "nome": "Fen\u00f3menos de Transfer\u00eancia I"
+        },
+        "F II": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "F\u00edsica II",
+                    "sigla": "F II",
+                    "tipo": "TP",
+                    "turma": "Q2Q01",
+                    "turmac": "COMP_720",
+                    "duracao": "3",
+                    "sala": "B035",
+                    "profsig": "LMM",
+                    "prof": "Lu\u00eds Miguel Martelo"
+                },
+                {
+                    "dia": 4,
+                    "hora": 15,
+                    "nome": "F\u00edsica II",
+                    "sigla": "F II",
+                    "tipo": "TP",
+                    "turma": "Q2Q01",
+                    "turmac": "COMP_720",
+                    "duracao": "2",
+                    "sala": "B014",
+                    "profsig": "LMM",
+                    "prof": "Lu\u00eds Miguel Martelo"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "F\u00edsica II",
+                    "sigla": "F II",
+                    "tipo": "TP",
+                    "turma": "Q2Q02",
+                    "turmac": "COMP_720",
+                    "duracao": "3",
+                    "sala": "B035",
+                    "profsig": "LMM",
+                    "prof": "Lu\u00eds Miguel Martelo"
+                },
+                {
+                    "dia": 4,
+                    "hora": 15,
+                    "nome": "F\u00edsica II",
+                    "sigla": "F II",
+                    "tipo": "TP",
+                    "turma": "Q2Q02",
+                    "turmac": "COMP_720",
+                    "duracao": "2",
+                    "sala": "B014",
+                    "profsig": "LMM",
+                    "prof": "Lu\u00eds Miguel Martelo"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "F\u00edsica II",
+                    "sigla": "F II",
+                    "tipo": "TP",
+                    "turma": "Q2Q03",
+                    "turmac": "COMP_720",
+                    "duracao": "3",
+                    "sala": "B035",
+                    "profsig": "LMM",
+                    "prof": "Lu\u00eds Miguel Martelo"
+                },
+                {
+                    "dia": 4,
+                    "hora": 15,
+                    "nome": "F\u00edsica II",
+                    "sigla": "F II",
+                    "tipo": "TP",
+                    "turma": "Q2Q03",
+                    "turmac": "COMP_720",
+                    "duracao": "2",
+                    "sala": "B014",
+                    "profsig": "LMM",
+                    "prof": "Lu\u00eds Miguel Martelo"
+                }
+            ],
+            "nome": "F\u00edsica II",
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 17,
+                    "nome": "F\u00edsica II",
+                    "sigla": "F II",
+                    "tipo": "PL",
+                    "turma": "Q2Q01",
+                    "turmac": "Q2Q01",
+                    "duracao": "2",
+                    "sala": "B101",
+                    "profsig": "LMM",
+                    "prof": "Lu\u00eds Miguel Martelo"
+                },
+                {
+                    "dia": 5,
+                    "hora": 15.5,
+                    "nome": "F\u00edsica II",
+                    "sigla": "F II",
+                    "tipo": "PL",
+                    "turma": "Q2Q02",
+                    "turmac": "Q2Q02",
+                    "duracao": "2",
+                    "sala": "B109",
+                    "profsig": "PAS",
+                    "prof": "Paulo S\u00e1"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14.5,
+                    "nome": "F\u00edsica II",
+                    "sigla": "F II",
+                    "tipo": "PL",
+                    "turma": "Q2Q03",
+                    "turmac": "Q2Q03",
+                    "duracao": "2",
+                    "sala": "B335",
+                    "profsig": "PAS",
+                    "prof": "Paulo S\u00e1"
+                }
+            ]
+        },
+        "MAEQ": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 15,
+                    "nome": "Matem\u00e1tica Aplicada \u00e0 Engenharia Qu\u00edmica",
+                    "sigla": "MAEQ",
+                    "tipo": "TP",
+                    "turma": "Q2Q01",
+                    "turmac": "COMP_720",
+                    "duracao": "2",
+                    "sala": "B029",
+                    "profsig": "MJP",
+                    "prof": "Maria Joana Peres"
+                },
+                {
+                    "dia": 3,
+                    "hora": 15,
+                    "nome": "Matem\u00e1tica Aplicada \u00e0 Engenharia Qu\u00edmica",
+                    "sigla": "MAEQ",
+                    "tipo": "TP",
+                    "turma": "Q2Q01",
+                    "turmac": "COMP_720",
+                    "duracao": "3",
+                    "sala": "B020",
+                    "profsig": "MJP",
+                    "prof": "Maria Joana Peres"
+                },
+                {
+                    "dia": 2,
+                    "hora": 15,
+                    "nome": "Matem\u00e1tica Aplicada \u00e0 Engenharia Qu\u00edmica",
+                    "sigla": "MAEQ",
+                    "tipo": "TP",
+                    "turma": "Q2Q02",
+                    "turmac": "COMP_720",
+                    "duracao": "2",
+                    "sala": "B029",
+                    "profsig": "MJP",
+                    "prof": "Maria Joana Peres"
+                },
+                {
+                    "dia": 3,
+                    "hora": 15,
+                    "nome": "Matem\u00e1tica Aplicada \u00e0 Engenharia Qu\u00edmica",
+                    "sigla": "MAEQ",
+                    "tipo": "TP",
+                    "turma": "Q2Q02",
+                    "turmac": "COMP_720",
+                    "duracao": "3",
+                    "sala": "B020",
+                    "profsig": "MJP",
+                    "prof": "Maria Joana Peres"
+                },
+                {
+                    "dia": 2,
+                    "hora": 15,
+                    "nome": "Matem\u00e1tica Aplicada \u00e0 Engenharia Qu\u00edmica",
+                    "sigla": "MAEQ",
+                    "tipo": "TP",
+                    "turma": "Q2Q03",
+                    "turmac": "COMP_720",
+                    "duracao": "2",
+                    "sala": "B029",
+                    "profsig": "MJP",
+                    "prof": "Maria Joana Peres"
+                },
+                {
+                    "dia": 3,
+                    "hora": 15,
+                    "nome": "Matem\u00e1tica Aplicada \u00e0 Engenharia Qu\u00edmica",
+                    "sigla": "MAEQ",
+                    "tipo": "TP",
+                    "turma": "Q2Q03",
+                    "turmac": "COMP_720",
+                    "duracao": "3",
+                    "sala": "B020",
+                    "profsig": "MJP",
+                    "prof": "Maria Joana Peres"
+                }
+            ],
+            "nome": "Matem\u00e1tica Aplicada \u00e0 Engenharia Qu\u00edmica",
+            "PL": [
+                {
+                    "dia": 5,
+                    "hora": 15.5,
+                    "nome": "Matem\u00e1tica Aplicada \u00e0 Engenharia Qu\u00edmica",
+                    "sigla": "MAEQ",
+                    "tipo": "PL",
+                    "turma": "Q2Q01",
+                    "turmac": "Q2Q01",
+                    "duracao": "3",
+                    "sala": "B201",
+                    "profsig": "MJP",
+                    "prof": "Maria Joana Peres"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Matem\u00e1tica Aplicada \u00e0 Engenharia Qu\u00edmica",
+                    "sigla": "MAEQ",
+                    "tipo": "PL",
+                    "turma": "Q2Q02",
+                    "turmac": "Q2Q02",
+                    "duracao": "3",
+                    "sala": "B304",
+                    "profsig": "MJP",
+                    "prof": "Maria Joana Peres"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Matem\u00e1tica Aplicada \u00e0 Engenharia Qu\u00edmica",
+                    "sigla": "MAEQ",
+                    "tipo": "PL",
+                    "turma": "Q2Q03",
+                    "turmac": "Q2Q03",
+                    "duracao": "3",
+                    "sala": "B301",
+                    "profsig": "MJP",
+                    "prof": "Maria Joana Peres"
+                }
+            ]
+        }
+    },
+    "3\u00ba Ano": {
+        "PEQ II": {
+            "PL": [
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Pr\u00e1ticas de Engenharia Qu\u00edmica II",
+                    "sigla": "PEQ II",
+                    "tipo": "PL",
+                    "turma": "Q3PEQII01",
+                    "turmac": "Q3PEQII01",
+                    "duracao": "6",
+                    "sala": "E004",
+                    "profsig": "MANC",
+                    "prof": "Manuel Neto Coelho"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Pr\u00e1ticas de Engenharia Qu\u00edmica II",
+                    "sigla": "PEQ II",
+                    "tipo": "PL",
+                    "turma": "Q3PEQII02",
+                    "turmac": "Q3PEQII02",
+                    "duracao": "6",
+                    "sala": "E004",
+                    "profsig": "MANC",
+                    "prof": "Manuel Neto Coelho"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Pr\u00e1ticas de Engenharia Qu\u00edmica II",
+                    "sigla": "PEQ II",
+                    "tipo": "PL",
+                    "turma": "Q3PEQII03",
+                    "turmac": "Q3PEQII03",
+                    "duracao": "6",
+                    "sala": "E004",
+                    "profsig": "MANC",
+                    "prof": "Manuel Neto Coelho"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Pr\u00e1ticas de Engenharia Qu\u00edmica II",
+                    "sigla": "PEQ II",
+                    "tipo": "PL",
+                    "turma": "Q3PEQII04",
+                    "turmac": "Q3PEQII04",
+                    "duracao": "6",
+                    "sala": "E004",
+                    "profsig": "MMA",
+                    "prof": "Manuel Alves"
+                }
+            ],
+            "nome": "Pr\u00e1ticas de Engenharia Qu\u00edmica II",
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 10.5,
+                    "nome": "Pr\u00e1ticas de Engenharia Qu\u00edmica II",
+                    "sigla": "PEQ II",
+                    "tipo": "TP",
+                    "turma": "Q3Q01",
+                    "turmac": "Q3Q01",
+                    "duracao": "4",
+                    "sala": "B013",
+                    "profsig": "DPU",
+                    "prof": "Diana Urbano"
+                }
+            ]
+        },
+        "OP": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 8.5,
+                    "nome": "Opera\u00e7\u00f5es de Transfer\u00eancia",
+                    "sigla": "OP",
+                    "tipo": "TP",
+                    "turma": "Q3Q01",
+                    "turmac": "Q3Q01",
+                    "duracao": "3",
+                    "sala": "B014",
+                    "profsig": "JBC",
+                    "prof": "Jo\u00e3o Campos"
+                },
+                {
+                    "dia": 1,
+                    "hora": 10,
+                    "nome": "Opera\u00e7\u00f5es de Transfer\u00eancia",
+                    "sigla": "OP",
+                    "tipo": "TP",
+                    "turma": "Q3Q01",
+                    "turmac": "Q3Q01",
+                    "duracao": "3",
+                    "sala": "B026",
+                    "profsig": "JBC",
+                    "prof": "Jo\u00e3o Campos"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11.5,
+                    "nome": "Opera\u00e7\u00f5es de Transfer\u00eancia",
+                    "sigla": "OP",
+                    "tipo": "TP",
+                    "turma": "Q3Q01",
+                    "turmac": "Q3Q01",
+                    "duracao": "2",
+                    "sala": "B013",
+                    "profsig": "JBC",
+                    "prof": "Jo\u00e3o Campos"
+                }
+            ],
+            "nome": "Opera\u00e7\u00f5es de Transfer\u00eancia"
+        },
+        "QFS": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Qu\u00edmica-F\u00edsica das Superf\u00edcies",
+                    "sigla": "QFS",
+                    "tipo": "TP",
+                    "turma": "Q3Q01",
+                    "turmac": "Q3Q01",
+                    "duracao": "3",
+                    "sala": "B035",
+                    "profsig": "JMO",
+                    "prof": "Jos\u00e9 \u00d3rf\u00e3o"
+                }
+            ],
+            "nome": "Qu\u00edmica-F\u00edsica das Superf\u00edcies",
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Qu\u00edmica-F\u00edsica das Superf\u00edcies",
+                    "sigla": "QFS",
+                    "tipo": "T",
+                    "turma": "Q3Q01",
+                    "turmac": "Q3Q01",
+                    "duracao": "4",
+                    "sala": "B013",
+                    "profsig": "JMO",
+                    "prof": "Jos\u00e9 \u00d3rf\u00e3o"
+                }
+            ]
+        },
+        "ER II": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Engenharia das Rea\u00e7\u00f5es II",
+                    "sigla": "ER II",
+                    "tipo": "TP",
+                    "turma": "Q3Q01",
+                    "turmac": "Q3Q01",
+                    "duracao": "2",
+                    "sala": "B026",
+                    "profsig": "JML",
+                    "prof": "Jos\u00e9 Miguel Loureiro"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Engenharia das Rea\u00e7\u00f5es II",
+                    "sigla": "ER II",
+                    "tipo": "TP",
+                    "turma": "Q3Q01",
+                    "turmac": "Q3Q01",
+                    "duracao": "3",
+                    "sala": "B029",
+                    "profsig": "JML",
+                    "prof": "Jos\u00e9 Miguel Loureiro"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11.5,
+                    "nome": "Engenharia das Rea\u00e7\u00f5es II",
+                    "sigla": "ER II",
+                    "tipo": "TP",
+                    "turma": "Q3Q01",
+                    "turmac": "Q3Q01",
+                    "duracao": "3",
+                    "sala": "B035",
+                    "profsig": "AMR",
+                    "prof": "Ana Ribeiro"
+                }
+            ],
+            "nome": "Engenharia das Rea\u00e7\u00f5es II"
+        },
+        "PS II": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "Processos Separa\u00e7\u00e3o II",
+                    "sigla": "PS II",
+                    "tipo": "TP",
+                    "turma": "Q3Q01",
+                    "turmac": "Q3Q01",
+                    "duracao": "3",
+                    "sala": "B035",
+                    "profsig": "AMR",
+                    "prof": "Ana Ribeiro"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Processos Separa\u00e7\u00e3o II",
+                    "sigla": "PS II",
+                    "tipo": "TP",
+                    "turma": "Q3Q01",
+                    "turmac": "Q3Q01",
+                    "duracao": "3",
+                    "sala": "B029",
+                    "profsig": "JML",
+                    "prof": "Jos\u00e9 Miguel Loureiro"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11.5,
+                    "nome": "Processos Separa\u00e7\u00e3o II",
+                    "sigla": "PS II",
+                    "tipo": "TP",
+                    "turma": "Q3Q01",
+                    "turmac": "Q3Q01",
+                    "duracao": "3",
+                    "sala": "B026",
+                    "profsig": "JML",
+                    "prof": "Jos\u00e9 Miguel Loureiro"
+                }
+            ],
+            "nome": "Processos Separa\u00e7\u00e3o II"
+        }
+    },
+    "4\u00ba Ano": {
+        "EBIO": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Engenharia de Biorrecursos",
+                    "sigla": "EBIO",
+                    "tipo": "TP",
+                    "turma": "Q4_BIO",
+                    "turmac": "COMP_173",
+                    "duracao": "3",
+                    "sala": "B115",
+                    "profsig": "MJVS",
+                    "prof": "Manuel Sim\u00f5es"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Engenharia de Biorrecursos",
+                    "sigla": "EBIO",
+                    "tipo": "TP",
+                    "turma": "Q4_BIO",
+                    "turmac": "COMP_173",
+                    "duracao": "3",
+                    "sala": "B326",
+                    "profsig": "MJVS",
+                    "prof": "Manuel Sim\u00f5es"
+                }
+            ],
+            "nome": "Engenharia de Biorrecursos"
+        },
+        "ENGP": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "Engenharia de Prote\u00ednas",
+                    "sigla": "ENGP",
+                    "tipo": "TP",
+                    "turma": "Q4_BIO",
+                    "turmac": "COMP_173",
+                    "duracao": "3",
+                    "sala": "B115",
+                    "profsig": "FJMM",
+                    "prof": "Filipe Mergulh\u00e3o"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Engenharia de Prote\u00ednas",
+                    "sigla": "ENGP",
+                    "tipo": "TP",
+                    "turma": "Q4_BIO",
+                    "turmac": "COMP_173",
+                    "duracao": "3",
+                    "sala": "B009",
+                    "profsig": "FJMM",
+                    "prof": "Filipe Mergulh\u00e3o"
+                }
+            ],
+            "nome": "Engenharia de Prote\u00ednas"
+        },
+        "EENZ": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 11.5,
+                    "nome": "Engenharia Enzim\u00e1tica",
+                    "sigla": "EENZ",
+                    "tipo": "TP",
+                    "turma": "Q4_BIO",
+                    "turmac": "COMP_173",
+                    "duracao": "3",
+                    "sala": "B115",
+                    "profsig": "FXDDAM",
+                    "prof": "Francisco Malcata"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Engenharia Enzim\u00e1tica",
+                    "sigla": "EENZ",
+                    "tipo": "TP",
+                    "turma": "Q4_BIO",
+                    "turmac": "COMP_173",
+                    "duracao": "3",
+                    "sala": "B318",
+                    "profsig": "FXDDAM",
+                    "prof": "Francisco Malcata"
+                }
+            ],
+            "nome": "Engenharia Enzim\u00e1tica"
+        },
+        "IPE": {
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 13.5,
+                    "nome": "Introdu\u00e7\u00e3o ao Projeto de Engenharia",
+                    "sigla": "IPE",
+                    "tipo": "PL",
+                    "turma": "Q4_BIO",
+                    "turmac": "COMP_1533",
+                    "duracao": "4",
+                    "sala": "B308",
+                    "profsig": "DGB+FGM",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 13.5,
+                    "nome": "Introdu\u00e7\u00e3o ao Projeto de Engenharia",
+                    "sigla": "IPE",
+                    "tipo": "PL",
+                    "turma": "Q4_EA",
+                    "turmac": "COMP_1533",
+                    "duracao": "4",
+                    "sala": "B308",
+                    "profsig": "DGB+FGM",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "Introdu\u00e7\u00e3o ao Projeto de Engenharia",
+                    "sigla": "IPE",
+                    "tipo": "PL",
+                    "turma": "Q4_PP",
+                    "turmac": "Q4_PP",
+                    "duracao": "4",
+                    "sala": "B308",
+                    "profsig": "DGB+FGM",
+                    "prof": null
+                }
+            ],
+            "nome": "Introdu\u00e7\u00e3o ao Projeto de Engenharia",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Introdu\u00e7\u00e3o ao Projeto de Engenharia",
+                    "sigla": "IPE",
+                    "tipo": "TP",
+                    "turma": "Q4_BIO",
+                    "turmac": "COMP_628",
+                    "duracao": "4",
+                    "sala": "B017",
+                    "profsig": "DGB+FGM",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Introdu\u00e7\u00e3o ao Projeto de Engenharia",
+                    "sigla": "IPE",
+                    "tipo": "TP",
+                    "turma": "Q4_EA",
+                    "turmac": "COMP_628",
+                    "duracao": "4",
+                    "sala": "B017",
+                    "profsig": "DGB+FGM",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Introdu\u00e7\u00e3o ao Projeto de Engenharia",
+                    "sigla": "IPE",
+                    "tipo": "TP",
+                    "turma": "Q4_PP",
+                    "turmac": "COMP_628",
+                    "duracao": "4",
+                    "sala": "B017",
+                    "profsig": "DGB+FGM",
+                    "prof": null
+                }
+            ]
+        },
+        "DCP": {
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "Din\u00e2mica e Controlo de Processos",
+                    "sigla": "DCP",
+                    "tipo": "PL",
+                    "turma": "Q4_BIO",
+                    "turmac": "COMP_1533",
+                    "duracao": "4",
+                    "sala": "B201",
+                    "profsig": "MRPFNC+JML",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "Din\u00e2mica e Controlo de Processos",
+                    "sigla": "DCP",
+                    "tipo": "PL",
+                    "turma": "Q4_EA",
+                    "turmac": "COMP_1533",
+                    "duracao": "4",
+                    "sala": "B201",
+                    "profsig": "MRPFNC+JML",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 13.5,
+                    "nome": "Din\u00e2mica e Controlo de Processos",
+                    "sigla": "DCP",
+                    "tipo": "PL",
+                    "turma": "Q4_PP",
+                    "turmac": "Q4_PP",
+                    "duracao": "4",
+                    "sala": "B201",
+                    "profsig": "MRPFNC+JML",
+                    "prof": null
+                }
+            ],
+            "nome": "Din\u00e2mica e Controlo de Processos",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 17.5,
+                    "nome": "Din\u00e2mica e Controlo de Processos",
+                    "sigla": "DCP",
+                    "tipo": "TP",
+                    "turma": "Q4_BIO",
+                    "turmac": "COMP_628",
+                    "duracao": "3",
+                    "sala": "B017",
+                    "profsig": "MRPFNC+JML",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 17.5,
+                    "nome": "Din\u00e2mica e Controlo de Processos",
+                    "sigla": "DCP",
+                    "tipo": "TP",
+                    "turma": "Q4_BIO",
+                    "turmac": "COMP_628",
+                    "duracao": "3",
+                    "sala": "B026",
+                    "profsig": "MRPFNC+JML",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 17.5,
+                    "nome": "Din\u00e2mica e Controlo de Processos",
+                    "sigla": "DCP",
+                    "tipo": "TP",
+                    "turma": "Q4_EA",
+                    "turmac": "COMP_628",
+                    "duracao": "3",
+                    "sala": "B017",
+                    "profsig": "MRPFNC+JML",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 17.5,
+                    "nome": "Din\u00e2mica e Controlo de Processos",
+                    "sigla": "DCP",
+                    "tipo": "TP",
+                    "turma": "Q4_EA",
+                    "turmac": "COMP_628",
+                    "duracao": "3",
+                    "sala": "B026",
+                    "profsig": "MRPFNC+JML",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 17.5,
+                    "nome": "Din\u00e2mica e Controlo de Processos",
+                    "sigla": "DCP",
+                    "tipo": "TP",
+                    "turma": "Q4_PP",
+                    "turmac": "COMP_628",
+                    "duracao": "3",
+                    "sala": "B017",
+                    "profsig": "MRPFNC+JML",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 17.5,
+                    "nome": "Din\u00e2mica e Controlo de Processos",
+                    "sigla": "DCP",
+                    "tipo": "TP",
+                    "turma": "Q4_PP",
+                    "turmac": "COMP_628",
+                    "duracao": "3",
+                    "sala": "B026",
+                    "profsig": "MRPFNC+JML",
+                    "prof": null
+                }
+            ]
+        },
+        "ENR II": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 13.5,
+                    "nome": "Energias Renov\u00e1veis II",
+                    "sigla": "ENR II",
+                    "tipo": "TP",
+                    "turma": "Q4_EA",
+                    "turmac": "Q4_EA",
+                    "duracao": "4",
+                    "sala": "B021",
+                    "profsig": "ARP+VSBO",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 13.5,
+                    "nome": "Energias Renov\u00e1veis II",
+                    "sigla": "ENR II",
+                    "tipo": "TP",
+                    "turma": "Q4_EA",
+                    "turmac": "Q4_EA",
+                    "duracao": "4",
+                    "sala": "B021",
+                    "profsig": "ARP+VSBO",
+                    "prof": null
+                }
+            ],
+            "nome": "Energias Renov\u00e1veis II"
+        },
+        "TSTRS": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "Tecnologia e Sistemas de Tratamento de Res\u00edduos S\u00f3lidos",
+                    "sigla": "TSTRS",
+                    "tipo": "TP",
+                    "turma": "Q4_EA",
+                    "turmac": "Q4_EA",
+                    "duracao": "4",
+                    "sala": "B021",
+                    "profsig": "FP",
+                    "prof": "Fernando Pereira"
+                },
+                {
+                    "dia": 5,
+                    "hora": 15.5,
+                    "nome": "Tecnologia e Sistemas de Tratamento de Res\u00edduos S\u00f3lidos",
+                    "sigla": "TSTRS",
+                    "tipo": "TP",
+                    "turma": "Q4_EA",
+                    "turmac": "Q4_EA",
+                    "duracao": "4",
+                    "sala": "B021",
+                    "profsig": "FP",
+                    "prof": "Fernando Pereira"
+                }
+            ],
+            "nome": "Tecnologia e Sistemas de Tratamento de Res\u00edduos S\u00f3lidos"
+        },
+        "EOP": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 13.5,
+                    "nome": "Estrat\u00e9gia e Otimiza\u00e7\u00e3o de Processos",
+                    "sigla": "EOP",
+                    "tipo": "TP",
+                    "turma": "Q4_EOPE",
+                    "turmac": "COMP_632",
+                    "duracao": "3",
+                    "sala": "B028",
+                    "profsig": "RRS",
+                    "prof": "Romualdo Salcedo"
+                },
+                {
+                    "dia": 3,
+                    "hora": 16,
+                    "nome": "Estrat\u00e9gia e Otimiza\u00e7\u00e3o de Processos",
+                    "sigla": "EOP",
+                    "tipo": "TP",
+                    "turma": "Q4_EOPE",
+                    "turmac": "COMP_632",
+                    "duracao": "3",
+                    "sala": "B027",
+                    "profsig": "RRS",
+                    "prof": "Romualdo Salcedo"
+                },
+                {
+                    "dia": 5,
+                    "hora": 13.5,
+                    "nome": "Estrat\u00e9gia e Otimiza\u00e7\u00e3o de Processos",
+                    "sigla": "EOP",
+                    "tipo": "TP",
+                    "turma": "Q4_PP",
+                    "turmac": "COMP_632",
+                    "duracao": "3",
+                    "sala": "B028",
+                    "profsig": "RRS",
+                    "prof": "Romualdo Salcedo"
+                },
+                {
+                    "dia": 3,
+                    "hora": 16,
+                    "nome": "Estrat\u00e9gia e Otimiza\u00e7\u00e3o de Processos",
+                    "sigla": "EOP",
+                    "tipo": "TP",
+                    "turma": "Q4_PP",
+                    "turmac": "COMP_632",
+                    "duracao": "3",
+                    "sala": "B027",
+                    "profsig": "RRS",
+                    "prof": "Romualdo Salcedo"
+                }
+            ],
+            "nome": "Estrat\u00e9gia e Otimiza\u00e7\u00e3o de Processos",
+            "PL": [
+                {
+                    "dia": 5,
+                    "hora": 16.5,
+                    "nome": "Estrat\u00e9gia e Otimiza\u00e7\u00e3o de Processos",
+                    "sigla": "EOP",
+                    "tipo": "PL",
+                    "turma": "Q4_EOPE",
+                    "turmac": "Q4_EOPE",
+                    "duracao": "3",
+                    "sala": "B203",
+                    "profsig": "RRS",
+                    "prof": "Romualdo Salcedo"
+                },
+                {
+                    "dia": 5,
+                    "hora": 15,
+                    "nome": "Estrat\u00e9gia e Otimiza\u00e7\u00e3o de Processos",
+                    "sigla": "EOP",
+                    "tipo": "PL",
+                    "turma": "Q4_PP",
+                    "turmac": "Q4_PP",
+                    "duracao": "3",
+                    "sala": "B203",
+                    "profsig": "RRS",
+                    "prof": "Romualdo Salcedo"
+                }
+            ]
+        },
+        "II I": {
+            "PL": [
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Inform\u00e1tica Industrial I",
+                    "sigla": "II I",
+                    "tipo": "PL",
+                    "turma": "Q4_III",
+                    "turmac": "Q4_III",
+                    "duracao": "8",
+                    "sala": "B306",
+                    "profsig": "MMD+RJNS",
+                    "prof": null
+                }
+            ],
+            "nome": "Inform\u00e1tica Industrial I"
+        },
+        "MP I": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 8.5,
+                    "nome": "Materiais Polim\u00e9ricos I",
+                    "sigla": "MP I",
+                    "tipo": "TP",
+                    "turma": "Q4_MPI",
+                    "turmac": "Q4_MPI",
+                    "duracao": "8",
+                    "sala": "B016",
+                    "profsig": "FDM+DocDEQ1_S2",
+                    "prof": null
+                }
+            ],
+            "nome": "Materiais Polim\u00e9ricos I"
+        },
+        "PEQ IV": {
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Pr\u00e1ticas de Engenharia Qu\u00edmica IV",
+                    "sigla": "PEQ IV",
+                    "tipo": "PL",
+                    "turma": "Q4PEQIV01",
+                    "turmac": "Q4PEQIV01",
+                    "duracao": "6",
+                    "sala": "E006",
+                    "profsig": "LMM",
+                    "prof": "Lu\u00eds Madeira"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9.5,
+                    "nome": "Pr\u00e1ticas de Engenharia Qu\u00edmica IV",
+                    "sigla": "PEQ IV",
+                    "tipo": "PL",
+                    "turma": "Q4PEQIV02",
+                    "turmac": "Q4PEQIV02",
+                    "duracao": "6",
+                    "sala": "E006",
+                    "profsig": "FAR",
+                    "prof": "Fernando Rocha"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9.5,
+                    "nome": "Pr\u00e1ticas de Engenharia Qu\u00edmica IV",
+                    "sigla": "PEQ IV",
+                    "tipo": "PL",
+                    "turma": "Q4PEQIV03",
+                    "turmac": "Q4PEQIV03",
+                    "duracao": "6",
+                    "sala": "E006",
+                    "profsig": "FAR",
+                    "prof": "Fernando Rocha"
+                }
+            ],
+            "nome": "Pr\u00e1ticas de Engenharia Qu\u00edmica IV"
+        },
+        "RPP": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 8.5,
+                    "nome": "Refina\u00e7\u00e3o de Petr\u00f3leos e Petroqu\u00edmica",
+                    "sigla": "RPP",
+                    "tipo": "TP",
+                    "turma": "Q4_RPP",
+                    "turmac": "Q4_RPP",
+                    "duracao": "8",
+                    "sala": "B034",
+                    "profsig": "FGM+MLT",
+                    "prof": null
+                }
+            ],
+            "nome": "Refina\u00e7\u00e3o de Petr\u00f3leos e Petroqu\u00edmica"
+        }
+    }
+}
