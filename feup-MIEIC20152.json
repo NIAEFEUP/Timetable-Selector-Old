@@ -2943,8 +2943,13 @@
                     "turmac": "3MIEIC01",
                     "duracao": "2",
                     "sala": "B305",
+<<<<<<< HEAD
                     "profsig": "APR",
                     "prof": "Ana Paula Rocha"
+=======
+                    "profsig": "HLC",
+                    "prof": "Henrique Lopes Cardoso"
+>>>>>>> origin/master
                 },
                 {
                     "dia": 4,
@@ -2982,8 +2987,13 @@
                     "turmac": "3MIEIC04",
                     "duracao": "2",
                     "sala": "B308",
+<<<<<<< HEAD
                     "profsig": "APR",
                     "prof": "Ana Paula Rocha"
+=======
+                    "profsig": "HLC",
+                    "prof": "Henrique Lopes Cardoso"
+>>>>>>> origin/master
                 },
                 {
                     "dia": 2,
@@ -2995,8 +3005,13 @@
                     "turmac": "3MIEIC05",
                     "duracao": "2",
                     "sala": "B206",
+<<<<<<< HEAD
                     "profsig": "HLC",
                     "prof": "Henrique Lopes Cardoso"
+=======
+                    "profsig": "APR",
+                    "prof": "Ana Paula Rocha"
+>>>>>>> origin/master
                 },
                 {
                     "dia": 5,
@@ -3008,8 +3023,13 @@
                     "turmac": "3MIEIC06",
                     "duracao": "2",
                     "sala": "B202",
+<<<<<<< HEAD
                     "profsig": "HLC",
                     "prof": "Henrique Lopes Cardoso"
+=======
+                    "profsig": "APR",
+                    "prof": "Ana Paula Rocha"
+>>>>>>> origin/master
                 }
             ]
         },
@@ -3515,7 +3535,11 @@
                     "turma": "4MIEIC01",
                     "turmac": "4MIEIC01",
                     "duracao": "6",
+<<<<<<< HEAD
                     "sala": "B012+B207",
+=======
+                    "sala": "B207",
+>>>>>>> origin/master
                     "profsig": "JCL",
                     "prof": "Jo\u00e3o Correia Lopes"
                 }
@@ -3540,11 +3564,16 @@
             ],
             "nome": "Desenvolvimento de Jogos de Computador"
         },
+<<<<<<< HEAD
         "ASSO": {
+=======
+        "ERSS": {
+>>>>>>> origin/master
             "TP": [
                 {
                     "dia": 2,
                     "hora": 9.5,
+<<<<<<< HEAD
                     "nome": "Arquitectura de Sistemas de Software",
                     "sigla": "ASSO",
                     "tipo": "TP",
@@ -3570,6 +3599,20 @@
                 }
             ],
             "nome": "Arquitectura de Sistemas de Software"
+=======
+                    "nome": "Engenharia de Requisitos de Sistemas de Software",
+                    "sigla": "ERSS",
+                    "tipo": "TP",
+                    "turma": "4MIEIC01",
+                    "turmac": "4MIEIC01",
+                    "duracao": "6",
+                    "sala": "B006",
+                    "profsig": "ALS",
+                    "prof": "Ant\u00f3nio Lucas Soares"
+                }
+            ],
+            "nome": "Engenharia de Requisitos de Sistemas de Software"
+>>>>>>> origin/master
         },
         "TBDA": {
             "TP": [
@@ -3589,11 +3632,16 @@
             ],
             "nome": "Tecnologias de Bases de Dados"
         },
+<<<<<<< HEAD
         "ERSS": {
+=======
+        "ASSO": {
+>>>>>>> origin/master
             "TP": [
                 {
                     "dia": 5,
                     "hora": 9.5,
+<<<<<<< HEAD
                     "nome": "Engenharia de Requisitos de Sistemas de Software",
                     "sigla": "ERSS",
                     "tipo": "TP",
@@ -3606,6 +3654,33 @@
                 }
             ],
             "nome": "Engenharia de Requisitos de Sistemas de Software"
+=======
+                    "nome": "Arquitectura de Sistemas de Software",
+                    "sigla": "ASSO",
+                    "tipo": "TP",
+                    "turma": "4MIEIC01",
+                    "turmac": "4MIEIC01",
+                    "duracao": "3",
+                    "sala": "B217",
+                    "profsig": "AMA",
+                    "prof": "Ademar Aguiar"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Arquitectura de Sistemas de Software",
+                    "sigla": "ASSO",
+                    "tipo": "TP",
+                    "turma": "4MIEIC01",
+                    "turmac": "4MIEIC01",
+                    "duracao": "3",
+                    "sala": "B217+B202",
+                    "profsig": "AMA",
+                    "prof": "Ademar Aguiar"
+                }
+            ],
+            "nome": "Arquitectura de Sistemas de Software"
+>>>>>>> origin/master
         },
         "MNSE": {
             "TP": [
@@ -3617,6 +3692,7 @@
                     "tipo": "TP",
                     "turma": "4MIEIC01",
                     "turmac": "4MIEIC01",
+<<<<<<< HEAD
                     "duracao": "3",
                     "sala": "B109",
                     "profsig": "EMC",
@@ -3631,6 +3707,9 @@
                     "turma": "4MIEIC01",
                     "turmac": "4MIEIC01",
                     "duracao": "3",
+=======
+                    "duracao": "6",
+>>>>>>> origin/master
                     "sala": "B107",
                     "profsig": "EMC",
                     "prof": "Eurico Carrapatoso"
