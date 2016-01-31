@@ -1,0 +1,606 @@
+{
+    "1\u00ba Ano": {
+        "FILA2": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "Filosofia Antiga II",
+                    "sigla": "FILA2",
+                    "tipo": "TP",
+                    "turma": "1LFILO01 ",
+                    "turmac": "1LFILO01",
+                    "duracao": "2",
+                    "sala": "G103",
+                    "profsig": "JFPM",
+                    "prof": "Jos\u00e9 Meirinhos"
+                },
+                {
+                    "dia": 1,
+                    "hora": 13.5,
+                    "nome": "Filosofia Antiga II",
+                    "sigla": "FILA2",
+                    "tipo": "TP",
+                    "turma": "1LFILO01 ",
+                    "turmac": "1LFILO01",
+                    "duracao": "4",
+                    "sala": "G302",
+                    "profsig": "JFPM",
+                    "prof": "Jos\u00e9 Meirinhos"
+                }
+            ],
+            "nome": "Filosofia Antiga II",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Filosofia Antiga II",
+                    "sigla": "FILA2",
+                    "tipo": "OT",
+                    "turma": "1LFILO01 ",
+                    "turmac": "1LFILO01",
+                    "duracao": "2",
+                    "sala": "G103",
+                    "profsig": "JFPM",
+                    "prof": "Jos\u00e9 Meirinhos"
+                }
+            ]
+        },
+        "FILCO2": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 10.5,
+                    "nome": "Filosofia do Conhecimento II",
+                    "sigla": "FILCO2",
+                    "tipo": "TP",
+                    "turma": "1LFILO01 ",
+                    "turmac": "1LFILO01",
+                    "duracao": "4",
+                    "sala": "G104",
+                    "profsig": "SGAMM",
+                    "prof": "Sofia Miguens"
+                },
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Filosofia do Conhecimento II",
+                    "sigla": "FILCO2",
+                    "tipo": "TP",
+                    "turma": "1LFILO01 ",
+                    "turmac": "1LFILO01",
+                    "duracao": "2",
+                    "sala": "306.A\/B",
+                    "profsig": "SGAMM",
+                    "prof": "Sofia Miguens"
+                }
+            ],
+            "nome": "Filosofia do Conhecimento II",
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 16.5,
+                    "nome": "Filosofia do Conhecimento II",
+                    "sigla": "FILCO2",
+                    "tipo": "OT",
+                    "turma": "1LFILO01 ",
+                    "turmac": "1LFILO01",
+                    "duracao": "2",
+                    "sala": "306.A\/B",
+                    "profsig": "SGAMM",
+                    "prof": "Sofia Miguens"
+                }
+            ]
+        },
+        "FILCP2": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 10.5,
+                    "nome": "Filosofia e Ci\u00eancia Pol\u00edtica II",
+                    "sigla": "FILCP2",
+                    "tipo": "TP",
+                    "turma": "1LFILO01 ",
+                    "turmac": "1LFILO01",
+                    "duracao": "2",
+                    "sala": "106.A\/B",
+                    "profsig": "LMCP",
+                    "prof": "L\u00eddia Pires"
+                },
+                {
+                    "dia": 3,
+                    "hora": 15.5,
+                    "nome": "Filosofia e Ci\u00eancia Pol\u00edtica II",
+                    "sigla": "FILCP2",
+                    "tipo": "TP",
+                    "turma": "1LFILO01 ",
+                    "turmac": "1LFILO01",
+                    "duracao": "4",
+                    "sala": "306.A\/B",
+                    "profsig": "LMCP",
+                    "prof": "L\u00eddia Pires"
+                }
+            ],
+            "nome": "Filosofia e Ci\u00eancia Pol\u00edtica II",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 11.5,
+                    "nome": "Filosofia e Ci\u00eancia Pol\u00edtica II",
+                    "sigla": "FILCP2",
+                    "tipo": "OT",
+                    "turma": "1LFILO01 ",
+                    "turmac": "1LFILO01",
+                    "duracao": "2",
+                    "sala": "106.A\/B",
+                    "profsig": "LMCP",
+                    "prof": "L\u00eddia Pires"
+                }
+            ]
+        },
+        "LOG2": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 17.5,
+                    "nome": "L\u00f3gica II",
+                    "sigla": "LOG2",
+                    "tipo": "TP",
+                    "turma": "1LFILO01 ",
+                    "turmac": "1LFILO01",
+                    "duracao": "4",
+                    "sala": "GA1",
+                    "profsig": "JAP",
+                    "prof": "Jo\u00e3o Alberto Pinto"
+                },
+                {
+                    "dia": 3,
+                    "hora": 17.5,
+                    "nome": "L\u00f3gica II",
+                    "sigla": "LOG2",
+                    "tipo": "TP",
+                    "turma": "1LFILO01 ",
+                    "turmac": "1LFILO01",
+                    "duracao": "2",
+                    "sala": "GA1",
+                    "profsig": "JAP",
+                    "prof": "Jo\u00e3o Alberto Pinto"
+                }
+            ],
+            "nome": "L\u00f3gica II",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 18.5,
+                    "nome": "L\u00f3gica II",
+                    "sigla": "LOG2",
+                    "tipo": "OT",
+                    "turma": "1LFILO01 ",
+                    "turmac": "1LFILO01",
+                    "duracao": "2",
+                    "sala": "GA1",
+                    "profsig": "JAP",
+                    "prof": "Jo\u00e3o Alberto Pinto"
+                }
+            ]
+        }
+    },
+    "2\u00ba Ano": {
+        "FC_II": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Filosofia das Ci\u00eancias II",
+                    "sigla": "FC_II",
+                    "tipo": "TP",
+                    "turma": "2LFILO01 ",
+                    "turmac": "2LFILO01",
+                    "duracao": "2",
+                    "sala": "G102",
+                    "profsig": "RBBR",
+                    "prof": "Rui Rom\u00e3o"
+                },
+                {
+                    "dia": 3,
+                    "hora": 10.5,
+                    "nome": "Filosofia das Ci\u00eancias II",
+                    "sigla": "FC_II",
+                    "tipo": "TP",
+                    "turma": "2LFILO01 ",
+                    "turmac": "2LFILO01",
+                    "duracao": "4",
+                    "sala": "G311",
+                    "profsig": "RBBR",
+                    "prof": "Rui Rom\u00e3o"
+                }
+            ],
+            "nome": "Filosofia das Ci\u00eancias II",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 9.5,
+                    "nome": "Filosofia das Ci\u00eancias II",
+                    "sigla": "FC_II",
+                    "tipo": "OT",
+                    "turma": "2LFILO01 ",
+                    "turmac": "2LFILO01",
+                    "duracao": "2",
+                    "sala": "G102",
+                    "profsig": "RBBR",
+                    "prof": "Rui Rom\u00e3o"
+                }
+            ]
+        },
+        "FMED2": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 10.5,
+                    "nome": "Filosofia Medieval II",
+                    "sigla": "FMED2",
+                    "tipo": "TP",
+                    "turma": "2LFILO01 ",
+                    "turmac": "2LFILO01",
+                    "duracao": "2",
+                    "sala": "G103",
+                    "profsig": "JFPM",
+                    "prof": "Jos\u00e9 Meirinhos"
+                },
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "Filosofia Medieval II",
+                    "sigla": "FMED2",
+                    "tipo": "TP",
+                    "turma": "2LFILO01 ",
+                    "turmac": "2LFILO01",
+                    "duracao": "4",
+                    "sala": "G303",
+                    "profsig": "JFPM",
+                    "prof": "Jos\u00e9 Meirinhos"
+                }
+            ],
+            "nome": "Filosofia Medieval II",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 11.5,
+                    "nome": "Filosofia Medieval II",
+                    "sigla": "FMED2",
+                    "tipo": "OT",
+                    "turma": "2LFILO01 ",
+                    "turmac": "2LFILO01",
+                    "duracao": "2",
+                    "sala": "G103",
+                    "profsig": "JFPM",
+                    "prof": "Jos\u00e9 Meirinhos"
+                }
+            ]
+        },
+        "EST2": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 10.5,
+                    "nome": "Est\u00e9tica II",
+                    "sigla": "EST2",
+                    "tipo": "TP",
+                    "turma": "2LFILO01 ",
+                    "turmac": "2LFILO01",
+                    "duracao": "2",
+                    "sala": "G302",
+                    "profsig": "MEMV",
+                    "prof": "Eugenia Vilela"
+                },
+                {
+                    "dia": 1,
+                    "hora": 13.5,
+                    "nome": "Est\u00e9tica II",
+                    "sigla": "EST2",
+                    "tipo": "TP",
+                    "turma": "2LFILO01 ",
+                    "turmac": "2LFILO01",
+                    "duracao": "4",
+                    "sala": "G303",
+                    "profsig": "MEMV",
+                    "prof": "Eugenia Vilela"
+                }
+            ],
+            "nome": "Est\u00e9tica II",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 11.5,
+                    "nome": "Est\u00e9tica II",
+                    "sigla": "EST2",
+                    "tipo": "OT",
+                    "turma": "2LFILO01 ",
+                    "turmac": "2LFILO01",
+                    "duracao": "2",
+                    "sala": "G302",
+                    "profsig": "MEMV",
+                    "prof": "Eugenia Vilela"
+                }
+            ]
+        },
+        "AFIL2": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Antropologia Filos\u00f3fica II",
+                    "sigla": "AFIL2",
+                    "tipo": "TP",
+                    "turma": "2LFILO01 ",
+                    "turmac": "2LFILO01",
+                    "duracao": "4",
+                    "sala": "306.A\/B",
+                    "profsig": "MJC",
+                    "prof": "Maria Couto"
+                },
+                {
+                    "dia": 4,
+                    "hora": 13.5,
+                    "nome": "Antropologia Filos\u00f3fica II",
+                    "sigla": "AFIL2",
+                    "tipo": "TP",
+                    "turma": "2LFILO01 ",
+                    "turmac": "2LFILO01",
+                    "duracao": "2",
+                    "sala": "G202",
+                    "profsig": "MJC",
+                    "prof": "Maria Couto"
+                }
+            ],
+            "nome": "Antropologia Filos\u00f3fica II",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 14.5,
+                    "nome": "Antropologia Filos\u00f3fica II",
+                    "sigla": "AFIL2",
+                    "tipo": "OT",
+                    "turma": "2LFILO01 ",
+                    "turmac": "2LFILO01",
+                    "duracao": "2",
+                    "sala": "G202",
+                    "profsig": "MJC",
+                    "prof": "Maria Couto"
+                }
+            ]
+        }
+    },
+    "3\u00ba Ano": {
+        "FILC2": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Filosofia Contempor\u00e2nea II",
+                    "sigla": "FILC2",
+                    "tipo": "TP",
+                    "turma": "3LFILO01 ",
+                    "turmac": "3LFILO01",
+                    "duracao": "4",
+                    "sala": "G311",
+                    "profsig": "RBBR",
+                    "prof": "Rui Rom\u00e3o"
+                },
+                {
+                    "dia": 3,
+                    "hora": 8.5,
+                    "nome": "Filosofia Contempor\u00e2nea II",
+                    "sigla": "FILC2",
+                    "tipo": "TP",
+                    "turma": "3LFILO01 ",
+                    "turmac": "3LFILO01",
+                    "duracao": "2",
+                    "sala": "G409",
+                    "profsig": "RBBR",
+                    "prof": "Rui Rom\u00e3o"
+                }
+            ],
+            "nome": "Filosofia Contempor\u00e2nea II",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 9.5,
+                    "nome": "Filosofia Contempor\u00e2nea II",
+                    "sigla": "FILC2",
+                    "tipo": "OT",
+                    "turma": "3LFILO01 ",
+                    "turmac": "3LFILO01",
+                    "duracao": "2",
+                    "sala": "G409",
+                    "profsig": "RBBR",
+                    "prof": "Rui Rom\u00e3o"
+                }
+            ]
+        },
+        "ETI2": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "\u00c9tica II",
+                    "sigla": "ETI2",
+                    "tipo": "TP",
+                    "turma": "3LFILO01 ",
+                    "turmac": "3LFILO01",
+                    "duracao": "4",
+                    "sala": "G111",
+                    "profsig": "LCGMA",
+                    "prof": "Lu\u00eds Ara\u00fajo"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10.5,
+                    "nome": "\u00c9tica II",
+                    "sigla": "ETI2",
+                    "tipo": "TP",
+                    "turma": "3LFILO01 ",
+                    "turmac": "3LFILO01",
+                    "duracao": "2",
+                    "sala": "G111",
+                    "profsig": "LCGMA",
+                    "prof": "Lu\u00eds Ara\u00fajo"
+                }
+            ],
+            "nome": "\u00c9tica II",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 11.5,
+                    "nome": "\u00c9tica II",
+                    "sigla": "ETI2",
+                    "tipo": "OT",
+                    "turma": "3LFILO01 ",
+                    "turmac": "3LFILO01",
+                    "duracao": "2",
+                    "sala": "G111",
+                    "profsig": "LCGMA",
+                    "prof": "Lu\u00eds Ara\u00fajo"
+                }
+            ]
+        },
+        "FPORT": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 10.5,
+                    "nome": "Filosofia em Portugal",
+                    "sigla": "FPORT",
+                    "tipo": "TP",
+                    "turma": "3LFILO01 ",
+                    "turmac": "3LFILO01",
+                    "duracao": "2",
+                    "sala": "G409",
+                    "profsig": "MCLNAS",
+                    "prof": "Maria Celeste Nat\u00e1rio"
+                },
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "Filosofia em Portugal",
+                    "sigla": "FPORT",
+                    "tipo": "TP",
+                    "turma": "3LFILO01 ",
+                    "turmac": "3LFILO01",
+                    "duracao": "4",
+                    "sala": "G305",
+                    "profsig": "MCLNAS",
+                    "prof": "Maria Celeste Nat\u00e1rio"
+                }
+            ],
+            "nome": "Filosofia em Portugal",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 11.5,
+                    "nome": "Filosofia em Portugal",
+                    "sigla": "FPORT",
+                    "tipo": "OT",
+                    "turma": "3LFILO01 ",
+                    "turmac": "3LFILO01",
+                    "duracao": "2",
+                    "sala": "G409",
+                    "profsig": "MCLNAS",
+                    "prof": "Maria Celeste Nat\u00e1rio"
+                }
+            ]
+        },
+        "FMOD2": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 13.5,
+                    "nome": "Filosofia Moderna II",
+                    "sigla": "FMOD2",
+                    "tipo": "TP",
+                    "turma": "3LFILO01 ",
+                    "turmac": "3LFILO01",
+                    "duracao": "4",
+                    "sala": "G305",
+                    "profsig": "PJDPT",
+                    "prof": "Paulo Tunhas"
+                },
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Filosofia Moderna II",
+                    "sigla": "FMOD2",
+                    "tipo": "TP",
+                    "turma": "3LFILO01 ",
+                    "turmac": "3LFILO01",
+                    "duracao": "2",
+                    "sala": "G202",
+                    "profsig": "PJDPT",
+                    "prof": "Paulo Tunhas"
+                }
+            ],
+            "nome": "Filosofia Moderna II",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 14.5,
+                    "nome": "Filosofia Moderna II",
+                    "sigla": "FMOD2",
+                    "tipo": "OT",
+                    "turma": "3LFILO01 ",
+                    "turmac": "3LFILO01",
+                    "duracao": "2",
+                    "sala": "G202",
+                    "profsig": "PJDPT",
+                    "prof": "Paulo Tunhas"
+                }
+            ]
+        },
+        "ONT2": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 13.5,
+                    "nome": "Ontologia II",
+                    "sigla": "ONT2",
+                    "tipo": "TP",
+                    "turma": "3LFILO01 ",
+                    "turmac": "3LFILO01",
+                    "duracao": "2",
+                    "sala": "G305",
+                    "profsig": "PIVOS",
+                    "prof": "Paula Silva"
+                },
+                {
+                    "dia": 1,
+                    "hora": 17.5,
+                    "nome": "Ontologia II",
+                    "sigla": "ONT2",
+                    "tipo": "TP",
+                    "turma": "3LFILO01 ",
+                    "turmac": "3LFILO01",
+                    "duracao": "4",
+                    "sala": "G104",
+                    "profsig": "PIVOS",
+                    "prof": "Paula Silva"
+                }
+            ],
+            "nome": "Ontologia II",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 14.5,
+                    "nome": "Ontologia II",
+                    "sigla": "ONT2",
+                    "tipo": "OT",
+                    "turma": "3LFILO01 ",
+                    "turmac": "3LFILO01",
+                    "duracao": "2",
+                    "sala": "G305",
+                    "profsig": "PIVOS",
+                    "prof": "Paula Silva"
+                }
+            ]
+        }
+    }
+}

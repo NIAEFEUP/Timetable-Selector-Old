@@ -1,0 +1,866 @@
+{
+    "1\u00ba Ano": {
+        "DPI122": {
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "T\u00e9cnicas de Comunica\u00e7\u00e3o",
+                    "sigla": "DPI122",
+                    "tipo": "PL",
+                    "turma": "DPI122_PL1",
+                    "turmac": "DPI122_PL1",
+                    "duracao": "5",
+                    "sala": "FC3028",
+                    "profsig": "MJPFGM",
+                    "prof": "M\u00e1rio Jo\u00e3o Monteiro"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14.5,
+                    "nome": "T\u00e9cnicas de Comunica\u00e7\u00e3o",
+                    "sigla": "DPI122",
+                    "tipo": "PL",
+                    "turma": "DPI122_PL3",
+                    "turmac": "DPI122_PL3",
+                    "duracao": "5",
+                    "sala": "FC3028",
+                    "profsig": "CGGL",
+                    "prof": "Catarina Lobo"
+                },
+                {
+                    "dia": 3,
+                    "hora": 17,
+                    "nome": "T\u00e9cnicas de Comunica\u00e7\u00e3o",
+                    "sigla": "DPI122",
+                    "tipo": "PL",
+                    "turma": "DPI122_PL4",
+                    "turmac": "DPI122_PL4",
+                    "duracao": "5",
+                    "sala": "FC3028",
+                    "profsig": "MJPFGM",
+                    "prof": "M\u00e1rio Jo\u00e3o Monteiro"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14.5,
+                    "nome": "T\u00e9cnicas de Comunica\u00e7\u00e3o",
+                    "sigla": "DPI122",
+                    "tipo": "PL",
+                    "turma": "DPI122_PL5",
+                    "turmac": "DPI122_PL5",
+                    "duracao": "5",
+                    "sala": "FC3028",
+                    "profsig": "CGGL",
+                    "prof": "Catarina Lobo"
+                }
+            ],
+            "nome": "T\u00e9cnicas de Comunica\u00e7\u00e3o",
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 11.5,
+                    "nome": "T\u00e9cnicas de Comunica\u00e7\u00e3o",
+                    "sigla": "DPI122",
+                    "tipo": "T",
+                    "turma": "DPI122_T",
+                    "turmac": "DPI122_T",
+                    "duracao": "3",
+                    "sala": "FC3-120",
+                    "profsig": "ccrosa",
+                    "prof": "Carla Carmelo Rosa"
+                }
+            ]
+        },
+        "F102": {
+            "PL": [
+                {
+                    "dia": 3,
+                    "hora": 14.5,
+                    "nome": "Electromagnetismo",
+                    "sigla": "F102",
+                    "tipo": "PL",
+                    "turma": "F102_PL1",
+                    "turmac": "F102_PL1",
+                    "duracao": "4",
+                    "sala": "FC3-116",
+                    "profsig": "ARNSG",
+                    "prof": "Ariel Guerreiro"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Electromagnetismo",
+                    "sigla": "F102",
+                    "tipo": "PL",
+                    "turma": "F102_PL2",
+                    "turmac": "F102_PL2",
+                    "duracao": "4",
+                    "sala": "FC3026",
+                    "profsig": "ARNSG",
+                    "prof": "Ariel Guerreiro"
+                },
+                {
+                    "dia": 3,
+                    "hora": 17.5,
+                    "nome": "Electromagnetismo",
+                    "sigla": "F102",
+                    "tipo": "PL",
+                    "turma": "F102_PL3",
+                    "turmac": "F102_PL3",
+                    "duracao": "4",
+                    "sala": "FC3014",
+                    "profsig": "ARNSG",
+                    "prof": "Ariel Guerreiro"
+                },
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Electromagnetismo",
+                    "sigla": "F102",
+                    "tipo": "PL",
+                    "turma": "F102_PL4",
+                    "turmac": "F102_PL4",
+                    "duracao": "4",
+                    "sala": "FC3014",
+                    "profsig": "ARNSG",
+                    "prof": "Ariel Guerreiro"
+                }
+            ],
+            "nome": "Electromagnetismo",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 10,
+                    "nome": "Electromagnetismo",
+                    "sigla": "F102",
+                    "tipo": "T",
+                    "turma": "F102_T",
+                    "turmac": "F102_T",
+                    "duracao": "3",
+                    "sala": "FC3-120",
+                    "profsig": "JAGM",
+                    "prof": "Joaquim Moreira"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Electromagnetismo",
+                    "sigla": "F102",
+                    "tipo": "T",
+                    "turma": "F102_T",
+                    "turmac": "F102_T",
+                    "duracao": "3",
+                    "sala": "FC3-120",
+                    "profsig": "JAGM",
+                    "prof": "Joaquim Moreira"
+                }
+            ],
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Electromagnetismo",
+                    "sigla": "F102",
+                    "tipo": "TP",
+                    "turma": "F102_TP1",
+                    "turmac": "F102_TP1",
+                    "duracao": "3",
+                    "sala": "FC3-116",
+                    "profsig": "AJMA",
+                    "prof": "Ab\u00edlio Almeida"
+                },
+                {
+                    "dia": 4,
+                    "hora": 17,
+                    "nome": "Electromagnetismo",
+                    "sigla": "F102",
+                    "tipo": "TP",
+                    "turma": "F102_TP2",
+                    "turmac": "F102_TP2",
+                    "duracao": "3",
+                    "sala": "FC3014",
+                    "profsig": "JTAP",
+                    "prof": "Jorge P\u00e1ramos"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Electromagnetismo",
+                    "sigla": "F102",
+                    "tipo": "TP",
+                    "turma": "F102_TP3",
+                    "turmac": "F102_TP3",
+                    "duracao": "3",
+                    "sala": "FC3014",
+                    "profsig": "ASR",
+                    "prof": "Augusto Rodrigues"
+                },
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Electromagnetismo",
+                    "sigla": "F102",
+                    "tipo": "TP",
+                    "turma": "F102_TP4",
+                    "turmac": "F102_TP4",
+                    "duracao": "3",
+                    "sala": "FC3014",
+                    "profsig": "ASR",
+                    "prof": "Augusto Rodrigues"
+                },
+                {
+                    "dia": 3,
+                    "hora": 16,
+                    "nome": "Electromagnetismo",
+                    "sigla": "F102",
+                    "tipo": "TP",
+                    "turma": "F102_TP5",
+                    "turmac": "F102_TP5",
+                    "duracao": "3",
+                    "sala": "FC3026",
+                    "profsig": "AJMA",
+                    "prof": "Ab\u00edlio Almeida"
+                }
+            ]
+        },
+        "F112": {
+            "PL": [
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Laborat\u00f3rio de F\u00edsica I",
+                    "sigla": "F112",
+                    "tipo": "PL",
+                    "turma": "F112_PL1",
+                    "turmac": "F112_PL1",
+                    "duracao": "4",
+                    "sala": "FC3119",
+                    "profsig": "PSOFC",
+                    "prof": "Paulo Carvalho"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Laborat\u00f3rio de F\u00edsica I",
+                    "sigla": "F112",
+                    "tipo": "PL",
+                    "turma": "F112_PL2",
+                    "turmac": "F112_PL2",
+                    "duracao": "4",
+                    "sala": "FC3119",
+                    "profsig": "AJMA",
+                    "prof": "Ab\u00edlio Almeida"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Laborat\u00f3rio de F\u00edsica I",
+                    "sigla": "F112",
+                    "tipo": "PL",
+                    "turma": "F112_PL3",
+                    "turmac": "F112_PL3",
+                    "duracao": "4",
+                    "sala": "FC3119",
+                    "profsig": "MMRSALS",
+                    "prof": "Maria Manuela Lopes dos Santos"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14.5,
+                    "nome": "Laborat\u00f3rio de F\u00edsica I",
+                    "sigla": "F112",
+                    "tipo": "PL",
+                    "turma": "F112_PL4",
+                    "turmac": "F112_PL4",
+                    "duracao": "4",
+                    "sala": "FC3119",
+                    "profsig": "MMRSALS",
+                    "prof": "Maria Manuela Lopes dos Santos"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16.5,
+                    "nome": "Laborat\u00f3rio de F\u00edsica I",
+                    "sigla": "F112",
+                    "tipo": "PL",
+                    "turma": "F112_PL5",
+                    "turmac": "F112_PL5",
+                    "duracao": "4",
+                    "sala": "FC3119",
+                    "profsig": "JMVPL",
+                    "prof": "Jo\u00e3o Lopes"
+                },
+                {
+                    "dia": 1,
+                    "hora": 16.5,
+                    "nome": "Laborat\u00f3rio de F\u00edsica I",
+                    "sigla": "F112",
+                    "tipo": "PL",
+                    "turma": "F112_PL6",
+                    "turmac": "F112_PL6",
+                    "duracao": "4",
+                    "sala": "FC3119",
+                    "profsig": "AJMA",
+                    "prof": "Ab\u00edlio Almeida"
+                }
+            ],
+            "nome": "Laborat\u00f3rio de F\u00edsica I",
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Laborat\u00f3rio de F\u00edsica I",
+                    "sigla": "F112",
+                    "tipo": "TP",
+                    "turma": "F112_TP",
+                    "turmac": "F112_TP",
+                    "duracao": "2",
+                    "sala": "FC3-120",
+                    "profsig": "MMRSALS",
+                    "prof": "Maria Manuela Lopes dos Santos"
+                }
+            ]
+        }
+    },
+    "2\u00ba Ano": {
+        "F202": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "T\u00f3picos de F\u00edsica Moderna e Astrof\u00edsica",
+                    "sigla": "F202",
+                    "tipo": "T",
+                    "turma": "F202_T",
+                    "turmac": "F202_T",
+                    "duracao": "3",
+                    "sala": "FC3-120",
+                    "profsig": "JTAP",
+                    "prof": "Jorge P\u00e1ramos"
+                },
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "T\u00f3picos de F\u00edsica Moderna e Astrof\u00edsica",
+                    "sigla": "F202",
+                    "tipo": "T",
+                    "turma": "F202_T",
+                    "turmac": "F202_T",
+                    "duracao": "3",
+                    "sala": "FC3-120",
+                    "profsig": "JTAP",
+                    "prof": "Jorge P\u00e1ramos"
+                }
+            ],
+            "nome": "T\u00f3picos de F\u00edsica Moderna e Astrof\u00edsica",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "T\u00f3picos de F\u00edsica Moderna e Astrof\u00edsica",
+                    "sigla": "F202",
+                    "tipo": "TP",
+                    "turma": "F202_TP1",
+                    "turmac": "F202_TP1",
+                    "duracao": "3",
+                    "sala": "FC3-116",
+                    "profsig": "JTAP",
+                    "prof": "Jorge P\u00e1ramos"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10.5,
+                    "nome": "T\u00f3picos de F\u00edsica Moderna e Astrof\u00edsica",
+                    "sigla": "F202",
+                    "tipo": "TP",
+                    "turma": "F202_TP2",
+                    "turmac": "F202_TP2",
+                    "duracao": "3",
+                    "sala": "FC3-116",
+                    "profsig": "JPTGR",
+                    "prof": "Jo\u00e3o Rosa"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "T\u00f3picos de F\u00edsica Moderna e Astrof\u00edsica",
+                    "sigla": "F202",
+                    "tipo": "TP",
+                    "turma": "F202_TP3",
+                    "turmac": "F202_TP3",
+                    "duracao": "3",
+                    "sala": "FC3026",
+                    "profsig": "JPTGR",
+                    "prof": "Jo\u00e3o Rosa"
+                }
+            ]
+        },
+        "F212": {
+            "PL": [
+                {
+                    "dia": 3,
+                    "hora": 8.5,
+                    "nome": "Laborat\u00f3rio de F\u00edsica II",
+                    "sigla": "F212",
+                    "tipo": "PL",
+                    "turma": "F212_PL1",
+                    "turmac": "F212_PL1",
+                    "duracao": "4",
+                    "sala": "FC3-114",
+                    "profsig": "OJRF",
+                    "prof": "Orlando Frazao"
+                },
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Laborat\u00f3rio de F\u00edsica II",
+                    "sigla": "F212",
+                    "tipo": "PL",
+                    "turma": "F212_PL1",
+                    "turmac": "F212_PL1",
+                    "duracao": "4",
+                    "sala": "FC3016",
+                    "profsig": "OJRF",
+                    "prof": "Orlando Frazao"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Laborat\u00f3rio de F\u00edsica II",
+                    "sigla": "F212",
+                    "tipo": "PL",
+                    "turma": "F212_PL2",
+                    "turmac": "F212_PL2",
+                    "duracao": "4",
+                    "sala": "FC3-114",
+                    "profsig": "PVSM",
+                    "prof": "Paulo Marques"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16.5,
+                    "nome": "Laborat\u00f3rio de F\u00edsica II",
+                    "sigla": "F212",
+                    "tipo": "PL",
+                    "turma": "F212_PL2",
+                    "turmac": "F212_PL2",
+                    "duracao": "4",
+                    "sala": "FC3016",
+                    "profsig": "PVSM",
+                    "prof": "Paulo Marques"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Laborat\u00f3rio de F\u00edsica II",
+                    "sigla": "F212",
+                    "tipo": "PL",
+                    "turma": "F212_PL3",
+                    "turmac": "F212_PL3",
+                    "duracao": "4",
+                    "sala": "FC3016",
+                    "profsig": "MMRSALS",
+                    "prof": "Maria Manuela Lopes dos Santos"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16.5,
+                    "nome": "Laborat\u00f3rio de F\u00edsica II",
+                    "sigla": "F212",
+                    "tipo": "PL",
+                    "turma": "F212_PL3",
+                    "turmac": "F212_PL3",
+                    "duracao": "4",
+                    "sala": "FC3-114",
+                    "profsig": "HMPRCC",
+                    "prof": "Helder Crespo"
+                }
+            ],
+            "nome": "Laborat\u00f3rio de F\u00edsica II"
+        },
+        "F222": {
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Complementos de F\u00edsica Cl\u00e1ssica",
+                    "sigla": "F222",
+                    "tipo": "T",
+                    "turma": "F222_T",
+                    "turmac": "F222_T",
+                    "duracao": "3",
+                    "sala": "FC3-120",
+                    "profsig": "JMCNS",
+                    "prof": "Jos\u00e9 Miguel Nunes da Silva"
+                },
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "Complementos de F\u00edsica Cl\u00e1ssica",
+                    "sigla": "F222",
+                    "tipo": "T",
+                    "turma": "F222_T",
+                    "turmac": "F222_T",
+                    "duracao": "3",
+                    "sala": "FC3-120",
+                    "profsig": "JMCNS",
+                    "prof": "Jos\u00e9 Miguel Nunes da Silva"
+                }
+            ],
+            "nome": "Complementos de F\u00edsica Cl\u00e1ssica",
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 16,
+                    "nome": "Complementos de F\u00edsica Cl\u00e1ssica",
+                    "sigla": "F222",
+                    "tipo": "TP",
+                    "turma": "F222_TP1",
+                    "turmac": "F222_TP1",
+                    "duracao": "3",
+                    "sala": "FC3014",
+                    "profsig": "JMCNS",
+                    "prof": "Jos\u00e9 Miguel Nunes da Silva"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Complementos de F\u00edsica Cl\u00e1ssica",
+                    "sigla": "F222",
+                    "tipo": "TP",
+                    "turma": "F222_TP2",
+                    "turmac": "F222_TP2",
+                    "duracao": "3",
+                    "sala": "FC3026",
+                    "profsig": "ARNSG",
+                    "prof": "Ariel Guerreiro"
+                }
+            ]
+        }
+    },
+    "3\u00ba Ano": {
+        "F302": {
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "\u00d3ptica",
+                    "sigla": "F302",
+                    "tipo": "T",
+                    "turma": "F302_T",
+                    "turmac": "F302_T",
+                    "duracao": "3",
+                    "sala": "FC3-117",
+                    "profsig": "MJBM",
+                    "prof": "Manuel Marques"
+                },
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "\u00d3ptica",
+                    "sigla": "F302",
+                    "tipo": "T",
+                    "turma": "F302_T",
+                    "turmac": "F302_T",
+                    "duracao": "3",
+                    "sala": "FC3-117",
+                    "profsig": "MJBM",
+                    "prof": "Manuel Marques"
+                }
+            ],
+            "nome": "\u00d3ptica",
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "\u00d3ptica",
+                    "sigla": "F302",
+                    "tipo": "TP",
+                    "turma": "F302_TP1",
+                    "turmac": "F302_TP1",
+                    "duracao": "3",
+                    "sala": "FC3026",
+                    "profsig": "MJBM",
+                    "prof": "Manuel Marques"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "\u00d3ptica",
+                    "sigla": "F302",
+                    "tipo": "TP",
+                    "turma": "F302_TP2",
+                    "turmac": "F302_TP2",
+                    "duracao": "3",
+                    "sala": "FC3014",
+                    "profsig": "ccrosa",
+                    "prof": "Carla Carmelo Rosa"
+                }
+            ]
+        },
+        "F304": {
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "F\u00edsica da Mat\u00e9ria Condensada",
+                    "sigla": "F304",
+                    "tipo": "T",
+                    "turma": "F304_T",
+                    "turmac": "F304_T",
+                    "duracao": "3",
+                    "sala": "FC3-117",
+                    "profsig": "JAGM",
+                    "prof": "Joaquim Moreira"
+                },
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "F\u00edsica da Mat\u00e9ria Condensada",
+                    "sigla": "F304",
+                    "tipo": "T",
+                    "turma": "F304_T",
+                    "turmac": "F304_T",
+                    "duracao": "3",
+                    "sala": "FC3-117",
+                    "profsig": "JAGM",
+                    "prof": "Joaquim Moreira"
+                }
+            ],
+            "nome": "F\u00edsica da Mat\u00e9ria Condensada",
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "F\u00edsica da Mat\u00e9ria Condensada",
+                    "sigla": "F304",
+                    "tipo": "TP",
+                    "turma": "F304_TP1",
+                    "turmac": "F304_TP1",
+                    "duracao": "3",
+                    "sala": "FC3-119",
+                    "profsig": "JAGM",
+                    "prof": "Joaquim Moreira"
+                }
+            ]
+        },
+        "F306": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "F\u00edsica Nuclear e de Part\u00edculas",
+                    "sigla": "F306",
+                    "tipo": "T",
+                    "turma": "F306_T",
+                    "turmac": "F306_T",
+                    "duracao": "3",
+                    "sala": "FC3-117",
+                    "profsig": "MFGM",
+                    "prof": "Maria de F\u00e1tima Mota"
+                },
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "F\u00edsica Nuclear e de Part\u00edculas",
+                    "sigla": "F306",
+                    "tipo": "T",
+                    "turma": "F306_T",
+                    "turmac": "F306_T",
+                    "duracao": "3",
+                    "sala": "FC3026",
+                    "profsig": "MFGM",
+                    "prof": "Maria de F\u00e1tima Mota"
+                }
+            ],
+            "nome": "F\u00edsica Nuclear e de Part\u00edculas",
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "F\u00edsica Nuclear e de Part\u00edculas",
+                    "sigla": "F306",
+                    "tipo": "TP",
+                    "turma": "F306_TP",
+                    "turmac": "F306_TP",
+                    "duracao": "3",
+                    "sala": "FC3026",
+                    "profsig": "MFGM",
+                    "prof": "Maria de F\u00e1tima Mota"
+                }
+            ]
+        },
+        "F316": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "F\u00edsica Computacional",
+                    "sigla": "F316",
+                    "tipo": "PL",
+                    "turma": "F316_PL",
+                    "turmac": "F316_PL",
+                    "duracao": "5",
+                    "sala": "FC3028",
+                    "profsig": "JMVPL",
+                    "prof": "Jo\u00e3o Lopes"
+                }
+            ],
+            "nome": "F\u00edsica Computacional",
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "F\u00edsica Computacional",
+                    "sigla": "F316",
+                    "tipo": "T",
+                    "turma": "F316_T",
+                    "turmac": "F316_T",
+                    "duracao": "4",
+                    "sala": "FC3-117",
+                    "profsig": "ASR",
+                    "prof": "Augusto Rodrigues"
+                }
+            ]
+        },
+        "F322": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 9.5,
+                    "nome": "Electr\u00f3nica",
+                    "sigla": "F322",
+                    "tipo": "T",
+                    "turma": "F322_T",
+                    "turmac": "F322_T",
+                    "duracao": "3",
+                    "sala": "FC3014",
+                    "profsig": "HMPRCC",
+                    "prof": "Helder Crespo"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9.5,
+                    "nome": "Electr\u00f3nica",
+                    "sigla": "F322",
+                    "tipo": "T",
+                    "turma": "F322_T",
+                    "turmac": "F322_T",
+                    "duracao": "3",
+                    "sala": "FC3014",
+                    "profsig": "HMPRCC",
+                    "prof": "Helder Crespo"
+                }
+            ],
+            "nome": "Electr\u00f3nica",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 11.5,
+                    "nome": "Electr\u00f3nica",
+                    "sigla": "F322",
+                    "tipo": "TP",
+                    "turma": "F322_TP",
+                    "turmac": "F322_TP",
+                    "duracao": "3",
+                    "sala": "FC3014",
+                    "profsig": "HMPRCC",
+                    "prof": "Helder Crespo"
+                }
+            ]
+        },
+        "F326": {
+            "PL": [
+                {
+                    "dia": 5,
+                    "hora": 16,
+                    "nome": "Mec\u00e2nica Avan\u00e7ada",
+                    "sigla": "F326",
+                    "tipo": "PL",
+                    "turma": "F326_PL",
+                    "turmac": "F326_PL",
+                    "duracao": "3",
+                    "sala": "FC3014",
+                    "profsig": "JMCNS",
+                    "prof": "Jos\u00e9 Miguel Nunes da Silva"
+                }
+            ],
+            "nome": "Mec\u00e2nica Avan\u00e7ada",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Mec\u00e2nica Avan\u00e7ada",
+                    "sigla": "F326",
+                    "tipo": "T",
+                    "turma": "F326_T",
+                    "turmac": "F326_T",
+                    "duracao": "3",
+                    "sala": "FC3-117",
+                    "profsig": "JMCNS",
+                    "prof": "Jos\u00e9 Miguel Nunes da Silva"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Mec\u00e2nica Avan\u00e7ada",
+                    "sigla": "F326",
+                    "tipo": "T",
+                    "turma": "F326_T",
+                    "turmac": "F326_T",
+                    "duracao": "3",
+                    "sala": "FC3014",
+                    "profsig": "JMCNS",
+                    "prof": "Jos\u00e9 Miguel Nunes da Silva"
+                }
+            ]
+        },
+        "M372": {
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Estat\u00edstica Aplicada",
+                    "sigla": "M372",
+                    "tipo": "T",
+                    "turma": "M372_T",
+                    "turmac": "M372_T",
+                    "duracao": "3",
+                    "sala": "FC1005",
+                    "profsig": "\u00d3ALF",
+                    "prof": "\u00d3scar Felgueiras"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14.5,
+                    "nome": "Estat\u00edstica Aplicada",
+                    "sigla": "M372",
+                    "tipo": "T",
+                    "turma": "M372_T",
+                    "turmac": "M372_T",
+                    "duracao": "3",
+                    "sala": "FC1003",
+                    "profsig": "\u00d3ALF",
+                    "prof": "\u00d3scar Felgueiras"
+                }
+            ],
+            "nome": "Estat\u00edstica Aplicada",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Estat\u00edstica Aplicada",
+                    "sigla": "M372",
+                    "tipo": "TP",
+                    "turma": "M372_TP",
+                    "turmac": "M372_TP",
+                    "duracao": "4",
+                    "sala": "FC1106",
+                    "profsig": "\u00d3ALF",
+                    "prof": "\u00d3scar Felgueiras"
+                }
+            ]
+        }
+    }
+}
