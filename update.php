@@ -5,7 +5,7 @@ Timetable Selector Updater By NIFEUP
 
 $errordebug=false;
 $ch=null; //variável do curl
-$anolectivo=date('n')>6?date('Y'):date('Y')-1;
+$anolectivo=date('n')>6?date('Y'):date('Y');
 $periodo_id=date('n')>6?1:2;
 $faculdades = array('fbaup', 'fcnaup', 'fep', 'feup', 'ffup', 'flup', 'fpceup');
 
