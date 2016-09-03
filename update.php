@@ -7,10 +7,10 @@ $errordebug=false;
 $ch=null; //variável do curl
 $anolectivo=date('n')>6?date('Y'):date('Y')-1;
 $periodo_id=date('n')>6?1:2;
-$faculdades = array('fbaup', 'fcnaup', 'fep', 'feup', 'ffup', 'flup', 'fpceup');
+// $faculdades = array('fbaup', 'fcnaup', 'fcup', 'fep', 'feup', 'ffup', 'flup', 'fpceup');
+$faculdades = array('fcup');
 
 // dafeup, faup, fmup, fmdup, icbas precisam de uma conta activa da respectiva faculdade
-//fcup ?
 
 
 set_time_limit(0); //demora bastante mais que 30s(m?) a atualizar todos os horarios
@@ -76,6 +76,8 @@ function queryCursos($faculdade_codigo, $tipo, $anolectivo, $periodo_id){
 		$links = $xpath->query('.//a', $curso);
 		parse_str($links[0]->getAttribute("href"), $param);
 		$sigla = fetchSigla($faculdade_codigo, $param['pv_curso_id'], $anolectivo);
+		$sigla = str_replace('MI:','MI', $sigla); //fcup
+		$sigla = str_replace('L:','L', $sigla);	//fcup
 		for ($i=1, $j=1; $i < $links->length; $i++) {
 			if($links[$i]->getAttribute("title")!="Página Web"){
 				$faculdade_codigo2[$j]=strtolower($links[$i]->nodeValue);
@@ -143,7 +145,6 @@ function queryTurmas($faculdade_codigo,$curso_id,$anolectivo,$periodo_id,$sigla)
 				$str=$nodes->item($i)->attributes->getNamedItem("href")->nodeValue;
 				$j=strpos($str,'=')+1;
 				$turma_id=substr($str,$j,strpos($str,'&')-$j);
-				//echo  $turma_nome." ".$turma_id." ";
 
 				//POST para sacar o horario
 				$url= 'https://sigarra.up.pt/'.$faculdade_codigo[$fci].'/pt/hor_geral.turmas_view';
