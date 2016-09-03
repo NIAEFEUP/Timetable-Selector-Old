@@ -5,7 +5,7 @@ Timetable Selector Updater By NIFEUP
 
 $errordebug=false;
 $ch=null; //variável do curl
-$anolectivo=date('n')>6?date('Y'):date('Y');
+$anolectivo=date('n')>6?date('Y'):date('Y')-1;
 $periodo_id=date('n')>6?1:2;
 $faculdades = array('fbaup', 'fcnaup', 'fep', 'feup', 'ffup', 'flup', 'fpceup');
 
@@ -56,13 +56,13 @@ function logout(){
 //Query Cursos
 function queryCursos($faculdade_codigo, $tipo, $anolectivo, $periodo_id){
 	global $ch;
-
 	//POST para sacar a lista de cursos
 	$url= 'https://sigarra.up.pt/'.$faculdade_codigo.'/pt/cur_geral.cur_tipo_curso_view';
-	$fieldstr = 'pv_tipo_sigla='.$tipo.'&pv_ano_lectivo='.$anolectivo-1;
+	$fieldstr = 'pv_tipo_sigla='.$tipo.'&pv_ano_lectivo='.$anolectivo;
 	curl_setopt($ch,CURLOPT_URL,$url);
 	curl_setopt($ch,CURLOPT_POST,1);
 	curl_setopt($ch,CURLOPT_POSTFIELDS,$fieldstr);
+	// echo $url.$fieldstr;
 	$cursosresult = curl_exec($ch);
 
 	$dom = new DOMDocument;
@@ -103,7 +103,7 @@ function fetchSigla($faculdade_codigo, $curso_id, $anolectivo){
 	$tokens = preg_split('/[\s\n]+/', $plaintxt, 0, PREG_SPLIT_NO_EMPTY);
 	for ($i=0; $i < count($tokens); $i++) {
 		if($tokens[$i]=="Sigla:"){
-			return strtolower($tokens[$i+1]);
+			return $tokens[$i+1];
 		}
 	}
 }
