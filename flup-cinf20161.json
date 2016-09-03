@@ -1,0 +1,691 @@
+{
+    "1\u00ba Ano": {
+        "HCUL": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Hist\u00f3ria da Cultura",
+                    "sigla": "HCUL",
+                    "tipo": "TP",
+                    "turma": "1LCINF01 ",
+                    "turmac": "1LCINF01",
+                    "duracao": "8",
+                    "sala": "G308",
+                    "profsig": "ZCTGMCS_PCVBT",
+                    "prof": null
+                }
+            ],
+            "nome": "Hist\u00f3ria da Cultura"
+        },
+        "LOG_CI": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 10.5,
+                    "nome": "L\u00f3gica",
+                    "sigla": "LOG_CI",
+                    "tipo": "TP",
+                    "turma": "1LCINF01 ",
+                    "turmac": "1LCINF01",
+                    "duracao": "4",
+                    "sala": "G103",
+                    "profsig": "AJRL",
+                    "prof": "Ant\u00f3nio Leal"
+                },
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "L\u00f3gica",
+                    "sigla": "LOG_CI",
+                    "tipo": "TP",
+                    "turma": "1LCINF01 ",
+                    "turmac": "1LCINF01",
+                    "duracao": "4",
+                    "sala": "G310",
+                    "profsig": "AJRL",
+                    "prof": "Ant\u00f3nio Leal"
+                }
+            ],
+            "nome": "L\u00f3gica"
+        },
+        "TECOM": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "T\u00e9cnicas de Express\u00e3o e Comunica\u00e7\u00e3o",
+                    "sigla": "TECOM",
+                    "tipo": "T",
+                    "turma": "1LCINF01 ",
+                    "turmac": "1LCINF01",
+                    "duracao": "4",
+                    "sala": "G102",
+                    "profsig": "Docente",
+                    "prof": null
+                }
+            ],
+            "nome": "T\u00e9cnicas de Express\u00e3o e Comunica\u00e7\u00e3o",
+            "P": [
+                {
+                    "dia": 2,
+                    "hora": 17.5,
+                    "nome": "T\u00e9cnicas de Express\u00e3o e Comunica\u00e7\u00e3o",
+                    "sigla": "TECOM",
+                    "tipo": "P",
+                    "turma": "1LCINF01 ",
+                    "turmac": "1LCINF01",
+                    "duracao": "4",
+                    "sala": "G109",
+                    "profsig": "Docente",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "T\u00e9cnicas de Express\u00e3o e Comunica\u00e7\u00e3o",
+                    "sigla": "TECOM",
+                    "tipo": "P",
+                    "turma": "1LCINF02 ",
+                    "turmac": "1LCINF02",
+                    "duracao": "4",
+                    "sala": "G209",
+                    "profsig": "Docente",
+                    "prof": null
+                }
+            ]
+        },
+        "ISCI": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 15.5,
+                    "nome": "Introdu\u00e7\u00e3o aos Sistemas e Ci\u00eancia da Informa\u00e7\u00e3o",
+                    "sigla": "ISCI",
+                    "tipo": "TP",
+                    "turma": "1LCINF01 ",
+                    "turmac": "1LCINF01",
+                    "duracao": "8",
+                    "sala": "G308",
+                    "profsig": "AMBMS",
+                    "prof": "Armando Malheiro"
+                }
+            ],
+            "nome": "Introdu\u00e7\u00e3o aos Sistemas e Ci\u00eancia da Informa\u00e7\u00e3o"
+        },
+        "INFBAS": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Inform\u00e1tica B\u00e1sica",
+                    "sigla": "INFBAS",
+                    "tipo": "T",
+                    "turma": "1LCI1",
+                    "turmac": "COMP_642",
+                    "duracao": "4",
+                    "sala": "B019",
+                    "profsig": "MJMPU",
+                    "prof": "Maria Joana Urbano"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Inform\u00e1tica B\u00e1sica",
+                    "sigla": "INFBAS",
+                    "tipo": "T",
+                    "turma": "1LCI2",
+                    "turmac": "COMP_642",
+                    "duracao": "4",
+                    "sala": "B019",
+                    "profsig": "MJMPU",
+                    "prof": "Maria Joana Urbano"
+                }
+            ],
+            "nome": "Inform\u00e1tica B\u00e1sica",
+            "P": [
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Inform\u00e1tica B\u00e1sica",
+                    "sigla": "INFBAS",
+                    "tipo": "P",
+                    "turma": "1LCI1",
+                    "turmac": "1LCI1",
+                    "duracao": "4",
+                    "sala": "B308",
+                    "profsig": "JJ",
+                    "prof": "Jo\u00e3o Jacob"
+                },
+                {
+                    "dia": 1,
+                    "hora": 18,
+                    "nome": "Inform\u00e1tica B\u00e1sica",
+                    "sigla": "INFBAS",
+                    "tipo": "P",
+                    "turma": "1LCI2",
+                    "turmac": "1LCI2",
+                    "duracao": "4",
+                    "sala": "B308",
+                    "profsig": "JJ",
+                    "prof": "Jo\u00e3o Jacob"
+                }
+            ]
+        }
+    },
+    "2\u00ba Ano": {
+        "TMCI": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "Teoria e Metodologia da Ci\u00eancia da Informa\u00e7\u00e3o",
+                    "sigla": "TMCI",
+                    "tipo": "TP",
+                    "turma": "2LCINF01 ",
+                    "turmac": "2LCINF01",
+                    "duracao": "4",
+                    "sala": "G102",
+                    "profsig": "AMBMS",
+                    "prof": "Armando Malheiro"
+                },
+                {
+                    "dia": 3,
+                    "hora": 10.5,
+                    "nome": "Teoria e Metodologia da Ci\u00eancia da Informa\u00e7\u00e3o",
+                    "sigla": "TMCI",
+                    "tipo": "TP",
+                    "turma": "2LCINF01 ",
+                    "turmac": "2LCINF01",
+                    "duracao": "4",
+                    "sala": "G202",
+                    "profsig": "AMBMS",
+                    "prof": "Armando Malheiro"
+                }
+            ],
+            "nome": "Teoria e Metodologia da Ci\u00eancia da Informa\u00e7\u00e3o"
+        },
+        "MD": {
+            "P": [
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "Metainforma\u00e7\u00e3o Descritiva",
+                    "sigla": "MD",
+                    "tipo": "P",
+                    "turma": "2LCINF01 ",
+                    "turmac": "2LCINF01",
+                    "duracao": "4",
+                    "sala": "206.A\/B",
+                    "profsig": "MERMC",
+                    "prof": "Elisa Cerveira"
+                },
+                {
+                    "dia": 2,
+                    "hora": 17.5,
+                    "nome": "Metainforma\u00e7\u00e3o Descritiva",
+                    "sigla": "MD",
+                    "tipo": "P",
+                    "turma": "2LCINF02",
+                    "turmac": "2LCINF02",
+                    "duracao": "4",
+                    "sala": "206.A\/B",
+                    "profsig": "MERMC",
+                    "prof": "Elisa Cerveira"
+                }
+            ],
+            "nome": "Metainforma\u00e7\u00e3o Descritiva",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Metainforma\u00e7\u00e3o Descritiva",
+                    "sigla": "MD",
+                    "tipo": "T",
+                    "turma": "2LCINF01 ",
+                    "turmac": "MD_T",
+                    "duracao": "4",
+                    "sala": "206.A\/B",
+                    "profsig": "MERMC",
+                    "prof": "Elisa Cerveira"
+                },
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Metainforma\u00e7\u00e3o Descritiva",
+                    "sigla": "MD",
+                    "tipo": "T",
+                    "turma": "2LCINF02",
+                    "turmac": "MD_T",
+                    "duracao": "4",
+                    "sala": "206.A\/B",
+                    "profsig": "MERMC",
+                    "prof": "Elisa Cerveira"
+                }
+            ]
+        },
+        "DA_CI": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 15.5,
+                    "nome": "Direito Administrativo",
+                    "sigla": "DA_CI",
+                    "tipo": "TP",
+                    "turma": "2LCINF01 ",
+                    "turmac": "MD_T",
+                    "duracao": "8",
+                    "sala": "G105",
+                    "profsig": "AARML",
+                    "prof": "Abel Laureano"
+                },
+                {
+                    "dia": 3,
+                    "hora": 15.5,
+                    "nome": "Direito Administrativo",
+                    "sigla": "DA_CI",
+                    "tipo": "TP",
+                    "turma": "2LCINF02",
+                    "turmac": "MD_T",
+                    "duracao": "8",
+                    "sala": "G105",
+                    "profsig": "AARML",
+                    "prof": "Abel Laureano"
+                }
+            ],
+            "nome": "Direito Administrativo"
+        },
+        "II": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Informa\u00e7\u00e3o para a Internet",
+                    "sigla": "II",
+                    "tipo": "T",
+                    "turma": "2LCI1",
+                    "turmac": "COMP_277",
+                    "duracao": "4",
+                    "sala": "B031",
+                    "profsig": "CTL",
+                    "prof": "Carla Lopes"
+                },
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Informa\u00e7\u00e3o para a Internet",
+                    "sigla": "II",
+                    "tipo": "T",
+                    "turma": "2LCI2",
+                    "turmac": "COMP_277",
+                    "duracao": "4",
+                    "sala": "B031",
+                    "profsig": "CTL",
+                    "prof": "Carla Lopes"
+                }
+            ],
+            "nome": "Informa\u00e7\u00e3o para a Internet",
+            "P": [
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Informa\u00e7\u00e3o para a Internet",
+                    "sigla": "II",
+                    "tipo": "P",
+                    "turma": "2LCI1",
+                    "turmac": "2LCI1",
+                    "duracao": "4",
+                    "sala": "B201",
+                    "profsig": "CTL",
+                    "prof": "Carla Lopes"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Informa\u00e7\u00e3o para a Internet",
+                    "sigla": "II",
+                    "tipo": "P",
+                    "turma": "2LCI2",
+                    "turmac": "2LCI2",
+                    "duracao": "4",
+                    "sala": "B207",
+                    "profsig": "CTL",
+                    "prof": "Carla Lopes"
+                }
+            ]
+        },
+        "OGE": {
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Organiza\u00e7\u00e3o e Gest\u00e3o de Empresas",
+                    "sigla": "OGE",
+                    "tipo": "T",
+                    "turma": "2LCI1",
+                    "turmac": "COMP_277",
+                    "duracao": "4",
+                    "sala": "B016",
+                    "profsig": "GB",
+                    "prof": "Gabriela Beir\u00e3o"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Organiza\u00e7\u00e3o e Gest\u00e3o de Empresas",
+                    "sigla": "OGE",
+                    "tipo": "T",
+                    "turma": "2LCI2",
+                    "turmac": "COMP_277",
+                    "duracao": "4",
+                    "sala": "B016",
+                    "profsig": "GB",
+                    "prof": "Gabriela Beir\u00e3o"
+                }
+            ],
+            "nome": "Organiza\u00e7\u00e3o e Gest\u00e3o de Empresas",
+            "P": [
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Organiza\u00e7\u00e3o e Gest\u00e3o de Empresas",
+                    "sigla": "OGE",
+                    "tipo": "P",
+                    "turma": "2LCI1",
+                    "turmac": "2LCI1",
+                    "duracao": "4",
+                    "sala": "B216",
+                    "profsig": "GB",
+                    "prof": "Gabriela Beir\u00e3o"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Organiza\u00e7\u00e3o e Gest\u00e3o de Empresas",
+                    "sigla": "OGE",
+                    "tipo": "P",
+                    "turma": "2LCI2",
+                    "turmac": "2LCI2",
+                    "duracao": "4",
+                    "sala": "B312",
+                    "profsig": "GB",
+                    "prof": "Gabriela Beir\u00e3o"
+                }
+            ]
+        }
+    },
+    "3\u00ba Ano": {
+        "SABM": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 8.5,
+                    "nome": "Servi\u00e7os de Arquivo, Biblioteca e Museu",
+                    "sigla": "SABM",
+                    "tipo": "TP",
+                    "turma": "3LCINF_OP01 ",
+                    "turmac": "3LCINF_OP01",
+                    "duracao": "8",
+                    "sala": "G309",
+                    "profsig": "ALS_MERMC_MMGAP",
+                    "prof": null
+                }
+            ],
+            "nome": "Servi\u00e7os de Arquivo, Biblioteca e Museu"
+        },
+        "SIE": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Servi\u00e7os de Informa\u00e7\u00e3o Empresarial",
+                    "sigla": "SIE",
+                    "tipo": "TP",
+                    "turma": "3LCINF_OP01 ",
+                    "turmac": "3LCINF_OP01",
+                    "duracao": "4",
+                    "sala": "G305",
+                    "profsig": "OMMP",
+                    "prof": "Ol\u00edvia Pestana"
+                }
+            ],
+            "nome": "Servi\u00e7os de Informa\u00e7\u00e3o Empresarial"
+        },
+        "GSI": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "Gest\u00e3o de Servi\u00e7os de Informa\u00e7\u00e3o",
+                    "sigla": "GSI",
+                    "tipo": "T",
+                    "turma": "3LCINF01 ",
+                    "turmac": "GSI_T",
+                    "duracao": "4",
+                    "sala": "G301",
+                    "profsig": "MMGAP",
+                    "prof": "Maria Manuela Pinto"
+                },
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "Gest\u00e3o de Servi\u00e7os de Informa\u00e7\u00e3o",
+                    "sigla": "GSI",
+                    "tipo": "T",
+                    "turma": "3LCINF02",
+                    "turmac": "GSI_T",
+                    "duracao": "4",
+                    "sala": "G301",
+                    "profsig": "MMGAP",
+                    "prof": "Maria Manuela Pinto"
+                }
+            ],
+            "nome": "Gest\u00e3o de Servi\u00e7os de Informa\u00e7\u00e3o",
+            "P": [
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Gest\u00e3o de Servi\u00e7os de Informa\u00e7\u00e3o",
+                    "sigla": "GSI",
+                    "tipo": "P",
+                    "turma": "3LCINF01 ",
+                    "turmac": "3LCINF01",
+                    "duracao": "4",
+                    "sala": "G301",
+                    "profsig": "MMGAP",
+                    "prof": "Maria Manuela Pinto"
+                },
+                {
+                    "dia": 2,
+                    "hora": 17.5,
+                    "nome": "Gest\u00e3o de Servi\u00e7os de Informa\u00e7\u00e3o",
+                    "sigla": "GSI",
+                    "tipo": "P",
+                    "turma": "3LCINF02",
+                    "turmac": "3LCINF02",
+                    "duracao": "4",
+                    "sala": "G301",
+                    "profsig": "MMGAP",
+                    "prof": "Maria Manuela Pinto"
+                }
+            ]
+        },
+        "GI": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Gest\u00e3o da Informa\u00e7\u00e3o",
+                    "sigla": "GI",
+                    "tipo": "T",
+                    "turma": "3LCI1",
+                    "turmac": "COMP_108",
+                    "duracao": "4",
+                    "sala": "B021",
+                    "profsig": "VGG",
+                    "prof": "V\u00e2nia Gon\u00e7alves"
+                },
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Gest\u00e3o da Informa\u00e7\u00e3o",
+                    "sigla": "GI",
+                    "tipo": "T",
+                    "turma": "3LCI2",
+                    "turmac": "COMP_108",
+                    "duracao": "4",
+                    "sala": "B021",
+                    "profsig": "VGG",
+                    "prof": "V\u00e2nia Gon\u00e7alves"
+                }
+            ],
+            "nome": "Gest\u00e3o da Informa\u00e7\u00e3o",
+            "P": [
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Gest\u00e3o da Informa\u00e7\u00e3o",
+                    "sigla": "GI",
+                    "tipo": "P",
+                    "turma": "3LCI1",
+                    "turmac": "3LCI1",
+                    "duracao": "4",
+                    "sala": "B313",
+                    "profsig": "VGG",
+                    "prof": "V\u00e2nia Gon\u00e7alves"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Gest\u00e3o da Informa\u00e7\u00e3o",
+                    "sigla": "GI",
+                    "tipo": "P",
+                    "turma": "3LCI2",
+                    "turmac": "3LCI2",
+                    "duracao": "4",
+                    "sala": "B310",
+                    "profsig": "VGG",
+                    "prof": "V\u00e2nia Gon\u00e7alves"
+                }
+            ]
+        },
+        "ASI": {
+            "P": [
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "An\u00e1lise de Sistemas de Informa\u00e7\u00e3o",
+                    "sigla": "ASI",
+                    "tipo": "P",
+                    "turma": "3LCI1",
+                    "turmac": "3LCI1",
+                    "duracao": "4",
+                    "sala": "B313",
+                    "profsig": "ICM",
+                    "prof": "In\u00eas Coimbra"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "An\u00e1lise de Sistemas de Informa\u00e7\u00e3o",
+                    "sigla": "ASI",
+                    "tipo": "P",
+                    "turma": "3LCI2",
+                    "turmac": "3LCI2",
+                    "duracao": "4",
+                    "sala": "B302",
+                    "profsig": "ICM",
+                    "prof": "In\u00eas Coimbra"
+                }
+            ],
+            "nome": "An\u00e1lise de Sistemas de Informa\u00e7\u00e3o",
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "An\u00e1lise de Sistemas de Informa\u00e7\u00e3o",
+                    "sigla": "ASI",
+                    "tipo": "T",
+                    "turma": "3LCI1",
+                    "turmac": "COMP_108",
+                    "duracao": "4",
+                    "sala": "B012",
+                    "profsig": "ALS",
+                    "prof": "Ant\u00f3nio Lucas Soares"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "An\u00e1lise de Sistemas de Informa\u00e7\u00e3o",
+                    "sigla": "ASI",
+                    "tipo": "T",
+                    "turma": "3LCI2",
+                    "turmac": "COMP_108",
+                    "duracao": "4",
+                    "sala": "B012",
+                    "profsig": "ALS",
+                    "prof": "Ant\u00f3nio Lucas Soares"
+                }
+            ]
+        },
+        "RI": {
+            "P": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Recupera\u00e7\u00e3o da Informa\u00e7\u00e3o",
+                    "sigla": "RI",
+                    "tipo": "P",
+                    "turma": "3LCI1",
+                    "turmac": "3LCI1",
+                    "duracao": "4",
+                    "sala": "B313",
+                    "profsig": "CTL",
+                    "prof": "Carla Lopes"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Recupera\u00e7\u00e3o da Informa\u00e7\u00e3o",
+                    "sigla": "RI",
+                    "tipo": "P",
+                    "turma": "3LCI2",
+                    "turmac": "3LCI2",
+                    "duracao": "4",
+                    "sala": "B311",
+                    "profsig": "CTL",
+                    "prof": "Carla Lopes"
+                }
+            ],
+            "nome": "Recupera\u00e7\u00e3o da Informa\u00e7\u00e3o",
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Recupera\u00e7\u00e3o da Informa\u00e7\u00e3o",
+                    "sigla": "RI",
+                    "tipo": "T",
+                    "turma": "3LCI1",
+                    "turmac": "COMP_108",
+                    "duracao": "4",
+                    "sala": "B021",
+                    "profsig": "CTL",
+                    "prof": "Carla Lopes"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Recupera\u00e7\u00e3o da Informa\u00e7\u00e3o",
+                    "sigla": "RI",
+                    "tipo": "T",
+                    "turma": "3LCI2",
+                    "turmac": "COMP_108",
+                    "duracao": "4",
+                    "sala": "B021",
+                    "profsig": "CTL",
+                    "prof": "Carla Lopes"
+                }
+            ]
+        }
+    }
+}

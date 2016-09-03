@@ -1,0 +1,561 @@
+{
+    "1\u00ba Ano": {
+        "LME": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 10,
+                    "nome": "Laborat\u00f3rio Multim\u00e9dia e Educa\u00e7\u00e3o",
+                    "sigla": "LME",
+                    "tipo": "PL",
+                    "turma": "E1A",
+                    "turmac": "E1A",
+                    "duracao": "6",
+                    "sala": "FPCE101",
+                    "profsig": "CM;JM;DS",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Laborat\u00f3rio Multim\u00e9dia e Educa\u00e7\u00e3o",
+                    "sigla": "LME",
+                    "tipo": "PL",
+                    "turma": "E1B",
+                    "turmac": "E1B",
+                    "duracao": "6",
+                    "sala": "FPCE101",
+                    "profsig": "CM;JM;DS",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 17,
+                    "nome": "Laborat\u00f3rio Multim\u00e9dia e Educa\u00e7\u00e3o",
+                    "sigla": "LME",
+                    "tipo": "PL",
+                    "turma": "E1C",
+                    "turmac": "E1C",
+                    "duracao": "6",
+                    "sala": "FPCE101",
+                    "profsig": "CM;JM;DS",
+                    "prof": null
+                }
+            ],
+            "nome": "Laborat\u00f3rio Multim\u00e9dia e Educa\u00e7\u00e3o"
+        },
+        "SIMF1": {
+            "S": [
+                {
+                    "dia": 2,
+                    "hora": 10,
+                    "nome": "SIMF: Contextos de Trabalho em Educa\u00e7\u00e3o e Media\u00e7\u00e3o",
+                    "sigla": "SIMF1",
+                    "tipo": "S",
+                    "turma": "E1A",
+                    "turmac": "E1A",
+                    "duracao": "6",
+                    "sala": "FPCE251",
+                    "profsig": "HV",
+                    "prof": "Henrique Vaz"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "SIMF: Contextos de Trabalho em Educa\u00e7\u00e3o e Media\u00e7\u00e3o",
+                    "sigla": "SIMF1",
+                    "tipo": "S",
+                    "turma": "E1B",
+                    "turmac": "E1B",
+                    "duracao": "6",
+                    "sala": "FPCE251",
+                    "profsig": "HV",
+                    "prof": "Henrique Vaz"
+                }
+            ],
+            "nome": "SIMF: Contextos de Trabalho em Educa\u00e7\u00e3o e Media\u00e7\u00e3o"
+        },
+        "ICS": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 10,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0s Ci\u00eancias Sociais",
+                    "sigla": "ICS",
+                    "tipo": "TP",
+                    "turma": "E1A",
+                    "turmac": "E1A",
+                    "duracao": "6",
+                    "sala": "FPCE247",
+                    "profsig": "MMF",
+                    "prof": "Manuela Ferreira"
+                },
+                {
+                    "dia": 2,
+                    "hora": 10,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0s Ci\u00eancias Sociais",
+                    "sigla": "ICS",
+                    "tipo": "TP",
+                    "turma": "E1B",
+                    "turmac": "E1B",
+                    "duracao": "6",
+                    "sala": "FPCE245",
+                    "profsig": "MMF",
+                    "prof": "Manuela Ferreira"
+                }
+            ],
+            "nome": "Introdu\u00e7\u00e3o \u00e0s Ci\u00eancias Sociais"
+        },
+        "PDES": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Psicologia do Desenvolvimento",
+                    "sigla": "PDES",
+                    "tipo": "TP",
+                    "turma": "E1A",
+                    "turmac": "E1A",
+                    "duracao": "6",
+                    "sala": "FPCE254",
+                    "profsig": "PNALS",
+                    "prof": "Pedro Lopes dos Santos"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Psicologia do Desenvolvimento",
+                    "sigla": "PDES",
+                    "tipo": "TP",
+                    "turma": "E1B",
+                    "turmac": "E1B",
+                    "duracao": "6",
+                    "sala": "FPCE248",
+                    "profsig": "PNALS",
+                    "prof": "Pedro Lopes dos Santos"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "Psicologia do Desenvolvimento",
+                    "sigla": "PDES",
+                    "tipo": "TP",
+                    "turma": "E1C",
+                    "turmac": "E1C",
+                    "duracao": "6",
+                    "sala": "FPCE249",
+                    "profsig": "PNALS",
+                    "prof": "Pedro Lopes dos Santos"
+                }
+            ],
+            "nome": "Psicologia do Desenvolvimento"
+        },
+        "ICE": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0s Ci\u00eancias da Educa\u00e7\u00e3o",
+                    "sigla": "ICE",
+                    "tipo": "TP",
+                    "turma": "E1A",
+                    "turmac": "E1A",
+                    "duracao": "6",
+                    "sala": "FPCE246",
+                    "profsig": "AC",
+                    "prof": "Ariana Cosme"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0s Ci\u00eancias da Educa\u00e7\u00e3o",
+                    "sigla": "ICE",
+                    "tipo": "TP",
+                    "turma": "E1B",
+                    "turmac": "E1B",
+                    "duracao": "6",
+                    "sala": "FPCE246",
+                    "profsig": "AC",
+                    "prof": "Ariana Cosme"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0s Ci\u00eancias da Educa\u00e7\u00e3o",
+                    "sigla": "ICE",
+                    "tipo": "TP",
+                    "turma": "E1C",
+                    "turmac": "E1C",
+                    "duracao": "6",
+                    "sala": "FPCE246",
+                    "profsig": "AC",
+                    "prof": "Ariana Cosme"
+                }
+            ],
+            "nome": "Introdu\u00e7\u00e3o \u00e0s Ci\u00eancias da Educa\u00e7\u00e3o"
+        }
+    },
+    "2\u00ba Ano": {
+        "MILMQ": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 10,
+                    "nome": "Metodologias de Investiga\u00e7\u00e3o: Laborat\u00f3rio de Metodologias Qualitativas",
+                    "sigla": "MILMQ",
+                    "tipo": "TP",
+                    "turma": "E2A",
+                    "turmac": "E2A",
+                    "duracao": "6",
+                    "sala": "FPCE245",
+                    "profsig": "SMS",
+                    "prof": "Sofia Marques Silva"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Metodologias de Investiga\u00e7\u00e3o: Laborat\u00f3rio de Metodologias Qualitativas",
+                    "sigla": "MILMQ",
+                    "tipo": "TP",
+                    "turma": "E2B",
+                    "turmac": "E2B",
+                    "duracao": "6",
+                    "sala": "FPCE245",
+                    "profsig": "SMS",
+                    "prof": "Sofia Marques Silva"
+                }
+            ],
+            "nome": "Metodologias de Investiga\u00e7\u00e3o: Laborat\u00f3rio de Metodologias Qualitativas"
+        },
+        "MSTE": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 10,
+                    "nome": "Media\u00e7\u00e3o Social e Trabalho Educativo",
+                    "sigla": "MSTE",
+                    "tipo": "TP",
+                    "turma": "E2A",
+                    "turmac": "E2A",
+                    "duracao": "6",
+                    "sala": "FPCE244",
+                    "profsig": "FP",
+                    "prof": "Maria de F\u00e1tima Pereira"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Media\u00e7\u00e3o Social e Trabalho Educativo",
+                    "sigla": "MSTE",
+                    "tipo": "TP",
+                    "turma": "E2B",
+                    "turmac": "E2B",
+                    "duracao": "6",
+                    "sala": "FPCE252",
+                    "profsig": "FP",
+                    "prof": "Maria de F\u00e1tima Pereira"
+                }
+            ],
+            "nome": "Media\u00e7\u00e3o Social e Trabalho Educativo"
+        },
+        "SE": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 10,
+                    "nome": "Sociologia da Educa\u00e7\u00e3o",
+                    "sigla": "SE",
+                    "tipo": "TP",
+                    "turma": "E2A",
+                    "turmac": "E2A",
+                    "duracao": "6",
+                    "sala": "FPCE252",
+                    "profsig": "SMS",
+                    "prof": "Sofia Marques Silva"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Sociologia da Educa\u00e7\u00e3o",
+                    "sigla": "SE",
+                    "tipo": "TP",
+                    "turma": "E2B",
+                    "turmac": "E2B",
+                    "duracao": "6",
+                    "sala": "FPCE252",
+                    "profsig": "HCGA",
+                    "prof": "Helena Ara\u00fajo"
+                }
+            ],
+            "nome": "Sociologia da Educa\u00e7\u00e3o"
+        },
+        "PFA": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Psicossociologia da Forma\u00e7\u00e3o de Adultos",
+                    "sigla": "PFA",
+                    "tipo": "TP",
+                    "turma": "E2A",
+                    "turmac": "E2A",
+                    "duracao": "6",
+                    "sala": "FPCE249",
+                    "profsig": "MTGM",
+                    "prof": "Teresa Medina"
+                },
+                {
+                    "dia": 1,
+                    "hora": 10,
+                    "nome": "Psicossociologia da Forma\u00e7\u00e3o de Adultos",
+                    "sigla": "PFA",
+                    "tipo": "TP",
+                    "turma": "E2B",
+                    "turmac": "E2B",
+                    "duracao": "6",
+                    "sala": "FPCE249",
+                    "profsig": "MTGM",
+                    "prof": "Teresa Medina"
+                }
+            ],
+            "nome": "Psicossociologia da Forma\u00e7\u00e3o de Adultos"
+        },
+        "TDC": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Teoria e Desenvolvimento do Curr\u00edculo",
+                    "sigla": "TDC",
+                    "tipo": "TP",
+                    "turma": "E2A",
+                    "turmac": "E2A",
+                    "duracao": "6",
+                    "sala": "FPCE253",
+                    "profsig": "PTF",
+                    "prof": "Preciosa Fernandes"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Teoria e Desenvolvimento do Curr\u00edculo",
+                    "sigla": "TDC",
+                    "tipo": "TP",
+                    "turma": "E2B",
+                    "turmac": "E2B",
+                    "duracao": "6",
+                    "sala": "FPCE244",
+                    "profsig": "PTF",
+                    "prof": "Preciosa Fernandes"
+                }
+            ],
+            "nome": "Teoria e Desenvolvimento do Curr\u00edculo"
+        }
+    },
+    "3\u00ba Ano": {
+        "ICDL": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 10,
+                    "nome": "Interven\u00e7\u00e3o Comunit\u00e1ria e Desenvolvimento Local",
+                    "sigla": "ICDL",
+                    "tipo": "TP",
+                    "turma": "E3A",
+                    "turmac": "E3A",
+                    "duracao": "6",
+                    "sala": "FPCE246",
+                    "profsig": "JCPC",
+                    "prof": "Jo\u00e3o Caramelo"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "Interven\u00e7\u00e3o Comunit\u00e1ria e Desenvolvimento Local",
+                    "sigla": "ICDL",
+                    "tipo": "TP",
+                    "turma": "E3B",
+                    "turmac": "E3B",
+                    "duracao": "6",
+                    "sala": "FPCE244",
+                    "profsig": "JCPC",
+                    "prof": "Jo\u00e3o Caramelo"
+                }
+            ],
+            "nome": "Interven\u00e7\u00e3o Comunit\u00e1ria e Desenvolvimento Local"
+        },
+        "APSE": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "An\u00e1lise de Pol\u00edticas Sociais e Educativas",
+                    "sigla": "APSE",
+                    "tipo": "TP",
+                    "turma": "E3A",
+                    "turmac": "E3A",
+                    "duracao": "6",
+                    "sala": "FPCE252",
+                    "profsig": "MASDC",
+                    "prof": "Alexandra Costa"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "An\u00e1lise de Pol\u00edticas Sociais e Educativas",
+                    "sigla": "APSE",
+                    "tipo": "TP",
+                    "turma": "E3B",
+                    "turmac": "E3B",
+                    "duracao": "6",
+                    "sala": "FPCE253",
+                    "profsig": "MASDC",
+                    "prof": "Alexandra Costa"
+                }
+            ],
+            "nome": "An\u00e1lise de Pol\u00edticas Sociais e Educativas"
+        },
+        "SIMF2": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "SIMF: Inicia\u00e7\u00e3o \u00e0s \u00e1reas de profissionaliza\u00e7\u00e3o em Educa\u00e7\u00e3o\/Forma\u00e7\u00e3o",
+                    "sigla": "SIMF2",
+                    "tipo": "T",
+                    "turma": "E3A",
+                    "turmac": "E3A",
+                    "duracao": "9",
+                    "sala": "FPCE241",
+                    "profsig": "AC",
+                    "prof": "Ariana Cosme"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "SIMF: Inicia\u00e7\u00e3o \u00e0s \u00e1reas de profissionaliza\u00e7\u00e3o em Educa\u00e7\u00e3o\/Forma\u00e7\u00e3o",
+                    "sigla": "SIMF2",
+                    "tipo": "T",
+                    "turma": "E3B",
+                    "turmac": "E3B",
+                    "duracao": "9",
+                    "sala": "FPCE245",
+                    "profsig": "CR",
+                    "prof": "Cristina Rocha"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "SIMF: Inicia\u00e7\u00e3o \u00e0s \u00e1reas de profissionaliza\u00e7\u00e3o em Educa\u00e7\u00e3o\/Forma\u00e7\u00e3o",
+                    "sigla": "SIMF2",
+                    "tipo": "T",
+                    "turma": "E3C",
+                    "turmac": "E3C",
+                    "duracao": "9",
+                    "sala": "FPCE246",
+                    "profsig": "MMPSLF",
+                    "prof": "Margarida Felgueiras"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "SIMF: Inicia\u00e7\u00e3o \u00e0s \u00e1reas de profissionaliza\u00e7\u00e3o em Educa\u00e7\u00e3o\/Forma\u00e7\u00e3o",
+                    "sigla": "SIMF2",
+                    "tipo": "T",
+                    "turma": "E3D",
+                    "turmac": "E3D",
+                    "duracao": "9",
+                    "sala": "FPCE248",
+                    "profsig": "MTGM",
+                    "prof": "Teresa Medina"
+                }
+            ],
+            "nome": "SIMF: Inicia\u00e7\u00e3o \u00e0s \u00e1reas de profissionaliza\u00e7\u00e3o em Educa\u00e7\u00e3o\/Forma\u00e7\u00e3o"
+        },
+        "SFEF": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Sociologia da Fam\u00edlia e da Educa\u00e7\u00e3o Familiar",
+                    "sigla": "SFEF",
+                    "tipo": "TP",
+                    "turma": "E3A",
+                    "turmac": "E3A",
+                    "duracao": "6",
+                    "sala": "FPCE245",
+                    "profsig": "CR",
+                    "prof": "Cristina Rocha"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Sociologia da Fam\u00edlia e da Educa\u00e7\u00e3o Familiar",
+                    "sigla": "SFEF",
+                    "tipo": "TP",
+                    "turma": "E3B",
+                    "turmac": "E3B",
+                    "duracao": "6",
+                    "sala": "FPCE245",
+                    "profsig": "CR",
+                    "prof": "Cristina Rocha"
+                }
+            ],
+            "nome": "Sociologia da Fam\u00edlia e da Educa\u00e7\u00e3o Familiar"
+        },
+        "VE": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 15,
+                    "nome": "Videojogos e Educa\u00e7\u00e3o",
+                    "sigla": "VE",
+                    "tipo": "TP",
+                    "turma": "OP1",
+                    "turmac": "OP1",
+                    "duracao": "4",
+                    "sala": "244;101",
+                    "profsig": "PDTF",
+                    "prof": "Pedro Ferreira"
+                }
+            ],
+            "nome": "Videojogos e Educa\u00e7\u00e3o"
+        },
+        "ESG": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 15,
+                    "nome": "Educa\u00e7\u00e3o, Sexualidades e G\u00e9nero",
+                    "sigla": "ESG",
+                    "tipo": "TP",
+                    "turma": "OP2",
+                    "turmac": "OP2",
+                    "duracao": "4",
+                    "sala": "FPCE245",
+                    "profsig": "SRAS",
+                    "prof": "Sofia Santos"
+                }
+            ],
+            "nome": "Educa\u00e7\u00e3o, Sexualidades e G\u00e9nero"
+        },
+        "DEMM": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 15,
+                    "nome": "Diversidade na Educa\u00e7\u00e3o: Migra\u00e7\u00e3o e Multiculturalismo",
+                    "sigla": "DEMM",
+                    "tipo": "TP",
+                    "turma": "OP3",
+                    "turmac": "OP3",
+                    "duracao": "4",
+                    "sala": "FPCE246",
+                    "profsig": "HA;CN",
+                    "prof": null
+                }
+            ],
+            "nome": "Diversidade na Educa\u00e7\u00e3o: Migra\u00e7\u00e3o e Multiculturalismo"
+        }
+    }
+}
