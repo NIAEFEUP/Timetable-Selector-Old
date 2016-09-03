@@ -1,0 +1,96 @@
+{
+    "3\u00ba Ano": {
+        "AST341": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Gal\u00e1xias e Cosmologia",
+                    "sigla": "AST341",
+                    "tipo": "T",
+                    "turma": "AST341_T",
+                    "turmac": "AST341_T",
+                    "duracao": "3",
+                    "sala": "FC3024",
+                    "profsig": "CGGL",
+                    "prof": "Catarina Lobo"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Gal\u00e1xias e Cosmologia",
+                    "sigla": "AST341",
+                    "tipo": "T",
+                    "turma": "AST341_T",
+                    "turmac": "AST341_T",
+                    "duracao": "3",
+                    "sala": "FC3024",
+                    "profsig": "CGGL",
+                    "prof": "Catarina Lobo"
+                }
+            ],
+            "nome": "Gal\u00e1xias e Cosmologia",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Gal\u00e1xias e Cosmologia",
+                    "sigla": "AST341",
+                    "tipo": "TP",
+                    "turma": "AST341_TP",
+                    "turmac": "AST341_TP",
+                    "duracao": "3",
+                    "sala": "FC3024",
+                    "profsig": "CGGL",
+                    "prof": "Catarina Lobo"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Gal\u00e1xias e Cosmologia",
+                    "sigla": "AST341",
+                    "tipo": "TP",
+                    "turma": "AST341_TP",
+                    "turmac": "AST341_TP",
+                    "duracao": "3",
+                    "sala": "FC3024",
+                    "profsig": "CGGL",
+                    "prof": "Catarina Lobo"
+                }
+            ]
+        },
+        "AST388": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Astronomia Computacional",
+                    "sigla": "AST388",
+                    "tipo": "PL",
+                    "turma": "AST388_PL",
+                    "turmac": "AST388_PL",
+                    "duracao": "6",
+                    "sala": "FC3028",
+                    "profsig": "MJPFGM",
+                    "prof": "M\u00e1rio Jo\u00e3o Monteiro"
+                }
+            ],
+            "nome": "Astronomia Computacional",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Astronomia Computacional",
+                    "sigla": "AST388",
+                    "tipo": "TP",
+                    "turma": "AST388_TP",
+                    "turmac": "AST388_TP",
+                    "duracao": "3",
+                    "sala": "FC3025",
+                    "profsig": "MJPFGM",
+                    "prof": "M\u00e1rio Jo\u00e3o Monteiro"
+                }
+            ]
+        }
+    }
+}

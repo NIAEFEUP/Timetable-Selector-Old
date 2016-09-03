@@ -1,0 +1,2736 @@
+{
+    "1\u00ba Ano": {
+        "DI": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 8,
+                    "nome": "Desenho Industrial",
+                    "sigla": "DI",
+                    "tipo": "T",
+                    "turma": "1MIEGI01",
+                    "turmac": "COMP_1700",
+                    "duracao": "2",
+                    "sala": "B005",
+                    "profsig": "JSA",
+                    "prof": "Jos\u00e9 Almacinha"
+                },
+                {
+                    "dia": 1,
+                    "hora": 10.5,
+                    "nome": "Desenho Industrial",
+                    "sigla": "DI",
+                    "tipo": "T",
+                    "turma": "1MIEGI01",
+                    "turmac": "COMP_1700",
+                    "duracao": "2",
+                    "sala": "B007",
+                    "profsig": "JSA",
+                    "prof": "Jos\u00e9 Almacinha"
+                },
+                {
+                    "dia": 2,
+                    "hora": 8,
+                    "nome": "Desenho Industrial",
+                    "sigla": "DI",
+                    "tipo": "T",
+                    "turma": "1MIEGI02",
+                    "turmac": "COMP_1700",
+                    "duracao": "2",
+                    "sala": "B005",
+                    "profsig": "JSA",
+                    "prof": "Jos\u00e9 Almacinha"
+                },
+                {
+                    "dia": 1,
+                    "hora": 10.5,
+                    "nome": "Desenho Industrial",
+                    "sigla": "DI",
+                    "tipo": "T",
+                    "turma": "1MIEGI02",
+                    "turmac": "COMP_1700",
+                    "duracao": "2",
+                    "sala": "B007",
+                    "profsig": "JSA",
+                    "prof": "Jos\u00e9 Almacinha"
+                },
+                {
+                    "dia": 2,
+                    "hora": 8,
+                    "nome": "Desenho Industrial",
+                    "sigla": "DI",
+                    "tipo": "T",
+                    "turma": "1MIEGI03",
+                    "turmac": "COMP_1700",
+                    "duracao": "2",
+                    "sala": "B005",
+                    "profsig": "JSA",
+                    "prof": "Jos\u00e9 Almacinha"
+                },
+                {
+                    "dia": 1,
+                    "hora": 10.5,
+                    "nome": "Desenho Industrial",
+                    "sigla": "DI",
+                    "tipo": "T",
+                    "turma": "1MIEGI03",
+                    "turmac": "COMP_1700",
+                    "duracao": "2",
+                    "sala": "B007",
+                    "profsig": "JSA",
+                    "prof": "Jos\u00e9 Almacinha"
+                },
+                {
+                    "dia": 2,
+                    "hora": 8,
+                    "nome": "Desenho Industrial",
+                    "sigla": "DI",
+                    "tipo": "T",
+                    "turma": "1MIEGI04",
+                    "turmac": "COMP_1700",
+                    "duracao": "2",
+                    "sala": "B005",
+                    "profsig": "JSA",
+                    "prof": "Jos\u00e9 Almacinha"
+                },
+                {
+                    "dia": 1,
+                    "hora": 10.5,
+                    "nome": "Desenho Industrial",
+                    "sigla": "DI",
+                    "tipo": "T",
+                    "turma": "1MIEGI04",
+                    "turmac": "COMP_1700",
+                    "duracao": "2",
+                    "sala": "B007",
+                    "profsig": "JSA",
+                    "prof": "Jos\u00e9 Almacinha"
+                },
+                {
+                    "dia": 2,
+                    "hora": 8,
+                    "nome": "Desenho Industrial",
+                    "sigla": "DI",
+                    "tipo": "T",
+                    "turma": "1MIEGI05",
+                    "turmac": "COMP_1700",
+                    "duracao": "2",
+                    "sala": "B005",
+                    "profsig": "JSA",
+                    "prof": "Jos\u00e9 Almacinha"
+                },
+                {
+                    "dia": 1,
+                    "hora": 10.5,
+                    "nome": "Desenho Industrial",
+                    "sigla": "DI",
+                    "tipo": "T",
+                    "turma": "1MIEGI05",
+                    "turmac": "COMP_1700",
+                    "duracao": "2",
+                    "sala": "B007",
+                    "profsig": "JSA",
+                    "prof": "Jos\u00e9 Almacinha"
+                }
+            ],
+            "nome": "Desenho Industrial",
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "Desenho Industrial",
+                    "sigla": "DI",
+                    "tipo": "TP",
+                    "turma": "1MIEGI01",
+                    "turmac": "1MIEGI01",
+                    "duracao": "4",
+                    "sala": "B108",
+                    "profsig": "FPBM",
+                    "prof": "Fernando Macedo"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Desenho Industrial",
+                    "sigla": "DI",
+                    "tipo": "TP",
+                    "turma": "1MIEGI02",
+                    "turmac": "1MIEGI02",
+                    "duracao": "4",
+                    "sala": "B112",
+                    "profsig": "LGC",
+                    "prof": "Lu\u00eds Galamba Carvalho"
+                },
+                {
+                    "dia": 4,
+                    "hora": 13.5,
+                    "nome": "Desenho Industrial",
+                    "sigla": "DI",
+                    "tipo": "TP",
+                    "turma": "1MIEGI03",
+                    "turmac": "1MIEGI03",
+                    "duracao": "4",
+                    "sala": "B108",
+                    "profsig": "FPBM",
+                    "prof": "Fernando Macedo"
+                },
+                {
+                    "dia": 3,
+                    "hora": 16,
+                    "nome": "Desenho Industrial",
+                    "sigla": "DI",
+                    "tipo": "TP",
+                    "turma": "1MIEGI04",
+                    "turmac": "1MIEGI04",
+                    "duracao": "4",
+                    "sala": "B108",
+                    "profsig": "LGC",
+                    "prof": "Lu\u00eds Galamba Carvalho"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14.5,
+                    "nome": "Desenho Industrial",
+                    "sigla": "DI",
+                    "tipo": "TP",
+                    "turma": "1MIEGI05",
+                    "turmac": "1MIEGI05",
+                    "duracao": "4",
+                    "sala": "B112",
+                    "profsig": "JRM",
+                    "prof": "Jos\u00e9 Duarte Marafona"
+                }
+            ]
+        },
+        "AMI": {
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 8,
+                    "nome": "An\u00e1lise Matem\u00e1tica I",
+                    "sigla": "AMI",
+                    "tipo": "T",
+                    "turma": "1MIEGI01",
+                    "turmac": "COMP_1700",
+                    "duracao": "3",
+                    "sala": "B023",
+                    "profsig": "CCA",
+                    "prof": "Carlos Alberto Concei\u00e7\u00e3o Ant\u00f3nio"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "An\u00e1lise Matem\u00e1tica I",
+                    "sigla": "AMI",
+                    "tipo": "T",
+                    "turma": "1MIEGI01",
+                    "turmac": "COMP_1700",
+                    "duracao": "3",
+                    "sala": "B005",
+                    "profsig": "CCA",
+                    "prof": "Carlos Alberto Concei\u00e7\u00e3o Ant\u00f3nio"
+                },
+                {
+                    "dia": 3,
+                    "hora": 8,
+                    "nome": "An\u00e1lise Matem\u00e1tica I",
+                    "sigla": "AMI",
+                    "tipo": "T",
+                    "turma": "1MIEGI02",
+                    "turmac": "COMP_1700",
+                    "duracao": "3",
+                    "sala": "B023",
+                    "profsig": "CCA",
+                    "prof": "Carlos Alberto Concei\u00e7\u00e3o Ant\u00f3nio"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "An\u00e1lise Matem\u00e1tica I",
+                    "sigla": "AMI",
+                    "tipo": "T",
+                    "turma": "1MIEGI02",
+                    "turmac": "COMP_1700",
+                    "duracao": "3",
+                    "sala": "B005",
+                    "profsig": "CCA",
+                    "prof": "Carlos Alberto Concei\u00e7\u00e3o Ant\u00f3nio"
+                },
+                {
+                    "dia": 3,
+                    "hora": 8,
+                    "nome": "An\u00e1lise Matem\u00e1tica I",
+                    "sigla": "AMI",
+                    "tipo": "T",
+                    "turma": "1MIEGI03",
+                    "turmac": "COMP_1700",
+                    "duracao": "3",
+                    "sala": "B023",
+                    "profsig": "CCA",
+                    "prof": "Carlos Alberto Concei\u00e7\u00e3o Ant\u00f3nio"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "An\u00e1lise Matem\u00e1tica I",
+                    "sigla": "AMI",
+                    "tipo": "T",
+                    "turma": "1MIEGI03",
+                    "turmac": "COMP_1700",
+                    "duracao": "3",
+                    "sala": "B005",
+                    "profsig": "CCA",
+                    "prof": "Carlos Alberto Concei\u00e7\u00e3o Ant\u00f3nio"
+                },
+                {
+                    "dia": 3,
+                    "hora": 8,
+                    "nome": "An\u00e1lise Matem\u00e1tica I",
+                    "sigla": "AMI",
+                    "tipo": "T",
+                    "turma": "1MIEGI04",
+                    "turmac": "COMP_1700",
+                    "duracao": "3",
+                    "sala": "B023",
+                    "profsig": "CCA",
+                    "prof": "Carlos Alberto Concei\u00e7\u00e3o Ant\u00f3nio"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "An\u00e1lise Matem\u00e1tica I",
+                    "sigla": "AMI",
+                    "tipo": "T",
+                    "turma": "1MIEGI04",
+                    "turmac": "COMP_1700",
+                    "duracao": "3",
+                    "sala": "B005",
+                    "profsig": "CCA",
+                    "prof": "Carlos Alberto Concei\u00e7\u00e3o Ant\u00f3nio"
+                },
+                {
+                    "dia": 3,
+                    "hora": 8,
+                    "nome": "An\u00e1lise Matem\u00e1tica I",
+                    "sigla": "AMI",
+                    "tipo": "T",
+                    "turma": "1MIEGI05",
+                    "turmac": "COMP_1700",
+                    "duracao": "3",
+                    "sala": "B023",
+                    "profsig": "CCA",
+                    "prof": "Carlos Alberto Concei\u00e7\u00e3o Ant\u00f3nio"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "An\u00e1lise Matem\u00e1tica I",
+                    "sigla": "AMI",
+                    "tipo": "T",
+                    "turma": "1MIEGI05",
+                    "turmac": "COMP_1700",
+                    "duracao": "3",
+                    "sala": "B005",
+                    "profsig": "CCA",
+                    "prof": "Carlos Alberto Concei\u00e7\u00e3o Ant\u00f3nio"
+                }
+            ],
+            "nome": "An\u00e1lise Matem\u00e1tica I",
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "An\u00e1lise Matem\u00e1tica I",
+                    "sigla": "AMI",
+                    "tipo": "TP",
+                    "turma": "1MIEGI01",
+                    "turmac": "COMP_1702",
+                    "duracao": "4",
+                    "sala": "B334",
+                    "profsig": "LMS",
+                    "prof": "Luisa Costa Sousa"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "An\u00e1lise Matem\u00e1tica I",
+                    "sigla": "AMI",
+                    "tipo": "TP",
+                    "turma": "1MIEGI02",
+                    "turmac": "COMP_1702",
+                    "duracao": "4",
+                    "sala": "B334",
+                    "profsig": "LMS",
+                    "prof": "Luisa Costa Sousa"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "An\u00e1lise Matem\u00e1tica I",
+                    "sigla": "AMI",
+                    "tipo": "TP",
+                    "turma": "1MIEGI03",
+                    "turmac": "COMP_934",
+                    "duracao": "4",
+                    "sala": "B336",
+                    "profsig": "CRC",
+                    "prof": "Catarina Castro"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "An\u00e1lise Matem\u00e1tica I",
+                    "sigla": "AMI",
+                    "tipo": "TP",
+                    "turma": "1MIEGI04",
+                    "turmac": "COMP_934",
+                    "duracao": "4",
+                    "sala": "B336",
+                    "profsig": "CRC",
+                    "prof": "Catarina Castro"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "An\u00e1lise Matem\u00e1tica I",
+                    "sigla": "AMI",
+                    "tipo": "TP",
+                    "turma": "1MIEGI05",
+                    "turmac": "1MIEGI05",
+                    "duracao": "4",
+                    "sala": "B326",
+                    "profsig": "CRC",
+                    "prof": "Catarina Castro"
+                }
+            ]
+        },
+        "ALGA": {
+            "T": [
+                {
+                    "dia": 5,
+                    "hora": 8,
+                    "nome": "\u00c1lgebra Linear e Geometria Anal\u00edtica",
+                    "sigla": "ALGA",
+                    "tipo": "T",
+                    "turma": "1MIEGI01",
+                    "turmac": "COMP_1700",
+                    "duracao": "2",
+                    "sala": "B014",
+                    "profsig": "JTB",
+                    "prof": "Jos\u00e9 Barbosa"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "\u00c1lgebra Linear e Geometria Anal\u00edtica",
+                    "sigla": "ALGA",
+                    "tipo": "T",
+                    "turma": "1MIEGI01",
+                    "turmac": "COMP_1700",
+                    "duracao": "2",
+                    "sala": "B015",
+                    "profsig": "JTB",
+                    "prof": "Jos\u00e9 Barbosa"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11.5,
+                    "nome": "\u00c1lgebra Linear e Geometria Anal\u00edtica",
+                    "sigla": "ALGA",
+                    "tipo": "T",
+                    "turma": "1MIEGI01",
+                    "turmac": "COMP_1700",
+                    "duracao": "3",
+                    "sala": "B015",
+                    "profsig": "JTB",
+                    "prof": "Jos\u00e9 Barbosa"
+                },
+                {
+                    "dia": 5,
+                    "hora": 8,
+                    "nome": "\u00c1lgebra Linear e Geometria Anal\u00edtica",
+                    "sigla": "ALGA",
+                    "tipo": "T",
+                    "turma": "1MIEGI02",
+                    "turmac": "COMP_1700",
+                    "duracao": "2",
+                    "sala": "B014",
+                    "profsig": "JTB",
+                    "prof": "Jos\u00e9 Barbosa"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "\u00c1lgebra Linear e Geometria Anal\u00edtica",
+                    "sigla": "ALGA",
+                    "tipo": "T",
+                    "turma": "1MIEGI02",
+                    "turmac": "COMP_1700",
+                    "duracao": "2",
+                    "sala": "B015",
+                    "profsig": "JTB",
+                    "prof": "Jos\u00e9 Barbosa"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11.5,
+                    "nome": "\u00c1lgebra Linear e Geometria Anal\u00edtica",
+                    "sigla": "ALGA",
+                    "tipo": "T",
+                    "turma": "1MIEGI02",
+                    "turmac": "COMP_1700",
+                    "duracao": "3",
+                    "sala": "B015",
+                    "profsig": "JTB",
+                    "prof": "Jos\u00e9 Barbosa"
+                },
+                {
+                    "dia": 5,
+                    "hora": 8,
+                    "nome": "\u00c1lgebra Linear e Geometria Anal\u00edtica",
+                    "sigla": "ALGA",
+                    "tipo": "T",
+                    "turma": "1MIEGI03",
+                    "turmac": "COMP_1700",
+                    "duracao": "2",
+                    "sala": "B014",
+                    "profsig": "JTB",
+                    "prof": "Jos\u00e9 Barbosa"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "\u00c1lgebra Linear e Geometria Anal\u00edtica",
+                    "sigla": "ALGA",
+                    "tipo": "T",
+                    "turma": "1MIEGI03",
+                    "turmac": "COMP_1700",
+                    "duracao": "2",
+                    "sala": "B015",
+                    "profsig": "JTB",
+                    "prof": "Jos\u00e9 Barbosa"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11.5,
+                    "nome": "\u00c1lgebra Linear e Geometria Anal\u00edtica",
+                    "sigla": "ALGA",
+                    "tipo": "T",
+                    "turma": "1MIEGI03",
+                    "turmac": "COMP_1700",
+                    "duracao": "3",
+                    "sala": "B015",
+                    "profsig": "JTB",
+                    "prof": "Jos\u00e9 Barbosa"
+                },
+                {
+                    "dia": 5,
+                    "hora": 8,
+                    "nome": "\u00c1lgebra Linear e Geometria Anal\u00edtica",
+                    "sigla": "ALGA",
+                    "tipo": "T",
+                    "turma": "1MIEGI04",
+                    "turmac": "COMP_1700",
+                    "duracao": "2",
+                    "sala": "B014",
+                    "profsig": "JTB",
+                    "prof": "Jos\u00e9 Barbosa"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "\u00c1lgebra Linear e Geometria Anal\u00edtica",
+                    "sigla": "ALGA",
+                    "tipo": "T",
+                    "turma": "1MIEGI04",
+                    "turmac": "COMP_1700",
+                    "duracao": "2",
+                    "sala": "B015",
+                    "profsig": "JTB",
+                    "prof": "Jos\u00e9 Barbosa"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11.5,
+                    "nome": "\u00c1lgebra Linear e Geometria Anal\u00edtica",
+                    "sigla": "ALGA",
+                    "tipo": "T",
+                    "turma": "1MIEGI04",
+                    "turmac": "COMP_1700",
+                    "duracao": "3",
+                    "sala": "B015",
+                    "profsig": "JTB",
+                    "prof": "Jos\u00e9 Barbosa"
+                },
+                {
+                    "dia": 5,
+                    "hora": 8,
+                    "nome": "\u00c1lgebra Linear e Geometria Anal\u00edtica",
+                    "sigla": "ALGA",
+                    "tipo": "T",
+                    "turma": "1MIEGI05",
+                    "turmac": "COMP_1700",
+                    "duracao": "2",
+                    "sala": "B014",
+                    "profsig": "JTB",
+                    "prof": "Jos\u00e9 Barbosa"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "\u00c1lgebra Linear e Geometria Anal\u00edtica",
+                    "sigla": "ALGA",
+                    "tipo": "T",
+                    "turma": "1MIEGI05",
+                    "turmac": "COMP_1700",
+                    "duracao": "2",
+                    "sala": "B015",
+                    "profsig": "JTB",
+                    "prof": "Jos\u00e9 Barbosa"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11.5,
+                    "nome": "\u00c1lgebra Linear e Geometria Anal\u00edtica",
+                    "sigla": "ALGA",
+                    "tipo": "T",
+                    "turma": "1MIEGI05",
+                    "turmac": "COMP_1700",
+                    "duracao": "3",
+                    "sala": "B015",
+                    "profsig": "JTB",
+                    "prof": "Jos\u00e9 Barbosa"
+                }
+            ],
+            "nome": "\u00c1lgebra Linear e Geometria Anal\u00edtica",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 8.5,
+                    "nome": "\u00c1lgebra Linear e Geometria Anal\u00edtica",
+                    "sigla": "ALGA",
+                    "tipo": "TP",
+                    "turma": "1MIEGI01",
+                    "turmac": "COMP_1702",
+                    "duracao": "4",
+                    "sala": "B219",
+                    "profsig": "PALDSM",
+                    "prof": "Pedro Martins"
+                },
+                {
+                    "dia": 1,
+                    "hora": 8.5,
+                    "nome": "\u00c1lgebra Linear e Geometria Anal\u00edtica",
+                    "sigla": "ALGA",
+                    "tipo": "TP",
+                    "turma": "1MIEGI02",
+                    "turmac": "COMP_1702",
+                    "duracao": "4",
+                    "sala": "B219",
+                    "profsig": "PALDSM",
+                    "prof": "Pedro Martins"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "\u00c1lgebra Linear e Geometria Anal\u00edtica",
+                    "sigla": "ALGA",
+                    "tipo": "TP",
+                    "turma": "1MIEGI03",
+                    "turmac": "COMP_934",
+                    "duracao": "4",
+                    "sala": "B113",
+                    "profsig": "PALDSM",
+                    "prof": "Pedro Martins"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "\u00c1lgebra Linear e Geometria Anal\u00edtica",
+                    "sigla": "ALGA",
+                    "tipo": "TP",
+                    "turma": "1MIEGI04",
+                    "turmac": "COMP_934",
+                    "duracao": "4",
+                    "sala": "B113",
+                    "profsig": "PALDSM",
+                    "prof": "Pedro Martins"
+                },
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "\u00c1lgebra Linear e Geometria Anal\u00edtica",
+                    "sigla": "ALGA",
+                    "tipo": "TP",
+                    "turma": "1MIEGI05",
+                    "turmac": "1MIEGI05",
+                    "duracao": "4",
+                    "sala": "B217",
+                    "profsig": "JTB",
+                    "prof": "Jos\u00e9 Barbosa"
+                }
+            ]
+        },
+        "MACRO": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Macroeconomia",
+                    "sigla": "MACRO",
+                    "tipo": "TP",
+                    "turma": "1MIEGI01",
+                    "turmac": "COMP_1702",
+                    "duracao": "3",
+                    "sala": "B330",
+                    "profsig": "ASMD",
+                    "prof": "Andreia Dias"
+                },
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Macroeconomia",
+                    "sigla": "MACRO",
+                    "tipo": "TP",
+                    "turma": "1MIEGI02",
+                    "turmac": "COMP_1702",
+                    "duracao": "3",
+                    "sala": "B330",
+                    "profsig": "ASMD",
+                    "prof": "Andreia Dias"
+                },
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Macroeconomia",
+                    "sigla": "MACRO",
+                    "tipo": "TP",
+                    "turma": "1MIEGI03",
+                    "turmac": "COMP_934",
+                    "duracao": "3",
+                    "sala": "B115",
+                    "profsig": "ASMD",
+                    "prof": "Andreia Dias"
+                },
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Macroeconomia",
+                    "sigla": "MACRO",
+                    "tipo": "TP",
+                    "turma": "1MIEGI04",
+                    "turmac": "COMP_934",
+                    "duracao": "3",
+                    "sala": "B115",
+                    "profsig": "ASMD",
+                    "prof": "Andreia Dias"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Macroeconomia",
+                    "sigla": "MACRO",
+                    "tipo": "TP",
+                    "turma": "1MIEGI05",
+                    "turmac": "1MIEGI05",
+                    "duracao": "3",
+                    "sala": "B115",
+                    "profsig": "ASMD",
+                    "prof": "Andreia Dias"
+                }
+            ],
+            "nome": "Macroeconomia",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Macroeconomia",
+                    "sigla": "MACRO",
+                    "tipo": "T",
+                    "turma": "1MIEGI01",
+                    "turmac": "COMP_1700",
+                    "duracao": "3",
+                    "sala": "B017",
+                    "profsig": "NPS",
+                    "prof": "Nuno Soares"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Macroeconomia",
+                    "sigla": "MACRO",
+                    "tipo": "T",
+                    "turma": "1MIEGI02",
+                    "turmac": "COMP_1700",
+                    "duracao": "3",
+                    "sala": "B017",
+                    "profsig": "NPS",
+                    "prof": "Nuno Soares"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Macroeconomia",
+                    "sigla": "MACRO",
+                    "tipo": "T",
+                    "turma": "1MIEGI03",
+                    "turmac": "COMP_1700",
+                    "duracao": "3",
+                    "sala": "B017",
+                    "profsig": "NPS",
+                    "prof": "Nuno Soares"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Macroeconomia",
+                    "sigla": "MACRO",
+                    "tipo": "T",
+                    "turma": "1MIEGI04",
+                    "turmac": "COMP_1700",
+                    "duracao": "3",
+                    "sala": "B017",
+                    "profsig": "NPS",
+                    "prof": "Nuno Soares"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Macroeconomia",
+                    "sigla": "MACRO",
+                    "tipo": "T",
+                    "turma": "1MIEGI05",
+                    "turmac": "COMP_1700",
+                    "duracao": "3",
+                    "sala": "B017",
+                    "profsig": "NPS",
+                    "prof": "Nuno Soares"
+                }
+            ]
+        },
+        "PC I": {
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 9.5,
+                    "nome": "Programa\u00e7\u00e3o de Computadores I",
+                    "sigla": "PC I",
+                    "tipo": "T",
+                    "turma": "1MIEGI01",
+                    "turmac": "COMP_1700",
+                    "duracao": "3",
+                    "sala": "B023",
+                    "profsig": "ACB",
+                    "prof": "Ant\u00f3nio Carvalho Brito"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9.5,
+                    "nome": "Programa\u00e7\u00e3o de Computadores I",
+                    "sigla": "PC I",
+                    "tipo": "T",
+                    "turma": "1MIEGI02",
+                    "turmac": "COMP_1700",
+                    "duracao": "3",
+                    "sala": "B023",
+                    "profsig": "ACB",
+                    "prof": "Ant\u00f3nio Carvalho Brito"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9.5,
+                    "nome": "Programa\u00e7\u00e3o de Computadores I",
+                    "sigla": "PC I",
+                    "tipo": "T",
+                    "turma": "1MIEGI03",
+                    "turmac": "COMP_1700",
+                    "duracao": "3",
+                    "sala": "B023",
+                    "profsig": "ACB",
+                    "prof": "Ant\u00f3nio Carvalho Brito"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9.5,
+                    "nome": "Programa\u00e7\u00e3o de Computadores I",
+                    "sigla": "PC I",
+                    "tipo": "T",
+                    "turma": "1MIEGI04",
+                    "turmac": "COMP_1700",
+                    "duracao": "3",
+                    "sala": "B023",
+                    "profsig": "ACB",
+                    "prof": "Ant\u00f3nio Carvalho Brito"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9.5,
+                    "nome": "Programa\u00e7\u00e3o de Computadores I",
+                    "sigla": "PC I",
+                    "tipo": "T",
+                    "turma": "1MIEGI05",
+                    "turmac": "COMP_1700",
+                    "duracao": "3",
+                    "sala": "B023",
+                    "profsig": "ACB",
+                    "prof": "Ant\u00f3nio Carvalho Brito"
+                }
+            ],
+            "nome": "Programa\u00e7\u00e3o de Computadores I",
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Programa\u00e7\u00e3o de Computadores I",
+                    "sigla": "PC I",
+                    "tipo": "TP",
+                    "turma": "1MIEGI01",
+                    "turmac": "1MIEGI01",
+                    "duracao": "4",
+                    "sala": "B303",
+                    "profsig": "ACB",
+                    "prof": "Ant\u00f3nio Carvalho Brito"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Programa\u00e7\u00e3o de Computadores I",
+                    "sigla": "PC I",
+                    "tipo": "TP",
+                    "turma": "1MIEGI02",
+                    "turmac": "1MIEGI02",
+                    "duracao": "4",
+                    "sala": "B314",
+                    "profsig": "ACB",
+                    "prof": "Ant\u00f3nio Carvalho Brito"
+                },
+                {
+                    "dia": 3,
+                    "hora": 16,
+                    "nome": "Programa\u00e7\u00e3o de Computadores I",
+                    "sigla": "PC I",
+                    "tipo": "TP",
+                    "turma": "1MIEGI03",
+                    "turmac": "1MIEGI03",
+                    "duracao": "4",
+                    "sala": "B204",
+                    "profsig": "DNGF",
+                    "prof": "Duarte Ferreira"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Programa\u00e7\u00e3o de Computadores I",
+                    "sigla": "PC I",
+                    "tipo": "TP",
+                    "turma": "1MIEGI04",
+                    "turmac": "1MIEGI04",
+                    "duracao": "4",
+                    "sala": "B314",
+                    "profsig": "ACB",
+                    "prof": "Ant\u00f3nio Carvalho Brito"
+                },
+                {
+                    "dia": 1,
+                    "hora": 8.5,
+                    "nome": "Programa\u00e7\u00e3o de Computadores I",
+                    "sigla": "PC I",
+                    "tipo": "TP",
+                    "turma": "1MIEGI05",
+                    "turmac": "1MIEGI05",
+                    "duracao": "4",
+                    "sala": "B204",
+                    "profsig": "ACB",
+                    "prof": "Ant\u00f3nio Carvalho Brito"
+                }
+            ]
+        }
+    },
+    "2\u00ba Ano": {
+        "AM III": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 10.5,
+                    "nome": "An\u00e1lise Matem\u00e1tica III",
+                    "sigla": "AM III",
+                    "tipo": "TP",
+                    "turma": "2MIEGI01",
+                    "turmac": "2MIEGI01",
+                    "duracao": "4",
+                    "sala": "B326",
+                    "profsig": "SISP",
+                    "prof": "S\u00f3nia Pinto"
+                },
+                {
+                    "dia": 3,
+                    "hora": 17,
+                    "nome": "An\u00e1lise Matem\u00e1tica III",
+                    "sigla": "AM III",
+                    "tipo": "TP",
+                    "turma": "2MIEGI02",
+                    "turmac": "2MIEGI02",
+                    "duracao": "4",
+                    "sala": "B319",
+                    "profsig": "SISP",
+                    "prof": "S\u00f3nia Pinto"
+                },
+                {
+                    "dia": 3,
+                    "hora": 17,
+                    "nome": "An\u00e1lise Matem\u00e1tica III",
+                    "sigla": "AM III",
+                    "tipo": "TP",
+                    "turma": "2MIEGI03",
+                    "turmac": "2MIEGI03",
+                    "duracao": "4",
+                    "sala": "B101",
+                    "profsig": "RC",
+                    "prof": "Roman Chertovskikh"
+                }
+            ],
+            "nome": "An\u00e1lise Matem\u00e1tica III",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "An\u00e1lise Matem\u00e1tica III",
+                    "sigla": "AM III",
+                    "tipo": "T",
+                    "turma": "2MIEGI01",
+                    "turmac": "COMP_1567",
+                    "duracao": "2",
+                    "sala": "B007",
+                    "profsig": "MLM+RC",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "An\u00e1lise Matem\u00e1tica III",
+                    "sigla": "AM III",
+                    "tipo": "T",
+                    "turma": "2MIEGI01",
+                    "turmac": "COMP_1567",
+                    "duracao": "2",
+                    "sala": "B010",
+                    "profsig": "MLM+RC",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "An\u00e1lise Matem\u00e1tica III",
+                    "sigla": "AM III",
+                    "tipo": "T",
+                    "turma": "2MIEGI01",
+                    "turmac": "COMP_1567",
+                    "duracao": "2",
+                    "sala": "B005",
+                    "profsig": "MLM+RC",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "An\u00e1lise Matem\u00e1tica III",
+                    "sigla": "AM III",
+                    "tipo": "T",
+                    "turma": "2MIEGI02",
+                    "turmac": "COMP_1567",
+                    "duracao": "2",
+                    "sala": "B007",
+                    "profsig": "MLM+RC",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "An\u00e1lise Matem\u00e1tica III",
+                    "sigla": "AM III",
+                    "tipo": "T",
+                    "turma": "2MIEGI02",
+                    "turmac": "COMP_1567",
+                    "duracao": "2",
+                    "sala": "B010",
+                    "profsig": "MLM+RC",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "An\u00e1lise Matem\u00e1tica III",
+                    "sigla": "AM III",
+                    "tipo": "T",
+                    "turma": "2MIEGI02",
+                    "turmac": "COMP_1567",
+                    "duracao": "2",
+                    "sala": "B005",
+                    "profsig": "MLM+RC",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "An\u00e1lise Matem\u00e1tica III",
+                    "sigla": "AM III",
+                    "tipo": "T",
+                    "turma": "2MIEGI03",
+                    "turmac": "COMP_1567",
+                    "duracao": "2",
+                    "sala": "B007",
+                    "profsig": "MLM+RC",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "An\u00e1lise Matem\u00e1tica III",
+                    "sigla": "AM III",
+                    "tipo": "T",
+                    "turma": "2MIEGI03",
+                    "turmac": "COMP_1567",
+                    "duracao": "2",
+                    "sala": "B010",
+                    "profsig": "MLM+RC",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "An\u00e1lise Matem\u00e1tica III",
+                    "sigla": "AM III",
+                    "tipo": "T",
+                    "turma": "2MIEGI03",
+                    "turmac": "COMP_1567",
+                    "duracao": "2",
+                    "sala": "B005",
+                    "profsig": "MLM+RC",
+                    "prof": null
+                }
+            ]
+        },
+        "MI": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Microeconomia",
+                    "sigla": "MI",
+                    "tipo": "TP",
+                    "turma": "2MIEGI01",
+                    "turmac": "2MIEGI01",
+                    "duracao": "4",
+                    "sala": "B105",
+                    "profsig": "MAL",
+                    "prof": "M\u00e1rio Lopes"
+                },
+                {
+                    "dia": 5,
+                    "hora": 16,
+                    "nome": "Microeconomia",
+                    "sigla": "MI",
+                    "tipo": "TP",
+                    "turma": "2MIEGI02",
+                    "turmac": "2MIEGI02",
+                    "duracao": "4",
+                    "sala": "B110",
+                    "profsig": "MAL",
+                    "prof": "M\u00e1rio Lopes"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Microeconomia",
+                    "sigla": "MI",
+                    "tipo": "TP",
+                    "turma": "2MIEGI03",
+                    "turmac": "2MIEGI03",
+                    "duracao": "4",
+                    "sala": "B217",
+                    "profsig": "SCGSCG",
+                    "prof": null
+                }
+            ],
+            "nome": "Microeconomia",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 15,
+                    "nome": "Microeconomia",
+                    "sigla": "MI",
+                    "tipo": "T",
+                    "turma": "2MIEGI01",
+                    "turmac": "COMP_1567",
+                    "duracao": "4",
+                    "sala": "B007",
+                    "profsig": "NPS",
+                    "prof": "Nuno Soares"
+                },
+                {
+                    "dia": 2,
+                    "hora": 15,
+                    "nome": "Microeconomia",
+                    "sigla": "MI",
+                    "tipo": "T",
+                    "turma": "2MIEGI02",
+                    "turmac": "COMP_1567",
+                    "duracao": "4",
+                    "sala": "B007",
+                    "profsig": "NPS",
+                    "prof": "Nuno Soares"
+                },
+                {
+                    "dia": 2,
+                    "hora": 15,
+                    "nome": "Microeconomia",
+                    "sigla": "MI",
+                    "tipo": "T",
+                    "turma": "2MIEGI03",
+                    "turmac": "COMP_1567",
+                    "duracao": "4",
+                    "sala": "B007",
+                    "profsig": "NPS",
+                    "prof": "Nuno Soares"
+                }
+            ]
+        },
+        "EST": {
+            "T": [
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Estat\u00edstica",
+                    "sigla": "EST",
+                    "tipo": "T",
+                    "turma": "2MIEGI01",
+                    "turmac": "COMP_1567",
+                    "duracao": "4",
+                    "sala": "B007",
+                    "profsig": "AMG",
+                    "prof": "Miguel Gomes"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Estat\u00edstica",
+                    "sigla": "EST",
+                    "tipo": "T",
+                    "turma": "2MIEGI02",
+                    "turmac": "COMP_1567",
+                    "duracao": "4",
+                    "sala": "B007",
+                    "profsig": "AMG",
+                    "prof": "Miguel Gomes"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Estat\u00edstica",
+                    "sigla": "EST",
+                    "tipo": "T",
+                    "turma": "2MIEGI03",
+                    "turmac": "COMP_1567",
+                    "duracao": "4",
+                    "sala": "B007",
+                    "profsig": "AMG",
+                    "prof": "Miguel Gomes"
+                }
+            ],
+            "nome": "Estat\u00edstica",
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 16,
+                    "nome": "Estat\u00edstica",
+                    "sigla": "EST",
+                    "tipo": "TP",
+                    "turma": "2MIEGI01",
+                    "turmac": "2MIEGI01",
+                    "duracao": "4",
+                    "sala": "B217",
+                    "profsig": "AMG",
+                    "prof": "Miguel Gomes"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Estat\u00edstica",
+                    "sigla": "EST",
+                    "tipo": "TP",
+                    "turma": "2MIEGI02",
+                    "turmac": "2MIEGI02",
+                    "duracao": "4",
+                    "sala": "B318",
+                    "profsig": "AMG",
+                    "prof": "Miguel Gomes"
+                },
+                {
+                    "dia": 2,
+                    "hora": 17,
+                    "nome": "Estat\u00edstica",
+                    "sigla": "EST",
+                    "tipo": "TP",
+                    "turma": "2MIEGI03",
+                    "turmac": "2MIEGI03",
+                    "duracao": "4",
+                    "sala": "B334",
+                    "profsig": "AMG",
+                    "prof": "Miguel Gomes"
+                }
+            ]
+        },
+        "MECI": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 14.5,
+                    "nome": "Mec\u00e2nica I",
+                    "sigla": "MECI",
+                    "tipo": "TP",
+                    "turma": "2MIEGI01",
+                    "turmac": "2MIEGI01",
+                    "duracao": "3",
+                    "sala": "B323",
+                    "profsig": "RMG",
+                    "prof": "Rui Miranda Guedes"
+                },
+                {
+                    "dia": 4,
+                    "hora": 17.5,
+                    "nome": "Mec\u00e2nica I",
+                    "sigla": "MECI",
+                    "tipo": "TP",
+                    "turma": "2MIEGI01",
+                    "turmac": "2MIEGI01",
+                    "duracao": "3",
+                    "sala": "B102",
+                    "profsig": "RMG",
+                    "prof": "Rui Miranda Guedes"
+                },
+                {
+                    "dia": 1,
+                    "hora": 17,
+                    "nome": "Mec\u00e2nica I",
+                    "sigla": "MECI",
+                    "tipo": "TP",
+                    "turma": "2MIEGI02",
+                    "turmac": "2MIEGI02",
+                    "duracao": "3",
+                    "sala": "B102",
+                    "profsig": "JGC",
+                    "prof": "Jos\u00e9 Gon\u00e7alves Chousal"
+                },
+                {
+                    "dia": 2,
+                    "hora": 17.5,
+                    "nome": "Mec\u00e2nica I",
+                    "sigla": "MECI",
+                    "tipo": "TP",
+                    "turma": "2MIEGI02",
+                    "turmac": "2MIEGI02",
+                    "duracao": "3",
+                    "sala": "B110",
+                    "profsig": "JGC",
+                    "prof": "Jos\u00e9 Gon\u00e7alves Chousal"
+                },
+                {
+                    "dia": 5,
+                    "hora": 16,
+                    "nome": "Mec\u00e2nica I",
+                    "sigla": "MECI",
+                    "tipo": "TP",
+                    "turma": "2MIEGI03",
+                    "turmac": "2MIEGI03",
+                    "duracao": "3",
+                    "sala": "B319",
+                    "profsig": "RMG",
+                    "prof": "Rui Miranda Guedes"
+                },
+                {
+                    "dia": 1,
+                    "hora": 17,
+                    "nome": "Mec\u00e2nica I",
+                    "sigla": "MECI",
+                    "tipo": "TP",
+                    "turma": "2MIEGI03",
+                    "turmac": "2MIEGI03",
+                    "duracao": "3",
+                    "sala": "B326",
+                    "profsig": "RMG",
+                    "prof": "Rui Miranda Guedes"
+                }
+            ],
+            "nome": "Mec\u00e2nica I",
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Mec\u00e2nica I",
+                    "sigla": "MECI",
+                    "tipo": "T",
+                    "turma": "2MIEGI01",
+                    "turmac": "COMP_1574",
+                    "duracao": "3",
+                    "sala": "B001",
+                    "profsig": "RMG",
+                    "prof": "Rui Miranda Guedes"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Mec\u00e2nica I",
+                    "sigla": "MECI",
+                    "tipo": "T",
+                    "turma": "2MIEGI02",
+                    "turmac": "COMP_1574",
+                    "duracao": "3",
+                    "sala": "B001",
+                    "profsig": "RMG",
+                    "prof": "Rui Miranda Guedes"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Mec\u00e2nica I",
+                    "sigla": "MECI",
+                    "tipo": "T",
+                    "turma": "2MIEGI03",
+                    "turmac": "COMP_1574",
+                    "duracao": "3",
+                    "sala": "B001",
+                    "profsig": "RMG",
+                    "prof": "Rui Miranda Guedes"
+                }
+            ]
+        },
+        "TERMO": {
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 15,
+                    "nome": "Termodin\u00e2mica",
+                    "sigla": "TERMO",
+                    "tipo": "T",
+                    "turma": "2MIEGI01",
+                    "turmac": "COMP_1571",
+                    "duracao": "4",
+                    "sala": "B002",
+                    "profsig": "PMC",
+                    "prof": "Paulo Jos\u00e9 Coelho"
+                },
+                {
+                    "dia": 3,
+                    "hora": 15,
+                    "nome": "Termodin\u00e2mica",
+                    "sigla": "TERMO",
+                    "tipo": "T",
+                    "turma": "2MIEGI02",
+                    "turmac": "COMP_1571",
+                    "duracao": "4",
+                    "sala": "B002",
+                    "profsig": "PMC",
+                    "prof": "Paulo Jos\u00e9 Coelho"
+                },
+                {
+                    "dia": 3,
+                    "hora": 15,
+                    "nome": "Termodin\u00e2mica",
+                    "sigla": "TERMO",
+                    "tipo": "T",
+                    "turma": "2MIEGI03",
+                    "turmac": "COMP_1571",
+                    "duracao": "4",
+                    "sala": "B002",
+                    "profsig": "PMC",
+                    "prof": "Paulo Jos\u00e9 Coelho"
+                }
+            ],
+            "nome": "Termodin\u00e2mica",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 17,
+                    "nome": "Termodin\u00e2mica",
+                    "sigla": "TERMO",
+                    "tipo": "TP",
+                    "turma": "2MIEGI01",
+                    "turmac": "2MIEGI01",
+                    "duracao": "4",
+                    "sala": "B332",
+                    "profsig": "JDPS",
+                    "prof": "Jo\u00e3o Soares"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Termodin\u00e2mica",
+                    "sigla": "TERMO",
+                    "tipo": "TP",
+                    "turma": "2MIEGI02",
+                    "turmac": "2MIEGI02",
+                    "duracao": "4",
+                    "sala": "B232A",
+                    "profsig": "JDPS",
+                    "prof": "Jo\u00e3o Soares"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Termodin\u00e2mica",
+                    "sigla": "TERMO",
+                    "tipo": "TP",
+                    "turma": "2MIEGI03",
+                    "turmac": "2MIEGI03",
+                    "duracao": "4",
+                    "sala": "B332",
+                    "profsig": "VMSL",
+                    "prof": "V\u00edtor Leal"
+                }
+            ]
+        }
+    },
+    "3\u00ba Ano": {
+        "RM": {
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 8,
+                    "nome": "Resist\u00eancia dos Materiais",
+                    "sigla": "RM",
+                    "tipo": "T",
+                    "turma": "3MIEGI01",
+                    "turmac": "COMP_1538",
+                    "duracao": "4",
+                    "sala": "B020",
+                    "profsig": "FAP+LMD",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 8,
+                    "nome": "Resist\u00eancia dos Materiais",
+                    "sigla": "RM",
+                    "tipo": "T",
+                    "turma": "3MIEGI02",
+                    "turmac": "COMP_1538",
+                    "duracao": "4",
+                    "sala": "B020",
+                    "profsig": "FAP+LMD",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 8,
+                    "nome": "Resist\u00eancia dos Materiais",
+                    "sigla": "RM",
+                    "tipo": "T",
+                    "turma": "3MIEGI03",
+                    "turmac": "COMP_1538",
+                    "duracao": "4",
+                    "sala": "B020",
+                    "profsig": "FAP+LMD",
+                    "prof": null
+                }
+            ],
+            "nome": "Resist\u00eancia dos Materiais",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "Resist\u00eancia dos Materiais",
+                    "sigla": "RM",
+                    "tipo": "TP",
+                    "turma": "3MIEGI01",
+                    "turmac": "3MIEGI01",
+                    "duracao": "4",
+                    "sala": "B101",
+                    "profsig": "LMD",
+                    "prof": "L\u00facia Dinis"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Resist\u00eancia dos Materiais",
+                    "sigla": "RM",
+                    "tipo": "TP",
+                    "turma": "3MIEGI02",
+                    "turmac": "3MIEGI02",
+                    "duracao": "4",
+                    "sala": "B232A",
+                    "profsig": "FAP",
+                    "prof": "Francisco Andrade Pires"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Resist\u00eancia dos Materiais",
+                    "sigla": "RM",
+                    "tipo": "TP",
+                    "turma": "3MIEGI03",
+                    "turmac": "3MIEGI03",
+                    "duracao": "4",
+                    "sala": "B109",
+                    "profsig": "LMD",
+                    "prof": "L\u00facia Dinis"
+                }
+            ]
+        },
+        "GP": {
+            "T": [
+                {
+                    "dia": 5,
+                    "hora": 8,
+                    "nome": "Gest\u00e3o da Produ\u00e7\u00e3o",
+                    "sigla": "GP",
+                    "tipo": "T",
+                    "turma": "3MIEGI01",
+                    "turmac": "COMP_1538",
+                    "duracao": "4",
+                    "sala": "B003",
+                    "profsig": "LG+JBB",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 8,
+                    "nome": "Gest\u00e3o da Produ\u00e7\u00e3o",
+                    "sigla": "GP",
+                    "tipo": "T",
+                    "turma": "3MIEGI02",
+                    "turmac": "COMP_1538",
+                    "duracao": "4",
+                    "sala": "B003",
+                    "profsig": "LG+JBB",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 8,
+                    "nome": "Gest\u00e3o da Produ\u00e7\u00e3o",
+                    "sigla": "GP",
+                    "tipo": "T",
+                    "turma": "3MIEGI03",
+                    "turmac": "COMP_1538",
+                    "duracao": "4",
+                    "sala": "B003",
+                    "profsig": "LG+JBB",
+                    "prof": null
+                }
+            ],
+            "nome": "Gest\u00e3o da Produ\u00e7\u00e3o",
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "Gest\u00e3o da Produ\u00e7\u00e3o",
+                    "sigla": "GP",
+                    "tipo": "TP",
+                    "turma": "3MIEGI01",
+                    "turmac": "3MIEGI01",
+                    "duracao": "4",
+                    "sala": "B207",
+                    "profsig": "LG",
+                    "prof": "Lu\u00eds Guimar\u00e3es"
+                },
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "Gest\u00e3o da Produ\u00e7\u00e3o",
+                    "sigla": "GP",
+                    "tipo": "TP",
+                    "turma": "3MIEGI02",
+                    "turmac": "3MIEGI02",
+                    "duracao": "4",
+                    "sala": "B207",
+                    "profsig": "LG",
+                    "prof": "Lu\u00eds Guimar\u00e3es"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "Gest\u00e3o da Produ\u00e7\u00e3o",
+                    "sigla": "GP",
+                    "tipo": "TP",
+                    "turma": "3MIEGI03",
+                    "turmac": "3MIEGI03",
+                    "duracao": "4",
+                    "sala": "B301",
+                    "profsig": "JBB",
+                    "prof": "Jos\u00e9 Ant\u00f3nio Barros Basto"
+                }
+            ]
+        },
+        "MI": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Microeconomia",
+                    "sigla": "MI",
+                    "tipo": "T",
+                    "turma": "3MIEGI01",
+                    "turmac": "COMP_1538",
+                    "duracao": "4",
+                    "sala": "B025",
+                    "profsig": "NPS",
+                    "prof": "Nuno Soares"
+                },
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Microeconomia",
+                    "sigla": "MI",
+                    "tipo": "T",
+                    "turma": "3MIEGI02",
+                    "turmac": "COMP_1538",
+                    "duracao": "4",
+                    "sala": "B025",
+                    "profsig": "NPS",
+                    "prof": "Nuno Soares"
+                },
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Microeconomia",
+                    "sigla": "MI",
+                    "tipo": "T",
+                    "turma": "3MIEGI03",
+                    "turmac": "COMP_1538",
+                    "duracao": "4",
+                    "sala": "B025",
+                    "profsig": "NPS",
+                    "prof": "Nuno Soares"
+                }
+            ],
+            "nome": "Microeconomia",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Microeconomia",
+                    "sigla": "MI",
+                    "tipo": "TP",
+                    "turma": "3MIEGI01",
+                    "turmac": "3MIEGI01",
+                    "duracao": "4",
+                    "sala": "B323",
+                    "profsig": "NPS",
+                    "prof": "Nuno Soares"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Microeconomia",
+                    "sigla": "MI",
+                    "tipo": "TP",
+                    "turma": "3MIEGI02",
+                    "turmac": "3MIEGI02",
+                    "duracao": "4",
+                    "sala": "B115",
+                    "profsig": "NPS",
+                    "prof": "Nuno Soares"
+                },
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "Microeconomia",
+                    "sigla": "MI",
+                    "tipo": "TP",
+                    "turma": "3MIEGI03",
+                    "turmac": "3MIEGI03",
+                    "duracao": "4",
+                    "sala": "B113",
+                    "profsig": "SCGSCG",
+                    "prof": null
+                }
+            ]
+        },
+        "IO I": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Investiga\u00e7\u00e3o Operacional I",
+                    "sigla": "IO I",
+                    "tipo": "T",
+                    "turma": "3MIEGI01",
+                    "turmac": "COMP_1538",
+                    "duracao": "4",
+                    "sala": "B010",
+                    "profsig": "AMC",
+                    "prof": "Ana Maria Camanho"
+                },
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Investiga\u00e7\u00e3o Operacional I",
+                    "sigla": "IO I",
+                    "tipo": "T",
+                    "turma": "3MIEGI02",
+                    "turmac": "COMP_1538",
+                    "duracao": "4",
+                    "sala": "B010",
+                    "profsig": "AMC",
+                    "prof": "Ana Maria Camanho"
+                },
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Investiga\u00e7\u00e3o Operacional I",
+                    "sigla": "IO I",
+                    "tipo": "T",
+                    "turma": "3MIEGI03",
+                    "turmac": "COMP_1538",
+                    "duracao": "4",
+                    "sala": "B010",
+                    "profsig": "AMC",
+                    "prof": "Ana Maria Camanho"
+                }
+            ],
+            "nome": "Investiga\u00e7\u00e3o Operacional I",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Investiga\u00e7\u00e3o Operacional I",
+                    "sigla": "IO I",
+                    "tipo": "TP",
+                    "turma": "3MIEGI01",
+                    "turmac": "3MIEGI01",
+                    "duracao": "4",
+                    "sala": "B319",
+                    "profsig": "AMC",
+                    "prof": "Ana Maria Camanho"
+                },
+                {
+                    "dia": 3,
+                    "hora": 10,
+                    "nome": "Investiga\u00e7\u00e3o Operacional I",
+                    "sigla": "IO I",
+                    "tipo": "TP",
+                    "turma": "3MIEGI02",
+                    "turmac": "3MIEGI02",
+                    "duracao": "4",
+                    "sala": "B220",
+                    "profsig": "JFS",
+                    "prof": "Jorge Freire de Sousa"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10.5,
+                    "nome": "Investiga\u00e7\u00e3o Operacional I",
+                    "sigla": "IO I",
+                    "tipo": "TP",
+                    "turma": "3MIEGI03",
+                    "turmac": "3MIEGI03",
+                    "duracao": "4",
+                    "sala": "B103",
+                    "profsig": "JFS",
+                    "prof": "Jorge Freire de Sousa"
+                }
+            ]
+        },
+        "TERMO": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 10,
+                    "nome": "Termodin\u00e2mica",
+                    "sigla": "TERMO",
+                    "tipo": "TP",
+                    "turma": "3MIEGI01",
+                    "turmac": "3MIEGI01",
+                    "duracao": "4",
+                    "sala": "B119",
+                    "profsig": "VMSL",
+                    "prof": "V\u00edtor Leal"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "Termodin\u00e2mica",
+                    "sigla": "TERMO",
+                    "tipo": "TP",
+                    "turma": "3MIEGI02",
+                    "turmac": "3MIEGI02",
+                    "duracao": "4",
+                    "sala": "B322",
+                    "profsig": "PMC",
+                    "prof": "Paulo Jos\u00e9 Coelho"
+                },
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "Termodin\u00e2mica",
+                    "sigla": "TERMO",
+                    "tipo": "TP",
+                    "turma": "3MIEGI03",
+                    "turmac": "3MIEGI03",
+                    "duracao": "4",
+                    "sala": "B103",
+                    "profsig": "PMC",
+                    "prof": "Paulo Jos\u00e9 Coelho"
+                }
+            ],
+            "nome": "Termodin\u00e2mica",
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 15,
+                    "nome": "Termodin\u00e2mica",
+                    "sigla": "TERMO",
+                    "tipo": "T",
+                    "turma": "3MIEGI01",
+                    "turmac": "COMP_1571",
+                    "duracao": "4",
+                    "sala": "B002",
+                    "profsig": "PMC",
+                    "prof": "Paulo Jos\u00e9 Coelho"
+                },
+                {
+                    "dia": 3,
+                    "hora": 15,
+                    "nome": "Termodin\u00e2mica",
+                    "sigla": "TERMO",
+                    "tipo": "T",
+                    "turma": "3MIEGI02",
+                    "turmac": "COMP_1571",
+                    "duracao": "4",
+                    "sala": "B002",
+                    "profsig": "PMC",
+                    "prof": "Paulo Jos\u00e9 Coelho"
+                },
+                {
+                    "dia": 3,
+                    "hora": 15,
+                    "nome": "Termodin\u00e2mica",
+                    "sigla": "TERMO",
+                    "tipo": "T",
+                    "turma": "3MIEGI03",
+                    "turmac": "COMP_1571",
+                    "duracao": "4",
+                    "sala": "B002",
+                    "profsig": "PMC",
+                    "prof": "Paulo Jos\u00e9 Coelho"
+                }
+            ]
+        }
+    },
+    "4\u00ba Ano": {
+        "GP": {
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Gest\u00e3o da Produ\u00e7\u00e3o",
+                    "sigla": "GP",
+                    "tipo": "T",
+                    "turma": "4MIEGI01",
+                    "turmac": "COMP_1276",
+                    "duracao": "4",
+                    "sala": "B007",
+                    "profsig": "LG+JBB",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Gest\u00e3o da Produ\u00e7\u00e3o",
+                    "sigla": "GP",
+                    "tipo": "T",
+                    "turma": "4MIEGI02",
+                    "turmac": "COMP_1276",
+                    "duracao": "4",
+                    "sala": "B007",
+                    "profsig": "LG+JBB",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Gest\u00e3o da Produ\u00e7\u00e3o",
+                    "sigla": "GP",
+                    "tipo": "T",
+                    "turma": "4MIEGI03",
+                    "turmac": "COMP_1276",
+                    "duracao": "4",
+                    "sala": "B007",
+                    "profsig": "LG+JBB",
+                    "prof": null
+                }
+            ],
+            "nome": "Gest\u00e3o da Produ\u00e7\u00e3o",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 17.5,
+                    "nome": "Gest\u00e3o da Produ\u00e7\u00e3o",
+                    "sigla": "GP",
+                    "tipo": "TP",
+                    "turma": "4MIEGI01",
+                    "turmac": "4MIEGI01",
+                    "duracao": "4",
+                    "sala": "B203",
+                    "profsig": "LG",
+                    "prof": "Lu\u00eds Guimar\u00e3es"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Gest\u00e3o da Produ\u00e7\u00e3o",
+                    "sigla": "GP",
+                    "tipo": "TP",
+                    "turma": "4MIEGI02",
+                    "turmac": "4MIEGI02",
+                    "duracao": "4",
+                    "sala": "B203",
+                    "profsig": "LG",
+                    "prof": "Lu\u00eds Guimar\u00e3es"
+                },
+                {
+                    "dia": 3,
+                    "hora": 18,
+                    "nome": "Gest\u00e3o da Produ\u00e7\u00e3o",
+                    "sigla": "GP",
+                    "tipo": "TP",
+                    "turma": "4MIEGI03",
+                    "turmac": "4MIEGI03",
+                    "duracao": "4",
+                    "sala": "B304",
+                    "profsig": "LG",
+                    "prof": "Lu\u00eds Guimar\u00e3es"
+                }
+            ]
+        },
+        "GQT": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Gest\u00e3o da Qualidade Total",
+                    "sigla": "GQT",
+                    "tipo": "TP",
+                    "turma": "4MIEGI01",
+                    "turmac": "4MIEGI01",
+                    "duracao": "4",
+                    "sala": "B303",
+                    "profsig": "MHN+JAF",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 15.5,
+                    "nome": "Gest\u00e3o da Qualidade Total",
+                    "sigla": "GQT",
+                    "tipo": "TP",
+                    "turma": "4MIEGI02",
+                    "turmac": "4MIEGI02",
+                    "duracao": "4",
+                    "sala": "B301",
+                    "profsig": "MHN+JAF",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Gest\u00e3o da Qualidade Total",
+                    "sigla": "GQT",
+                    "tipo": "TP",
+                    "turma": "4MIEGI03",
+                    "turmac": "4MIEGI03",
+                    "duracao": "4",
+                    "sala": "B203",
+                    "profsig": "MHN+JAF",
+                    "prof": null
+                }
+            ],
+            "nome": "Gest\u00e3o da Qualidade Total",
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "Gest\u00e3o da Qualidade Total",
+                    "sigla": "GQT",
+                    "tipo": "T",
+                    "turma": "4MIEGI01",
+                    "turmac": "COMP_1276",
+                    "duracao": "3",
+                    "sala": "B007",
+                    "profsig": "MHN+JAF",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "Gest\u00e3o da Qualidade Total",
+                    "sigla": "GQT",
+                    "tipo": "T",
+                    "turma": "4MIEGI02",
+                    "turmac": "COMP_1276",
+                    "duracao": "3",
+                    "sala": "B007",
+                    "profsig": "MHN+JAF",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "Gest\u00e3o da Qualidade Total",
+                    "sigla": "GQT",
+                    "tipo": "T",
+                    "turma": "4MIEGI03",
+                    "turmac": "COMP_1276",
+                    "duracao": "3",
+                    "sala": "B007",
+                    "profsig": "MHN+JAF",
+                    "prof": null
+                }
+            ]
+        },
+        "L": {
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Log\u00edstica",
+                    "sigla": "L",
+                    "tipo": "T",
+                    "turma": "4MIEGI01",
+                    "turmac": "COMP_1276",
+                    "duracao": "3",
+                    "sala": "B007",
+                    "profsig": "PSA",
+                    "prof": "Pedro Amorim"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Log\u00edstica",
+                    "sigla": "L",
+                    "tipo": "T",
+                    "turma": "4MIEGI02",
+                    "turmac": "COMP_1276",
+                    "duracao": "3",
+                    "sala": "B007",
+                    "profsig": "PSA",
+                    "prof": "Pedro Amorim"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Log\u00edstica",
+                    "sigla": "L",
+                    "tipo": "T",
+                    "turma": "4MIEGI03",
+                    "turmac": "COMP_1276",
+                    "duracao": "3",
+                    "sala": "B007",
+                    "profsig": "PSA",
+                    "prof": "Pedro Amorim"
+                }
+            ],
+            "nome": "Log\u00edstica",
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 15.5,
+                    "nome": "Log\u00edstica",
+                    "sigla": "L",
+                    "tipo": "TP",
+                    "turma": "4MIEGI01",
+                    "turmac": "4MIEGI01",
+                    "duracao": "4",
+                    "sala": "B103",
+                    "profsig": "PSA",
+                    "prof": "Pedro Amorim"
+                },
+                {
+                    "dia": 3,
+                    "hora": 17.5,
+                    "nome": "Log\u00edstica",
+                    "sigla": "L",
+                    "tipo": "TP",
+                    "turma": "4MIEGI02",
+                    "turmac": "4MIEGI02",
+                    "duracao": "4",
+                    "sala": "B103",
+                    "profsig": "PSA",
+                    "prof": "Pedro Amorim"
+                },
+                {
+                    "dia": 4,
+                    "hora": 17,
+                    "nome": "Log\u00edstica",
+                    "sigla": "L",
+                    "tipo": "TP",
+                    "turma": "4MIEGI03",
+                    "turmac": "4MIEGI03",
+                    "duracao": "4",
+                    "sala": "B119",
+                    "profsig": "PSA",
+                    "prof": "Pedro Amorim"
+                }
+            ]
+        },
+        "OGE": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 14.5,
+                    "nome": "Organiza\u00e7\u00e3o e Gest\u00e3o da Empresa",
+                    "sigla": "OGE",
+                    "tipo": "T",
+                    "turma": "4MIEGI01",
+                    "turmac": "COMP_1276",
+                    "duracao": "3",
+                    "sala": "B005",
+                    "profsig": "ALA",
+                    "prof": "Am\u00e9rico Azevedo"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14.5,
+                    "nome": "Organiza\u00e7\u00e3o e Gest\u00e3o da Empresa",
+                    "sigla": "OGE",
+                    "tipo": "T",
+                    "turma": "4MIEGI02",
+                    "turmac": "COMP_1276",
+                    "duracao": "3",
+                    "sala": "B005",
+                    "profsig": "ALA",
+                    "prof": "Am\u00e9rico Azevedo"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14.5,
+                    "nome": "Organiza\u00e7\u00e3o e Gest\u00e3o da Empresa",
+                    "sigla": "OGE",
+                    "tipo": "T",
+                    "turma": "4MIEGI03",
+                    "turmac": "COMP_1276",
+                    "duracao": "3",
+                    "sala": "B005",
+                    "profsig": "ALA",
+                    "prof": "Am\u00e9rico Azevedo"
+                }
+            ],
+            "nome": "Organiza\u00e7\u00e3o e Gest\u00e3o da Empresa",
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 17.5,
+                    "nome": "Organiza\u00e7\u00e3o e Gest\u00e3o da Empresa",
+                    "sigla": "OGE",
+                    "tipo": "TP",
+                    "turma": "4MIEGI01",
+                    "turmac": "4MIEGI01",
+                    "duracao": "4",
+                    "sala": "B327",
+                    "profsig": "GMRTS",
+                    "prof": "Gisela Santos"
+                },
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Organiza\u00e7\u00e3o e Gest\u00e3o da Empresa",
+                    "sigla": "OGE",
+                    "tipo": "TP",
+                    "turma": "4MIEGI02",
+                    "turmac": "4MIEGI02",
+                    "duracao": "4",
+                    "sala": "B319",
+                    "profsig": "ALA",
+                    "prof": "Am\u00e9rico Azevedo"
+                },
+                {
+                    "dia": 3,
+                    "hora": 15.5,
+                    "nome": "Organiza\u00e7\u00e3o e Gest\u00e3o da Empresa",
+                    "sigla": "OGE",
+                    "tipo": "TP",
+                    "turma": "4MIEGI03",
+                    "turmac": "4MIEGI03",
+                    "duracao": "4",
+                    "sala": "B327",
+                    "profsig": "GMRTS",
+                    "prof": "Gisela Santos"
+                }
+            ]
+        },
+        "GF": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Gest\u00e3o Financeira",
+                    "sigla": "GF",
+                    "tipo": "TP",
+                    "turma": "4MIEGI01",
+                    "turmac": "4MIEGI01",
+                    "duracao": "4",
+                    "sala": "B217",
+                    "profsig": "DSL",
+                    "prof": "Maria Dulce Soares Lopes"
+                },
+                {
+                    "dia": 1,
+                    "hora": 18,
+                    "nome": "Gest\u00e3o Financeira",
+                    "sigla": "GF",
+                    "tipo": "TP",
+                    "turma": "4MIEGI02",
+                    "turmac": "4MIEGI02",
+                    "duracao": "4",
+                    "sala": "B113",
+                    "profsig": "NFCN",
+                    "prof": "Nuno Nogueira"
+                },
+                {
+                    "dia": 2,
+                    "hora": 18,
+                    "nome": "Gest\u00e3o Financeira",
+                    "sigla": "GF",
+                    "tipo": "TP",
+                    "turma": "4MIEGI03",
+                    "turmac": "4MIEGI03",
+                    "duracao": "4",
+                    "sala": "B335",
+                    "profsig": "NFCN",
+                    "prof": "Nuno Nogueira"
+                }
+            ],
+            "nome": "Gest\u00e3o Financeira",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Gest\u00e3o Financeira",
+                    "sigla": "GF",
+                    "tipo": "T",
+                    "turma": "4MIEGI01",
+                    "turmac": "COMP_1276",
+                    "duracao": "3",
+                    "sala": "B004",
+                    "profsig": "DSL",
+                    "prof": "Maria Dulce Soares Lopes"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Gest\u00e3o Financeira",
+                    "sigla": "GF",
+                    "tipo": "T",
+                    "turma": "4MIEGI02",
+                    "turmac": "COMP_1276",
+                    "duracao": "3",
+                    "sala": "B004",
+                    "profsig": "DSL",
+                    "prof": "Maria Dulce Soares Lopes"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Gest\u00e3o Financeira",
+                    "sigla": "GF",
+                    "tipo": "T",
+                    "turma": "4MIEGI03",
+                    "turmac": "COMP_1276",
+                    "duracao": "3",
+                    "sala": "B004",
+                    "profsig": "DSL",
+                    "prof": "Maria Dulce Soares Lopes"
+                }
+            ]
+        },
+        "GOPE": {
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 15.5,
+                    "nome": "Gest\u00e3o de Opera\u00e7\u00f5es",
+                    "sigla": "GOPE",
+                    "tipo": "T",
+                    "turma": "4MIEGI04",
+                    "turmac": "COMP_1884",
+                    "duracao": "4",
+                    "sala": "B004",
+                    "profsig": "ALA",
+                    "prof": "Am\u00e9rico Azevedo"
+                }
+            ],
+            "nome": "Gest\u00e3o de Opera\u00e7\u00f5es",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 16.5,
+                    "nome": "Gest\u00e3o de Opera\u00e7\u00f5es",
+                    "sigla": "GOPE",
+                    "tipo": "TP",
+                    "turma": "4MIEGI04",
+                    "turmac": "4MIEGI04",
+                    "duracao": "4",
+                    "sala": "B336",
+                    "profsig": "ALA",
+                    "prof": "Am\u00e9rico Azevedo"
+                }
+            ]
+        }
+    },
+    "5\u00ba Ano": {
+        "DE": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 8,
+                    "nome": "Direito Empresarial",
+                    "sigla": "DE",
+                    "tipo": "T",
+                    "turma": "5MIEGI01",
+                    "turmac": "COMP_96",
+                    "duracao": "3",
+                    "sala": "B030",
+                    "profsig": "MVF",
+                    "prof": "Manuel Veiga De Faria"
+                },
+                {
+                    "dia": 1,
+                    "hora": 8,
+                    "nome": "Direito Empresarial",
+                    "sigla": "DE",
+                    "tipo": "T",
+                    "turma": "5MIEGI02",
+                    "turmac": "COMP_96",
+                    "duracao": "3",
+                    "sala": "B030",
+                    "profsig": "MVF",
+                    "prof": "Manuel Veiga De Faria"
+                }
+            ],
+            "nome": "Direito Empresarial",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 9.5,
+                    "nome": "Direito Empresarial",
+                    "sigla": "DE",
+                    "tipo": "TP",
+                    "turma": "5MIEGI01",
+                    "turmac": "COMP_96",
+                    "duracao": "3",
+                    "sala": "B030",
+                    "profsig": "MVF",
+                    "prof": "Manuel Veiga De Faria"
+                },
+                {
+                    "dia": 1,
+                    "hora": 9.5,
+                    "nome": "Direito Empresarial",
+                    "sigla": "DE",
+                    "tipo": "TP",
+                    "turma": "5MIEGI02",
+                    "turmac": "COMP_96",
+                    "duracao": "3",
+                    "sala": "B030",
+                    "profsig": "MVF",
+                    "prof": "Manuel Veiga De Faria"
+                }
+            ]
+        },
+        "CG": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 8,
+                    "nome": "Controlo de Gest\u00e3o",
+                    "sigla": "CG",
+                    "tipo": "T",
+                    "turma": "5MIEGI01",
+                    "turmac": "COMP_96",
+                    "duracao": "3",
+                    "sala": "B030",
+                    "profsig": "JMFB",
+                    "prof": "Joaquim Barreiros"
+                },
+                {
+                    "dia": 2,
+                    "hora": 8,
+                    "nome": "Controlo de Gest\u00e3o",
+                    "sigla": "CG",
+                    "tipo": "T",
+                    "turma": "5MIEGI02",
+                    "turmac": "COMP_96",
+                    "duracao": "3",
+                    "sala": "B030",
+                    "profsig": "JMFB",
+                    "prof": "Joaquim Barreiros"
+                }
+            ],
+            "nome": "Controlo de Gest\u00e3o",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Controlo de Gest\u00e3o",
+                    "sigla": "CG",
+                    "tipo": "TP",
+                    "turma": "5MIEGI01",
+                    "turmac": "5MIEGI01",
+                    "duracao": "4",
+                    "sala": "B113",
+                    "profsig": "JMFB",
+                    "prof": "Joaquim Barreiros"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Controlo de Gest\u00e3o",
+                    "sigla": "CG",
+                    "tipo": "TP",
+                    "turma": "5MIEGI02",
+                    "turmac": "5MIEGI02",
+                    "duracao": "4",
+                    "sala": "B223",
+                    "profsig": "JMFB",
+                    "prof": "Joaquim Barreiros"
+                }
+            ]
+        },
+        "PGO": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 8,
+                    "nome": "Projeto em Gest\u00e3o de Opera\u00e7\u00f5es",
+                    "sigla": "PGO",
+                    "tipo": "TP",
+                    "turma": "5MIEGI01",
+                    "turmac": "5MIEGI01",
+                    "duracao": "4",
+                    "sala": "B201",
+                    "profsig": "BAL",
+                    "prof": "Bernardo Almada Lobo"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Projeto em Gest\u00e3o de Opera\u00e7\u00f5es",
+                    "sigla": "PGO",
+                    "tipo": "TP",
+                    "turma": "5MIEGI02",
+                    "turmac": "5MIEGI02",
+                    "duracao": "4",
+                    "sala": "B206",
+                    "profsig": "BAL",
+                    "prof": "Bernardo Almada Lobo"
+                }
+            ],
+            "nome": "Projeto em Gest\u00e3o de Opera\u00e7\u00f5es",
+            "T": [
+                {
+                    "dia": 5,
+                    "hora": 8,
+                    "nome": "Projeto em Gest\u00e3o de Opera\u00e7\u00f5es",
+                    "sigla": "PGO",
+                    "tipo": "T",
+                    "turma": "5MIEGI01",
+                    "turmac": "COMP_96",
+                    "duracao": "3",
+                    "sala": "B018",
+                    "profsig": "BAL",
+                    "prof": "Bernardo Almada Lobo"
+                },
+                {
+                    "dia": 5,
+                    "hora": 8,
+                    "nome": "Projeto em Gest\u00e3o de Opera\u00e7\u00f5es",
+                    "sigla": "PGO",
+                    "tipo": "T",
+                    "turma": "5MIEGI02",
+                    "turmac": "COMP_96",
+                    "duracao": "3",
+                    "sala": "B018",
+                    "profsig": "BAL",
+                    "prof": "Bernardo Almada Lobo"
+                }
+            ]
+        },
+        "ESTEM": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 9.5,
+                    "nome": "Estrat\u00e9gia Empresarial",
+                    "sigla": "ESTEM",
+                    "tipo": "T",
+                    "turma": "5MIEGI01",
+                    "turmac": "COMP_96",
+                    "duracao": "3",
+                    "sala": "B034",
+                    "profsig": "APSG+CARMS+JJRS",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 9.5,
+                    "nome": "Estrat\u00e9gia Empresarial",
+                    "sigla": "ESTEM",
+                    "tipo": "T",
+                    "turma": "5MIEGI02",
+                    "turmac": "COMP_96",
+                    "duracao": "3",
+                    "sala": "B034",
+                    "profsig": "APSG+CARMS+JJRS",
+                    "prof": null
+                }
+            ],
+            "nome": "Estrat\u00e9gia Empresarial",
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Estrat\u00e9gia Empresarial",
+                    "sigla": "ESTEM",
+                    "tipo": "TP",
+                    "turma": "5MIEGI01",
+                    "turmac": "5MIEGI01",
+                    "duracao": "4",
+                    "sala": "B229",
+                    "profsig": "APSG",
+                    "prof": "Alcibiades Soares Guedes"
+                },
+                {
+                    "dia": 4,
+                    "hora": 8,
+                    "nome": "Estrat\u00e9gia Empresarial",
+                    "sigla": "ESTEM",
+                    "tipo": "TP",
+                    "turma": "5MIEGI02",
+                    "turmac": "5MIEGI02",
+                    "duracao": "4",
+                    "sala": "B229",
+                    "profsig": "APSG",
+                    "prof": "Alcibiades Soares Guedes"
+                }
+            ]
+        },
+        "AMP": {
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 9.5,
+                    "nome": "An\u00e1lise e Modela\u00e7\u00e3o de Processos",
+                    "sigla": "AMP",
+                    "tipo": "T",
+                    "turma": "5MIEGI01",
+                    "turmac": "COMP_96",
+                    "duracao": "3",
+                    "sala": "B033",
+                    "profsig": "JAF+ALA",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 9.5,
+                    "nome": "An\u00e1lise e Modela\u00e7\u00e3o de Processos",
+                    "sigla": "AMP",
+                    "tipo": "T",
+                    "turma": "5MIEGI02",
+                    "turmac": "COMP_96",
+                    "duracao": "3",
+                    "sala": "B033",
+                    "profsig": "JAF+ALA",
+                    "prof": null
+                }
+            ],
+            "nome": "An\u00e1lise e Modela\u00e7\u00e3o de Processos",
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "An\u00e1lise e Modela\u00e7\u00e3o de Processos",
+                    "sigla": "AMP",
+                    "tipo": "TP",
+                    "turma": "5MIEGI01",
+                    "turmac": "COMP_96",
+                    "duracao": "3",
+                    "sala": "B332",
+                    "profsig": "JAF+ALA",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "An\u00e1lise e Modela\u00e7\u00e3o de Processos",
+                    "sigla": "AMP",
+                    "tipo": "TP",
+                    "turma": "5MIEGI02",
+                    "turmac": "COMP_96",
+                    "duracao": "3",
+                    "sala": "B332",
+                    "profsig": "JAF+ALA",
+                    "prof": null
+                }
+            ]
+        },
+        "LET": {
+            "T": [
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "Laborat\u00f3rio de Empreendedorismo Tecnol\u00f3gico",
+                    "sigla": "LET",
+                    "tipo": "T",
+                    "turma": "5MIEGI01",
+                    "turmac": "COMP_96",
+                    "duracao": "2",
+                    "sala": "B025",
+                    "profsig": "JPC",
+                    "prof": "Jo\u00e3o Claro"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "Laborat\u00f3rio de Empreendedorismo Tecnol\u00f3gico",
+                    "sigla": "LET",
+                    "tipo": "T",
+                    "turma": "5MIEGI02",
+                    "turmac": "COMP_96",
+                    "duracao": "2",
+                    "sala": "B025",
+                    "profsig": "JPC",
+                    "prof": "Jo\u00e3o Claro"
+                }
+            ],
+            "nome": "Laborat\u00f3rio de Empreendedorismo Tecnol\u00f3gico",
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Laborat\u00f3rio de Empreendedorismo Tecnol\u00f3gico",
+                    "sigla": "LET",
+                    "tipo": "TP",
+                    "turma": "5MIEGI01",
+                    "turmac": "COMP_96",
+                    "duracao": "4",
+                    "sala": "B232A",
+                    "profsig": "JCR",
+                    "prof": "Jos\u00e9 Coelho Rodrigues"
+                },
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Laborat\u00f3rio de Empreendedorismo Tecnol\u00f3gico",
+                    "sigla": "LET",
+                    "tipo": "TP",
+                    "turma": "5MIEGI02",
+                    "turmac": "COMP_96",
+                    "duracao": "4",
+                    "sala": "B232A",
+                    "profsig": "JCR",
+                    "prof": "Jos\u00e9 Coelho Rodrigues"
+                }
+            ]
+        }
+    }
+}

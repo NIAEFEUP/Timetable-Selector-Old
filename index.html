@@ -43,11 +43,7 @@
 		</div>
 		<div id= "promptcurso" class="blockprompt" style="display: none;">
 			<div id="motdnotice"><h3>Os horários apresentados podem estar errados ou desatualizados. Por favor verifiquem a validade dos mesmos.<br/>Obrigado pela compreensão.</h3></div>
-			<div  id="promptcursoerror" style="display:none"><p class="error" ><i class="icon-warning-sign"></i> Erro a carregar o horário, p.f. verifique os campos e tente outra vez.</p>
-			<!--<p>
-			<label for="username">Username:</label><input type="text" id="username"/>
-			<label for="password">Password:</label><input type="password" id="password"/>
-			</p>-->
+			<div  id="promptcursoerror" style="display:none"><p class="error" ><i class="icon-warning-sign"></i> Erro a carregar o horário, p.f. verifique os campos e tente outra vez. Em último caso preencha os campos de Login (o processo pode demorar até 5 minutos)</p>
 			</div>
 			<p>
 			<label for="cursoselect">Curso:</label>
@@ -116,10 +112,15 @@
 				  <option value="2">2</option>
 			</select>
 			</p>
+			<p>
+			<p>Usar em caso de erro (opcional):</p>
+			<label for="username">Nome de Utilizador:</label><input type="text" id="username"/>
+			<label for="password">Password:</label><input type="password" id="password"/>
+			</p>
 			<input type="button" id="cursook" value="Carregar Horarios">
 		</div>
 		<div id= "loading" class="blockprompt" style="display: none;">
-			<p>A extrair os horários, poderá demorar um minuto.</p>
+			<p>A extrair os horários, poderá demorar 1-5 minutos</p>
 			<i class="icon-spinner icon-spin icon-4x"></i>
 		</div>
 		<div id= "promptcadeiras" class="blockprompt" style="display: none;">

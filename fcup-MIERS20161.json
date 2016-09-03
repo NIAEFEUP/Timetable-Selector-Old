@@ -1,0 +1,116 @@
+{
+    "3\u00ba Ano": {
+        "F3001": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Electr\u00f3nica Digital e Circuitos",
+                    "sigla": "F3001",
+                    "tipo": "PL",
+                    "turma": "F3001_PL1",
+                    "turmac": "F3001_PL1",
+                    "duracao": "4",
+                    "sala": "FC3-116",
+                    "profsig": "PVSM",
+                    "prof": "Paulo Marques"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Electr\u00f3nica Digital e Circuitos",
+                    "sigla": "F3001",
+                    "tipo": "PL",
+                    "turma": "F3001_PL1",
+                    "turmac": "F3001_PL1",
+                    "duracao": "4",
+                    "sala": "FC3-117",
+                    "profsig": "PVSM",
+                    "prof": "Paulo Marques"
+                }
+            ],
+            "nome": "Electr\u00f3nica Digital e Circuitos",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Electr\u00f3nica Digital e Circuitos",
+                    "sigla": "F3001",
+                    "tipo": "T",
+                    "turma": "F3001_T",
+                    "turmac": "F3001_T",
+                    "duracao": "2",
+                    "sala": "FC6029",
+                    "profsig": "PVSM",
+                    "prof": "Paulo Marques"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16.5,
+                    "nome": "Electr\u00f3nica Digital e Circuitos",
+                    "sigla": "F3001",
+                    "tipo": "T",
+                    "turma": "F3001_T",
+                    "turmac": "F3001_T",
+                    "duracao": "2",
+                    "sala": "FC3-117",
+                    "profsig": "PVSM",
+                    "prof": "Paulo Marques"
+                }
+            ]
+        }
+    },
+    "4\u00ba Ano": {
+        "CC4037": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 10,
+                    "nome": "T\u00f3picos Avan\u00e7ados em Redes",
+                    "sigla": "CC4037",
+                    "tipo": "TP",
+                    "turma": "CC4037_TP",
+                    "turmac": "CC4037_TP",
+                    "duracao": "3",
+                    "sala": "FC6010",
+                    "profsig": "PMAB",
+                    "prof": "Pedro Brand\u00e3o"
+                },
+                {
+                    "dia": 3,
+                    "hora": 11.5,
+                    "nome": "T\u00f3picos Avan\u00e7ados em Redes",
+                    "sigla": "CC4037",
+                    "tipo": "TP",
+                    "turma": "CC4037_TP",
+                    "turmac": "CC4037_TP",
+                    "duracao": "3",
+                    "sala": "FC6010",
+                    "profsig": "PMAB",
+                    "prof": "Pedro Brand\u00e3o"
+                }
+            ],
+            "nome": "T\u00f3picos Avan\u00e7ados em Redes"
+        }
+    },
+    "5\u00ba Ano": {
+        "GES4001": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 17,
+                    "nome": "Gest\u00e3o e Empreendedorismo",
+                    "sigla": "GES4001",
+                    "tipo": "TP",
+                    "turma": "GES4001_TP",
+                    "turmac": "GES4001_TP",
+                    "duracao": "6",
+                    "sala": "FC6029",
+                    "profsig": "RMPM",
+                    "prof": "Rui Monteiro"
+                }
+            ],
+            "nome": "Gest\u00e3o e Empreendedorismo"
+        }
+    }
+}
