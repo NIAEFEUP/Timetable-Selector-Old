@@ -1,0 +1,282 @@
+{
+    "1\u00ba Ano": {
+        "INTECO": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Economia",
+                    "sigla": "INTECO",
+                    "tipo": "TP",
+                    "turma": "1LRI01",
+                    "turmac": "1LRI01",
+                    "duracao": "4",
+                    "sala": "GA2",
+                    "profsig": "DOCENTE",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 17.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Economia",
+                    "sigla": "INTECO",
+                    "tipo": "TP",
+                    "turma": "1LRI01",
+                    "turmac": "1LRI01",
+                    "duracao": "2",
+                    "sala": "GA1",
+                    "profsig": "DOCENTE",
+                    "prof": null
+                }
+            ],
+            "nome": "Introdu\u00e7\u00e3o \u00e0 Economia",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 18.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Economia",
+                    "sigla": "INTECO",
+                    "tipo": "OT",
+                    "turma": "1LRI01",
+                    "turmac": "1LRI01",
+                    "duracao": "2",
+                    "sala": "GA1",
+                    "profsig": "DOCENTE",
+                    "prof": null
+                }
+            ]
+        },
+        "INTSOC": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Sociologia",
+                    "sigla": "INTSOC",
+                    "tipo": "TP",
+                    "turma": "1LRI01",
+                    "turmac": "1LRI01",
+                    "duracao": "2",
+                    "sala": "G310",
+                    "profsig": "HCRV",
+                    "prof": "Helena Vila\u00e7a"
+                },
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Sociologia",
+                    "sigla": "INTSOC",
+                    "tipo": "TP",
+                    "turma": "1LRI01",
+                    "turmac": "1LRI01",
+                    "duracao": "4",
+                    "sala": "G303",
+                    "profsig": "HCRV",
+                    "prof": "Helena Vila\u00e7a"
+                }
+            ],
+            "nome": "Introdu\u00e7\u00e3o \u00e0 Sociologia",
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 14.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Sociologia",
+                    "sigla": "INTSOC",
+                    "tipo": "OT",
+                    "turma": "1LRI01",
+                    "turmac": "1LRI01",
+                    "duracao": "2",
+                    "sala": "G310",
+                    "profsig": "DOCENTE",
+                    "prof": null
+                }
+            ]
+        },
+        "INTDIR": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 13.5,
+                    "nome": "Introdu\u00e7\u00e3o ao Direito",
+                    "sigla": "INTDIR",
+                    "tipo": "TP",
+                    "turma": "1LRI01",
+                    "turmac": "1LRI01",
+                    "duracao": "4",
+                    "sala": "GA1",
+                    "profsig": "AARML",
+                    "prof": "Abel Laureano"
+                },
+                {
+                    "dia": 5,
+                    "hora": 13.5,
+                    "nome": "Introdu\u00e7\u00e3o ao Direito",
+                    "sigla": "INTDIR",
+                    "tipo": "TP",
+                    "turma": "1LRI01",
+                    "turmac": "1LRI01",
+                    "duracao": "2",
+                    "sala": "GA1",
+                    "profsig": "AARML",
+                    "prof": "Abel Laureano"
+                }
+            ],
+            "nome": "Introdu\u00e7\u00e3o ao Direito",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 14.5,
+                    "nome": "Introdu\u00e7\u00e3o ao Direito",
+                    "sigla": "INTDIR",
+                    "tipo": "OT",
+                    "turma": "1LRI01",
+                    "turmac": "1LRI01",
+                    "duracao": "2",
+                    "sala": "GA1",
+                    "profsig": "AARML",
+                    "prof": "Abel Laureano"
+                }
+            ]
+        }
+    },
+    "2\u00ba Ano": {
+        "HALE": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 15.5,
+                    "nome": "Hist\u00f3ria da Alemanha",
+                    "sigla": "HALE",
+                    "tipo": "TP",
+                    "turma": "2LRI_op01",
+                    "turmac": "2LRI_op01",
+                    "duracao": "4",
+                    "sala": "G408",
+                    "profsig": "AIGB",
+                    "prof": "Ana Isabel Boura"
+                },
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "Hist\u00f3ria da Alemanha",
+                    "sigla": "HALE",
+                    "tipo": "TP",
+                    "turma": "2LRI_op01",
+                    "turmac": "2LRI_op01",
+                    "duracao": "2",
+                    "sala": "G109",
+                    "profsig": "AIGB",
+                    "prof": "Ana Isabel Boura"
+                }
+            ],
+            "nome": "Hist\u00f3ria da Alemanha",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 16.5,
+                    "nome": "Hist\u00f3ria da Alemanha",
+                    "sigla": "HALE",
+                    "tipo": "OT",
+                    "turma": "2LRI_op01",
+                    "turmac": "2LRI_op01",
+                    "duracao": "2",
+                    "sala": "G109",
+                    "profsig": "AIGB",
+                    "prof": "Ana Isabel Boura"
+                }
+            ]
+        },
+        "HRINT": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 8.5,
+                    "nome": "Hist\u00f3ria das Rela\u00e7\u00f5es Internacionais",
+                    "sigla": "HRINT",
+                    "tipo": "TP",
+                    "turma": "2LRI01",
+                    "turmac": "2LRI01",
+                    "duracao": "2",
+                    "sala": "GA1",
+                    "profsig": "JMMR",
+                    "prof": "Jorge Ribeiro"
+                },
+                {
+                    "dia": 1,
+                    "hora": 13.5,
+                    "nome": "Hist\u00f3ria das Rela\u00e7\u00f5es Internacionais",
+                    "sigla": "HRINT",
+                    "tipo": "TP",
+                    "turma": "2LRI01",
+                    "turmac": "2LRI01",
+                    "duracao": "4",
+                    "sala": "GA1",
+                    "profsig": "JMMR",
+                    "prof": "Jorge Ribeiro"
+                }
+            ],
+            "nome": "Hist\u00f3ria das Rela\u00e7\u00f5es Internacionais",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 9.5,
+                    "nome": "Hist\u00f3ria das Rela\u00e7\u00f5es Internacionais",
+                    "sigla": "HRINT",
+                    "tipo": "OT",
+                    "turma": "2LRI01",
+                    "turmac": "2LRI01",
+                    "duracao": "2",
+                    "sala": "GA1",
+                    "profsig": "JMMR",
+                    "prof": "Jorge Ribeiro"
+                }
+            ]
+        },
+        "DINT": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 15.5,
+                    "nome": "Direito Internacional",
+                    "sigla": "DINT",
+                    "tipo": "TP",
+                    "turma": "2LRI01",
+                    "turmac": "2LRI01",
+                    "duracao": "2",
+                    "sala": "G208",
+                    "profsig": "DOCENTE",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 17.5,
+                    "nome": "Direito Internacional",
+                    "sigla": "DINT",
+                    "tipo": "TP",
+                    "turma": "2LRI01",
+                    "turmac": "2LRI01",
+                    "duracao": "4",
+                    "sala": "G308",
+                    "profsig": "DOCENTE",
+                    "prof": null
+                }
+            ],
+            "nome": "Direito Internacional",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 16.5,
+                    "nome": "Direito Internacional",
+                    "sigla": "DINT",
+                    "tipo": "OT",
+                    "turma": "2LRI01",
+                    "turmac": "2LRI01",
+                    "duracao": "2",
+                    "sala": "G208",
+                    "profsig": "DOCENTE",
+                    "prof": null
+                }
+            ]
+        }
+    }
+}

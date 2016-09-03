@@ -1,0 +1,863 @@
+{
+    "1\u00ba Ano": {
+        "BIOL1007": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Microbiologia",
+                    "sigla": "BIOL1007",
+                    "tipo": "PL",
+                    "turma": "BIOL1007_PL1",
+                    "turmac": "BIOL1007_PL1",
+                    "duracao": "4",
+                    "sala": "FC4109",
+                    "profsig": "JAPS",
+                    "prof": "Jos\u00e9 Am\u00e9rico Sousa"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Microbiologia",
+                    "sigla": "BIOL1007",
+                    "tipo": "PL",
+                    "turma": "BIOL1007_PL2",
+                    "turmac": "BIOL1007_PL2",
+                    "duracao": "4",
+                    "sala": "FC4109",
+                    "profsig": "JAPS",
+                    "prof": "Jos\u00e9 Am\u00e9rico Sousa"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Microbiologia",
+                    "sigla": "BIOL1007",
+                    "tipo": "PL",
+                    "turma": "BIOL1007_PL3",
+                    "turmac": "BIOL1007_PL3",
+                    "duracao": "4",
+                    "sala": "FC4109",
+                    "profsig": "JAPS",
+                    "prof": "Jos\u00e9 Am\u00e9rico Sousa"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Microbiologia",
+                    "sigla": "BIOL1007",
+                    "tipo": "PL",
+                    "turma": "BIOL1007_PL4",
+                    "turmac": "BIOL1007_PL4",
+                    "duracao": "4",
+                    "sala": "FC4109",
+                    "profsig": "JAPS",
+                    "prof": "Jos\u00e9 Am\u00e9rico Sousa"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Microbiologia",
+                    "sigla": "BIOL1007",
+                    "tipo": "PL",
+                    "turma": "BIOL1007_PL5",
+                    "turmac": "BIOL1007_PL5",
+                    "duracao": "4",
+                    "sala": "FC4109",
+                    "profsig": "JAPS",
+                    "prof": "Jos\u00e9 Am\u00e9rico Sousa"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Microbiologia",
+                    "sigla": "BIOL1007",
+                    "tipo": "PL",
+                    "turma": "BIOL1007_PL6",
+                    "turmac": "BIOL1007_PL6",
+                    "duracao": "4",
+                    "sala": "FC4109",
+                    "profsig": "JAPS",
+                    "prof": "Jos\u00e9 Am\u00e9rico Sousa"
+                }
+            ],
+            "nome": "Introdu\u00e7\u00e3o \u00e0 Microbiologia",
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Microbiologia",
+                    "sigla": "BIOL1007",
+                    "tipo": "T",
+                    "turma": "BIOL1007_T",
+                    "turmac": "BIOL1007_T",
+                    "duracao": "3",
+                    "sala": "FC4041",
+                    "profsig": "JAS+OL",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 15,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Microbiologia",
+                    "sigla": "BIOL1007",
+                    "tipo": "T",
+                    "turma": "BIOL1007_T",
+                    "turmac": "BIOL1007_T",
+                    "duracao": "3",
+                    "sala": "FC4041",
+                    "profsig": "JAS+OL",
+                    "prof": null
+                }
+            ]
+        },
+        "GEOL1001": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Geodin\u00e2mica",
+                    "sigla": "GEOL1001",
+                    "tipo": "T",
+                    "turma": "GEOL1001_T",
+                    "turmac": "GEOL1001_T",
+                    "duracao": "3",
+                    "sala": "FC3-119",
+                    "profsig": "DF+HSO",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "Geodin\u00e2mica",
+                    "sigla": "GEOL1001",
+                    "tipo": "T",
+                    "turma": "GEOL1001_T",
+                    "turmac": "GEOL1001_T",
+                    "duracao": "3",
+                    "sala": "FC3-119",
+                    "profsig": "DF+HSO",
+                    "prof": null
+                }
+            ],
+            "nome": "Geodin\u00e2mica",
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Geodin\u00e2mica",
+                    "sigla": "GEOL1001",
+                    "tipo": "TP",
+                    "turma": "GEOL1001_TP1",
+                    "turmac": "GEOL1001_TP1",
+                    "duracao": "2",
+                    "sala": "FC3-116",
+                    "profsig": "HMSMS",
+                    "prof": "Helena Silva"
+                },
+                {
+                    "dia": 5,
+                    "hora": 12,
+                    "nome": "Geodin\u00e2mica",
+                    "sigla": "GEOL1001",
+                    "tipo": "TP",
+                    "turma": "GEOL1001TP2",
+                    "turmac": "GEOL1001TP2",
+                    "duracao": "2",
+                    "sala": "FC3-116",
+                    "profsig": "MAR",
+                    "prof": "Anjos Ribeiro"
+                }
+            ]
+        }
+    },
+    "2\u00ba Ano": {
+        "AMB2001": {
+            "T": [
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Energia e Ambiente",
+                    "sigla": "AMB2001",
+                    "tipo": "T",
+                    "turma": "AMB2001_T",
+                    "turmac": "AMB2001_T",
+                    "duracao": "4",
+                    "sala": "FC3-120",
+                    "profsig": "MASS+BVV",
+                    "prof": null
+                }
+            ],
+            "nome": "Energia e Ambiente",
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 16,
+                    "nome": "Energia e Ambiente",
+                    "sigla": "AMB2001",
+                    "tipo": "TP",
+                    "turma": "AMB2001_TP",
+                    "turmac": "AMB2001_TP",
+                    "duracao": "4",
+                    "sala": "FC3-120",
+                    "profsig": "MASS+BVV",
+                    "prof": null
+                }
+            ]
+        },
+        "BIOL1003": {
+            "PL": [
+                {
+                    "dia": 3,
+                    "hora": 16,
+                    "nome": "Biologia Vegetal",
+                    "sigla": "BIOL1003",
+                    "tipo": "PL",
+                    "turma": "BIOL1003_PL3",
+                    "turmac": "BIOL1003_PL3",
+                    "duracao": "4",
+                    "sala": "FC4034",
+                    "profsig": "AC+JP+RS+SC",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Biologia Vegetal",
+                    "sigla": "BIOL1003",
+                    "tipo": "PL",
+                    "turma": "BIOL1003_PL4",
+                    "turmac": "BIOL1003_PL4",
+                    "duracao": "4",
+                    "sala": "FC4034",
+                    "profsig": "AC+JP+RS+SC",
+                    "prof": null
+                }
+            ],
+            "nome": "Biologia Vegetal"
+        },
+        "GEOL2005": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Geologia e Ambiente",
+                    "sigla": "GEOL2005",
+                    "tipo": "T",
+                    "turma": "GEOL2005_T",
+                    "turmac": "GEOL2005_T",
+                    "duracao": "4",
+                    "sala": "FC3-119",
+                    "profsig": "IBR",
+                    "prof": "Iuliu Radu"
+                }
+            ],
+            "nome": "Geologia e Ambiente",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Geologia e Ambiente",
+                    "sigla": "GEOL2005",
+                    "tipo": "TP",
+                    "turma": "GEOL2005_TP1",
+                    "turmac": "GEOL2005_TP1",
+                    "duracao": "4",
+                    "sala": "FC3-123",
+                    "profsig": "RMMM",
+                    "prof": "Rui Moura"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Geologia e Ambiente",
+                    "sigla": "GEOL2005",
+                    "tipo": "TP",
+                    "turma": "GEOL2005_TP2",
+                    "turmac": "GEOL2005_TP2",
+                    "duracao": "4",
+                    "sala": "FC3-113",
+                    "profsig": "IBR",
+                    "prof": "Iuliu Radu"
+                },
+                {
+                    "dia": 1,
+                    "hora": 15,
+                    "nome": "Geologia e Ambiente",
+                    "sigla": "GEOL2005",
+                    "tipo": "TP",
+                    "turma": "GEOL2005_TP3",
+                    "turmac": "GEOL2005_TP3",
+                    "duracao": "4",
+                    "sala": "FC3-123",
+                    "profsig": "IBR",
+                    "prof": "Iuliu Radu"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Geologia e Ambiente",
+                    "sigla": "GEOL2005",
+                    "tipo": "TP",
+                    "turma": "GEOL2005_TP4",
+                    "turmac": "GEOL2005_TP4",
+                    "duracao": "4",
+                    "sala": "FC3-123",
+                    "profsig": "RMMM",
+                    "prof": "Rui Moura"
+                }
+            ]
+        },
+        "Q1008": {
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 9.5,
+                    "nome": "Qu\u00edmica Org\u00e2nica",
+                    "sigla": "Q1008",
+                    "tipo": "PL",
+                    "turma": "Q1008_PL1",
+                    "turmac": "Q1008_PL1",
+                    "duracao": "4",
+                    "sala": "FC2-115+FC2010",
+                    "profsig": "PACG",
+                    "prof": "Paula Gomes"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Qu\u00edmica Org\u00e2nica",
+                    "sigla": "Q1008",
+                    "tipo": "PL",
+                    "turma": "Q1008_PL2",
+                    "turmac": "Q1008_PL2",
+                    "duracao": "4",
+                    "sala": "FC2-115+FC2-121",
+                    "profsig": "JERB",
+                    "prof": "Enrique Borges"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Qu\u00edmica Org\u00e2nica",
+                    "sigla": "Q1008",
+                    "tipo": "PL",
+                    "turma": "Q1008_PL3",
+                    "turmac": "Q1008_PL3",
+                    "duracao": "4",
+                    "sala": "FC2-115+FC2-111",
+                    "profsig": "JERB",
+                    "prof": "Enrique Borges"
+                },
+                {
+                    "dia": 3,
+                    "hora": 16,
+                    "nome": "Qu\u00edmica Org\u00e2nica",
+                    "sigla": "Q1008",
+                    "tipo": "PL",
+                    "turma": "Q1008_PL4",
+                    "turmac": "Q1008_PL4",
+                    "duracao": "4",
+                    "sala": "FC2-115+FC2-111",
+                    "profsig": "JERB",
+                    "prof": "Enrique Borges"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Qu\u00edmica Org\u00e2nica",
+                    "sigla": "Q1008",
+                    "tipo": "PL",
+                    "turma": "Q1008_PL5",
+                    "turmac": "Q1008_PL5",
+                    "duracao": "4",
+                    "sala": "FC2-115+FC2-111",
+                    "profsig": "JERB",
+                    "prof": "Enrique Borges"
+                }
+            ],
+            "nome": "Qu\u00edmica Org\u00e2nica",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Qu\u00edmica Org\u00e2nica",
+                    "sigla": "Q1008",
+                    "tipo": "T",
+                    "turma": "Q1008_T",
+                    "turmac": "Q1008_T",
+                    "duracao": "2",
+                    "sala": "FC2023",
+                    "profsig": "PACG",
+                    "prof": "Paula Gomes"
+                },
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "Qu\u00edmica Org\u00e2nica",
+                    "sigla": "Q1008",
+                    "tipo": "T",
+                    "turma": "Q1008_T",
+                    "turmac": "Q1008_T",
+                    "duracao": "2",
+                    "sala": "FC2023",
+                    "profsig": "PACG",
+                    "prof": "Paula Gomes"
+                }
+            ]
+        },
+        "Q2010": {
+            "PL": [
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Qu\u00edmica Anal\u00edtica",
+                    "sigla": "Q2010",
+                    "tipo": "PL",
+                    "turma": "Q2010_PL1",
+                    "turmac": "Q2010_PL1",
+                    "duracao": "2",
+                    "sala": "FC2011+FC2013",
+                    "profsig": "CNRM",
+                    "prof": "Cosme Moura"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "Qu\u00edmica Anal\u00edtica",
+                    "sigla": "Q2010",
+                    "tipo": "PL",
+                    "turma": "Q2010_PL2",
+                    "turmac": "Q2010_PL2",
+                    "duracao": "2",
+                    "sala": "FC2011+FC2013",
+                    "profsig": "CNRM",
+                    "prof": "Cosme Moura"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Qu\u00edmica Anal\u00edtica",
+                    "sigla": "Q2010",
+                    "tipo": "PL",
+                    "turma": "Q2010_PL3",
+                    "turmac": "Q2010_PL3",
+                    "duracao": "2",
+                    "sala": "FC2011+FC2013",
+                    "profsig": "PJFA",
+                    "prof": "Paulo Almeida"
+                },
+                {
+                    "dia": 2,
+                    "hora": 17,
+                    "nome": "Qu\u00edmica Anal\u00edtica",
+                    "sigla": "Q2010",
+                    "tipo": "PL",
+                    "turma": "Q2010_PL4",
+                    "turmac": "Q2010_PL4",
+                    "duracao": "2",
+                    "sala": "FC2011+FC2013",
+                    "profsig": "PJFA",
+                    "prof": "Paulo Almeida"
+                }
+            ],
+            "nome": "Qu\u00edmica Anal\u00edtica",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Qu\u00edmica Anal\u00edtica",
+                    "sigla": "Q2010",
+                    "tipo": "T",
+                    "turma": "Q2010_T",
+                    "turmac": "Q2010_T",
+                    "duracao": "2",
+                    "sala": "FC2007",
+                    "profsig": "CNRM",
+                    "prof": "Cosme Moura"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Qu\u00edmica Anal\u00edtica",
+                    "sigla": "Q2010",
+                    "tipo": "T",
+                    "turma": "Q2010_T",
+                    "turmac": "Q2010_T",
+                    "duracao": "2",
+                    "sala": "FC2007",
+                    "profsig": "CNRM",
+                    "prof": "Cosme Moura"
+                }
+            ],
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Qu\u00edmica Anal\u00edtica",
+                    "sigla": "Q2010",
+                    "tipo": "TP",
+                    "turma": "Q2010_TP1",
+                    "turmac": "Q2010_TP1",
+                    "duracao": "2",
+                    "sala": "FC2007",
+                    "profsig": "CNRM",
+                    "prof": "Cosme Moura"
+                },
+                {
+                    "dia": 2,
+                    "hora": 18,
+                    "nome": "Qu\u00edmica Anal\u00edtica",
+                    "sigla": "Q2010",
+                    "tipo": "TP",
+                    "turma": "Q2010_TP2",
+                    "turmac": "Q2010_TP2",
+                    "duracao": "2",
+                    "sala": "FC2-104",
+                    "profsig": "CNRM",
+                    "prof": "Cosme Moura"
+                }
+            ]
+        }
+    },
+    "3\u00ba Ano": {
+        "AMB3001": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 16,
+                    "nome": "Res\u00edduos S\u00f3lidos",
+                    "sigla": "AMB3001",
+                    "tipo": "TP",
+                    "turma": "AMB3001 TP2",
+                    "turmac": "AMB3001 TP2",
+                    "duracao": "4",
+                    "sala": "FC2-112+ FC3025",
+                    "profsig": "AG+JES",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Res\u00edduos S\u00f3lidos",
+                    "sigla": "AMB3001",
+                    "tipo": "TP",
+                    "turma": "AMB3001_TP1",
+                    "turmac": "AMB3001_TP1",
+                    "duracao": "4",
+                    "sala": "FC2-112+ FC3025",
+                    "profsig": "AG+JES",
+                    "prof": null
+                }
+            ],
+            "nome": "Res\u00edduos S\u00f3lidos",
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Res\u00edduos S\u00f3lidos",
+                    "sigla": "AMB3001",
+                    "tipo": "T",
+                    "turma": "AMB3001_T",
+                    "turmac": "AMB3001_T",
+                    "duracao": "4",
+                    "sala": "FC2023",
+                    "profsig": "AG+JES",
+                    "prof": null
+                }
+            ]
+        },
+        "AMB3002": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 12,
+                    "nome": "M\u00e9todos de Tratamento de \u00c1gua e de Efluentes L\u00edquidos",
+                    "sigla": "AMB3002",
+                    "tipo": "PL",
+                    "turma": "AMB3002_PL1",
+                    "turmac": "AMB3002_PL1",
+                    "duracao": "2",
+                    "sala": "FC2-111+FC2-112",
+                    "profsig": "CG+MPB+MTB",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "M\u00e9todos de Tratamento de \u00c1gua e de Efluentes L\u00edquidos",
+                    "sigla": "AMB3002",
+                    "tipo": "PL",
+                    "turma": "AMB3002_PL2",
+                    "turmac": "AMB3002_PL2",
+                    "duracao": "2",
+                    "sala": "FC2-112",
+                    "profsig": "CG+MPB+MTB",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 12,
+                    "nome": "M\u00e9todos de Tratamento de \u00c1gua e de Efluentes L\u00edquidos",
+                    "sigla": "AMB3002",
+                    "tipo": "PL",
+                    "turma": "AMB3002_PL3",
+                    "turmac": "AMB3002_PL3",
+                    "duracao": "2",
+                    "sala": "FC2-112",
+                    "profsig": "CG+MPB+MTB",
+                    "prof": null
+                }
+            ],
+            "nome": "M\u00e9todos de Tratamento de \u00c1gua e de Efluentes L\u00edquidos",
+            "T": [
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "M\u00e9todos de Tratamento de \u00c1gua e de Efluentes L\u00edquidos",
+                    "sigla": "AMB3002",
+                    "tipo": "T",
+                    "turma": "AMB3002_T",
+                    "turmac": "AMB3002_T",
+                    "duracao": "2",
+                    "sala": "FC2-104",
+                    "profsig": "JES+CG+MPB+MTB",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 10,
+                    "nome": "M\u00e9todos de Tratamento de \u00c1gua e de Efluentes L\u00edquidos",
+                    "sigla": "AMB3002",
+                    "tipo": "T",
+                    "turma": "AMB3002_T",
+                    "turmac": "AMB3002_T",
+                    "duracao": "2",
+                    "sala": "FC2-103",
+                    "profsig": "JES+CG+MPB+MTB",
+                    "prof": null
+                }
+            ],
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "M\u00e9todos de Tratamento de \u00c1gua e de Efluentes L\u00edquidos",
+                    "sigla": "AMB3002",
+                    "tipo": "TP",
+                    "turma": "AMB3002_TP1",
+                    "turmac": "AMB3002_TP1",
+                    "duracao": "2",
+                    "sala": "FC2-111+FC2-112",
+                    "profsig": "JES+CG+MPB+MTB",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "M\u00e9todos de Tratamento de \u00c1gua e de Efluentes L\u00edquidos",
+                    "sigla": "AMB3002",
+                    "tipo": "TP",
+                    "turma": "AMB3002_TP2",
+                    "turmac": "AMB3002_TP2",
+                    "duracao": "2",
+                    "sala": "FC2-112",
+                    "profsig": "JES+CG+MPB+MTB",
+                    "prof": null
+                }
+            ]
+        },
+        "AMB3003": {
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 17,
+                    "nome": "Qualidade dos Solos",
+                    "sigla": "AMB3003",
+                    "tipo": "PL",
+                    "turma": "AMB3003_PL1",
+                    "turmac": "AMB3003_PL1",
+                    "duracao": "2",
+                    "sala": "FC2-112",
+                    "profsig": "JES+ROP",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 15,
+                    "nome": "Qualidade dos Solos",
+                    "sigla": "AMB3003",
+                    "tipo": "PL",
+                    "turma": "AMB3003_PL2",
+                    "turmac": "AMB3003_PL2",
+                    "duracao": "2",
+                    "sala": "FC2-112",
+                    "profsig": "JES+ROP",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Qualidade dos Solos",
+                    "sigla": "AMB3003",
+                    "tipo": "PL",
+                    "turma": "AMB3003_PL3",
+                    "turmac": "AMB3003_PL3",
+                    "duracao": "2",
+                    "sala": "FC2-112",
+                    "profsig": "JES+ROP",
+                    "prof": null
+                }
+            ],
+            "nome": "Qualidade dos Solos",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Qualidade dos Solos",
+                    "sigla": "AMB3003",
+                    "tipo": "T",
+                    "turma": "AMB3003_T",
+                    "turmac": "AMB3003_T",
+                    "duracao": "4",
+                    "sala": "FC3-120",
+                    "profsig": "JES+ROP",
+                    "prof": null
+                }
+            ],
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Qualidade dos Solos",
+                    "sigla": "AMB3003",
+                    "tipo": "TP",
+                    "turma": "AMB3003_TP1",
+                    "turmac": "AMB3003_TP1",
+                    "duracao": "2",
+                    "sala": "FC2-112+FC2-121",
+                    "profsig": "JES+ROP",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Qualidade dos Solos",
+                    "sigla": "AMB3003",
+                    "tipo": "TP",
+                    "turma": "AMB3003_TP2",
+                    "turmac": "AMB3003_TP2",
+                    "duracao": "2",
+                    "sala": "FC2-112+FC2-121",
+                    "profsig": "JES+ROP",
+                    "prof": null
+                }
+            ]
+        },
+        "AMB3004": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Gest\u00e3o da \u00c1gua",
+                    "sigla": "AMB3004",
+                    "tipo": "T",
+                    "turma": "AMB3004_T",
+                    "turmac": "AMB3004_T",
+                    "duracao": "2",
+                    "sala": "FC4011",
+                    "profsig": "JE+NF",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Gest\u00e3o da \u00c1gua",
+                    "sigla": "AMB3004",
+                    "tipo": "T",
+                    "turma": "AMB3004_T",
+                    "turmac": "AMB3004_T",
+                    "duracao": "2",
+                    "sala": "FC4011",
+                    "profsig": "JE+NF",
+                    "prof": null
+                }
+            ],
+            "nome": "Gest\u00e3o da \u00c1gua",
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Gest\u00e3o da \u00c1gua",
+                    "sigla": "AMB3004",
+                    "tipo": "TP",
+                    "turma": "AMB3004_TP",
+                    "turmac": "AMB3004_TP",
+                    "duracao": "4",
+                    "sala": "FC4108",
+                    "profsig": "JMEM",
+                    "prof": "Jorge Marques"
+                }
+            ]
+        },
+        "BIOL3016": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 10,
+                    "nome": "Gest\u00e3o de Recursos Naturais",
+                    "sigla": "BIOL3016",
+                    "tipo": "T",
+                    "turma": "BIOL3016_T",
+                    "turmac": "BIOL3016_T",
+                    "duracao": "2",
+                    "sala": "FC4011",
+                    "profsig": "ISPJHAGJEMHC",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Gest\u00e3o de Recursos Naturais",
+                    "sigla": "BIOL3016",
+                    "tipo": "T",
+                    "turma": "BIOL3016_T",
+                    "turmac": "BIOL3016_T",
+                    "duracao": "2",
+                    "sala": "FC4011",
+                    "profsig": "ISPJHAGJEMHC",
+                    "prof": null
+                }
+            ],
+            "nome": "Gest\u00e3o de Recursos Naturais",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Gest\u00e3o de Recursos Naturais",
+                    "sigla": "BIOL3016",
+                    "tipo": "TP",
+                    "turma": "BIOL3016_TP1",
+                    "turmac": "BIOL3016_TP1",
+                    "duracao": "4",
+                    "sala": "FC4011",
+                    "profsig": "ISPJHAGJEMHC",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 15,
+                    "nome": "Gest\u00e3o de Recursos Naturais",
+                    "sigla": "BIOL3016",
+                    "tipo": "TP",
+                    "turma": "BIOL3016_TP2",
+                    "turmac": "BIOL3016_TP2",
+                    "duracao": "4",
+                    "sala": "FC4011",
+                    "profsig": "ISPJHAGJEMHC",
+                    "prof": null
+                }
+            ]
+        }
+    }
+}
