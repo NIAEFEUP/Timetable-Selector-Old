@@ -1,0 +1,3526 @@
+{
+    "1\u00ba Ano": {
+        "ESC": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Escrita e Ci\u00eancia",
+                    "sigla": "ESC",
+                    "tipo": "TP",
+                    "turma": "OL1",
+                    "turmac": "OL1",
+                    "duracao": "4",
+                    "sala": "247, 2C",
+                    "profsig": "JLLF",
+                    "prof": "Jos\u00e9 Lu\u00eds Fernandes"
+                },
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Escrita e Ci\u00eancia",
+                    "sigla": "ESC",
+                    "tipo": "TP",
+                    "turma": "OL2",
+                    "turmac": "OL2",
+                    "duracao": "4",
+                    "sala": "256, 2C",
+                    "profsig": "RAA",
+                    "prof": "Rui Alexandre Alves"
+                }
+            ],
+            "nome": "Escrita e Ci\u00eancia"
+        },
+        "ISRBC": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Inicia\u00e7\u00e3o aos Sistemas de Regula\u00e7\u00e3o Biol\u00f3gica do Comportamento",
+                    "sigla": "ISRBC",
+                    "tipo": "TP",
+                    "turma": "OL2",
+                    "turmac": "OL2",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "JEMT",
+                    "prof": "Jo\u00e3o Marques Teixeira"
+                }
+            ],
+            "nome": "Inicia\u00e7\u00e3o aos Sistemas de Regula\u00e7\u00e3o Biol\u00f3gica do Comportamento"
+        },
+        "ESTI": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 8.5,
+                    "nome": "Estat\u00edstica I",
+                    "sigla": "ESTI",
+                    "tipo": "TP",
+                    "turma": "P1A",
+                    "turmac": "P1A",
+                    "duracao": "7",
+                    "sala": "FPCE103",
+                    "profsig": "FV",
+                    "prof": "Filipa Vieira"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Estat\u00edstica I",
+                    "sigla": "ESTI",
+                    "tipo": "TP",
+                    "turma": "P1B",
+                    "turmac": "P1B",
+                    "duracao": "7",
+                    "sala": "FPCE103",
+                    "profsig": "LMFQL",
+                    "prof": "Leonor Lencastre"
+                },
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "Estat\u00edstica I",
+                    "sigla": "ESTI",
+                    "tipo": "TP",
+                    "turma": "P1C",
+                    "turmac": "P1C",
+                    "duracao": "7",
+                    "sala": "FPCE103",
+                    "profsig": "LMFQL",
+                    "prof": "Leonor Lencastre"
+                },
+                {
+                    "dia": 1,
+                    "hora": 13,
+                    "nome": "Estat\u00edstica I",
+                    "sigla": "ESTI",
+                    "tipo": "TP",
+                    "turma": "P1D",
+                    "turmac": "P1D",
+                    "duracao": "7",
+                    "sala": "FPCE103",
+                    "profsig": "FV",
+                    "prof": "Filipa Vieira"
+                },
+                {
+                    "dia": 1,
+                    "hora": 16.5,
+                    "nome": "Estat\u00edstica I",
+                    "sigla": "ESTI",
+                    "tipo": "TP",
+                    "turma": "P1E",
+                    "turmac": "P1E",
+                    "duracao": "7",
+                    "sala": "FPCE103",
+                    "profsig": "PRSC",
+                    "prof": "Patr\u00edcio Costa"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Estat\u00edstica I",
+                    "sigla": "ESTI",
+                    "tipo": "TP",
+                    "turma": "P1F",
+                    "turmac": "P1F",
+                    "duracao": "7",
+                    "sala": "FPCE103",
+                    "profsig": "FV",
+                    "prof": "Filipa Vieira"
+                }
+            ],
+            "nome": "Estat\u00edstica I"
+        },
+        "PA": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Psicologia da Aprendizagem",
+                    "sigla": "PA",
+                    "tipo": "T",
+                    "turma": "P1A",
+                    "turmac": "P1A-P1C",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "ACP",
+                    "prof": "Am\u00e2ncio Pinto"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Psicologia da Aprendizagem",
+                    "sigla": "PA",
+                    "tipo": "T",
+                    "turma": "P1B",
+                    "turmac": "P1A-P1C",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "ACP",
+                    "prof": "Am\u00e2ncio Pinto"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Psicologia da Aprendizagem",
+                    "sigla": "PA",
+                    "tipo": "T",
+                    "turma": "P1C",
+                    "turmac": "P1A-P1C",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "ACP",
+                    "prof": "Am\u00e2ncio Pinto"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14.5,
+                    "nome": "Psicologia da Aprendizagem",
+                    "sigla": "PA",
+                    "tipo": "T",
+                    "turma": "P1D",
+                    "turmac": "P1D-P1F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "ACP",
+                    "prof": "Am\u00e2ncio Pinto"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14.5,
+                    "nome": "Psicologia da Aprendizagem",
+                    "sigla": "PA",
+                    "tipo": "T",
+                    "turma": "P1E",
+                    "turmac": "P1D-P1F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "ACP",
+                    "prof": "Am\u00e2ncio Pinto"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14.5,
+                    "nome": "Psicologia da Aprendizagem",
+                    "sigla": "PA",
+                    "tipo": "T",
+                    "turma": "P1F",
+                    "turmac": "P1D-P1F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "ACP",
+                    "prof": "Am\u00e2ncio Pinto"
+                }
+            ],
+            "nome": "Psicologia da Aprendizagem",
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Psicologia da Aprendizagem",
+                    "sigla": "PA",
+                    "tipo": "PL",
+                    "turma": "P1A",
+                    "turmac": "P1A-P1C",
+                    "duracao": "3",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "ACP",
+                    "prof": "Am\u00e2ncio Pinto"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Psicologia da Aprendizagem",
+                    "sigla": "PA",
+                    "tipo": "PL",
+                    "turma": "P1B",
+                    "turmac": "P1A-P1C",
+                    "duracao": "3",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "ACP",
+                    "prof": "Am\u00e2ncio Pinto"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Psicologia da Aprendizagem",
+                    "sigla": "PA",
+                    "tipo": "PL",
+                    "turma": "P1C",
+                    "turmac": "P1A-P1C",
+                    "duracao": "3",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "ACP",
+                    "prof": "Am\u00e2ncio Pinto"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16.5,
+                    "nome": "Psicologia da Aprendizagem",
+                    "sigla": "PA",
+                    "tipo": "PL",
+                    "turma": "P1D",
+                    "turmac": "P1D-P1F",
+                    "duracao": "3",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "ACP",
+                    "prof": "Am\u00e2ncio Pinto"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16.5,
+                    "nome": "Psicologia da Aprendizagem",
+                    "sigla": "PA",
+                    "tipo": "PL",
+                    "turma": "P1E",
+                    "turmac": "P1D-P1F",
+                    "duracao": "3",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "ACP",
+                    "prof": "Am\u00e2ncio Pinto"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16.5,
+                    "nome": "Psicologia da Aprendizagem",
+                    "sigla": "PA",
+                    "tipo": "PL",
+                    "turma": "P1F",
+                    "turmac": "P1D-P1F",
+                    "duracao": "3",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "ACP",
+                    "prof": "Am\u00e2ncio Pinto"
+                }
+            ]
+        },
+        "MIP": {
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "M\u00e9todos de Investiga\u00e7\u00e3o em Psicologia",
+                    "sigla": "MIP",
+                    "tipo": "T",
+                    "turma": "P1A",
+                    "turmac": "P1A-P1F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "IMRP",
+                    "prof": "Isabel Rocha Pinto"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "M\u00e9todos de Investiga\u00e7\u00e3o em Psicologia",
+                    "sigla": "MIP",
+                    "tipo": "T",
+                    "turma": "P1B",
+                    "turmac": "P1A-P1F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "IMRP",
+                    "prof": "Isabel Rocha Pinto"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "M\u00e9todos de Investiga\u00e7\u00e3o em Psicologia",
+                    "sigla": "MIP",
+                    "tipo": "T",
+                    "turma": "P1C",
+                    "turmac": "P1A-P1F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "IMRP",
+                    "prof": "Isabel Rocha Pinto"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "M\u00e9todos de Investiga\u00e7\u00e3o em Psicologia",
+                    "sigla": "MIP",
+                    "tipo": "T",
+                    "turma": "P1D",
+                    "turmac": "P1A-P1F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "IMRP",
+                    "prof": "Isabel Rocha Pinto"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "M\u00e9todos de Investiga\u00e7\u00e3o em Psicologia",
+                    "sigla": "MIP",
+                    "tipo": "T",
+                    "turma": "P1E",
+                    "turmac": "P1A-P1F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "IMRP",
+                    "prof": "Isabel Rocha Pinto"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "M\u00e9todos de Investiga\u00e7\u00e3o em Psicologia",
+                    "sigla": "MIP",
+                    "tipo": "T",
+                    "turma": "P1F",
+                    "turmac": "P1A-P1F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "IMRP",
+                    "prof": "Isabel Rocha Pinto"
+                }
+            ],
+            "nome": "M\u00e9todos de Investiga\u00e7\u00e3o em Psicologia",
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 17,
+                    "nome": "M\u00e9todos de Investiga\u00e7\u00e3o em Psicologia",
+                    "sigla": "MIP",
+                    "tipo": "TP",
+                    "turma": "P1A",
+                    "turmac": "P1A",
+                    "duracao": "3",
+                    "sala": "FPCE248",
+                    "profsig": "SBL",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 15.5,
+                    "nome": "M\u00e9todos de Investiga\u00e7\u00e3o em Psicologia",
+                    "sigla": "MIP",
+                    "tipo": "TP",
+                    "turma": "P1C",
+                    "turmac": "P1C",
+                    "duracao": "3",
+                    "sala": "FPCE249",
+                    "profsig": "IMRP",
+                    "prof": "Isabel Rocha Pinto"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "M\u00e9todos de Investiga\u00e7\u00e3o em Psicologia",
+                    "sigla": "MIP",
+                    "tipo": "TP",
+                    "turma": "P1D",
+                    "turmac": "P1D",
+                    "duracao": "3",
+                    "sala": "FPCE248",
+                    "profsig": "SBL",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 15.5,
+                    "nome": "M\u00e9todos de Investiga\u00e7\u00e3o em Psicologia",
+                    "sigla": "MIP",
+                    "tipo": "TP",
+                    "turma": "P1E",
+                    "turmac": "P1E",
+                    "duracao": "3",
+                    "sala": "FPCE248",
+                    "profsig": "SBL",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "M\u00e9todos de Investiga\u00e7\u00e3o em Psicologia",
+                    "sigla": "MIP",
+                    "tipo": "TP",
+                    "turma": "P1F",
+                    "turmac": "P1F",
+                    "duracao": "3",
+                    "sala": "FPCE249",
+                    "profsig": "IMRP",
+                    "prof": "Isabel Rocha Pinto"
+                }
+            ]
+        },
+        "EDP": {
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "\u00c9tica e Deontologia em Psicologia",
+                    "sigla": "EDP",
+                    "tipo": "T",
+                    "turma": "P1A",
+                    "turmac": "P1A-P1F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "IMGN",
+                    "prof": "In\u00eas Nascimento"
+                },
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "\u00c9tica e Deontologia em Psicologia",
+                    "sigla": "EDP",
+                    "tipo": "T",
+                    "turma": "P1B",
+                    "turmac": "P1A-P1F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "IMGN",
+                    "prof": "In\u00eas Nascimento"
+                },
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "\u00c9tica e Deontologia em Psicologia",
+                    "sigla": "EDP",
+                    "tipo": "T",
+                    "turma": "P1C",
+                    "turmac": "P1A-P1F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "IMGN",
+                    "prof": "In\u00eas Nascimento"
+                },
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "\u00c9tica e Deontologia em Psicologia",
+                    "sigla": "EDP",
+                    "tipo": "T",
+                    "turma": "P1D",
+                    "turmac": "P1A-P1F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "IMGN",
+                    "prof": "In\u00eas Nascimento"
+                },
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "\u00c9tica e Deontologia em Psicologia",
+                    "sigla": "EDP",
+                    "tipo": "T",
+                    "turma": "P1E",
+                    "turmac": "P1A-P1F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "IMGN",
+                    "prof": "In\u00eas Nascimento"
+                },
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "\u00c9tica e Deontologia em Psicologia",
+                    "sigla": "EDP",
+                    "tipo": "T",
+                    "turma": "P1F",
+                    "turmac": "P1A-P1F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "IMGN",
+                    "prof": "In\u00eas Nascimento"
+                }
+            ],
+            "nome": "\u00c9tica e Deontologia em Psicologia"
+        },
+        "EHP": {
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Epistemologia e Hist\u00f3ria da Psicologia",
+                    "sigla": "EHP",
+                    "tipo": "T",
+                    "turma": "P1A",
+                    "turmac": "P1A-P1B",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "CMLQ",
+                    "prof": "Cristina Queir\u00f3s"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Epistemologia e Hist\u00f3ria da Psicologia",
+                    "sigla": "EHP",
+                    "tipo": "T",
+                    "turma": "P1B",
+                    "turmac": "P1A-P1B",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "CMLQ",
+                    "prof": "Cristina Queir\u00f3s"
+                },
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "Epistemologia e Hist\u00f3ria da Psicologia",
+                    "sigla": "EHP",
+                    "tipo": "T",
+                    "turma": "P1C",
+                    "turmac": "P1C-P1D",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2C",
+                    "profsig": "CMLQ",
+                    "prof": "Cristina Queir\u00f3s"
+                },
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "Epistemologia e Hist\u00f3ria da Psicologia",
+                    "sigla": "EHP",
+                    "tipo": "T",
+                    "turma": "P1D",
+                    "turmac": "P1C-P1D",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2C",
+                    "profsig": "CMLQ",
+                    "prof": "Cristina Queir\u00f3s"
+                },
+                {
+                    "dia": 4,
+                    "hora": 17.5,
+                    "nome": "Epistemologia e Hist\u00f3ria da Psicologia",
+                    "sigla": "EHP",
+                    "tipo": "T",
+                    "turma": "P1E",
+                    "turmac": "P1E-P1F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2C",
+                    "profsig": "CMLQ",
+                    "prof": "Cristina Queir\u00f3s"
+                },
+                {
+                    "dia": 4,
+                    "hora": 17.5,
+                    "nome": "Epistemologia e Hist\u00f3ria da Psicologia",
+                    "sigla": "EHP",
+                    "tipo": "T",
+                    "turma": "P1F",
+                    "turmac": "P1E-P1F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2C",
+                    "profsig": "CMLQ",
+                    "prof": "Cristina Queir\u00f3s"
+                }
+            ],
+            "nome": "Epistemologia e Hist\u00f3ria da Psicologia"
+        },
+        "ICS": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0s Ci\u00eancias Sociais",
+                    "sigla": "ICS",
+                    "tipo": "T",
+                    "turma": "P1A",
+                    "turmac": "P1A-P1B",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2C",
+                    "profsig": "AJMC",
+                    "prof": "Miguel Cameira"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0s Ci\u00eancias Sociais",
+                    "sigla": "ICS",
+                    "tipo": "T",
+                    "turma": "P1B",
+                    "turmac": "P1A-P1B",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2C",
+                    "profsig": "AJMC",
+                    "prof": "Miguel Cameira"
+                },
+                {
+                    "dia": 1,
+                    "hora": 16.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0s Ci\u00eancias Sociais",
+                    "sigla": "ICS",
+                    "tipo": "T",
+                    "turma": "P1C",
+                    "turmac": "P1C-P1D",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2C",
+                    "profsig": "AJMC",
+                    "prof": "Miguel Cameira"
+                },
+                {
+                    "dia": 1,
+                    "hora": 16.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0s Ci\u00eancias Sociais",
+                    "sigla": "ICS",
+                    "tipo": "T",
+                    "turma": "P1D",
+                    "turmac": "P1C-P1D",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2C",
+                    "profsig": "AJMC",
+                    "prof": "Miguel Cameira"
+                },
+                {
+                    "dia": 1,
+                    "hora": 10,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0s Ci\u00eancias Sociais",
+                    "sigla": "ICS",
+                    "tipo": "T",
+                    "turma": "P1E",
+                    "turmac": "P1E-P1F",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2C",
+                    "profsig": "AJMC",
+                    "prof": "Miguel Cameira"
+                },
+                {
+                    "dia": 1,
+                    "hora": 10,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0s Ci\u00eancias Sociais",
+                    "sigla": "ICS",
+                    "tipo": "T",
+                    "turma": "P1F",
+                    "turmac": "P1E-P1F",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2C",
+                    "profsig": "AJMC",
+                    "prof": "Miguel Cameira"
+                }
+            ],
+            "nome": "Introdu\u00e7\u00e3o \u00e0s Ci\u00eancias Sociais",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 15,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0s Ci\u00eancias Sociais",
+                    "sigla": "ICS",
+                    "tipo": "TP",
+                    "turma": "P1A",
+                    "turmac": "P1A-P1B",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2C",
+                    "profsig": "AJMC",
+                    "prof": "Miguel Cameira"
+                },
+                {
+                    "dia": 1,
+                    "hora": 15,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0s Ci\u00eancias Sociais",
+                    "sigla": "ICS",
+                    "tipo": "TP",
+                    "turma": "P1B",
+                    "turmac": "P1A-P1B",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2C",
+                    "profsig": "AJMC",
+                    "prof": "Miguel Cameira"
+                },
+                {
+                    "dia": 1,
+                    "hora": 17.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0s Ci\u00eancias Sociais",
+                    "sigla": "ICS",
+                    "tipo": "TP",
+                    "turma": "P1C",
+                    "turmac": "P1C-P1D",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2C",
+                    "profsig": "AJMC",
+                    "prof": "Miguel Cameira"
+                },
+                {
+                    "dia": 1,
+                    "hora": 17.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0s Ci\u00eancias Sociais",
+                    "sigla": "ICS",
+                    "tipo": "TP",
+                    "turma": "P1D",
+                    "turmac": "P1C-P1D",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2C",
+                    "profsig": "AJMC",
+                    "prof": "Miguel Cameira"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0s Ci\u00eancias Sociais",
+                    "sigla": "ICS",
+                    "tipo": "TP",
+                    "turma": "P1E",
+                    "turmac": "P1E-P1F",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2C",
+                    "profsig": "AJMC",
+                    "prof": "Miguel Cameira"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0s Ci\u00eancias Sociais",
+                    "sigla": "ICS",
+                    "tipo": "TP",
+                    "turma": "P1F",
+                    "turmac": "P1E-P1F",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2C",
+                    "profsig": "AJMC",
+                    "prof": "Miguel Cameira"
+                }
+            ]
+        }
+    },
+    "2\u00ba Ano": {
+        "DD": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Dislexia e Discalculia",
+                    "sigla": "DD",
+                    "tipo": "TP",
+                    "turma": "OL3",
+                    "turmac": "OL3",
+                    "duracao": "4",
+                    "sala": "FPCE253",
+                    "profsig": "SLC;RA",
+                    "prof": null
+                }
+            ],
+            "nome": "Dislexia e Discalculia"
+        },
+        "PE": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Psicologia e Emo\u00e7\u00f5es",
+                    "sigla": "PE",
+                    "tipo": "TP",
+                    "turma": "OL3",
+                    "turmac": "OL3",
+                    "duracao": "4",
+                    "sala": "FPCE246",
+                    "profsig": "CMLQ",
+                    "prof": "Cristina Queir\u00f3s"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Psicologia e Emo\u00e7\u00f5es",
+                    "sigla": "PE",
+                    "tipo": "TP",
+                    "turma": "OL4",
+                    "turmac": "OL4",
+                    "duracao": "4",
+                    "sala": "FPCE246",
+                    "profsig": "CMLQ",
+                    "prof": "Cristina Queir\u00f3s"
+                }
+            ],
+            "nome": "Psicologia e Emo\u00e7\u00f5es"
+        },
+        "PDSC": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 18,
+                    "nome": "Psicologia e Diversidade Socio-cultural",
+                    "sigla": "PDSC",
+                    "tipo": "TP",
+                    "turma": "OL3",
+                    "turmac": "OL3",
+                    "duracao": "4",
+                    "sala": "FPCE253",
+                    "profsig": "MCOCN",
+                    "prof": "Concei\u00e7\u00e3o Nogueira"
+                },
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Psicologia e Diversidade Socio-cultural",
+                    "sigla": "PDSC",
+                    "tipo": "TP",
+                    "turma": "OL4",
+                    "turmac": "OL4",
+                    "duracao": "4",
+                    "sala": "FPCE253",
+                    "profsig": "MCOCN",
+                    "prof": "Concei\u00e7\u00e3o Nogueira"
+                }
+            ],
+            "nome": "Psicologia e Diversidade Socio-cultural"
+        },
+        "DPMC": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 18,
+                    "nome": "Desenvolvimento do Pensamento Matem\u00e1tico em Crian\u00e7as",
+                    "sigla": "DPMC",
+                    "tipo": "TP",
+                    "turma": "OL4",
+                    "turmac": "OL4",
+                    "duracao": "4",
+                    "sala": "FPCE246",
+                    "profsig": "IMSMPAL",
+                    "prof": "Isabel Macedo Pinto"
+                }
+            ],
+            "nome": "Desenvolvimento do Pensamento Matem\u00e1tico em Crian\u00e7as"
+        },
+        "MPH": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Modelos Psicanal\u00edticos e Humanistas",
+                    "sigla": "MPH",
+                    "tipo": "T",
+                    "turma": "P2A",
+                    "turmac": "P2A-P2F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "CG;EL",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Modelos Psicanal\u00edticos e Humanistas",
+                    "sigla": "MPH",
+                    "tipo": "T",
+                    "turma": "P2B",
+                    "turmac": "P2A-P2F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "CG;EL",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Modelos Psicanal\u00edticos e Humanistas",
+                    "sigla": "MPH",
+                    "tipo": "T",
+                    "turma": "P2C",
+                    "turmac": "P2A-P2F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "CG;EL",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Modelos Psicanal\u00edticos e Humanistas",
+                    "sigla": "MPH",
+                    "tipo": "T",
+                    "turma": "P2D",
+                    "turmac": "P2A-P2F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "CG;EL",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Modelos Psicanal\u00edticos e Humanistas",
+                    "sigla": "MPH",
+                    "tipo": "T",
+                    "turma": "P2E",
+                    "turmac": "P2A-P2F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "CG;EL",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Modelos Psicanal\u00edticos e Humanistas",
+                    "sigla": "MPH",
+                    "tipo": "T",
+                    "turma": "P2F",
+                    "turmac": "P2A-P2F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "CG;EL",
+                    "prof": null
+                }
+            ],
+            "nome": "Modelos Psicanal\u00edticos e Humanistas",
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 10,
+                    "nome": "Modelos Psicanal\u00edticos e Humanistas",
+                    "sigla": "MPH",
+                    "tipo": "TP",
+                    "turma": "P2A",
+                    "turmac": "P2A",
+                    "duracao": "3",
+                    "sala": "FPCE244",
+                    "profsig": "NNN",
+                    "prof": "Nuno Nunes"
+                },
+                {
+                    "dia": 3,
+                    "hora": 8.5,
+                    "nome": "Modelos Psicanal\u00edticos e Humanistas",
+                    "sigla": "MPH",
+                    "tipo": "TP",
+                    "turma": "P2C",
+                    "turmac": "P2C",
+                    "duracao": "3",
+                    "sala": "FPCE244",
+                    "profsig": "NNN",
+                    "prof": "Nuno Nunes"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14.5,
+                    "nome": "Modelos Psicanal\u00edticos e Humanistas",
+                    "sigla": "MPH",
+                    "tipo": "TP",
+                    "turma": "P2D",
+                    "turmac": "P2D",
+                    "duracao": "3",
+                    "sala": "FPCE244",
+                    "profsig": "NNN",
+                    "prof": "Nuno Nunes"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Modelos Psicanal\u00edticos e Humanistas",
+                    "sigla": "MPH",
+                    "tipo": "TP",
+                    "turma": "P2E",
+                    "turmac": "P2E",
+                    "duracao": "3",
+                    "sala": "FPCE244",
+                    "profsig": "NNN",
+                    "prof": "Nuno Nunes"
+                },
+                {
+                    "dia": 3,
+                    "hora": 11.5,
+                    "nome": "Modelos Psicanal\u00edticos e Humanistas",
+                    "sigla": "MPH",
+                    "tipo": "TP",
+                    "turma": "P2F",
+                    "turmac": "P2F",
+                    "duracao": "3",
+                    "sala": "FPCE244",
+                    "profsig": "NNN",
+                    "prof": "Nuno Nunes"
+                }
+            ]
+        },
+        "PDA": {
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Psicologia do Desenvolvimento do Adolescente",
+                    "sigla": "PDA",
+                    "tipo": "PL",
+                    "turma": "P2A",
+                    "turmac": "P2A",
+                    "duracao": "3",
+                    "sala": "FPCE256",
+                    "profsig": "MAAFBD",
+                    "prof": "Maria Adelina Acciaiuoli Barbosa Ducharne"
+                },
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "Psicologia do Desenvolvimento do Adolescente",
+                    "sigla": "PDA",
+                    "tipo": "PL",
+                    "turma": "P2B",
+                    "turmac": "P2B",
+                    "duracao": "3",
+                    "sala": "FPCE256",
+                    "profsig": "MAAFBD",
+                    "prof": "Maria Adelina Acciaiuoli Barbosa Ducharne"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Psicologia do Desenvolvimento do Adolescente",
+                    "sigla": "PDA",
+                    "tipo": "PL",
+                    "turma": "P2C",
+                    "turmac": "P2C",
+                    "duracao": "3",
+                    "sala": "FPCE247",
+                    "profsig": "TMBL",
+                    "prof": "Teresa Leal"
+                },
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "Psicologia do Desenvolvimento do Adolescente",
+                    "sigla": "PDA",
+                    "tipo": "PL",
+                    "turma": "P2D",
+                    "turmac": "P2D",
+                    "duracao": "3",
+                    "sala": "FPCE247",
+                    "profsig": "TMBL",
+                    "prof": "Teresa Leal"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Psicologia do Desenvolvimento do Adolescente",
+                    "sigla": "PDA",
+                    "tipo": "PL",
+                    "turma": "P2E",
+                    "turmac": "P2E",
+                    "duracao": "3",
+                    "sala": "FPCE247",
+                    "profsig": "TMBL",
+                    "prof": "Teresa Leal"
+                }
+            ],
+            "nome": "Psicologia do Desenvolvimento do Adolescente",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Psicologia do Desenvolvimento do Adolescente",
+                    "sigla": "PDA",
+                    "tipo": "T",
+                    "turma": "P2A",
+                    "turmac": "P2A-P2F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "MAAFBD",
+                    "prof": "Maria Adelina Acciaiuoli Barbosa Ducharne"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Psicologia do Desenvolvimento do Adolescente",
+                    "sigla": "PDA",
+                    "tipo": "T",
+                    "turma": "P2B",
+                    "turmac": "P2A-P2F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "MAAFBD",
+                    "prof": "Maria Adelina Acciaiuoli Barbosa Ducharne"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Psicologia do Desenvolvimento do Adolescente",
+                    "sigla": "PDA",
+                    "tipo": "T",
+                    "turma": "P2C",
+                    "turmac": "P2A-P2F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "MAAFBD",
+                    "prof": "Maria Adelina Acciaiuoli Barbosa Ducharne"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Psicologia do Desenvolvimento do Adolescente",
+                    "sigla": "PDA",
+                    "tipo": "T",
+                    "turma": "P2D",
+                    "turmac": "P2A-P2F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "MAAFBD",
+                    "prof": "Maria Adelina Acciaiuoli Barbosa Ducharne"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Psicologia do Desenvolvimento do Adolescente",
+                    "sigla": "PDA",
+                    "tipo": "T",
+                    "turma": "P2E",
+                    "turmac": "P2A-P2F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "MAAFBD",
+                    "prof": "Maria Adelina Acciaiuoli Barbosa Ducharne"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Psicologia do Desenvolvimento do Adolescente",
+                    "sigla": "PDA",
+                    "tipo": "T",
+                    "turma": "P2F",
+                    "turmac": "P2A-P2F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "MAAFBD",
+                    "prof": "Maria Adelina Acciaiuoli Barbosa Ducharne"
+                }
+            ]
+        },
+        "PP": {
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Psicologia do Pensamento",
+                    "sigla": "PP",
+                    "tipo": "T",
+                    "turma": "P2A",
+                    "turmac": "P2A-P2F",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "SLC",
+                    "prof": "S\u00e3o Lu\u00eds Castro"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Psicologia do Pensamento",
+                    "sigla": "PP",
+                    "tipo": "T",
+                    "turma": "P2B",
+                    "turmac": "P2A-P2F",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "SLC",
+                    "prof": "S\u00e3o Lu\u00eds Castro"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Psicologia do Pensamento",
+                    "sigla": "PP",
+                    "tipo": "T",
+                    "turma": "P2C",
+                    "turmac": "P2A-P2F",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "SLC",
+                    "prof": "S\u00e3o Lu\u00eds Castro"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Psicologia do Pensamento",
+                    "sigla": "PP",
+                    "tipo": "T",
+                    "turma": "P2D",
+                    "turmac": "P2A-P2F",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "SLC",
+                    "prof": "S\u00e3o Lu\u00eds Castro"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Psicologia do Pensamento",
+                    "sigla": "PP",
+                    "tipo": "T",
+                    "turma": "P2E",
+                    "turmac": "P2A-P2F",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "SLC",
+                    "prof": "S\u00e3o Lu\u00eds Castro"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Psicologia do Pensamento",
+                    "sigla": "PP",
+                    "tipo": "T",
+                    "turma": "P2F",
+                    "turmac": "P2A-P2F",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "SLC",
+                    "prof": "S\u00e3o Lu\u00eds Castro"
+                }
+            ],
+            "nome": "Psicologia do Pensamento",
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Psicologia do Pensamento",
+                    "sigla": "PP",
+                    "tipo": "TP",
+                    "turma": "P2A",
+                    "turmac": "P2A-P2F",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "SLC",
+                    "prof": "S\u00e3o Lu\u00eds Castro"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Psicologia do Pensamento",
+                    "sigla": "PP",
+                    "tipo": "TP",
+                    "turma": "P2B",
+                    "turmac": "P2A-P2F",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "SLC",
+                    "prof": "S\u00e3o Lu\u00eds Castro"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Psicologia do Pensamento",
+                    "sigla": "PP",
+                    "tipo": "TP",
+                    "turma": "P2C",
+                    "turmac": "P2A-P2F",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "SLC",
+                    "prof": "S\u00e3o Lu\u00eds Castro"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Psicologia do Pensamento",
+                    "sigla": "PP",
+                    "tipo": "TP",
+                    "turma": "P2D",
+                    "turmac": "P2A-P2F",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "SLC",
+                    "prof": "S\u00e3o Lu\u00eds Castro"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Psicologia do Pensamento",
+                    "sigla": "PP",
+                    "tipo": "TP",
+                    "turma": "P2E",
+                    "turmac": "P2A-P2F",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "SLC",
+                    "prof": "S\u00e3o Lu\u00eds Castro"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Psicologia do Pensamento",
+                    "sigla": "PP",
+                    "tipo": "TP",
+                    "turma": "P2F",
+                    "turmac": "P2A-P2F",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "SLC",
+                    "prof": "S\u00e3o Lu\u00eds Castro"
+                }
+            ]
+        },
+        "PSICOF": {
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Psicofisiologia",
+                    "sigla": "PSICOF",
+                    "tipo": "T",
+                    "turma": "P2A",
+                    "turmac": "P2A-P2F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "JMT;FB",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Psicofisiologia",
+                    "sigla": "PSICOF",
+                    "tipo": "T",
+                    "turma": "P2B",
+                    "turmac": "P2A-P2F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "JMT;FB",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Psicofisiologia",
+                    "sigla": "PSICOF",
+                    "tipo": "T",
+                    "turma": "P2C",
+                    "turmac": "P2A-P2F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "JMT;FB",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Psicofisiologia",
+                    "sigla": "PSICOF",
+                    "tipo": "T",
+                    "turma": "P2D",
+                    "turmac": "P2A-P2F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "JMT;FB",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Psicofisiologia",
+                    "sigla": "PSICOF",
+                    "tipo": "T",
+                    "turma": "P2E",
+                    "turmac": "P2A-P2F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "JMT;FB",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Psicofisiologia",
+                    "sigla": "PSICOF",
+                    "tipo": "T",
+                    "turma": "P2F",
+                    "turmac": "P2A-P2F",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "JMT;FB",
+                    "prof": null
+                }
+            ],
+            "nome": "Psicofisiologia"
+        },
+        "ESTIII": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Estat\u00edstica III",
+                    "sigla": "ESTIII",
+                    "tipo": "TP",
+                    "turma": "P2A",
+                    "turmac": "P2A",
+                    "duracao": "7",
+                    "sala": "FPCE103",
+                    "profsig": "RGS",
+                    "prof": "Rui Ser\u00f4dio"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Estat\u00edstica III",
+                    "sigla": "ESTIII",
+                    "tipo": "TP",
+                    "turma": "P2B",
+                    "turmac": "P2B",
+                    "duracao": "7",
+                    "sala": "FPCE103",
+                    "profsig": "RGS",
+                    "prof": "Rui Ser\u00f4dio"
+                },
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Estat\u00edstica III",
+                    "sigla": "ESTIII",
+                    "tipo": "TP",
+                    "turma": "P2C",
+                    "turmac": "P2C",
+                    "duracao": "7",
+                    "sala": "FPCE103",
+                    "profsig": "RGS",
+                    "prof": "Rui Ser\u00f4dio"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Estat\u00edstica III",
+                    "sigla": "ESTIII",
+                    "tipo": "TP",
+                    "turma": "P2D",
+                    "turmac": "P2D",
+                    "duracao": "7",
+                    "sala": "FPCE103",
+                    "profsig": "RGS",
+                    "prof": "Rui Ser\u00f4dio"
+                }
+            ],
+            "nome": "Estat\u00edstica III"
+        },
+        "PS": {
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Psicologia Social",
+                    "sigla": "PS",
+                    "tipo": "T",
+                    "turma": "P2A",
+                    "turmac": "P2A-P2B",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "FN",
+                    "prof": "F\u00e9lix Neto"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Psicologia Social",
+                    "sigla": "PS",
+                    "tipo": "T",
+                    "turma": "P2B",
+                    "turmac": "P2A-P2B",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "FN",
+                    "prof": "F\u00e9lix Neto"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Psicologia Social",
+                    "sigla": "PS",
+                    "tipo": "T",
+                    "turma": "P2C",
+                    "turmac": "P2C-P2D",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "FN",
+                    "prof": "F\u00e9lix Neto"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Psicologia Social",
+                    "sigla": "PS",
+                    "tipo": "T",
+                    "turma": "P2D",
+                    "turmac": "P2C-P2D",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "FN",
+                    "prof": "F\u00e9lix Neto"
+                },
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Psicologia Social",
+                    "sigla": "PS",
+                    "tipo": "T",
+                    "turma": "P2E",
+                    "turmac": "P2E-P2F",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2C",
+                    "profsig": "FN",
+                    "prof": "F\u00e9lix Neto"
+                },
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Psicologia Social",
+                    "sigla": "PS",
+                    "tipo": "T",
+                    "turma": "P2F",
+                    "turmac": "P2E-P2F",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2C",
+                    "profsig": "FN",
+                    "prof": "F\u00e9lix Neto"
+                }
+            ],
+            "nome": "Psicologia Social",
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 15,
+                    "nome": "Psicologia Social",
+                    "sigla": "PS",
+                    "tipo": "TP",
+                    "turma": "P2A",
+                    "turmac": "P2A-P2B",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "FN",
+                    "prof": "F\u00e9lix Neto"
+                },
+                {
+                    "dia": 4,
+                    "hora": 15,
+                    "nome": "Psicologia Social",
+                    "sigla": "PS",
+                    "tipo": "TP",
+                    "turma": "P2B",
+                    "turmac": "P2A-P2B",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "FN",
+                    "prof": "F\u00e9lix Neto"
+                },
+                {
+                    "dia": 4,
+                    "hora": 17,
+                    "nome": "Psicologia Social",
+                    "sigla": "PS",
+                    "tipo": "TP",
+                    "turma": "P2C",
+                    "turmac": "P2C-P2D",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "FN",
+                    "prof": "F\u00e9lix Neto"
+                },
+                {
+                    "dia": 4,
+                    "hora": 17,
+                    "nome": "Psicologia Social",
+                    "sigla": "PS",
+                    "tipo": "TP",
+                    "turma": "P2D",
+                    "turmac": "P2C-P2D",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "FN",
+                    "prof": "F\u00e9lix Neto"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16.5,
+                    "nome": "Psicologia Social",
+                    "sigla": "PS",
+                    "tipo": "TP",
+                    "turma": "P2E",
+                    "turmac": "P2E-P2F",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2C",
+                    "profsig": "FN",
+                    "prof": "F\u00e9lix Neto"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16.5,
+                    "nome": "Psicologia Social",
+                    "sigla": "PS",
+                    "tipo": "TP",
+                    "turma": "P2F",
+                    "turmac": "P2E-P2F",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2C",
+                    "profsig": "FN",
+                    "prof": "F\u00e9lix Neto"
+                }
+            ]
+        }
+    },
+    "3\u00ba Ano": {
+        "PL": {
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Pr\u00e1ticas Laboratoriais de Neuropsicofisiologia",
+                    "sigla": "PL",
+                    "tipo": "PL",
+                    "turma": "OL5",
+                    "turmac": "OL5",
+                    "duracao": "4",
+                    "sala": "FPCE016",
+                    "profsig": "MFSB",
+                    "prof": "Fernando Barbosa"
+                }
+            ],
+            "nome": "Pr\u00e1ticas Laboratoriais de Neuropsicofisiologia"
+        },
+        "IS": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Sexologia",
+                    "sigla": "IS",
+                    "tipo": "TP",
+                    "turma": "OL5",
+                    "turmac": "OL5",
+                    "duracao": "4",
+                    "sala": "FPCE117",
+                    "profsig": "PJSCN",
+                    "prof": "Pedro Nobre"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Sexologia",
+                    "sigla": "IS",
+                    "tipo": "TP",
+                    "turma": "OL6",
+                    "turmac": "OL6",
+                    "duracao": "4",
+                    "sala": "FPCE117",
+                    "profsig": "PJSCN",
+                    "prof": "Pedro Nobre"
+                }
+            ],
+            "nome": "Introdu\u00e7\u00e3o \u00e0 Sexologia"
+        },
+        "PBDH": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 18,
+                    "nome": "Perspectiva Biopsicossocial em Desenvolvimento Humano",
+                    "sigla": "PBDH",
+                    "tipo": "TP",
+                    "turma": "OL5",
+                    "turmac": "OL5",
+                    "duracao": "4",
+                    "sala": "FPCE117",
+                    "profsig": "AIMCP",
+                    "prof": "Ana Isabel Pinto"
+                }
+            ],
+            "nome": "Perspectiva Biopsicossocial em Desenvolvimento Humano"
+        },
+        "RSI 1": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Rorschach Sistema Integrativo I",
+                    "sigla": "RSI 1",
+                    "tipo": "TP",
+                    "turma": "OL6",
+                    "turmac": "OL6",
+                    "duracao": "4",
+                    "sala": "FPCE244",
+                    "profsig": "AAP",
+                    "prof": "Ant\u00f3nio Abel Pires"
+                }
+            ],
+            "nome": "Rorschach Sistema Integrativo I"
+        },
+        "PES": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 18,
+                    "nome": "Psicologia e Espa\u00e7o(s)",
+                    "sigla": "PES",
+                    "tipo": "TP",
+                    "turma": "OL6",
+                    "turmac": "OL6",
+                    "duracao": "4",
+                    "sala": "FPCE244",
+                    "profsig": "CMND",
+                    "prof": "Cid\u00e1lia Duarte"
+                }
+            ],
+            "nome": "Psicologia e Espa\u00e7o(s)"
+        },
+        "PCA": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Psicopatologia da Crian\u00e7a e do Adolescente",
+                    "sigla": "PCA",
+                    "tipo": "T",
+                    "turma": "P3A",
+                    "turmac": "P3A-P3E",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "MGSL",
+                    "prof": "Marina Lemos"
+                },
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Psicopatologia da Crian\u00e7a e do Adolescente",
+                    "sigla": "PCA",
+                    "tipo": "T",
+                    "turma": "P3B",
+                    "turmac": "P3A-P3E",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "MGSL",
+                    "prof": "Marina Lemos"
+                },
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Psicopatologia da Crian\u00e7a e do Adolescente",
+                    "sigla": "PCA",
+                    "tipo": "T",
+                    "turma": "P3C",
+                    "turmac": "P3A-P3E",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "MGSL",
+                    "prof": "Marina Lemos"
+                },
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Psicopatologia da Crian\u00e7a e do Adolescente",
+                    "sigla": "PCA",
+                    "tipo": "T",
+                    "turma": "P3D",
+                    "turmac": "P3A-P3E",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "MGSL",
+                    "prof": "Marina Lemos"
+                },
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Psicopatologia da Crian\u00e7a e do Adolescente",
+                    "sigla": "PCA",
+                    "tipo": "T",
+                    "turma": "P3E",
+                    "turmac": "P3A-P3E",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "MGSL",
+                    "prof": "Marina Lemos"
+                }
+            ],
+            "nome": "Psicopatologia da Crian\u00e7a e do Adolescente",
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Psicopatologia da Crian\u00e7a e do Adolescente",
+                    "sigla": "PCA",
+                    "tipo": "TP",
+                    "turma": "P3A",
+                    "turmac": "P3A",
+                    "duracao": "3",
+                    "sala": "FPCE252",
+                    "profsig": "DRPA",
+                    "prof": "Diana Alves"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11.5,
+                    "nome": "Psicopatologia da Crian\u00e7a e do Adolescente",
+                    "sigla": "PCA",
+                    "tipo": "TP",
+                    "turma": "P3B",
+                    "turmac": "P3B",
+                    "duracao": "3",
+                    "sala": "FPCE252",
+                    "profsig": "DRPA",
+                    "prof": "Diana Alves"
+                },
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "Psicopatologia da Crian\u00e7a e do Adolescente",
+                    "sigla": "PCA",
+                    "tipo": "TP",
+                    "turma": "P3C",
+                    "turmac": "P3C",
+                    "duracao": "3",
+                    "sala": "FPCE252",
+                    "profsig": "DRPA",
+                    "prof": "Diana Alves"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Psicopatologia da Crian\u00e7a e do Adolescente",
+                    "sigla": "PCA",
+                    "tipo": "TP",
+                    "turma": "P3D",
+                    "turmac": "P3D",
+                    "duracao": "3",
+                    "sala": "FPCE252",
+                    "profsig": "DRPA",
+                    "prof": "Diana Alves"
+                },
+                {
+                    "dia": 5,
+                    "hora": 15.5,
+                    "nome": "Psicopatologia da Crian\u00e7a e do Adolescente",
+                    "sigla": "PCA",
+                    "tipo": "TP",
+                    "turma": "P3E",
+                    "turmac": "P3E",
+                    "duracao": "3",
+                    "sala": "FPCE252",
+                    "profsig": "DRPA",
+                    "prof": "Diana Alves"
+                }
+            ]
+        },
+        "AP 1": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "Avalia\u00e7\u00e3o Psicol\u00f3gica I",
+                    "sigla": "AP 1",
+                    "tipo": "TP",
+                    "turma": "P3A",
+                    "turmac": "P3A",
+                    "duracao": "3",
+                    "sala": "FPCE253",
+                    "profsig": "FFS",
+                    "prof": "Fernando Ferreira Santos"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Avalia\u00e7\u00e3o Psicol\u00f3gica I",
+                    "sigla": "AP 1",
+                    "tipo": "TP",
+                    "turma": "P3B",
+                    "turmac": "P3B",
+                    "duracao": "3",
+                    "sala": "FPCE253",
+                    "profsig": "FFS",
+                    "prof": "Fernando Ferreira Santos"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11.5,
+                    "nome": "Avalia\u00e7\u00e3o Psicol\u00f3gica I",
+                    "sigla": "AP 1",
+                    "tipo": "TP",
+                    "turma": "P3C",
+                    "turmac": "P3C",
+                    "duracao": "3",
+                    "sala": "FPCE253",
+                    "profsig": "FFS",
+                    "prof": "Fernando Ferreira Santos"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "Avalia\u00e7\u00e3o Psicol\u00f3gica I",
+                    "sigla": "AP 1",
+                    "tipo": "TP",
+                    "turma": "P3D",
+                    "turmac": "P3D",
+                    "duracao": "3",
+                    "sala": "FPCE253",
+                    "profsig": "FFS",
+                    "prof": "Fernando Ferreira Santos"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11.5,
+                    "nome": "Avalia\u00e7\u00e3o Psicol\u00f3gica I",
+                    "sigla": "AP 1",
+                    "tipo": "TP",
+                    "turma": "P3E",
+                    "turmac": "P3E",
+                    "duracao": "3",
+                    "sala": "FPCE253",
+                    "profsig": "FFS",
+                    "prof": "Fernando Ferreira Santos"
+                }
+            ],
+            "nome": "Avalia\u00e7\u00e3o Psicol\u00f3gica I",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "Avalia\u00e7\u00e3o Psicol\u00f3gica I",
+                    "sigla": "AP 1",
+                    "tipo": "T",
+                    "turma": "P3A",
+                    "turmac": "P3A-P3E",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "AAP",
+                    "prof": "Ant\u00f3nio Abel Pires"
+                },
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "Avalia\u00e7\u00e3o Psicol\u00f3gica I",
+                    "sigla": "AP 1",
+                    "tipo": "T",
+                    "turma": "P3B",
+                    "turmac": "P3A-P3E",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "AAP",
+                    "prof": "Ant\u00f3nio Abel Pires"
+                },
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "Avalia\u00e7\u00e3o Psicol\u00f3gica I",
+                    "sigla": "AP 1",
+                    "tipo": "T",
+                    "turma": "P3C",
+                    "turmac": "P3A-P3E",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "AAP",
+                    "prof": "Ant\u00f3nio Abel Pires"
+                },
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "Avalia\u00e7\u00e3o Psicol\u00f3gica I",
+                    "sigla": "AP 1",
+                    "tipo": "T",
+                    "turma": "P3D",
+                    "turmac": "P3A-P3E",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "AAP",
+                    "prof": "Ant\u00f3nio Abel Pires"
+                },
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "Avalia\u00e7\u00e3o Psicol\u00f3gica I",
+                    "sigla": "AP 1",
+                    "tipo": "T",
+                    "turma": "P3E",
+                    "turmac": "P3A-P3E",
+                    "duracao": "4",
+                    "sala": "FPCEAUD 2A",
+                    "profsig": "AAP",
+                    "prof": "Ant\u00f3nio Abel Pires"
+                }
+            ]
+        },
+        "TPIQ": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Trabalhos Pr\u00e1ticos de Investiga\u00e7\u00e3o Qualitativa",
+                    "sigla": "TPIQ",
+                    "tipo": "TP",
+                    "turma": "P3A",
+                    "turmac": "P3A-P3E",
+                    "duracao": "3",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "AIMCP",
+                    "prof": "Ana Isabel Pinto"
+                },
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Trabalhos Pr\u00e1ticos de Investiga\u00e7\u00e3o Qualitativa",
+                    "sigla": "TPIQ",
+                    "tipo": "TP",
+                    "turma": "P3B",
+                    "turmac": "P3A-P3E",
+                    "duracao": "3",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "AIMCP",
+                    "prof": "Ana Isabel Pinto"
+                },
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Trabalhos Pr\u00e1ticos de Investiga\u00e7\u00e3o Qualitativa",
+                    "sigla": "TPIQ",
+                    "tipo": "TP",
+                    "turma": "P3C",
+                    "turmac": "P3A-P3E",
+                    "duracao": "3",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "AIMCP",
+                    "prof": "Ana Isabel Pinto"
+                },
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Trabalhos Pr\u00e1ticos de Investiga\u00e7\u00e3o Qualitativa",
+                    "sigla": "TPIQ",
+                    "tipo": "TP",
+                    "turma": "P3D",
+                    "turmac": "P3A-P3E",
+                    "duracao": "3",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "AIMCP",
+                    "prof": "Ana Isabel Pinto"
+                },
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Trabalhos Pr\u00e1ticos de Investiga\u00e7\u00e3o Qualitativa",
+                    "sigla": "TPIQ",
+                    "tipo": "TP",
+                    "turma": "P3E",
+                    "turmac": "P3A-P3E",
+                    "duracao": "3",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "AIMCP",
+                    "prof": "Ana Isabel Pinto"
+                }
+            ],
+            "nome": "Trabalhos Pr\u00e1ticos de Investiga\u00e7\u00e3o Qualitativa",
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Trabalhos Pr\u00e1ticos de Investiga\u00e7\u00e3o Qualitativa",
+                    "sigla": "TPIQ",
+                    "tipo": "PL",
+                    "turma": "P3A",
+                    "turmac": "P3A",
+                    "duracao": "4",
+                    "sala": "FPCE249",
+                    "profsig": "MCLRG",
+                    "prof": "Catarina Grande"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Trabalhos Pr\u00e1ticos de Investiga\u00e7\u00e3o Qualitativa",
+                    "sigla": "TPIQ",
+                    "tipo": "PL",
+                    "turma": "P3B",
+                    "turmac": "P3B",
+                    "duracao": "4",
+                    "sala": "FPCE244",
+                    "profsig": "AIMCP",
+                    "prof": "Ana Isabel Pinto"
+                },
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Trabalhos Pr\u00e1ticos de Investiga\u00e7\u00e3o Qualitativa",
+                    "sigla": "TPIQ",
+                    "tipo": "PL",
+                    "turma": "P3C",
+                    "turmac": "P3C",
+                    "duracao": "4",
+                    "sala": "FPCE244",
+                    "profsig": "AIMCP",
+                    "prof": "Ana Isabel Pinto"
+                },
+                {
+                    "dia": 4,
+                    "hora": 18,
+                    "nome": "Trabalhos Pr\u00e1ticos de Investiga\u00e7\u00e3o Qualitativa",
+                    "sigla": "TPIQ",
+                    "tipo": "PL",
+                    "turma": "P3D",
+                    "turmac": "P3D",
+                    "duracao": "4",
+                    "sala": "FPCE249",
+                    "profsig": "MCLRG",
+                    "prof": "Catarina Grande"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Trabalhos Pr\u00e1ticos de Investiga\u00e7\u00e3o Qualitativa",
+                    "sigla": "TPIQ",
+                    "tipo": "PL",
+                    "turma": "P3E",
+                    "turmac": "P3E",
+                    "duracao": "4",
+                    "sala": "FPCE249",
+                    "profsig": "MCLRG",
+                    "prof": "Catarina Grande"
+                }
+            ]
+        },
+        "PT": {
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Psicologia do Trabalho",
+                    "sigla": "PT",
+                    "tipo": "T",
+                    "turma": "P3A",
+                    "turmac": "P3A-P3B",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "MS;LC",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Psicologia do Trabalho",
+                    "sigla": "PT",
+                    "tipo": "T",
+                    "turma": "P3B",
+                    "turmac": "P3A-P3B",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "MS;LC",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Psicologia do Trabalho",
+                    "sigla": "PT",
+                    "tipo": "T",
+                    "turma": "P3C",
+                    "turmac": "P3C-P3D",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "MS;LC",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Psicologia do Trabalho",
+                    "sigla": "PT",
+                    "tipo": "T",
+                    "turma": "P3D",
+                    "turmac": "P3C-P3D",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "MS;LC",
+                    "prof": null
+                }
+            ],
+            "nome": "Psicologia do Trabalho",
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 10,
+                    "nome": "Psicologia do Trabalho",
+                    "sigla": "PT",
+                    "tipo": "TP",
+                    "turma": "P3A",
+                    "turmac": "P3A-P3B",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "MS;LC",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 10,
+                    "nome": "Psicologia do Trabalho",
+                    "sigla": "PT",
+                    "tipo": "TP",
+                    "turma": "P3B",
+                    "turmac": "P3A-P3B",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "MS;LC",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 12,
+                    "nome": "Psicologia do Trabalho",
+                    "sigla": "PT",
+                    "tipo": "TP",
+                    "turma": "P3C",
+                    "turmac": "P3C-P3D",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "MS;LC",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 12,
+                    "nome": "Psicologia do Trabalho",
+                    "sigla": "PT",
+                    "tipo": "TP",
+                    "turma": "P3D",
+                    "turmac": "P3C-P3D",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "MS;LC",
+                    "prof": null
+                }
+            ]
+        },
+        "PSA": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Psicologia Social Aplicada",
+                    "sigla": "PSA",
+                    "tipo": "T",
+                    "turma": "P3A",
+                    "turmac": "P3A-P3B",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "IMRP",
+                    "prof": "Isabel Rocha Pinto"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Psicologia Social Aplicada",
+                    "sigla": "PSA",
+                    "tipo": "T",
+                    "turma": "P3B",
+                    "turmac": "P3A-P3B",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "IMRP",
+                    "prof": "Isabel Rocha Pinto"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Psicologia Social Aplicada",
+                    "sigla": "PSA",
+                    "tipo": "T",
+                    "turma": "P3C",
+                    "turmac": "P3C-P3D",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "IMRP",
+                    "prof": "Isabel Rocha Pinto"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Psicologia Social Aplicada",
+                    "sigla": "PSA",
+                    "tipo": "T",
+                    "turma": "P3D",
+                    "turmac": "P3C-P3D",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "IMRP",
+                    "prof": "Isabel Rocha Pinto"
+                }
+            ],
+            "nome": "Psicologia Social Aplicada",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 12,
+                    "nome": "Psicologia Social Aplicada",
+                    "sigla": "PSA",
+                    "tipo": "TP",
+                    "turma": "P3A",
+                    "turmac": "P3A-P3B",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "IMRP",
+                    "prof": "Isabel Rocha Pinto"
+                },
+                {
+                    "dia": 1,
+                    "hora": 12,
+                    "nome": "Psicologia Social Aplicada",
+                    "sigla": "PSA",
+                    "tipo": "TP",
+                    "turma": "P3B",
+                    "turmac": "P3A-P3B",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "IMRP",
+                    "prof": "Isabel Rocha Pinto"
+                },
+                {
+                    "dia": 1,
+                    "hora": 15,
+                    "nome": "Psicologia Social Aplicada",
+                    "sigla": "PSA",
+                    "tipo": "TP",
+                    "turma": "P3C",
+                    "turmac": "P3C-P3D",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "IMRP",
+                    "prof": "Isabel Rocha Pinto"
+                },
+                {
+                    "dia": 1,
+                    "hora": 15,
+                    "nome": "Psicologia Social Aplicada",
+                    "sigla": "PSA",
+                    "tipo": "TP",
+                    "turma": "P3D",
+                    "turmac": "P3C-P3D",
+                    "duracao": "2",
+                    "sala": "FPCEAUD 2B",
+                    "profsig": "IMRP",
+                    "prof": "Isabel Rocha Pinto"
+                }
+            ]
+        },
+        "MCS": {
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Modelos Construtivistas e Sist\u00e9micos",
+                    "sigla": "MCS",
+                    "tipo": "T",
+                    "turma": "P3A",
+                    "turmac": "P3A-P3B",
+                    "duracao": "2",
+                    "sala": "FPCE254",
+                    "profsig": "MCOCN",
+                    "prof": "Concei\u00e7\u00e3o Nogueira"
+                },
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Modelos Construtivistas e Sist\u00e9micos",
+                    "sigla": "MCS",
+                    "tipo": "T",
+                    "turma": "P3B",
+                    "turmac": "P3A-P3B",
+                    "duracao": "2",
+                    "sala": "FPCE254",
+                    "profsig": "MCOCN",
+                    "prof": "Concei\u00e7\u00e3o Nogueira"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Modelos Construtivistas e Sist\u00e9micos",
+                    "sigla": "MCS",
+                    "tipo": "T",
+                    "turma": "P3C",
+                    "turmac": "P3C-P3D",
+                    "duracao": "2",
+                    "sala": "FPCE254",
+                    "profsig": "MCOCN",
+                    "prof": "Concei\u00e7\u00e3o Nogueira"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Modelos Construtivistas e Sist\u00e9micos",
+                    "sigla": "MCS",
+                    "tipo": "T",
+                    "turma": "P3D",
+                    "turmac": "P3C-P3D",
+                    "duracao": "2",
+                    "sala": "FPCE254",
+                    "profsig": "MCOCN",
+                    "prof": "Concei\u00e7\u00e3o Nogueira"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Modelos Construtivistas e Sist\u00e9micos",
+                    "sigla": "MCS",
+                    "tipo": "T",
+                    "turma": "P3E",
+                    "turmac": "P3E",
+                    "duracao": "2",
+                    "sala": "FPCE254",
+                    "profsig": "MCOCN",
+                    "prof": "Concei\u00e7\u00e3o Nogueira"
+                }
+            ],
+            "nome": "Modelos Construtivistas e Sist\u00e9micos",
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 12,
+                    "nome": "Modelos Construtivistas e Sist\u00e9micos",
+                    "sigla": "MCS",
+                    "tipo": "TP",
+                    "turma": "P3A",
+                    "turmac": "P3A-P3B",
+                    "duracao": "2",
+                    "sala": "FPCE254",
+                    "profsig": "MCOCN",
+                    "prof": "Concei\u00e7\u00e3o Nogueira"
+                },
+                {
+                    "dia": 3,
+                    "hora": 12,
+                    "nome": "Modelos Construtivistas e Sist\u00e9micos",
+                    "sigla": "MCS",
+                    "tipo": "TP",
+                    "turma": "P3B",
+                    "turmac": "P3A-P3B",
+                    "duracao": "2",
+                    "sala": "FPCE254",
+                    "profsig": "MCOCN",
+                    "prof": "Concei\u00e7\u00e3o Nogueira"
+                },
+                {
+                    "dia": 3,
+                    "hora": 10,
+                    "nome": "Modelos Construtivistas e Sist\u00e9micos",
+                    "sigla": "MCS",
+                    "tipo": "TP",
+                    "turma": "P3C",
+                    "turmac": "P3C-P3D",
+                    "duracao": "2",
+                    "sala": "FPCE254",
+                    "profsig": "MCOCN",
+                    "prof": "Concei\u00e7\u00e3o Nogueira"
+                },
+                {
+                    "dia": 3,
+                    "hora": 10,
+                    "nome": "Modelos Construtivistas e Sist\u00e9micos",
+                    "sigla": "MCS",
+                    "tipo": "TP",
+                    "turma": "P3D",
+                    "turmac": "P3C-P3D",
+                    "duracao": "2",
+                    "sala": "FPCE254",
+                    "profsig": "MCOCN",
+                    "prof": "Concei\u00e7\u00e3o Nogueira"
+                },
+                {
+                    "dia": 4,
+                    "hora": 15,
+                    "nome": "Modelos Construtivistas e Sist\u00e9micos",
+                    "sigla": "MCS",
+                    "tipo": "TP",
+                    "turma": "P3E",
+                    "turmac": "P3E",
+                    "duracao": "2",
+                    "sala": "FPCE254",
+                    "profsig": "MCOCN",
+                    "prof": "Concei\u00e7\u00e3o Nogueira"
+                }
+            ]
+        }
+    },
+    "4\u00ba Ano": {
+        "FTIP": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 9.5,
+                    "nome": "Forma\u00e7\u00e3o e Treino em Interven\u00e7\u00e3o Psicol\u00f3gica (individual e grupal)",
+                    "sigla": "FTIP",
+                    "tipo": "TP",
+                    "turma": "OL7",
+                    "turmac": "OL7",
+                    "duracao": "7",
+                    "sala": "FPCE117",
+                    "profsig": "JEMT",
+                    "prof": "Jo\u00e3o Marques Teixeira"
+                }
+            ],
+            "nome": "Forma\u00e7\u00e3o e Treino em Interven\u00e7\u00e3o Psicol\u00f3gica (individual e grupal)"
+        },
+        "TS": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 9.5,
+                    "nome": "Terapia Sexual",
+                    "sigla": "TS",
+                    "tipo": "TP",
+                    "turma": "OL8",
+                    "turmac": "OL8",
+                    "duracao": "7",
+                    "sala": "FPCE114",
+                    "profsig": "PJSCN",
+                    "prof": "Pedro Nobre"
+                }
+            ],
+            "nome": "Terapia Sexual"
+        },
+        "PPEP": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 17.5,
+                    "nome": "Psicologia Pol\u00edtica e Educa\u00e7\u00e3o Pol\u00edtica",
+                    "sigla": "PPEP",
+                    "tipo": "TP",
+                    "turma": "OL8",
+                    "turmac": "OL8",
+                    "duracao": "6",
+                    "sala": "FPCE248",
+                    "profsig": "IM;PF;PC",
+                    "prof": null
+                }
+            ],
+            "nome": "Psicologia Pol\u00edtica e Educa\u00e7\u00e3o Pol\u00edtica"
+        },
+        "DA": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Dificuldades de Aprendizagem",
+                    "sigla": "DA",
+                    "tipo": "TP",
+                    "turma": "P4A-IPEDH",
+                    "turmac": "P4A-IPEDH",
+                    "duracao": "4",
+                    "sala": "FPCE117",
+                    "profsig": "TMBL",
+                    "prof": "Teresa Leal"
+                }
+            ],
+            "nome": "Dificuldades de Aprendizagem",
+            "PL": [
+                {
+                    "dia": 3,
+                    "hora": 11.5,
+                    "nome": "Dificuldades de Aprendizagem",
+                    "sigla": "DA",
+                    "tipo": "PL",
+                    "turma": "P4A-IPEDH",
+                    "turmac": "P4A-IPEDH",
+                    "duracao": "3",
+                    "sala": "FPCE117",
+                    "profsig": "DRPA",
+                    "prof": "Diana Alves"
+                }
+            ]
+        },
+        "ADCE": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Avalia\u00e7\u00e3o do Desenvolvimento em Contextos Educativos",
+                    "sigla": "ADCE",
+                    "tipo": "T",
+                    "turma": "P4A-IPEDH",
+                    "turmac": "P4A-IPEDH",
+                    "duracao": "4",
+                    "sala": "FPCE248",
+                    "profsig": "PNALS",
+                    "prof": "Pedro Lopes dos Santos"
+                }
+            ],
+            "nome": "Avalia\u00e7\u00e3o do Desenvolvimento em Contextos Educativos",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Avalia\u00e7\u00e3o do Desenvolvimento em Contextos Educativos",
+                    "sigla": "ADCE",
+                    "tipo": "TP",
+                    "turma": "P4A-IPEDH",
+                    "turmac": "P4A-IPEDH",
+                    "duracao": "3",
+                    "sala": "FPCE248",
+                    "profsig": "PNALS",
+                    "prof": "Pedro Lopes dos Santos"
+                }
+            ]
+        },
+        "CPE": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Consulta Psicol\u00f3gica Educacional",
+                    "sigla": "CPE",
+                    "tipo": "TP",
+                    "turma": "P4A-IPEDH",
+                    "turmac": "P4A-IPEDH",
+                    "duracao": "4",
+                    "sala": "FPCE249",
+                    "profsig": "MGSL",
+                    "prof": "Marina Lemos"
+                }
+            ],
+            "nome": "Consulta Psicol\u00f3gica Educacional",
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 16.5,
+                    "nome": "Consulta Psicol\u00f3gica Educacional",
+                    "sigla": "CPE",
+                    "tipo": "PL",
+                    "turma": "P4A-IPEDH",
+                    "turmac": "P4A-IPEDH",
+                    "duracao": "3",
+                    "sala": "FPCE249",
+                    "profsig": "DRPA",
+                    "prof": "Diana Alves"
+                }
+            ]
+        },
+        "IPCE": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Interven\u00e7\u00e3o Psicol\u00f3gica em Contextos Educativos",
+                    "sigla": "IPCE",
+                    "tipo": "TP",
+                    "turma": "P4A-IPEDH",
+                    "turmac": "P4A-IPEDH",
+                    "duracao": "3",
+                    "sala": "FPCE256",
+                    "profsig": "IMSMPAL",
+                    "prof": "Isabel Macedo Pinto"
+                }
+            ],
+            "nome": "Interven\u00e7\u00e3o Psicol\u00f3gica em Contextos Educativos",
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Interven\u00e7\u00e3o Psicol\u00f3gica em Contextos Educativos",
+                    "sigla": "IPCE",
+                    "tipo": "PL",
+                    "turma": "P4A-IPEDH",
+                    "turmac": "P4A-IPEDH",
+                    "duracao": "4",
+                    "sala": "FPCE256",
+                    "profsig": "IMSMPAL",
+                    "prof": "Isabel Macedo Pinto"
+                }
+            ]
+        },
+        "NCD": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Neuroci\u00eancias e Comportamento Desviante",
+                    "sigla": "NCD",
+                    "tipo": "T",
+                    "turma": "P4A-PCDJ",
+                    "turmac": "P4A-PCDJ",
+                    "duracao": "4",
+                    "sala": "FPCE252",
+                    "profsig": "JMT;FB;FS",
+                    "prof": null
+                }
+            ],
+            "nome": "Neuroci\u00eancias e Comportamento Desviante",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 11.5,
+                    "nome": "Neuroci\u00eancias e Comportamento Desviante",
+                    "sigla": "NCD",
+                    "tipo": "TP",
+                    "turma": "P4A-PCDJ",
+                    "turmac": "P4A-PCDJ",
+                    "duracao": "3",
+                    "sala": "FPCE252",
+                    "profsig": "JMT;FB;FS",
+                    "prof": null
+                }
+            ]
+        },
+        "QAPCD": {
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Quest\u00f5es Aprofundadas de Psicologia do Comportamento Desviante",
+                    "sigla": "QAPCD",
+                    "tipo": "T",
+                    "turma": "P4A-PCDJ",
+                    "turmac": "P4A-PCDJ",
+                    "duracao": "4",
+                    "sala": "FPCE249",
+                    "profsig": "JN;AO",
+                    "prof": null
+                }
+            ],
+            "nome": "Quest\u00f5es Aprofundadas de Psicologia do Comportamento Desviante",
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 11.5,
+                    "nome": "Quest\u00f5es Aprofundadas de Psicologia do Comportamento Desviante",
+                    "sigla": "QAPCD",
+                    "tipo": "TP",
+                    "turma": "P4A-PCDJ",
+                    "turmac": "P4A-PCDJ",
+                    "duracao": "3",
+                    "sala": "FPCE249",
+                    "profsig": "JN;AO",
+                    "prof": null
+                }
+            ]
+        },
+        "ICA": {
+            "T": [
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Interven\u00e7\u00e3o nos Comportamentos Adictivos",
+                    "sigla": "ICA",
+                    "tipo": "T",
+                    "turma": "P4A-PCDJ",
+                    "turmac": "P4A-PCDJ",
+                    "duracao": "4",
+                    "sala": "FPCE245",
+                    "profsig": "JNNC",
+                    "prof": "Jorge Negreiros"
+                }
+            ],
+            "nome": "Interven\u00e7\u00e3o nos Comportamentos Adictivos",
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 11.5,
+                    "nome": "Interven\u00e7\u00e3o nos Comportamentos Adictivos",
+                    "sigla": "ICA",
+                    "tipo": "TP",
+                    "turma": "P4A-PCDJ",
+                    "turmac": "P4A-PCDJ",
+                    "duracao": "3",
+                    "sala": "FPCE245",
+                    "profsig": "JNNC",
+                    "prof": "Jorge Negreiros"
+                }
+            ]
+        },
+        "ISRR": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Interven\u00e7\u00e3o Social e Redu\u00e7\u00e3o de Riscos",
+                    "sigla": "ISRR",
+                    "tipo": "TP",
+                    "turma": "P4A-PCDJ",
+                    "turmac": "P4A-PCDJ",
+                    "duracao": "7",
+                    "sala": "FPCE117",
+                    "profsig": "AMSO",
+                    "prof": "Alexandra Oliveira"
+                }
+            ],
+            "nome": "Interven\u00e7\u00e3o Social e Redu\u00e7\u00e3o de Riscos"
+        },
+        "IV": {
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Interven\u00e7\u00e3o em V\u00edtimas",
+                    "sigla": "IV",
+                    "tipo": "T",
+                    "turma": "P4A-PCDJ",
+                    "turmac": "P4A-PCDJ",
+                    "duracao": "4",
+                    "sala": "FPCE247",
+                    "profsig": "CPMS",
+                    "prof": "Celina Manita"
+                }
+            ],
+            "nome": "Interven\u00e7\u00e3o em V\u00edtimas",
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Interven\u00e7\u00e3o em V\u00edtimas",
+                    "sigla": "IV",
+                    "tipo": "TP",
+                    "turma": "P4A-PCDJ",
+                    "turmac": "P4A-PCDJ",
+                    "duracao": "3",
+                    "sala": "FPCE247",
+                    "profsig": "CPMS",
+                    "prof": "Celina Manita"
+                }
+            ]
+        },
+        "ITPD": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Interven\u00e7\u00e3o nas Transi\u00e7\u00f5es e Perturba\u00e7\u00f5es do Desenvolvimento",
+                    "sigla": "ITPD",
+                    "tipo": "TP",
+                    "turma": "P4A-PCS",
+                    "turmac": "P4A-P4C_PCS",
+                    "duracao": "3",
+                    "sala": "FPCE249",
+                    "profsig": "MPPRMMH",
+                    "prof": "Maria Paula Mena de Matos"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Interven\u00e7\u00e3o nas Transi\u00e7\u00f5es e Perturba\u00e7\u00f5es do Desenvolvimento",
+                    "sigla": "ITPD",
+                    "tipo": "TP",
+                    "turma": "P4B-PCS",
+                    "turmac": "P4A-P4C_PCS",
+                    "duracao": "3",
+                    "sala": "FPCE249",
+                    "profsig": "MPPRMMH",
+                    "prof": "Maria Paula Mena de Matos"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Interven\u00e7\u00e3o nas Transi\u00e7\u00f5es e Perturba\u00e7\u00f5es do Desenvolvimento",
+                    "sigla": "ITPD",
+                    "tipo": "TP",
+                    "turma": "P4C-PCS",
+                    "turmac": "P4A-P4C_PCS",
+                    "duracao": "3",
+                    "sala": "FPCE249",
+                    "profsig": "MPPRMMH",
+                    "prof": "Maria Paula Mena de Matos"
+                }
+            ],
+            "nome": "Interven\u00e7\u00e3o nas Transi\u00e7\u00f5es e Perturba\u00e7\u00f5es do Desenvolvimento",
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Interven\u00e7\u00e3o nas Transi\u00e7\u00f5es e Perturba\u00e7\u00f5es do Desenvolvimento",
+                    "sigla": "ITPD",
+                    "tipo": "PL",
+                    "turma": "P4A-PCS",
+                    "turmac": "P4A-PCS",
+                    "duracao": "4",
+                    "sala": "FPCE253",
+                    "profsig": "MPPRMMH",
+                    "prof": "Maria Paula Mena de Matos"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Interven\u00e7\u00e3o nas Transi\u00e7\u00f5es e Perturba\u00e7\u00f5es do Desenvolvimento",
+                    "sigla": "ITPD",
+                    "tipo": "PL",
+                    "turma": "P4B-PCS",
+                    "turmac": "P4B-PCS",
+                    "duracao": "4",
+                    "sala": "FPCE247",
+                    "profsig": "MPPRMMH",
+                    "prof": "Maria Paula Mena de Matos"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Interven\u00e7\u00e3o nas Transi\u00e7\u00f5es e Perturba\u00e7\u00f5es do Desenvolvimento",
+                    "sigla": "ITPD",
+                    "tipo": "PL",
+                    "turma": "P4C-PCS",
+                    "turmac": "P4C-PCS",
+                    "duracao": "4",
+                    "sala": "FPCE247",
+                    "profsig": "MPPRMMH",
+                    "prof": "Maria Paula Mena de Matos"
+                }
+            ]
+        },
+        "PP": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Psicologia Pedi\u00e1trica",
+                    "sigla": "PP",
+                    "tipo": "TP",
+                    "turma": "P4A-PCS",
+                    "turmac": "P4A-PCS",
+                    "duracao": "4",
+                    "sala": "FPCE114",
+                    "profsig": "MGSL",
+                    "prof": "Marina Lemos"
+                }
+            ],
+            "nome": "Psicologia Pedi\u00e1trica",
+            "PL": [
+                {
+                    "dia": 3,
+                    "hora": 11.5,
+                    "nome": "Psicologia Pedi\u00e1trica",
+                    "sigla": "PP",
+                    "tipo": "PL",
+                    "turma": "P4A-PCS",
+                    "turmac": "P4A-PCS",
+                    "duracao": "3",
+                    "sala": "FPCE114",
+                    "profsig": "MCLRG",
+                    "prof": "Catarina Grande"
+                }
+            ]
+        },
+        "ANP": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Avalia\u00e7\u00e3o Neuropsicol\u00f3gica",
+                    "sigla": "ANP",
+                    "tipo": "TP",
+                    "turma": "P4A-PCS",
+                    "turmac": "P4A-PCS",
+                    "duracao": "4",
+                    "sala": "FPCE246",
+                    "profsig": "MSHGV",
+                    "prof": "Selene Vicente"
+                }
+            ],
+            "nome": "Avalia\u00e7\u00e3o Neuropsicol\u00f3gica",
+            "PL": [
+                {
+                    "dia": 5,
+                    "hora": 11.5,
+                    "nome": "Avalia\u00e7\u00e3o Neuropsicol\u00f3gica",
+                    "sigla": "ANP",
+                    "tipo": "PL",
+                    "turma": "P4A-PCS",
+                    "turmac": "P4A-PCS",
+                    "duracao": "3",
+                    "sala": "FPCE246",
+                    "profsig": "FB;SV",
+                    "prof": null
+                }
+            ]
+        },
+        "PS": {
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Psicologia da Sa\u00fade",
+                    "sigla": "PS",
+                    "tipo": "PL",
+                    "turma": "P4A-PCS",
+                    "turmac": "P4A-PCS",
+                    "duracao": "3",
+                    "sala": "FPCE248",
+                    "profsig": "SCSRT",
+                    "prof": "Sandra Torres"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Psicologia da Sa\u00fade",
+                    "sigla": "PS",
+                    "tipo": "PL",
+                    "turma": "P4B-PCS",
+                    "turmac": "P4B-PCS",
+                    "duracao": "3",
+                    "sala": "FPCE248",
+                    "profsig": "SCSRT",
+                    "prof": "Sandra Torres"
+                }
+            ],
+            "nome": "Psicologia da Sa\u00fade",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Psicologia da Sa\u00fade",
+                    "sigla": "PS",
+                    "tipo": "T",
+                    "turma": "P4A-PCS",
+                    "turmac": "P4A-P4B_PCS",
+                    "duracao": "4",
+                    "sala": "FPCE249",
+                    "profsig": "MNRPG",
+                    "prof": "Marina Guerra"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Psicologia da Sa\u00fade",
+                    "sigla": "PS",
+                    "tipo": "T",
+                    "turma": "P4B-PCS",
+                    "turmac": "P4A-P4B_PCS",
+                    "duracao": "4",
+                    "sala": "FPCE249",
+                    "profsig": "MNRPG",
+                    "prof": "Marina Guerra"
+                }
+            ]
+        },
+        "ISF": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Interven\u00e7\u00e3o nos Sistemas Familiares",
+                    "sigla": "ISF",
+                    "tipo": "T",
+                    "turma": "P4A-PCS",
+                    "turmac": "P4A-P4B_PCS",
+                    "duracao": "4",
+                    "sala": "FPCE254",
+                    "profsig": "METC",
+                    "prof": "Maria Emilia Costa"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Interven\u00e7\u00e3o nos Sistemas Familiares",
+                    "sigla": "ISF",
+                    "tipo": "T",
+                    "turma": "P4B-PCS",
+                    "turmac": "P4A-P4B_PCS",
+                    "duracao": "4",
+                    "sala": "FPCE254",
+                    "profsig": "METC",
+                    "prof": "Maria Emilia Costa"
+                }
+            ],
+            "nome": "Interven\u00e7\u00e3o nos Sistemas Familiares",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Interven\u00e7\u00e3o nos Sistemas Familiares",
+                    "sigla": "ISF",
+                    "tipo": "TP",
+                    "turma": "P4A-PCS",
+                    "turmac": "P4A-PCS",
+                    "duracao": "3",
+                    "sala": "FPCE254",
+                    "profsig": "MEC;MM",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 18,
+                    "nome": "Interven\u00e7\u00e3o nos Sistemas Familiares",
+                    "sigla": "ISF",
+                    "tipo": "TP",
+                    "turma": "P4B-PCS",
+                    "turmac": "P4B-PCS",
+                    "duracao": "3",
+                    "sala": "FPCE254",
+                    "profsig": "MEC;MM",
+                    "prof": null
+                }
+            ]
+        },
+        "ACCA": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Avalia\u00e7\u00e3o Cl\u00ednica de Crian\u00e7as e Adolescentes",
+                    "sigla": "ACCA",
+                    "tipo": "TP",
+                    "turma": "P4A-PCS",
+                    "turmac": "P4A-PCS",
+                    "duracao": "4",
+                    "sala": "FPCE254",
+                    "profsig": "DRPA",
+                    "prof": "Diana Alves"
+                }
+            ],
+            "nome": "Avalia\u00e7\u00e3o Cl\u00ednica de Crian\u00e7as e Adolescentes",
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 18.5,
+                    "nome": "Avalia\u00e7\u00e3o Cl\u00ednica de Crian\u00e7as e Adolescentes",
+                    "sigla": "ACCA",
+                    "tipo": "PL",
+                    "turma": "P4A-PCS",
+                    "turmac": "P4A-PCS",
+                    "duracao": "3",
+                    "sala": "FPCE254",
+                    "profsig": "DRPA",
+                    "prof": "Diana Alves"
+                }
+            ]
+        },
+        "TEPS": {
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 8.5,
+                    "nome": "Temas Especiais em Psicologia Social",
+                    "sigla": "TEPS",
+                    "tipo": "T",
+                    "turma": "P4A-POST",
+                    "turmac": "P4A-POST",
+                    "duracao": "4",
+                    "sala": "FPCE253",
+                    "profsig": "SBL",
+                    "prof": null
+                }
+            ],
+            "nome": "Temas Especiais em Psicologia Social",
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Temas Especiais em Psicologia Social",
+                    "sigla": "TEPS",
+                    "tipo": "TP",
+                    "turma": "P4A-POST",
+                    "turmac": "P4A-POST",
+                    "duracao": "3",
+                    "sala": "FPCE253",
+                    "profsig": "SBL",
+                    "prof": null
+                }
+            ]
+        },
+        "ATFP": {
+            "T": [
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "An\u00e1lise do Trabalho e Forma\u00e7\u00e3o Profissional",
+                    "sigla": "ATFP",
+                    "tipo": "T",
+                    "turma": "P4A-POST",
+                    "turmac": "P4A-POST",
+                    "duracao": "4",
+                    "sala": "FPCE248",
+                    "profsig": "MS",
+                    "prof": "Marta Santos"
+                }
+            ],
+            "nome": "An\u00e1lise do Trabalho e Forma\u00e7\u00e3o Profissional",
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 11.5,
+                    "nome": "An\u00e1lise do Trabalho e Forma\u00e7\u00e3o Profissional",
+                    "sigla": "ATFP",
+                    "tipo": "TP",
+                    "turma": "P4A-POST",
+                    "turmac": "P4A-POST",
+                    "duracao": "3",
+                    "sala": "FPCE248",
+                    "profsig": "MS",
+                    "prof": "Marta Santos"
+                }
+            ]
+        },
+        "IPTT": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Interven\u00e7\u00e3o Psicol\u00f3gica e Transforma\u00e7\u00e3o do Trabalho",
+                    "sigla": "IPTT",
+                    "tipo": "T",
+                    "turma": "P4A-POST",
+                    "turmac": "P4A-P4B_POST",
+                    "duracao": "4",
+                    "sala": "FPCE254",
+                    "profsig": "MS;LC",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Interven\u00e7\u00e3o Psicol\u00f3gica e Transforma\u00e7\u00e3o do Trabalho",
+                    "sigla": "IPTT",
+                    "tipo": "T",
+                    "turma": "P4B-POST",
+                    "turmac": "P4A-P4B_POST",
+                    "duracao": "4",
+                    "sala": "FPCE254",
+                    "profsig": "MS;LC",
+                    "prof": null
+                }
+            ],
+            "nome": "Interven\u00e7\u00e3o Psicol\u00f3gica e Transforma\u00e7\u00e3o do Trabalho",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 17,
+                    "nome": "Interven\u00e7\u00e3o Psicol\u00f3gica e Transforma\u00e7\u00e3o do Trabalho",
+                    "sigla": "IPTT",
+                    "tipo": "TP",
+                    "turma": "P4A-POST",
+                    "turmac": "P4A-POST",
+                    "duracao": "3",
+                    "sala": "FPCE247",
+                    "profsig": "MS;LC",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Interven\u00e7\u00e3o Psicol\u00f3gica e Transforma\u00e7\u00e3o do Trabalho",
+                    "sigla": "IPTT",
+                    "tipo": "TP",
+                    "turma": "P4B-POST",
+                    "turmac": "P4B-POST",
+                    "duracao": "3",
+                    "sala": "FPCE247",
+                    "profsig": "MS;LC",
+                    "prof": null
+                }
+            ]
+        },
+        "IAPDRH": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Interven\u00e7\u00e3o e Avalia\u00e7\u00e3o Psicol\u00f3gica no Desenvolvimento dos Recursos Humanos",
+                    "sigla": "IAPDRH",
+                    "tipo": "T",
+                    "turma": "P4A-POST",
+                    "turmac": "P4A-P4B_POST",
+                    "duracao": "4",
+                    "sala": "FPCE247",
+                    "profsig": "MFJM",
+                    "prof": "Filomena Jord\u00e3o"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Interven\u00e7\u00e3o e Avalia\u00e7\u00e3o Psicol\u00f3gica no Desenvolvimento dos Recursos Humanos",
+                    "sigla": "IAPDRH",
+                    "tipo": "T",
+                    "turma": "P4B-POST",
+                    "turmac": "P4A-P4B_POST",
+                    "duracao": "4",
+                    "sala": "FPCE247",
+                    "profsig": "MFJM",
+                    "prof": "Filomena Jord\u00e3o"
+                }
+            ],
+            "nome": "Interven\u00e7\u00e3o e Avalia\u00e7\u00e3o Psicol\u00f3gica no Desenvolvimento dos Recursos Humanos",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Interven\u00e7\u00e3o e Avalia\u00e7\u00e3o Psicol\u00f3gica no Desenvolvimento dos Recursos Humanos",
+                    "sigla": "IAPDRH",
+                    "tipo": "TP",
+                    "turma": "P4A-POST",
+                    "turmac": "P4A-POST",
+                    "duracao": "3",
+                    "sala": "FPCE256",
+                    "profsig": "MFJM",
+                    "prof": "Filomena Jord\u00e3o"
+                },
+                {
+                    "dia": 1,
+                    "hora": 16.5,
+                    "nome": "Interven\u00e7\u00e3o e Avalia\u00e7\u00e3o Psicol\u00f3gica no Desenvolvimento dos Recursos Humanos",
+                    "sigla": "IAPDRH",
+                    "tipo": "TP",
+                    "turma": "P4B-POST",
+                    "turmac": "P4B-POST",
+                    "duracao": "3",
+                    "sala": "FPCE247",
+                    "profsig": "MFJM",
+                    "prof": "Filomena Jord\u00e3o"
+                }
+            ]
+        },
+        "PSG": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Psicologia Social dos Grupos",
+                    "sigla": "PSG",
+                    "tipo": "TP",
+                    "turma": "P4A-POST",
+                    "turmac": "P4A-POST",
+                    "duracao": "4",
+                    "sala": "FPCE117",
+                    "profsig": "IMRP",
+                    "prof": "Isabel Rocha Pinto"
+                }
+            ],
+            "nome": "Psicologia Social dos Grupos",
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Psicologia Social dos Grupos",
+                    "sigla": "PSG",
+                    "tipo": "PL",
+                    "turma": "P4A-POST",
+                    "turmac": "P4A-POST",
+                    "duracao": "3",
+                    "sala": "FPCE117",
+                    "profsig": "IMRP",
+                    "prof": "Isabel Rocha Pinto"
+                }
+            ]
+        }
+    },
+    "5\u00ba Ano": {
+        "D": {
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Disserta\u00e7\u00e3o",
+                    "sigla": "D",
+                    "tipo": "OT",
+                    "turma": "P5A-POST",
+                    "turmac": "P5A-POST",
+                    "duracao": "5",
+                    "sala": "FPCE112",
+                    "profsig": "JM;MC;IRP;CB",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "Disserta\u00e7\u00e3o",
+                    "sigla": "D",
+                    "tipo": "OT",
+                    "turma": "P5B-POST",
+                    "turmac": "P5B-POST",
+                    "duracao": "5",
+                    "sala": "FPCE113",
+                    "profsig": "ML;MS;LC;FJ",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 8.5,
+                    "nome": "Disserta\u00e7\u00e3o",
+                    "sigla": "D",
+                    "tipo": "OT",
+                    "turma": "P5D-PCS",
+                    "turmac": "P5D-PCS",
+                    "duracao": "5",
+                    "sala": "FPCE113",
+                    "profsig": "PMM e outros",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 8.5,
+                    "nome": "Disserta\u00e7\u00e3o",
+                    "sigla": "D",
+                    "tipo": "OT",
+                    "turma": "P5E-PCS",
+                    "turmac": "P5E-PCS",
+                    "duracao": "5",
+                    "sala": "FPCE237",
+                    "profsig": "JMT e outros",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Disserta\u00e7\u00e3o",
+                    "sigla": "D",
+                    "tipo": "OT",
+                    "turma": "P5F-PCS",
+                    "turmac": "P5F-PCS",
+                    "duracao": "5",
+                    "sala": "FPCE112",
+                    "profsig": "MPG e outros",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 16.5,
+                    "nome": "Disserta\u00e7\u00e3o",
+                    "sigla": "D",
+                    "tipo": "OT",
+                    "turma": "P5G-PCS",
+                    "turmac": "P5G-PCS",
+                    "duracao": "5",
+                    "sala": "FPCE113",
+                    "profsig": "AB e outros",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Disserta\u00e7\u00e3o",
+                    "sigla": "D",
+                    "tipo": "OT",
+                    "turma": "P5I-PCDJ",
+                    "turmac": "P5I-PCDJ",
+                    "duracao": "5",
+                    "sala": "FPCE237",
+                    "profsig": "FB e outros",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Disserta\u00e7\u00e3o",
+                    "sigla": "D",
+                    "tipo": "OT",
+                    "turma": "P5J-PCDJ",
+                    "turmac": "P5J-PCDJ",
+                    "duracao": "5",
+                    "sala": "FPCE112",
+                    "profsig": "CN e outros",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "Disserta\u00e7\u00e3o",
+                    "sigla": "D",
+                    "tipo": "OT",
+                    "turma": "P5L-IPEDH",
+                    "turmac": "P5L-IPEDH",
+                    "duracao": "5",
+                    "sala": "FPCE113",
+                    "profsig": "CG e outros",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Disserta\u00e7\u00e3o",
+                    "sigla": "D",
+                    "tipo": "OT",
+                    "turma": "P5M-IPEDH",
+                    "turmac": "P5M-IPEDH",
+                    "duracao": "5",
+                    "sala": "FPCE237",
+                    "profsig": "TL e outros",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Disserta\u00e7\u00e3o",
+                    "sigla": "D",
+                    "tipo": "OT",
+                    "turma": "P5N-IPEDH",
+                    "turmac": "P5N-IPEDH",
+                    "duracao": "5",
+                    "sala": "FPCE113",
+                    "profsig": "LF e outros",
+                    "prof": null
+                }
+            ],
+            "nome": "Disserta\u00e7\u00e3o"
+        }
+    }
+}

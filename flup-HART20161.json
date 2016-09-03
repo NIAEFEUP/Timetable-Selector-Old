@@ -1,0 +1,404 @@
+{
+    "1\u00ba Ano": {
+        "HACMAN": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "Hist\u00f3ria da Arte e Civiliza\u00e7\u00f5es do Mundo Antigo",
+                    "sigla": "HACMAN",
+                    "tipo": "TP",
+                    "turma": "1LHART01",
+                    "turmac": "1LHART01",
+                    "duracao": "6",
+                    "sala": "G301",
+                    "profsig": "HDSB",
+                    "prof": "Hugo Barreira"
+                }
+            ],
+            "nome": "Hist\u00f3ria da Arte e Civiliza\u00e7\u00f5es do Mundo Antigo",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 11.5,
+                    "nome": "Hist\u00f3ria da Arte e Civiliza\u00e7\u00f5es do Mundo Antigo",
+                    "sigla": "HACMAN",
+                    "tipo": "OT",
+                    "turma": "1LHART01",
+                    "turmac": "1LHART01",
+                    "duracao": "2",
+                    "sala": "G301",
+                    "profsig": "HDSB",
+                    "prof": "Hugo Barreira"
+                }
+            ]
+        },
+        "IP": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Iconografia Profana",
+                    "sigla": "IP",
+                    "tipo": "TP",
+                    "turma": "1LHART01",
+                    "turmac": "1LHART01",
+                    "duracao": "6",
+                    "sala": "G102",
+                    "profsig": "ACCS",
+                    "prof": "Ana Sousa"
+                }
+            ],
+            "nome": "Iconografia Profana",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 11.5,
+                    "nome": "Iconografia Profana",
+                    "sigla": "IP",
+                    "tipo": "OT",
+                    "turma": "1LHART01",
+                    "turmac": "1LHART01",
+                    "duracao": "2",
+                    "sala": "G102",
+                    "profsig": "ACCS",
+                    "prof": "Ana Sousa"
+                }
+            ]
+        },
+        "HACLA": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 13.5,
+                    "nome": "Hist\u00f3ria da Arquitetura Cl\u00e1ssica",
+                    "sigla": "HACLA",
+                    "tipo": "TP",
+                    "turma": "1LHART01",
+                    "turmac": "1LHART01",
+                    "duracao": "6",
+                    "sala": "G202",
+                    "profsig": "CFS",
+                    "prof": "Celso Santos"
+                }
+            ],
+            "nome": "Hist\u00f3ria da Arquitetura Cl\u00e1ssica",
+            "OT": [
+                {
+                    "dia": 1,
+                    "hora": 16.5,
+                    "nome": "Hist\u00f3ria da Arquitetura Cl\u00e1ssica",
+                    "sigla": "HACLA",
+                    "tipo": "OT",
+                    "turma": "1LHART01",
+                    "turmac": "1LHART01",
+                    "duracao": "2",
+                    "sala": "G202",
+                    "profsig": "CFS",
+                    "prof": "Celso Santos"
+                }
+            ]
+        },
+        "HACCLA": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Hist\u00f3ria da Arte e Cultura Cl\u00e1ssicas",
+                    "sigla": "HACCLA",
+                    "tipo": "TP",
+                    "turma": "1LHART01",
+                    "turmac": "1LHART01",
+                    "duracao": "6",
+                    "sala": "G308",
+                    "profsig": "CFS",
+                    "prof": "Celso Santos"
+                }
+            ],
+            "nome": "Hist\u00f3ria da Arte e Cultura Cl\u00e1ssicas",
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 18.5,
+                    "nome": "Hist\u00f3ria da Arte e Cultura Cl\u00e1ssicas",
+                    "sigla": "HACCLA",
+                    "tipo": "OT",
+                    "turma": "1LHART01",
+                    "turmac": "1LHART01",
+                    "duracao": "2",
+                    "sala": "G308",
+                    "profsig": "CFS",
+                    "prof": "Celso Santos"
+                }
+            ]
+        }
+    },
+    "2\u00ba Ano": {
+        "HAEMO1": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 8.5,
+                    "nome": "Hist\u00f3ria da Arquitetura da \u00c9poca Moderna I",
+                    "sigla": "HAEMO1",
+                    "tipo": "TP",
+                    "turma": "2LHART01 ",
+                    "turmac": "2LHART01",
+                    "duracao": "6",
+                    "sala": "G202",
+                    "profsig": "MJMR",
+                    "prof": "Manuel Rocha"
+                }
+            ],
+            "nome": "Hist\u00f3ria da Arquitetura da \u00c9poca Moderna I",
+            "OT": [
+                {
+                    "dia": 1,
+                    "hora": 11.5,
+                    "nome": "Hist\u00f3ria da Arquitetura da \u00c9poca Moderna I",
+                    "sigla": "HAEMO1",
+                    "tipo": "OT",
+                    "turma": "2LHART01 ",
+                    "turmac": "2LHART01",
+                    "duracao": "2",
+                    "sala": "G202",
+                    "profsig": "MJMR",
+                    "prof": "Manuel Rocha"
+                }
+            ]
+        },
+        "HACEM1": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "Hist\u00f3ria da Arte e Cultura da \u00c9poca Moderna I",
+                    "sigla": "HACEM1",
+                    "tipo": "TP",
+                    "turma": "2LHART01 ",
+                    "turmac": "2LHART01",
+                    "duracao": "6",
+                    "sala": "G310",
+                    "profsig": "ACCS",
+                    "prof": "Ana Sousa"
+                }
+            ],
+            "nome": "Hist\u00f3ria da Arte e Cultura da \u00c9poca Moderna I",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 11.5,
+                    "nome": "Hist\u00f3ria da Arte e Cultura da \u00c9poca Moderna I",
+                    "sigla": "HACEM1",
+                    "tipo": "OT",
+                    "turma": "2LHART01 ",
+                    "turmac": "2LHART01",
+                    "duracao": "2",
+                    "sala": "G310",
+                    "profsig": "ACCS",
+                    "prof": "Ana Sousa"
+                }
+            ]
+        },
+        "HACEM2": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Hist\u00f3ria da Arte e Cultura da \u00c9poca Moderna II",
+                    "sigla": "HACEM2",
+                    "tipo": "TP",
+                    "turma": "2LHART01 ",
+                    "turmac": "2LHART01",
+                    "duracao": "6",
+                    "sala": "G202",
+                    "profsig": "NR",
+                    "prof": "Nuno Resende"
+                }
+            ],
+            "nome": "Hist\u00f3ria da Arte e Cultura da \u00c9poca Moderna II",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 11.5,
+                    "nome": "Hist\u00f3ria da Arte e Cultura da \u00c9poca Moderna II",
+                    "sigla": "HACEM2",
+                    "tipo": "OT",
+                    "turma": "2LHART01 ",
+                    "turmac": "2LHART01",
+                    "duracao": "2",
+                    "sala": "G202",
+                    "profsig": "NR",
+                    "prof": "Nuno Resende"
+                }
+            ]
+        },
+        "HAEMO2": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Hist\u00f3ria da Arquitetura da \u00c9poca Moderna II",
+                    "sigla": "HAEMO2",
+                    "tipo": "TP",
+                    "turma": "2LHART01 ",
+                    "turmac": "2LHART01",
+                    "duracao": "6",
+                    "sala": "G310",
+                    "profsig": "MJMR",
+                    "prof": "Manuel Rocha"
+                }
+            ],
+            "nome": "Hist\u00f3ria da Arquitetura da \u00c9poca Moderna II",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 16.5,
+                    "nome": "Hist\u00f3ria da Arquitetura da \u00c9poca Moderna II",
+                    "sigla": "HAEMO2",
+                    "tipo": "OT",
+                    "turma": "2LHART01 ",
+                    "turmac": "2LHART01",
+                    "duracao": "2",
+                    "sala": "G310",
+                    "profsig": "MJMR",
+                    "prof": "Manuel Rocha"
+                }
+            ]
+        }
+    },
+    "3\u00ba Ano": {
+        "AMSC": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Arte e Mercado na Sociedade Contempor\u00e2nea",
+                    "sigla": "AMSC",
+                    "tipo": "TP",
+                    "turma": "3LHART01 ",
+                    "turmac": "3LHART01",
+                    "duracao": "6",
+                    "sala": "G101",
+                    "profsig": "CFS",
+                    "prof": "Celso Santos"
+                }
+            ],
+            "nome": "Arte e Mercado na Sociedade Contempor\u00e2nea",
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 11.5,
+                    "nome": "Arte e Mercado na Sociedade Contempor\u00e2nea",
+                    "sigla": "AMSC",
+                    "tipo": "OT",
+                    "turma": "3LHART01 ",
+                    "turmac": "3LHART01",
+                    "duracao": "2",
+                    "sala": "G101",
+                    "profsig": "CFS",
+                    "prof": "Celso Santos"
+                }
+            ]
+        },
+        "HACEC": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Hist\u00f3ria da Arte e Cultura da \u00c9poca Contempor\u00e2nea III",
+                    "sigla": "HACEC",
+                    "tipo": "TP",
+                    "turma": "3LHART01 ",
+                    "turmac": "3LHART01",
+                    "duracao": "6",
+                    "sala": "G305",
+                    "profsig": "HDSB",
+                    "prof": "Hugo Barreira"
+                }
+            ],
+            "nome": "Hist\u00f3ria da Arte e Cultura da \u00c9poca Contempor\u00e2nea III",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 11.5,
+                    "nome": "Hist\u00f3ria da Arte e Cultura da \u00c9poca Contempor\u00e2nea III",
+                    "sigla": "HACEC",
+                    "tipo": "OT",
+                    "turma": "3LHART01 ",
+                    "turmac": "3LHART01",
+                    "duracao": "2",
+                    "sala": "G305",
+                    "profsig": "HDSB",
+                    "prof": "Hugo Barreira"
+                }
+            ]
+        },
+        "HURB2": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Hist\u00f3ria Urbana II",
+                    "sigla": "HURB2",
+                    "tipo": "TP",
+                    "turma": "3LHART01 ",
+                    "turmac": "3LHART01",
+                    "duracao": "6",
+                    "sala": "G311",
+                    "profsig": "MLB",
+                    "prof": "Maria Leonor Botelho"
+                }
+            ],
+            "nome": "Hist\u00f3ria Urbana II",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 16.5,
+                    "nome": "Hist\u00f3ria Urbana II",
+                    "sigla": "HURB2",
+                    "tipo": "OT",
+                    "turma": "3LHART01 ",
+                    "turmac": "3LHART01",
+                    "duracao": "2",
+                    "sala": "G311",
+                    "profsig": "MLB",
+                    "prof": "Maria Leonor Botelho"
+                }
+            ]
+        },
+        "HACEC4": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "Hist\u00f3ria da Arte e Cultura da \u00c9poca Contempor\u00e2nea IV",
+                    "sigla": "HACEC4",
+                    "tipo": "TP",
+                    "turma": "3LHART01 ",
+                    "turmac": "3LHART01",
+                    "duracao": "6",
+                    "sala": "G105",
+                    "profsig": "MLBS",
+                    "prof": "Leonor Soares"
+                }
+            ],
+            "nome": "Hist\u00f3ria da Arte e Cultura da \u00c9poca Contempor\u00e2nea IV",
+            "OT": [
+                {
+                    "dia": 1,
+                    "hora": 18.5,
+                    "nome": "Hist\u00f3ria da Arte e Cultura da \u00c9poca Contempor\u00e2nea IV",
+                    "sigla": "HACEC4",
+                    "tipo": "OT",
+                    "turma": "3LHART01 ",
+                    "turmac": "3LHART01",
+                    "duracao": "2",
+                    "sala": "G105",
+                    "profsig": "MLBS",
+                    "prof": "Leonor Soares"
+                }
+            ]
+        }
+    }
+}
