@@ -6,9 +6,8 @@ Timetable Selector Updater By NIFEUP
 $errordebug=false;
 $ch=null; //variável do curl
 $anolectivo=date('n')>6?date('Y'):date('Y')-1;
-$periodo_id=date('n')>6?1:2;
-// $faculdades = array('fbaup', 'fcnaup', 'fcup', 'fep', 'feup', 'ffup', 'flup', 'fpceup');
-$faculdades = array('fcup');
+$periodo_id=date('n')>6?2:3;
+$faculdades = array('fbaup', 'fcnaup', 'fcup', 'fep', 'feup', 'ffup', 'flup', 'fpceup');
 
 // dafeup, faup, fmup, fmdup, icbas precisam de uma conta activa da respectiva faculdade
 
