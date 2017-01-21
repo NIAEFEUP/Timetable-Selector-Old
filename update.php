@@ -7,6 +7,7 @@ $errordebug=false;
 $ch=null; //variável do curl
 $anolectivo=date('n')>6?date('Y'):date('Y')-1;
 $periodo_id=date('n')>6?2:3;
+$periodo=$periodo_id-1;
 $faculdades = array('fbaup', 'fcnaup', 'fcup', 'fep', 'feup', 'ffup', 'flup', 'fpceup');
 
 // dafeup, faup, fmup, fmdup, icbas precisam de uma conta activa da respectiva faculdade
@@ -113,7 +114,7 @@ function fetchSigla($faculdade_codigo, $curso_id, $anolectivo){
 function queryTurmas($faculdade_codigo,$curso_id,$anolectivo,$periodo_id,$sigla) {
 	global $ch;
 	$horarios=null;
-	$filename = $faculdade_codigo[0].'-'.$sigla.$anolectivo.$periodo_id.'.json';
+	$filename = $faculdade_codigo[0].'-'.$sigla.$anolectivo.$periodo.'.json';
 
 	$fcicount=count($faculdade_codigo); //Cursos em conjunto com várias faculdades
 	for ($fci=0;$fci<$fcicount;$fci++)
