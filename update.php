@@ -7,7 +7,6 @@ $errordebug=false;
 $ch=null; //variável do curl
 $anolectivo=date('n')>6?date('Y'):date('Y')-1;
 $periodo_id=date('n')>6?2:3;
-$periodo=$periodo_id-1;
 $faculdades = array('fbaup', 'fcnaup', 'fcup', 'fep', 'feup', 'ffup', 'flup', 'fpceup');
 
 // dafeup, faup, fmup, fmdup, icbas precisam de uma conta activa da respectiva faculdade
@@ -114,6 +113,7 @@ function fetchSigla($faculdade_codigo, $curso_id, $anolectivo){
 function queryTurmas($faculdade_codigo,$curso_id,$anolectivo,$periodo_id,$sigla) {
 	global $ch;
 	$horarios=null;
+	$periodo=$periodo_id-1;
 	$filename = $faculdade_codigo[0].'-'.$sigla.$anolectivo.$periodo.'.json';
 
 	$fcicount=count($faculdade_codigo); //Cursos em conjunto com várias faculdades
@@ -121,7 +121,7 @@ function queryTurmas($faculdade_codigo,$curso_id,$anolectivo,$periodo_id,$sigla)
 	{
 		//POST para sacar as turmas
 		$url= 'https://sigarra.up.pt/'.$faculdade_codigo[$fci].'/pt/hor_geral.lista_turmas_curso';
-		$fieldstr = 'pv_curso_id='.$curso_id.'&pv_periodos=1&pv_ano_lectivo='.$anolectivo;
+		$fieldstr = 'pv_curso_id='.$curso_id.'&pv_periodos='.$periodo_id.'&pv_ano_lectivo='.$anolectivo;
 		curl_setopt($ch,CURLOPT_URL,$url);
 		curl_setopt($ch,CURLOPT_POST,1);
 		curl_setopt($ch,CURLOPT_POSTFIELDS,$fieldstr);
@@ -148,7 +148,7 @@ function queryTurmas($faculdade_codigo,$curso_id,$anolectivo,$periodo_id,$sigla)
 
 				//POST para sacar o horario
 				$url= 'https://sigarra.up.pt/'.$faculdade_codigo[$fci].'/pt/hor_geral.turmas_view';
-				$fieldstr = 'pv_turma_id='.$turma_id.'&pv_periodos=1&pv_ano_lectivo='.$anolectivo;
+				$fieldstr = 'pv_turma_id='.$turma_id.'&pv_periodos='.$periodo_id.'&pv_ano_lectivo='.$anolectivo;
 				curl_setopt($ch,CURLOPT_URL,$url);
 				curl_setopt($ch,CURLOPT_POST,1);
 				curl_setopt($ch,CURLOPT_POSTFIELDS,$fieldstr);
