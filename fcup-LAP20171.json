@@ -1,0 +1,543 @@
+{
+    "1\u00ba Ano": {
+        "AP1001": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Desenho",
+                    "sigla": "AP1001",
+                    "tipo": "TP",
+                    "turma": "AP1001_TP1",
+                    "turmac": "AP1001_TP1",
+                    "duracao": "8",
+                    "sala": "FAUP",
+                    "profsig": "JMSL",
+                    "prof": "Jos\u00e9 Lopes"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14.5,
+                    "nome": "Desenho",
+                    "sigla": "AP1001",
+                    "tipo": "TP",
+                    "turma": "AP1001_TP1",
+                    "turmac": "AP1001_TP1",
+                    "duracao": "8",
+                    "sala": "FAUP",
+                    "profsig": "JMSL",
+                    "prof": "Jos\u00e9 Lopes"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14.5,
+                    "nome": "Desenho",
+                    "sigla": "AP1001",
+                    "tipo": "TP",
+                    "turma": "AP1001_TP2",
+                    "turmac": "AP1001_TP2",
+                    "duracao": "8",
+                    "sala": "FAUP",
+                    "profsig": "JMSL",
+                    "prof": "Jos\u00e9 Lopes"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14.5,
+                    "nome": "Desenho",
+                    "sigla": "AP1001",
+                    "tipo": "TP",
+                    "turma": "AP1001_TP2",
+                    "turmac": "AP1001_TP2",
+                    "duracao": "8",
+                    "sala": "FAUP",
+                    "profsig": "JMSL",
+                    "prof": "Jos\u00e9 Lopes"
+                }
+            ],
+            "nome": "Desenho"
+        },
+        "AP1002": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 15,
+                    "nome": "Introdu\u00e7\u00e3o ao Projeto de Arquitetura Paisagista I",
+                    "sigla": "AP1002",
+                    "tipo": "PL",
+                    "turma": "AP1002_PL1",
+                    "turmac": "AP1002_PL1",
+                    "duracao": "6",
+                    "sala": "FC6 063+047",
+                    "profsig": "NMSLLC",
+                    "prof": "Nuno Costa"
+                },
+                {
+                    "dia": 1,
+                    "hora": 15,
+                    "nome": "Introdu\u00e7\u00e3o ao Projeto de Arquitetura Paisagista I",
+                    "sigla": "AP1002",
+                    "tipo": "PL",
+                    "turma": "AP1002_PL2",
+                    "turmac": "AP1002_PL2",
+                    "duracao": "6",
+                    "sala": "FC6 063+051",
+                    "profsig": "ACDSA",
+                    "prof": "Ana Antunes"
+                }
+            ],
+            "nome": "Introdu\u00e7\u00e3o ao Projeto de Arquitetura Paisagista I",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Introdu\u00e7\u00e3o ao Projeto de Arquitetura Paisagista I",
+                    "sigla": "AP1002",
+                    "tipo": "T",
+                    "turma": "AP1002_T",
+                    "turmac": "AP1002_T",
+                    "duracao": "2",
+                    "sala": "FC6051",
+                    "profsig": "PJRFM",
+                    "prof": "Paulo Farinha Marques"
+                }
+            ]
+        },
+        "GEOL1005": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Elementos de Geologia",
+                    "sigla": "GEOL1005",
+                    "tipo": "T",
+                    "turma": "GEOL1005_T",
+                    "turmac": "GEOL1005_T",
+                    "duracao": "2",
+                    "sala": "FC3015",
+                    "profsig": "M\u00c2CFA",
+                    "prof": "Maria \u00c2ngela Almeida"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Elementos de Geologia",
+                    "sigla": "GEOL1005",
+                    "tipo": "T",
+                    "turma": "GEOL1005_T",
+                    "turmac": "GEOL1005_T",
+                    "duracao": "2",
+                    "sala": "FC3015",
+                    "profsig": "M\u00c2CFA",
+                    "prof": "Maria \u00c2ngela Almeida"
+                }
+            ],
+            "nome": "Elementos de Geologia",
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Elementos de Geologia",
+                    "sigla": "GEOL1005",
+                    "tipo": "TP",
+                    "turma": "GEOL1005_TP1",
+                    "turmac": "GEOL1005_TP1",
+                    "duracao": "4",
+                    "sala": "FC4011",
+                    "profsig": "M\u00c2CFA",
+                    "prof": "Maria \u00c2ngela Almeida"
+                },
+                {
+                    "dia": 3,
+                    "hora": 16,
+                    "nome": "Elementos de Geologia",
+                    "sigla": "GEOL1005",
+                    "tipo": "TP",
+                    "turma": "GEOL1005_TP2",
+                    "turmac": "GEOL1005_TP2",
+                    "duracao": "4",
+                    "sala": "FC4011",
+                    "profsig": "M\u00c2CFA",
+                    "prof": "Maria \u00c2ngela Almeida"
+                }
+            ]
+        },
+        "M1029": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 10,
+                    "nome": "Matem\u00e1tica",
+                    "sigla": "M1029",
+                    "tipo": "T",
+                    "turma": "M1029_T",
+                    "turmac": "M1029_T",
+                    "duracao": "2",
+                    "sala": "FC1027",
+                    "profsig": "MRMLSP",
+                    "prof": "Maria do Ros\u00e1rio Pinto"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Matem\u00e1tica",
+                    "sigla": "M1029",
+                    "tipo": "T",
+                    "turma": "M1029_T",
+                    "turmac": "M1029_T",
+                    "duracao": "2",
+                    "sala": "FC1027",
+                    "profsig": "MRMLSP",
+                    "prof": "Maria do Ros\u00e1rio Pinto"
+                }
+            ],
+            "nome": "Matem\u00e1tica",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Matem\u00e1tica",
+                    "sigla": "M1029",
+                    "tipo": "TP",
+                    "turma": "M1029_TP1",
+                    "turmac": "M1029_TP1",
+                    "duracao": "4",
+                    "sala": "FC1226",
+                    "profsig": "MRMLSP",
+                    "prof": "Maria do Ros\u00e1rio Pinto"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "Matem\u00e1tica",
+                    "sigla": "M1029",
+                    "tipo": "TP",
+                    "turma": "M1029_TP2",
+                    "turmac": "M1029_TP2",
+                    "duracao": "4",
+                    "sala": "FC1107",
+                    "profsig": "MRMLSP",
+                    "prof": "Maria do Ros\u00e1rio Pinto"
+                }
+            ]
+        }
+    },
+    "2\u00ba Ano": {
+        "AP2001": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Urban\u00edstica",
+                    "sigla": "AP2001",
+                    "tipo": "T",
+                    "turma": "AP2001_T",
+                    "turmac": "AP2001_T",
+                    "duracao": "3",
+                    "sala": "FAUP",
+                    "profsig": "NALRG",
+                    "prof": "Nuno Grande"
+                }
+            ],
+            "nome": "Urban\u00edstica"
+        },
+        "AP2002": {
+            "PL": [
+                {
+                    "dia": 3,
+                    "hora": 10,
+                    "nome": "Projeto - T\u00e9cnicas de Constru\u00e7\u00e3o",
+                    "sigla": "AP2002",
+                    "tipo": "PL",
+                    "turma": "AP2002_PL1",
+                    "turmac": "AP2002_PL1",
+                    "duracao": "5",
+                    "sala": "FC6 063+047",
+                    "profsig": "IS+JL+LGC",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Projeto - T\u00e9cnicas de Constru\u00e7\u00e3o",
+                    "sigla": "AP2002",
+                    "tipo": "PL",
+                    "turma": "AP2002_PL1",
+                    "turmac": "AP2002_PL1",
+                    "duracao": "5",
+                    "sala": "FC6047",
+                    "profsig": "IS+JL+LGC",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Projeto - T\u00e9cnicas de Constru\u00e7\u00e3o",
+                    "sigla": "AP2002",
+                    "tipo": "PL",
+                    "turma": "AP2002_PL2",
+                    "turmac": "AP2002_PL2",
+                    "duracao": "5",
+                    "sala": "FC6047",
+                    "profsig": "IS+JL+LGC",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 15,
+                    "nome": "Projeto - T\u00e9cnicas de Constru\u00e7\u00e3o",
+                    "sigla": "AP2002",
+                    "tipo": "PL",
+                    "turma": "AP2002_PL2",
+                    "turmac": "AP2002_PL2",
+                    "duracao": "5",
+                    "sala": "FC6 063+047",
+                    "profsig": "IS+JL+LGC",
+                    "prof": null
+                }
+            ],
+            "nome": "Projeto - T\u00e9cnicas de Constru\u00e7\u00e3o",
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Projeto - T\u00e9cnicas de Constru\u00e7\u00e3o",
+                    "sigla": "AP2002",
+                    "tipo": "T",
+                    "turma": "AP2002_T",
+                    "turmac": "AP2002_T",
+                    "duracao": "2",
+                    "sala": "FC6047",
+                    "profsig": "IS+JL+LGC",
+                    "prof": null
+                }
+            ]
+        },
+        "AP2003": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Hist\u00f3ria da Arte",
+                    "sigla": "AP2003",
+                    "tipo": "PL",
+                    "turma": "AP2003_PL",
+                    "turmac": "AP2003_PL",
+                    "duracao": "4",
+                    "sala": "FC6137",
+                    "profsig": "BMEMM",
+                    "prof": "Bernardo de Magalh\u00e3es e Menezes"
+                }
+            ],
+            "nome": "Introdu\u00e7\u00e3o \u00e0 Hist\u00f3ria da Arte",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Hist\u00f3ria da Arte",
+                    "sigla": "AP2003",
+                    "tipo": "T",
+                    "turma": "AP2003_T",
+                    "turmac": "AP2003_T",
+                    "duracao": "4",
+                    "sala": "FC6137",
+                    "profsig": "ACCS",
+                    "prof": "Ana Sousa"
+                }
+            ]
+        },
+        "BIOL2010": {
+            "PL": [
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Ecofisiologia Vegetal",
+                    "sigla": "BIOL2010",
+                    "tipo": "PL",
+                    "turma": "BIOL2010_PLD",
+                    "turmac": "BIOL2010_PLD",
+                    "duracao": "4",
+                    "sala": "FC4034",
+                    "profsig": "MFF",
+                    "prof": "Manuel Ferreira"
+                }
+            ],
+            "nome": "Ecofisiologia Vegetal",
+            "T": [
+                {
+                    "dia": 5,
+                    "hora": 12,
+                    "nome": "Ecofisiologia Vegetal",
+                    "sigla": "BIOL2010",
+                    "tipo": "T",
+                    "turma": "BIOL2010_T",
+                    "turmac": "BIOL2010_T",
+                    "duracao": "2",
+                    "sala": "FC4012",
+                    "profsig": "MFF",
+                    "prof": "Manuel Ferreira"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Ecofisiologia Vegetal",
+                    "sigla": "BIOL2010",
+                    "tipo": "T",
+                    "turma": "BIOL2010_T",
+                    "turmac": "BIOL2010_T",
+                    "duracao": "2",
+                    "sala": "FC4012",
+                    "profsig": "MFF",
+                    "prof": "Manuel Ferreira"
+                }
+            ]
+        },
+        "BIOL2011": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Biogeografia",
+                    "sigla": "BIOL2011",
+                    "tipo": "T",
+                    "turma": "BIOL2011_T",
+                    "turmac": "BIOL2011_T",
+                    "duracao": "4",
+                    "sala": "FC4028+FC4021",
+                    "profsig": "AS+JH",
+                    "prof": null
+                }
+            ],
+            "nome": "Biogeografia",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Biogeografia",
+                    "sigla": "BIOL2011",
+                    "tipo": "TP",
+                    "turma": "BIOL2011_TP",
+                    "turmac": "BIOL2011_TP",
+                    "duracao": "4",
+                    "sala": "FC4028+FC4021",
+                    "profsig": "AS+JH",
+                    "prof": null
+                }
+            ]
+        }
+    },
+    "3\u00ba Ano": {
+        "AP3001": {
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Hist\u00f3ria da Arquitetura Paisagista",
+                    "sigla": "AP3001",
+                    "tipo": "PL",
+                    "turma": "AP3001_PL",
+                    "turmac": "AP3001_PL",
+                    "duracao": "4",
+                    "sala": "FC6051",
+                    "profsig": "BMEMM",
+                    "prof": "Bernardo de Magalh\u00e3es e Menezes"
+                }
+            ],
+            "nome": "Hist\u00f3ria da Arquitetura Paisagista",
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Hist\u00f3ria da Arquitetura Paisagista",
+                    "sigla": "AP3001",
+                    "tipo": "T",
+                    "turma": "AP3001_T",
+                    "turmac": "AP3001_T",
+                    "duracao": "4",
+                    "sala": "FC6051",
+                    "profsig": "TPM",
+                    "prof": "Teresa Marques"
+                }
+            ]
+        },
+        "AP3002": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Projeto de Espa\u00e7os Exteriores I",
+                    "sigla": "AP3002",
+                    "tipo": "PL",
+                    "turma": "AP3002_PL1",
+                    "turmac": "AP3002_PL1",
+                    "duracao": "4",
+                    "sala": "FC6 063+051",
+                    "profsig": "IMHMS",
+                    "prof": "Isabel Silva"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "Projeto de Espa\u00e7os Exteriores I",
+                    "sigla": "AP3002",
+                    "tipo": "PL",
+                    "turma": "AP3002_PL2",
+                    "turmac": "AP3002_PL2",
+                    "duracao": "6",
+                    "sala": "FC6 063+047",
+                    "profsig": "NMSLLC",
+                    "prof": "Nuno Costa"
+                }
+            ],
+            "nome": "Projeto de Espa\u00e7os Exteriores I",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 10,
+                    "nome": "Projeto de Espa\u00e7os Exteriores I",
+                    "sigla": "AP3002",
+                    "tipo": "T",
+                    "turma": "AP3002_T",
+                    "turmac": "AP3002_T",
+                    "duracao": "2",
+                    "sala": "FC6 063+051",
+                    "profsig": "IMHMS",
+                    "prof": "Isabel Silva"
+                }
+            ]
+        },
+        "CAGR1001": {
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "Agricultura I",
+                    "sigla": "CAGR1001",
+                    "tipo": "PL",
+                    "turma": "CAGR1001_PL",
+                    "turmac": "CAGR1001_PL",
+                    "duracao": "4",
+                    "sala": "VAIRAOB",
+                    "profsig": "MMMFCC",
+                    "prof": "M\u00e1rio Cunha"
+                }
+            ],
+            "nome": "Agricultura I",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Agricultura I",
+                    "sigla": "CAGR1001",
+                    "tipo": "T",
+                    "turma": "CAGR1001_T",
+                    "turmac": "CAGR1001_T",
+                    "duracao": "3",
+                    "sala": "VAIRAOB",
+                    "profsig": "MMMFCC",
+                    "prof": "M\u00e1rio Cunha"
+                }
+            ]
+        }
+    }
+}

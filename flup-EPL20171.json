@@ -1,0 +1,921 @@
+{
+    "1\u00ba Ano": {
+        "CA": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "Cultura Africana",
+                    "sigla": "CA",
+                    "tipo": "TP",
+                    "turma": "1LEPL_OP01 ",
+                    "turmac": "1LEPL_OP01",
+                    "duracao": "4",
+                    "sala": "G207",
+                    "profsig": "DOCENTE",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "Cultura Africana",
+                    "sigla": "CA",
+                    "tipo": "TP",
+                    "turma": "1LEPL_OP01 ",
+                    "turmac": "1LEPL_OP01",
+                    "duracao": "2",
+                    "sala": "G307",
+                    "profsig": "DOCENTE",
+                    "prof": null
+                }
+            ],
+            "nome": "Cultura Africana",
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 11.5,
+                    "nome": "Cultura Africana",
+                    "sigla": "CA",
+                    "tipo": "OT",
+                    "turma": "1LEPL_OP01 ",
+                    "turmac": "1LEPL_OP01",
+                    "duracao": "2",
+                    "sala": "G307",
+                    "profsig": "DOCENTE",
+                    "prof": null
+                }
+            ]
+        },
+        "CULBRA": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 17.5,
+                    "nome": "Cultura Brasileira",
+                    "sigla": "CULBRA",
+                    "tipo": "T",
+                    "turma": "1LEPL_OP01 ",
+                    "turmac": "1LEPL_OP01",
+                    "duracao": "2",
+                    "sala": "G208",
+                    "profsig": "FJJT",
+                    "prof": "Francisco Topa"
+                }
+            ],
+            "nome": "Cultura Brasileira",
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 17.5,
+                    "nome": "Cultura Brasileira",
+                    "sigla": "CULBRA",
+                    "tipo": "TP",
+                    "turma": "1LEPL_OP01 ",
+                    "turmac": "1LEPL_OP01",
+                    "duracao": "4",
+                    "sala": "G409",
+                    "profsig": "FJJT",
+                    "prof": "Francisco Topa"
+                }
+            ],
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 18.5,
+                    "nome": "Cultura Brasileira",
+                    "sigla": "CULBRA",
+                    "tipo": "OT",
+                    "turma": "1LEPL_OP01 ",
+                    "turmac": "1LEPL_OP01",
+                    "duracao": "2",
+                    "sala": "G208",
+                    "profsig": "FJJT",
+                    "prof": "Francisco Topa"
+                }
+            ]
+        },
+        "LAT1": {
+            "P": [
+                {
+                    "dia": 1,
+                    "hora": 8.5,
+                    "nome": "Latim I",
+                    "sigla": "LAT1",
+                    "tipo": "P",
+                    "turma": "1LEPL01",
+                    "turmac": "1LEPL01",
+                    "duracao": "4",
+                    "sala": "G409",
+                    "profsig": "AMGF",
+                    "prof": "Ana Maria Guedes Ferreira"
+                },
+                {
+                    "dia": 3,
+                    "hora": 8.5,
+                    "nome": "Latim I",
+                    "sigla": "LAT1",
+                    "tipo": "P",
+                    "turma": "1LEPL01",
+                    "turmac": "1LEPL01",
+                    "duracao": "2",
+                    "sala": "206.A\/B",
+                    "profsig": "AMGF",
+                    "prof": "Ana Maria Guedes Ferreira"
+                },
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Latim I",
+                    "sigla": "LAT1",
+                    "tipo": "P",
+                    "turma": "1LEPL02",
+                    "turmac": "1LEPL02",
+                    "duracao": "4",
+                    "sala": "G104",
+                    "profsig": "MFR",
+                    "prof": "Manuel Ramos"
+                },
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Latim I",
+                    "sigla": "LAT1",
+                    "tipo": "P",
+                    "turma": "1LEPL02",
+                    "turmac": "1LEPL02",
+                    "duracao": "2",
+                    "sala": "G208",
+                    "profsig": "MFR",
+                    "prof": "Manuel Ramos"
+                }
+            ],
+            "nome": "Latim I",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 9.5,
+                    "nome": "Latim I",
+                    "sigla": "LAT1",
+                    "tipo": "OT",
+                    "turma": "1LEPL01",
+                    "turmac": "1LEPL01",
+                    "duracao": "2",
+                    "sala": "206.A\/B",
+                    "profsig": "AMGF",
+                    "prof": "Ana Maria Guedes Ferreira"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14.5,
+                    "nome": "Latim I",
+                    "sigla": "LAT1",
+                    "tipo": "OT",
+                    "turma": "1LEPL02",
+                    "turmac": "1LEPL02",
+                    "duracao": "2",
+                    "sala": "G208",
+                    "profsig": "MFR",
+                    "prof": "Manuel Ramos"
+                }
+            ]
+        },
+        "ICPORT": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 10.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Cultura Portuguesa",
+                    "sigla": "ICPORT",
+                    "tipo": "TP",
+                    "turma": "1LEPL01",
+                    "turmac": "1LEPL01",
+                    "duracao": "4",
+                    "sala": "G208",
+                    "profsig": "PCVBT",
+                    "prof": "Pedro Clementino Vilas Boas Tavares"
+                }
+            ],
+            "nome": "Introdu\u00e7\u00e3o \u00e0 Cultura Portuguesa",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Cultura Portuguesa",
+                    "sigla": "ICPORT",
+                    "tipo": "T",
+                    "turma": "1LEPL01",
+                    "turmac": "1LEPL01",
+                    "duracao": "2",
+                    "sala": "G208",
+                    "profsig": "PCVBT",
+                    "prof": "Pedro Clementino Vilas Boas Tavares"
+                }
+            ],
+            "OT": [
+                {
+                    "dia": 1,
+                    "hora": 16.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Cultura Portuguesa",
+                    "sigla": "ICPORT",
+                    "tipo": "OT",
+                    "turma": "1LEPL01",
+                    "turmac": "1LEPL01",
+                    "duracao": "2",
+                    "sala": "G208",
+                    "profsig": "PCVBT",
+                    "prof": "Pedro Clementino Vilas Boas Tavares"
+                }
+            ]
+        },
+        "CG": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 17.5,
+                    "nome": "Cultura Grega",
+                    "sigla": "CG",
+                    "tipo": "T",
+                    "turma": "1LEPL01",
+                    "turmac": "1LEPL01",
+                    "duracao": "2",
+                    "sala": "G103",
+                    "profsig": "BFP",
+                    "prof": "Belmiro Fernandes Pereira"
+                }
+            ],
+            "nome": "Cultura Grega",
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 17.5,
+                    "nome": "Cultura Grega",
+                    "sigla": "CG",
+                    "tipo": "TP",
+                    "turma": "1LEPL01",
+                    "turmac": "1LEPL01",
+                    "duracao": "4",
+                    "sala": "G301",
+                    "profsig": "BFP",
+                    "prof": "Belmiro Fernandes Pereira"
+                }
+            ],
+            "OT": [
+                {
+                    "dia": 1,
+                    "hora": 18.5,
+                    "nome": "Cultura Grega",
+                    "sigla": "CG",
+                    "tipo": "OT",
+                    "turma": "1LEPL01",
+                    "turmac": "1LEPL01",
+                    "duracao": "2",
+                    "sala": "G103",
+                    "profsig": "BFP",
+                    "prof": "Belmiro Fernandes Pereira"
+                }
+            ]
+        }
+    },
+    "2\u00ba Ano": {
+        "LAT3": {
+            "P": [
+                {
+                    "dia": 3,
+                    "hora": 8.5,
+                    "nome": "Latim III",
+                    "sigla": "LAT3",
+                    "tipo": "P",
+                    "turma": "2LEPL_OP01",
+                    "turmac": "2LEPL_OP01",
+                    "duracao": "2",
+                    "sala": "G107",
+                    "profsig": "MIOV",
+                    "prof": "Marta V\u00e1rzeas"
+                },
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "Latim III",
+                    "sigla": "LAT3",
+                    "tipo": "P",
+                    "turma": "2LEPL_OP01",
+                    "turmac": "2LEPL_OP01",
+                    "duracao": "4",
+                    "sala": "G307",
+                    "profsig": "MIOV",
+                    "prof": "Marta V\u00e1rzeas"
+                }
+            ],
+            "nome": "Latim III",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 9.5,
+                    "nome": "Latim III",
+                    "sigla": "LAT3",
+                    "tipo": "OT",
+                    "turma": "2LEPL_OP01",
+                    "turmac": "2LEPL_OP01",
+                    "duracao": "2",
+                    "sala": "G107",
+                    "profsig": "MIOV",
+                    "prof": "Marta V\u00e1rzeas"
+                }
+            ]
+        },
+        "LANG": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "Literatura Angolana",
+                    "sigla": "LANG",
+                    "tipo": "T",
+                    "turma": "2LEPL_OP01",
+                    "turmac": "2LEPL_OP01",
+                    "duracao": "2",
+                    "sala": "G209",
+                    "profsig": "FJJT",
+                    "prof": "Francisco Topa"
+                }
+            ],
+            "nome": "Literatura Angolana",
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 11.5,
+                    "nome": "Literatura Angolana",
+                    "sigla": "LANG",
+                    "tipo": "OT",
+                    "turma": "2LEPL_OP01",
+                    "turmac": "2LEPL_OP01",
+                    "duracao": "2",
+                    "sala": "G209",
+                    "profsig": "FJJT",
+                    "prof": "Francisco Topa"
+                }
+            ],
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 15.5,
+                    "nome": "Literatura Angolana",
+                    "sigla": "LANG",
+                    "tipo": "TP",
+                    "turma": "2LEPL_OP01",
+                    "turmac": "2LEPL_OP01",
+                    "duracao": "4",
+                    "sala": "G309",
+                    "profsig": "FJJT",
+                    "prof": "Francisco Topa"
+                }
+            ]
+        },
+        "LITMOC": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 13.5,
+                    "nome": "Literatura Mo\u00e7ambicana",
+                    "sigla": "LITMOC",
+                    "tipo": "TP",
+                    "turma": "2LEPL_OP01",
+                    "turmac": "2LEPL_OP01",
+                    "duracao": "4",
+                    "sala": "G207",
+                    "profsig": "MLRMS",
+                    "prof": "Maria de Lurdes Sampaio"
+                }
+            ],
+            "nome": "Literatura Mo\u00e7ambicana",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 17.5,
+                    "nome": "Literatura Mo\u00e7ambicana",
+                    "sigla": "LITMOC",
+                    "tipo": "T",
+                    "turma": "2LEPL_OP01",
+                    "turmac": "2LEPL_OP01",
+                    "duracao": "2",
+                    "sala": "G209",
+                    "profsig": "MLRMS",
+                    "prof": "Maria de Lurdes Sampaio"
+                }
+            ],
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 18.5,
+                    "nome": "Literatura Mo\u00e7ambicana",
+                    "sigla": "LITMOC",
+                    "tipo": "OT",
+                    "turma": "2LEPL_OP01",
+                    "turmac": "2LEPL_OP01",
+                    "duracao": "2",
+                    "sala": "G209",
+                    "profsig": "MLRMS",
+                    "prof": "Maria de Lurdes Sampaio"
+                }
+            ]
+        },
+        "LPRHUM": {
+            "T": [
+                {
+                    "dia": 5,
+                    "hora": 10.5,
+                    "nome": "Literatura Portuguesa do Renascimento e do Humanismo",
+                    "sigla": "LPRHUM",
+                    "tipo": "T",
+                    "turma": "2LEPL01",
+                    "turmac": "2LEPL01",
+                    "duracao": "2",
+                    "sala": "G111",
+                    "profsig": "ZCTGMCS",
+                    "prof": "Zulmira Santos"
+                },
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "Literatura Portuguesa do Renascimento e do Humanismo",
+                    "sigla": "LPRHUM",
+                    "tipo": "T",
+                    "turma": "2LEPL01",
+                    "turmac": "2LEPL01",
+                    "duracao": "2",
+                    "sala": "G408",
+                    "profsig": "ZCTGMCS",
+                    "prof": "Zulmira Santos"
+                }
+            ],
+            "nome": "Literatura Portuguesa do Renascimento e do Humanismo",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 11.5,
+                    "nome": "Literatura Portuguesa do Renascimento e do Humanismo",
+                    "sigla": "LPRHUM",
+                    "tipo": "OT",
+                    "turma": "2LEPL01",
+                    "turmac": "2LEPL01",
+                    "duracao": "2",
+                    "sala": "G111",
+                    "profsig": "ZCTGMCS",
+                    "prof": "Zulmira Santos"
+                },
+                {
+                    "dia": 1,
+                    "hora": 16.5,
+                    "nome": "Literatura Portuguesa do Renascimento e do Humanismo",
+                    "sigla": "LPRHUM",
+                    "tipo": "OT",
+                    "turma": "2LEPL01",
+                    "turmac": "2LEPL01",
+                    "duracao": "2",
+                    "sala": "G408",
+                    "profsig": "ZCTGMCS",
+                    "prof": "Zulmira Santos"
+                }
+            ]
+        },
+        "LPMED": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 13.5,
+                    "nome": "Literatura Portuguesa Medieval",
+                    "sigla": "LPMED",
+                    "tipo": "T",
+                    "turma": "2LEPL01",
+                    "turmac": "2LEPL01",
+                    "duracao": "2",
+                    "sala": "G305",
+                    "profsig": "JCRM",
+                    "prof": "Jos\u00e9 Carlos Ribeiro Miranda"
+                }
+            ],
+            "nome": "Literatura Portuguesa Medieval",
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 13.5,
+                    "nome": "Literatura Portuguesa Medieval",
+                    "sigla": "LPMED",
+                    "tipo": "TP",
+                    "turma": "2LEPL01",
+                    "turmac": "2LEPL01",
+                    "duracao": "4",
+                    "sala": "G305",
+                    "profsig": "JCRM",
+                    "prof": "Jos\u00e9 Carlos Ribeiro Miranda"
+                }
+            ],
+            "OT": [
+                {
+                    "dia": 1,
+                    "hora": 14.5,
+                    "nome": "Literatura Portuguesa Medieval",
+                    "sigla": "LPMED",
+                    "tipo": "OT",
+                    "turma": "2LEPL01",
+                    "turmac": "2LEPL01",
+                    "duracao": "2",
+                    "sala": "G305",
+                    "profsig": "JCRM",
+                    "prof": "Jos\u00e9 Carlos Ribeiro Miranda"
+                }
+            ]
+        },
+        "LBRA1": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "Literatura Brasileira I",
+                    "sigla": "LBRA1",
+                    "tipo": "T",
+                    "turma": "2LEPL01",
+                    "turmac": "2LEPL01",
+                    "duracao": "2",
+                    "sala": "G111",
+                    "profsig": "FJJT",
+                    "prof": "Francisco Topa"
+                }
+            ],
+            "nome": "Literatura Brasileira I",
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 14.5,
+                    "nome": "Literatura Brasileira I",
+                    "sigla": "LBRA1",
+                    "tipo": "OT",
+                    "turma": "2LEPL01",
+                    "turmac": "2LEPL01",
+                    "duracao": "2",
+                    "sala": "G111",
+                    "profsig": "FJJT",
+                    "prof": "Francisco Topa"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16.5,
+                    "nome": "Literatura Brasileira I",
+                    "sigla": "LBRA1",
+                    "tipo": "OT",
+                    "turma": "2LEPL01",
+                    "turmac": "2LEPL01",
+                    "duracao": "2",
+                    "sala": "G305",
+                    "profsig": "FJJT",
+                    "prof": "Francisco Topa"
+                }
+            ],
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "Literatura Brasileira I",
+                    "sigla": "LBRA1",
+                    "tipo": "TP",
+                    "turma": "2LEPL01",
+                    "turmac": "2LEPL01",
+                    "duracao": "2",
+                    "sala": "G305",
+                    "profsig": "FJJT",
+                    "prof": "Francisco Topa"
+                }
+            ]
+        }
+    },
+    "3\u00ba Ano": {
+        "GRE1": {
+            "P": [
+                {
+                    "dia": 1,
+                    "hora": 10.5,
+                    "nome": "Grego I",
+                    "sigla": "GRE1",
+                    "tipo": "P",
+                    "turma": "3LEPL_OP01",
+                    "turmac": "3LEPL_OP01",
+                    "duracao": "4",
+                    "sala": "G107",
+                    "profsig": "MIOV",
+                    "prof": "Marta V\u00e1rzeas"
+                },
+                {
+                    "dia": 3,
+                    "hora": 10.5,
+                    "nome": "Grego I",
+                    "sigla": "GRE1",
+                    "tipo": "P",
+                    "turma": "3LEPL_OP01",
+                    "turmac": "3LEPL_OP01",
+                    "duracao": "2",
+                    "sala": "G109",
+                    "profsig": "MIOV",
+                    "prof": "Marta V\u00e1rzeas"
+                }
+            ],
+            "nome": "Grego I",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 11.5,
+                    "nome": "Grego I",
+                    "sigla": "GRE1",
+                    "tipo": "OT",
+                    "turma": "3LEPL_OP01",
+                    "turmac": "3LEPL_OP01",
+                    "duracao": "2",
+                    "sala": "G109",
+                    "profsig": "MIOV",
+                    "prof": "Marta V\u00e1rzeas"
+                }
+            ]
+        },
+        "LOM1": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 10.5,
+                    "nome": "Literaturas Orais e Marginais I",
+                    "sigla": "LOM1",
+                    "tipo": "TP",
+                    "turma": "3LEPL_OP01",
+                    "turmac": "3LEPL_OP01",
+                    "duracao": "4",
+                    "sala": "A105",
+                    "profsig": "PJSCE",
+                    "prof": "Pedro Eiras"
+                }
+            ],
+            "nome": "Literaturas Orais e Marginais I"
+        },
+        "HTP_GV": {
+            "T": [
+                {
+                    "dia": 5,
+                    "hora": 10.5,
+                    "nome": "Hist\u00f3ria do Teatro Portugu\u00eas - de Gil Vicente ao Teatro de Setecentos",
+                    "sigla": "HTP_GV",
+                    "tipo": "T",
+                    "turma": "3LEPL_OP01",
+                    "turmac": "3LEPL_OP01",
+                    "duracao": "2",
+                    "sala": "G307",
+                    "profsig": "IMVMB",
+                    "prof": "Isabel Moruj\u00e3o"
+                }
+            ],
+            "nome": "Hist\u00f3ria do Teatro Portugu\u00eas - de Gil Vicente ao Teatro de Setecentos",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 11.5,
+                    "nome": "Hist\u00f3ria do Teatro Portugu\u00eas - de Gil Vicente ao Teatro de Setecentos",
+                    "sigla": "HTP_GV",
+                    "tipo": "OT",
+                    "turma": "3LEPL_OP01",
+                    "turmac": "3LEPL_OP01",
+                    "duracao": "2",
+                    "sala": "G307",
+                    "profsig": "IMVMB",
+                    "prof": "Isabel Moruj\u00e3o"
+                }
+            ]
+        },
+        "CPRR_XX": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "Cultura Portuguesa do Romantismo e da Regenera\u00e7\u00e3o ao S\u00e9c. XX",
+                    "sigla": "CPRR_XX",
+                    "tipo": "T",
+                    "turma": "3LEPL_OP01",
+                    "turmac": "3LEPL_OP01",
+                    "duracao": "2",
+                    "sala": "G408",
+                    "profsig": "PCVBT",
+                    "prof": "Pedro Clementino Vilas Boas Tavares"
+                }
+            ],
+            "nome": "Cultura Portuguesa do Romantismo e da Regenera\u00e7\u00e3o ao S\u00e9c. XX",
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 14.5,
+                    "nome": "Cultura Portuguesa do Romantismo e da Regenera\u00e7\u00e3o ao S\u00e9c. XX",
+                    "sigla": "CPRR_XX",
+                    "tipo": "OT",
+                    "turma": "3LEPL_OP01",
+                    "turmac": "3LEPL_OP01",
+                    "duracao": "2",
+                    "sala": "G408",
+                    "profsig": "PCVBT",
+                    "prof": "Pedro Clementino Vilas Boas Tavares"
+                }
+            ],
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 17.5,
+                    "nome": "Cultura Portuguesa do Romantismo e da Regenera\u00e7\u00e3o ao S\u00e9c. XX",
+                    "sigla": "CPRR_XX",
+                    "tipo": "TP",
+                    "turma": "3LEPL_OP01",
+                    "turmac": "3LEPL_OP01",
+                    "duracao": "4",
+                    "sala": "G207",
+                    "profsig": "PCVBT",
+                    "prof": "Pedro Clementino Vilas Boas Tavares"
+                }
+            ]
+        },
+        "TGLIT": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "Teoria do Gosto Liter\u00e1rio",
+                    "sigla": "TGLIT",
+                    "tipo": "T",
+                    "turma": "3LEPL_OP01",
+                    "turmac": "3LEPL_OP01",
+                    "duracao": "2",
+                    "sala": "G101",
+                    "profsig": "LAC",
+                    "prof": "Lu\u00eds Adriano Carlos"
+                }
+            ],
+            "nome": "Teoria do Gosto Liter\u00e1rio",
+            "OT": [
+                {
+                    "dia": 1,
+                    "hora": 16.5,
+                    "nome": "Teoria do Gosto Liter\u00e1rio",
+                    "sigla": "TGLIT",
+                    "tipo": "OT",
+                    "turma": "3LEPL_OP01",
+                    "turmac": "3LEPL_OP01",
+                    "duracao": "2",
+                    "sala": "G101",
+                    "profsig": "LAC",
+                    "prof": "Lu\u00eds Adriano Carlos"
+                }
+            ],
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 17.5,
+                    "nome": "Teoria do Gosto Liter\u00e1rio",
+                    "sigla": "TGLIT",
+                    "tipo": "TP",
+                    "turma": "3LEPL_OP01",
+                    "turmac": "3LEPL_OP01",
+                    "duracao": "4",
+                    "sala": "G309",
+                    "profsig": "LAC",
+                    "prof": "Lu\u00eds Adriano Carlos"
+                }
+            ]
+        },
+        "TELIT1": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Teoria da Literatura I",
+                    "sigla": "TELIT1",
+                    "tipo": "TP",
+                    "turma": "3LEPL01",
+                    "turmac": "3LEPL01",
+                    "duracao": "4",
+                    "sala": "G109",
+                    "profsig": "CS",
+                    "prof": "Celina Silva"
+                }
+            ],
+            "nome": "Teoria da Literatura I",
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Teoria da Literatura I",
+                    "sigla": "TELIT1",
+                    "tipo": "T",
+                    "turma": "3LEPL01",
+                    "turmac": "3LEPL01",
+                    "duracao": "2",
+                    "sala": "G109",
+                    "profsig": "CS",
+                    "prof": "Celina Silva"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10.5,
+                    "nome": "Teoria da Literatura I",
+                    "sigla": "TELIT1",
+                    "tipo": "T",
+                    "turma": "3LEPL02",
+                    "turmac": "3LEPL02",
+                    "duracao": "4",
+                    "sala": "G109",
+                    "profsig": "CS",
+                    "prof": "Celina Silva"
+                },
+                {
+                    "dia": 4,
+                    "hora": 13.5,
+                    "nome": "Teoria da Literatura I",
+                    "sigla": "TELIT1",
+                    "tipo": "T",
+                    "turma": "3LEPL02",
+                    "turmac": "3LEPL02",
+                    "duracao": "2",
+                    "sala": "G109",
+                    "profsig": "CS",
+                    "prof": "Celina Silva"
+                }
+            ],
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 14.5,
+                    "nome": "Teoria da Literatura I",
+                    "sigla": "TELIT1",
+                    "tipo": "OT",
+                    "turma": "3LEPL01",
+                    "turmac": "3LEPL01",
+                    "duracao": "2",
+                    "sala": "G109",
+                    "profsig": "CS",
+                    "prof": "Celina Silva"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14.5,
+                    "nome": "Teoria da Literatura I",
+                    "sigla": "TELIT1",
+                    "tipo": "OT",
+                    "turma": "3LEPL02",
+                    "turmac": "3LEPL02",
+                    "duracao": "2",
+                    "sala": "G109",
+                    "profsig": "CS",
+                    "prof": "Celina Silva"
+                }
+            ]
+        },
+        "LPRNAT": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "Literatura Portuguesa do Romantismo ao Naturalismo",
+                    "sigla": "LPRNAT",
+                    "tipo": "TP",
+                    "turma": "3LEPL01",
+                    "turmac": "3LEPL01",
+                    "duracao": "4",
+                    "sala": "G111",
+                    "profsig": "PJSCE",
+                    "prof": "Pedro Eiras"
+                }
+            ],
+            "nome": "Literatura Portuguesa do Romantismo ao Naturalismo",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 13.5,
+                    "nome": "Literatura Portuguesa do Romantismo ao Naturalismo",
+                    "sigla": "LPRNAT",
+                    "tipo": "T",
+                    "turma": "3LEPL01",
+                    "turmac": "3LEPL01",
+                    "duracao": "2",
+                    "sala": "G111",
+                    "profsig": "PJSCE",
+                    "prof": "Pedro Eiras"
+                }
+            ],
+            "OT": [
+                {
+                    "dia": 1,
+                    "hora": 14.5,
+                    "nome": "Literatura Portuguesa do Romantismo ao Naturalismo",
+                    "sigla": "LPRNAT",
+                    "tipo": "OT",
+                    "turma": "3LEPL01",
+                    "turmac": "3LEPL01",
+                    "duracao": "2",
+                    "sala": "G111",
+                    "profsig": "PJSCE",
+                    "prof": "Pedro Eiras"
+                }
+            ]
+        }
+    }
+}

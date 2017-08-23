@@ -1,3 +1,7 @@
+<Files .htaccess>
+    Order Allow,Deny
+    Deny from all
+</Files>
 
 <Files log.txt>
     Order allow,deny
@@ -6,5 +10,15 @@
 
 <Files .gitignore>
     Order allow,deny
+    Deny from all
+</Files>
+
+<Files Dockerfile>
+    Order Allow,Deny
+    Deny from all
+</Files>
+
+<Files docker-compose.yml>
+    Order Allow,Deny
     Deny from all
 </Files>

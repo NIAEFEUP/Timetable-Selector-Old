@@ -1,0 +1,109 @@
+{
+    "3\u00ba Ano": {
+        "F3001": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Electr\u00f3nica Digital e Circuitos",
+                    "sigla": "F3001",
+                    "tipo": "PL",
+                    "turma": "F3001_PL1",
+                    "turmac": "F3001_PL1",
+                    "duracao": "4",
+                    "sala": "FC6137",
+                    "profsig": "MASS",
+                    "prof": "Manuel Silva"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Electr\u00f3nica Digital e Circuitos",
+                    "sigla": "F3001",
+                    "tipo": "PL",
+                    "turma": "F3001_PL2",
+                    "turmac": "F3001_PL2",
+                    "duracao": "4",
+                    "sala": "FC6137",
+                    "profsig": "MASS",
+                    "prof": "Manuel Silva"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Electr\u00f3nica Digital e Circuitos",
+                    "sigla": "F3001",
+                    "tipo": "PL",
+                    "turma": "F3001_PL3",
+                    "turmac": "F3001_PL3",
+                    "duracao": "4",
+                    "sala": "FC6137",
+                    "profsig": "PVSM",
+                    "prof": "Paulo Marques"
+                }
+            ],
+            "nome": "Electr\u00f3nica Digital e Circuitos",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Electr\u00f3nica Digital e Circuitos",
+                    "sigla": "F3001",
+                    "tipo": "T",
+                    "turma": "F3001_T",
+                    "turmac": "F3001_T",
+                    "duracao": "2",
+                    "sala": "FC6029",
+                    "profsig": "PVSM",
+                    "prof": "Paulo Marques"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Electr\u00f3nica Digital e Circuitos",
+                    "sigla": "F3001",
+                    "tipo": "T",
+                    "turma": "F3001_T",
+                    "turmac": "F3001_T",
+                    "duracao": "2",
+                    "sala": "FC6029",
+                    "profsig": "PVSM",
+                    "prof": "Paulo Marques"
+                }
+            ]
+        }
+    },
+    "4\u00ba Ano": {
+        "CC4037": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 10,
+                    "nome": "T\u00f3picos Avan\u00e7ados em Redes",
+                    "sigla": "CC4037",
+                    "tipo": "TP",
+                    "turma": "CC4037_TP",
+                    "turmac": "CC4037_TP",
+                    "duracao": "3",
+                    "sala": "FC6010",
+                    "profsig": "rprior",
+                    "prof": "Rui Prior"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11.5,
+                    "nome": "T\u00f3picos Avan\u00e7ados em Redes",
+                    "sigla": "CC4037",
+                    "tipo": "TP",
+                    "turma": "CC4037_TP",
+                    "turmac": "CC4037_TP",
+                    "duracao": "3",
+                    "sala": "FC6010",
+                    "profsig": "rprior",
+                    "prof": "Rui Prior"
+                }
+            ],
+            "nome": "T\u00f3picos Avan\u00e7ados em Redes"
+        }
+    }
+}

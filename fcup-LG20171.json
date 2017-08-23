@@ -1,0 +1,725 @@
+{
+    "1\u00ba Ano": {
+        "GEOL1001": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Geodin\u00e2mica",
+                    "sigla": "GEOL1001",
+                    "tipo": "TP",
+                    "turma": "GEOL1001 TP1G",
+                    "turmac": "GEOL1001 TP1G",
+                    "duracao": "4",
+                    "sala": "FC3-116",
+                    "profsig": "MAMG",
+                    "prof": "Maria Alexandra Guedes"
+                },
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Geodin\u00e2mica",
+                    "sigla": "GEOL1001",
+                    "tipo": "TP",
+                    "turma": "GEOL1001 TP2G",
+                    "turmac": "GEOL1001 TP2G",
+                    "duracao": "4",
+                    "sala": "FC3-116",
+                    "profsig": "MAMG",
+                    "prof": "Maria Alexandra Guedes"
+                }
+            ],
+            "nome": "Geodin\u00e2mica"
+        },
+        "GEOL2002": {
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Estratigrafia e Paleontologia",
+                    "sigla": "GEOL2002",
+                    "tipo": "T",
+                    "turma": "GEOL2002_T",
+                    "turmac": "GEOL2002_T",
+                    "duracao": "2",
+                    "sala": "FC3-116",
+                    "profsig": "HC+AJ",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 10,
+                    "nome": "Estratigrafia e Paleontologia",
+                    "sigla": "GEOL2002",
+                    "tipo": "T",
+                    "turma": "GEOL2002_T",
+                    "turmac": "GEOL2002_T",
+                    "duracao": "2",
+                    "sala": "FC3-117",
+                    "profsig": "HC+AJ",
+                    "prof": null
+                }
+            ],
+            "nome": "Estratigrafia e Paleontologia",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Estratigrafia e Paleontologia",
+                    "sigla": "GEOL2002",
+                    "tipo": "TP",
+                    "turma": "GEOL2002TP1",
+                    "turmac": "GEOL2002TP1",
+                    "duracao": "4",
+                    "sala": "FC3-113",
+                    "profsig": "HC+AJ",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Estratigrafia e Paleontologia",
+                    "sigla": "GEOL2002",
+                    "tipo": "TP",
+                    "turma": "GEOL2002TP2",
+                    "turmac": "GEOL2002TP2",
+                    "duracao": "4",
+                    "sala": "FC3-113",
+                    "profsig": "HC+AJ",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 10,
+                    "nome": "Estratigrafia e Paleontologia",
+                    "sigla": "GEOL2002",
+                    "tipo": "TP",
+                    "turma": "GEOL2002TP3",
+                    "turmac": "GEOL2002TP3",
+                    "duracao": "4",
+                    "sala": "FC3015",
+                    "profsig": "HC+AJ",
+                    "prof": null
+                }
+            ]
+        },
+        "M1034": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Matem\u00e1tica I",
+                    "sigla": "M1034",
+                    "tipo": "TP",
+                    "turma": "M1034_TP1",
+                    "turmac": "M1034_TP1",
+                    "duracao": "4",
+                    "sala": "FC1029",
+                    "profsig": "MAFD",
+                    "prof": "Manuel Delgado"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Matem\u00e1tica I",
+                    "sigla": "M1034",
+                    "tipo": "TP",
+                    "turma": "M1034_TP2",
+                    "turmac": "M1034_TP2",
+                    "duracao": "4",
+                    "sala": "FC1005",
+                    "profsig": "APSD",
+                    "prof": "Ana Dias"
+                },
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Matem\u00e1tica I",
+                    "sigla": "M1034",
+                    "tipo": "TP",
+                    "turma": "M1034_TP3",
+                    "turmac": "M1034_TP3",
+                    "duracao": "4",
+                    "sala": "FC1029",
+                    "profsig": "MAFD",
+                    "prof": "Manuel Delgado"
+                },
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Matem\u00e1tica I",
+                    "sigla": "M1034",
+                    "tipo": "TP",
+                    "turma": "M1034_TP4",
+                    "turmac": "M1034_TP4",
+                    "duracao": "4",
+                    "sala": "FC1005",
+                    "profsig": "SBY",
+                    "prof": "Semyon Yakubovich"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Matem\u00e1tica I",
+                    "sigla": "M1034",
+                    "tipo": "TP",
+                    "turma": "M1034_TP5",
+                    "turmac": "M1034_TP5",
+                    "duracao": "4",
+                    "sala": "FC1029",
+                    "profsig": "MAFD",
+                    "prof": "Manuel Delgado"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Matem\u00e1tica I",
+                    "sigla": "M1034",
+                    "tipo": "TP",
+                    "turma": "M1034_TP6",
+                    "turmac": "M1034_TP6",
+                    "duracao": "4",
+                    "sala": "FC1005",
+                    "profsig": "APSD",
+                    "prof": "Ana Dias"
+                },
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Matem\u00e1tica I",
+                    "sigla": "M1034",
+                    "tipo": "TP",
+                    "turma": "M1034_TP7",
+                    "turmac": "M1034_TP7",
+                    "duracao": "4",
+                    "sala": "FC1029",
+                    "profsig": "MAFD",
+                    "prof": "Manuel Delgado"
+                }
+            ],
+            "nome": "Matem\u00e1tica I",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Matem\u00e1tica I",
+                    "sigla": "M1034",
+                    "tipo": "T",
+                    "turma": "M1034_T1",
+                    "turmac": "M1034_T1",
+                    "duracao": "2",
+                    "sala": "FC4041",
+                    "profsig": "APSD",
+                    "prof": "Ana Dias"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Matem\u00e1tica I",
+                    "sigla": "M1034",
+                    "tipo": "T",
+                    "turma": "M1034_T1",
+                    "turmac": "M1034_T1",
+                    "duracao": "2",
+                    "sala": "FC4041",
+                    "profsig": "APSD",
+                    "prof": "Ana Dias"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Matem\u00e1tica I",
+                    "sigla": "M1034",
+                    "tipo": "T",
+                    "turma": "M1034_T2",
+                    "turmac": "M1034_T2",
+                    "duracao": "2",
+                    "sala": "FC1003",
+                    "profsig": "MAFD",
+                    "prof": "Manuel Delgado"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Matem\u00e1tica I",
+                    "sigla": "M1034",
+                    "tipo": "T",
+                    "turma": "M1034_T2",
+                    "turmac": "M1034_T2",
+                    "duracao": "2",
+                    "sala": "FC1003",
+                    "profsig": "MAFD",
+                    "prof": "Manuel Delgado"
+                }
+            ]
+        }
+    },
+    "2\u00ba Ano": {
+        "GEOL2001": {
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Mineralogia e Petrologia Geral",
+                    "sigla": "GEOL2001",
+                    "tipo": "T",
+                    "turma": "GEOL2001_T",
+                    "turmac": "GEOL2001_T",
+                    "duracao": "4",
+                    "sala": "FC3-124A",
+                    "profsig": "HCBM",
+                    "prof": "Helena Brites Martins"
+                }
+            ],
+            "nome": "Mineralogia e Petrologia Geral",
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Mineralogia e Petrologia Geral",
+                    "sigla": "GEOL2001",
+                    "tipo": "TP",
+                    "turma": "GEOL2001_TP",
+                    "turmac": "GEOL2001_TP",
+                    "duracao": "4",
+                    "sala": "FC3-124A",
+                    "profsig": "HCBM",
+                    "prof": "Helena Brites Martins"
+                }
+            ]
+        },
+        "GEOL2006": {
+            "T": [
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Geologia Estrutural",
+                    "sigla": "GEOL2006",
+                    "tipo": "T",
+                    "turma": "GEOL2006_T",
+                    "turmac": "GEOL2006_T",
+                    "duracao": "4",
+                    "sala": "FC3-116",
+                    "profsig": "HMSMS",
+                    "prof": "Helena Silva"
+                }
+            ],
+            "nome": "Geologia Estrutural",
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 16,
+                    "nome": "Geologia Estrutural",
+                    "sigla": "GEOL2006",
+                    "tipo": "TP",
+                    "turma": "GEOL2006TP1",
+                    "turmac": "GEOL2006TP1",
+                    "duracao": "4",
+                    "sala": "FC3-116",
+                    "profsig": "HMSMS",
+                    "prof": "Helena Silva"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10.5,
+                    "nome": "Geologia Estrutural",
+                    "sigla": "GEOL2006",
+                    "tipo": "TP",
+                    "turma": "GEOL2006TP2",
+                    "turmac": "GEOL2006TP2",
+                    "duracao": "4",
+                    "sala": "FC3015",
+                    "profsig": "HMSMS",
+                    "prof": "Helena Silva"
+                }
+            ]
+        },
+        "GEOL3001": {
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 18,
+                    "nome": "Inform\u00e1tica Aplicada \u00e0 Geologia",
+                    "sigla": "GEOL3001",
+                    "tipo": "PL",
+                    "turma": "GEOL3001_PL1",
+                    "turmac": "GEOL3001_PL1",
+                    "duracao": "4",
+                    "sala": "FC3028",
+                    "profsig": "JMDC",
+                    "prof": "Jo\u00e3o Coelho"
+                },
+                {
+                    "dia": 3,
+                    "hora": 18,
+                    "nome": "Inform\u00e1tica Aplicada \u00e0 Geologia",
+                    "sigla": "GEOL3001",
+                    "tipo": "PL",
+                    "turma": "GEOL3001_PL2",
+                    "turmac": "GEOL3001_PL2",
+                    "duracao": "4",
+                    "sala": "FC3028",
+                    "profsig": "JMDC",
+                    "prof": "Jo\u00e3o Coelho"
+                },
+                {
+                    "dia": 4,
+                    "hora": 18,
+                    "nome": "Inform\u00e1tica Aplicada \u00e0 Geologia",
+                    "sigla": "GEOL3001",
+                    "tipo": "PL",
+                    "turma": "GEOL3001_PL3",
+                    "turmac": "GEOL3001_PL3",
+                    "duracao": "4",
+                    "sala": "FC3028",
+                    "profsig": "JMDC",
+                    "prof": "Jo\u00e3o Coelho"
+                }
+            ],
+            "nome": "Inform\u00e1tica Aplicada \u00e0 Geologia",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Inform\u00e1tica Aplicada \u00e0 Geologia",
+                    "sigla": "GEOL3001",
+                    "tipo": "T",
+                    "turma": "GEOL3001_T",
+                    "turmac": "GEOL3001_T",
+                    "duracao": "4",
+                    "sala": "FC3-119",
+                    "profsig": "JMDC",
+                    "prof": "Jo\u00e3o Coelho"
+                }
+            ]
+        },
+        "GEOL3002": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Geoqu\u00edmica",
+                    "sigla": "GEOL3002",
+                    "tipo": "T",
+                    "turma": "GEOL3002_T",
+                    "turmac": "GEOL3002_T",
+                    "duracao": "4",
+                    "sala": "FC3025",
+                    "profsig": "M\u00c2CFA",
+                    "prof": "Maria \u00c2ngela Almeida"
+                }
+            ],
+            "nome": "Geoqu\u00edmica",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Geoqu\u00edmica",
+                    "sigla": "GEOL3002",
+                    "tipo": "TP",
+                    "turma": "GEOL3002_TP",
+                    "turmac": "GEOL3002_TP",
+                    "duracao": "4",
+                    "sala": "FC3025",
+                    "profsig": "M\u00c2CFA",
+                    "prof": "Maria \u00c2ngela Almeida"
+                }
+            ]
+        },
+        "GEOL3005": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Geomorfologia",
+                    "sigla": "GEOL3005",
+                    "tipo": "T",
+                    "turma": "GEOL3005_T",
+                    "turmac": "GEOL3005_T",
+                    "duracao": "8",
+                    "sala": "FC3-116",
+                    "profsig": "DF",
+                    "prof": "Deolinda Flores"
+                }
+            ],
+            "nome": "Geomorfologia",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Geomorfologia",
+                    "sigla": "GEOL3005",
+                    "tipo": "TP",
+                    "turma": "GEOL3005_TP",
+                    "turmac": "GEOL3005_TP",
+                    "duracao": "8",
+                    "sala": "FC3-116",
+                    "profsig": "JMEM",
+                    "prof": "Jorge Marques"
+                }
+            ]
+        },
+        "GEOL3016": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "Patrim\u00f3nio Geol\u00f3gico",
+                    "sigla": "GEOL3016",
+                    "tipo": "TP",
+                    "turma": "GEOL3016_TP",
+                    "turmac": "GEOL3016_TP",
+                    "duracao": "4",
+                    "sala": "FC3-113",
+                    "profsig": "MHMC",
+                    "prof": "Helena Couto"
+                }
+            ],
+            "nome": "Patrim\u00f3nio Geol\u00f3gico"
+        },
+        "GEOL3017": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 14.5,
+                    "nome": "Sedimentologia",
+                    "sigla": "GEOL3017",
+                    "tipo": "TP",
+                    "turma": "GEOL3017_TP",
+                    "turmac": "GEOL3017_TP",
+                    "duracao": "4",
+                    "sala": "FC3-116",
+                    "profsig": "ADPJ",
+                    "prof": "Ary Jesus"
+                }
+            ],
+            "nome": "Sedimentologia"
+        }
+    },
+    "3\u00ba Ano": {
+        "GEOL2003": {
+            "PL": [
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Petrologia Metam\u00f3rfica",
+                    "sigla": "GEOL2003",
+                    "tipo": "PL",
+                    "turma": "GEOL2003PL1",
+                    "turmac": "GEOL2003PL1",
+                    "duracao": "4",
+                    "sala": "FC3-124B",
+                    "profsig": "MAR",
+                    "prof": "Anjos Ribeiro"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Petrologia Metam\u00f3rfica",
+                    "sigla": "GEOL2003",
+                    "tipo": "PL",
+                    "turma": "GEOL2003PL2",
+                    "turmac": "GEOL2003PL2",
+                    "duracao": "4",
+                    "sala": "FC3-124B",
+                    "profsig": "MAR",
+                    "prof": "Anjos Ribeiro"
+                }
+            ],
+            "nome": "Petrologia Metam\u00f3rfica",
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Petrologia Metam\u00f3rfica",
+                    "sigla": "GEOL2003",
+                    "tipo": "T",
+                    "turma": "GEOL2003_T",
+                    "turmac": "GEOL2003_T",
+                    "duracao": "4",
+                    "sala": "FC3-119",
+                    "profsig": "MAR",
+                    "prof": "Anjos Ribeiro"
+                }
+            ]
+        },
+        "GEOL3004": {
+            "PL": [
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Recursos Geol\u00f3gicos",
+                    "sigla": "GEOL3004",
+                    "tipo": "PL",
+                    "turma": "GEOL3004_PL1",
+                    "turmac": "GEOL3004_PL1",
+                    "duracao": "4",
+                    "sala": "FC3-125B",
+                    "profsig": "AJNGM",
+                    "prof": "Ant\u00f3nio Moura"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Recursos Geol\u00f3gicos",
+                    "sigla": "GEOL3004",
+                    "tipo": "PL",
+                    "turma": "GEOL3004_PL2",
+                    "turmac": "GEOL3004_PL2",
+                    "duracao": "4",
+                    "sala": "FC3-125B",
+                    "profsig": "AJNGM",
+                    "prof": "Ant\u00f3nio Moura"
+                }
+            ],
+            "nome": "Recursos Geol\u00f3gicos",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Recursos Geol\u00f3gicos",
+                    "sigla": "GEOL3004",
+                    "tipo": "T",
+                    "turma": "GEOL3004_T",
+                    "turmac": "GEOL3004_T",
+                    "duracao": "4",
+                    "sala": "FC3-119",
+                    "profsig": "AJNGM",
+                    "prof": "Ant\u00f3nio Moura"
+                }
+            ]
+        },
+        "GEOL3006": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Riscos Geol\u00f3gicos",
+                    "sigla": "GEOL3006",
+                    "tipo": "T",
+                    "turma": "GEOL3006_T",
+                    "turmac": "GEOL3006_T",
+                    "duracao": "4",
+                    "sala": "INST:GEOF\u00cdSICO",
+                    "profsig": "HMSMS",
+                    "prof": "Helena Silva"
+                }
+            ],
+            "nome": "Riscos Geol\u00f3gicos",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Riscos Geol\u00f3gicos",
+                    "sigla": "GEOL3006",
+                    "tipo": "TP",
+                    "turma": "GEOL3006_TP",
+                    "turmac": "GEOL3006_TP",
+                    "duracao": "4",
+                    "sala": "INST:GEOF\u00cdSICO",
+                    "profsig": "HMSMS",
+                    "prof": "Helena Silva"
+                }
+            ]
+        },
+        "GEOL3013": {
+            "T": [
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Geologia de Engenharia",
+                    "sigla": "GEOL3013",
+                    "tipo": "T",
+                    "turma": "GEOL3013_T",
+                    "turmac": "GEOL3013_T",
+                    "duracao": "4",
+                    "sala": "FC3015",
+                    "profsig": "D.Convidado",
+                    "prof": null
+                }
+            ],
+            "nome": "Geologia de Engenharia",
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Geologia de Engenharia",
+                    "sigla": "GEOL3013",
+                    "tipo": "TP",
+                    "turma": "GEOL3013_TP",
+                    "turmac": "GEOL3013_TP",
+                    "duracao": "4",
+                    "sala": "FC3015",
+                    "profsig": "D.Convidado",
+                    "prof": null
+                }
+            ]
+        },
+        "GEOL3014": {
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Hidrogeologia",
+                    "sigla": "GEOL3014",
+                    "tipo": "T",
+                    "turma": "GEOL3014_T",
+                    "turmac": "GEOL3014_T",
+                    "duracao": "4",
+                    "sala": "FC3-119",
+                    "profsig": "JMEM",
+                    "prof": "Jorge Marques"
+                }
+            ],
+            "nome": "Hidrogeologia",
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Hidrogeologia",
+                    "sigla": "GEOL3014",
+                    "tipo": "TP",
+                    "turma": "GEOL3014_TP",
+                    "turmac": "GEOL3014_TP",
+                    "duracao": "4",
+                    "sala": "FC3-119",
+                    "profsig": "JMEM",
+                    "prof": "Jorge Marques"
+                }
+            ]
+        },
+        "GEOL3015": {
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "M\u00e9todos de Prospe\u00e7\u00e3o",
+                    "sigla": "GEOL3015",
+                    "tipo": "T",
+                    "turma": "GEOL3015_T",
+                    "turmac": "GEOL3015_T",
+                    "duracao": "2",
+                    "sala": "FC3-116",
+                    "profsig": "RMMM",
+                    "prof": "Rui Moura"
+                }
+            ],
+            "nome": "M\u00e9todos de Prospe\u00e7\u00e3o",
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "M\u00e9todos de Prospe\u00e7\u00e3o",
+                    "sigla": "GEOL3015",
+                    "tipo": "TP",
+                    "turma": "GEOL3015_TP",
+                    "turmac": "GEOL3015_TP",
+                    "duracao": "6",
+                    "sala": "FC3-116",
+                    "profsig": "RMMM",
+                    "prof": "Rui Moura"
+                }
+            ]
+        }
+    }
+}

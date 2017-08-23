@@ -1,0 +1,847 @@
+{
+    "1\u00ba Ano": {
+        "CANT": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 8.5,
+                    "nome": "Civiliza\u00e7\u00f5es Antigas",
+                    "sigla": "CANT",
+                    "tipo": "TP",
+                    "turma": "1LHISTO01",
+                    "turmac": "1LHISTO01",
+                    "duracao": "4",
+                    "sala": "GA1",
+                    "profsig": "RMLSM",
+                    "prof": "Rui Morais"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10.5,
+                    "nome": "Civiliza\u00e7\u00f5es Antigas",
+                    "sigla": "CANT",
+                    "tipo": "TP",
+                    "turma": "1LHISTO01",
+                    "turmac": "1LHISTO01",
+                    "duracao": "2",
+                    "sala": "GA1",
+                    "profsig": "RMLSM",
+                    "prof": "Rui Morais"
+                }
+            ],
+            "nome": "Civiliza\u00e7\u00f5es Antigas",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 11.5,
+                    "nome": "Civiliza\u00e7\u00f5es Antigas",
+                    "sigla": "CANT",
+                    "tipo": "OT",
+                    "turma": "1LHISTO01",
+                    "turmac": "1LHISTO01",
+                    "duracao": "2",
+                    "sala": "GA1",
+                    "profsig": "RMLSM",
+                    "prof": "Rui Morais"
+                }
+            ]
+        },
+        "HR": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Hist\u00f3ria de Roma",
+                    "sigla": "HR",
+                    "tipo": "TP",
+                    "turma": "1LHISTO01",
+                    "turmac": "1LHISTO01",
+                    "duracao": "4",
+                    "sala": "GA1",
+                    "profsig": "RMLSM",
+                    "prof": "Rui Morais"
+                },
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "Hist\u00f3ria de Roma",
+                    "sigla": "HR",
+                    "tipo": "TP",
+                    "turma": "1LHISTO01",
+                    "turmac": "1LHISTO01",
+                    "duracao": "2",
+                    "sala": "GA1",
+                    "profsig": "JAPSMP",
+                    "prof": "Jos\u00e9 Augusto Sotto Mayor Pizarro"
+                }
+            ],
+            "nome": "Hist\u00f3ria de Roma",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Hist\u00f3ria de Roma",
+                    "sigla": "HR",
+                    "tipo": "OT",
+                    "turma": "1LHISTO01",
+                    "turmac": "1LHISTO01",
+                    "duracao": "2",
+                    "sala": "GA1",
+                    "profsig": "RMLSM",
+                    "prof": "Rui Morais"
+                }
+            ]
+        },
+        "HPEMED": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 8.5,
+                    "nome": "Hist\u00f3ria Pol\u00edtica na \u00c9poca Medieval",
+                    "sigla": "HPEMED",
+                    "tipo": "TP",
+                    "turma": "1LHISTO01",
+                    "turmac": "1LHISTO01",
+                    "duracao": "4",
+                    "sala": "GA1",
+                    "profsig": "JAPSMP",
+                    "prof": "Jos\u00e9 Augusto Sotto Mayor Pizarro"
+                },
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "Hist\u00f3ria Pol\u00edtica na \u00c9poca Medieval",
+                    "sigla": "HPEMED",
+                    "tipo": "TP",
+                    "turma": "1LHISTO01",
+                    "turmac": "1LHISTO01",
+                    "duracao": "2",
+                    "sala": "GA1",
+                    "profsig": "JAPSMP",
+                    "prof": "Jos\u00e9 Augusto Sotto Mayor Pizarro"
+                }
+            ],
+            "nome": "Hist\u00f3ria Pol\u00edtica na \u00c9poca Medieval",
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 14.5,
+                    "nome": "Hist\u00f3ria Pol\u00edtica na \u00c9poca Medieval",
+                    "sigla": "HPEMED",
+                    "tipo": "OT",
+                    "turma": "1LHISTO01",
+                    "turmac": "1LHISTO01",
+                    "duracao": "2",
+                    "sala": "GA1",
+                    "profsig": "JAPSMP",
+                    "prof": "Jos\u00e9 Augusto Sotto Mayor Pizarro"
+                }
+            ]
+        },
+        "MTIHIS": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 10.5,
+                    "nome": "M\u00e9todos e T\u00e9cnicas de Investiga\u00e7\u00e3o Hist\u00f3rica",
+                    "sigla": "MTIHIS",
+                    "tipo": "TP",
+                    "turma": "1LHISTO01",
+                    "turmac": "MTIHIS_T",
+                    "duracao": "4",
+                    "sala": "GA2",
+                    "profsig": "MHCO",
+                    "prof": "Helena Osswald"
+                },
+                {
+                    "dia": 3,
+                    "hora": 12.5,
+                    "nome": "M\u00e9todos e T\u00e9cnicas de Investiga\u00e7\u00e3o Hist\u00f3rica",
+                    "sigla": "MTIHIS",
+                    "tipo": "TP",
+                    "turma": "1LHISTO01",
+                    "turmac": "MTIHIS_T",
+                    "duracao": "2",
+                    "sala": "GA1",
+                    "profsig": "MHCO",
+                    "prof": "Helena Osswald"
+                },
+                {
+                    "dia": 1,
+                    "hora": 10.5,
+                    "nome": "M\u00e9todos e T\u00e9cnicas de Investiga\u00e7\u00e3o Hist\u00f3rica",
+                    "sigla": "MTIHIS",
+                    "tipo": "TP",
+                    "turma": "1LHISTO02",
+                    "turmac": "MTIHIS_T",
+                    "duracao": "4",
+                    "sala": "GA2",
+                    "profsig": "MHCO",
+                    "prof": "Helena Osswald"
+                },
+                {
+                    "dia": 3,
+                    "hora": 12.5,
+                    "nome": "M\u00e9todos e T\u00e9cnicas de Investiga\u00e7\u00e3o Hist\u00f3rica",
+                    "sigla": "MTIHIS",
+                    "tipo": "TP",
+                    "turma": "1LHISTO02",
+                    "turmac": "MTIHIS_T",
+                    "duracao": "2",
+                    "sala": "GA1",
+                    "profsig": "MHCO",
+                    "prof": "Helena Osswald"
+                },
+                {
+                    "dia": 1,
+                    "hora": 10.5,
+                    "nome": "M\u00e9todos e T\u00e9cnicas de Investiga\u00e7\u00e3o Hist\u00f3rica",
+                    "sigla": "MTIHIS",
+                    "tipo": "TP",
+                    "turma": "1LHISTO03",
+                    "turmac": "MTIHIS_T",
+                    "duracao": "4",
+                    "sala": "GA2",
+                    "profsig": "MHCO",
+                    "prof": "Helena Osswald"
+                },
+                {
+                    "dia": 3,
+                    "hora": 12.5,
+                    "nome": "M\u00e9todos e T\u00e9cnicas de Investiga\u00e7\u00e3o Hist\u00f3rica",
+                    "sigla": "MTIHIS",
+                    "tipo": "TP",
+                    "turma": "1LHISTO03",
+                    "turmac": "MTIHIS_T",
+                    "duracao": "2",
+                    "sala": "GA1",
+                    "profsig": "MHCO",
+                    "prof": "Helena Osswald"
+                }
+            ],
+            "nome": "M\u00e9todos e T\u00e9cnicas de Investiga\u00e7\u00e3o Hist\u00f3rica",
+            "OT": [
+                {
+                    "dia": 1,
+                    "hora": 12.5,
+                    "nome": "M\u00e9todos e T\u00e9cnicas de Investiga\u00e7\u00e3o Hist\u00f3rica",
+                    "sigla": "MTIHIS",
+                    "tipo": "OT",
+                    "turma": "1LHISTO01",
+                    "turmac": "1LHISTO01",
+                    "duracao": "2",
+                    "sala": "206.A\/B",
+                    "profsig": "MHCO",
+                    "prof": "Helena Osswald"
+                },
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "M\u00e9todos e T\u00e9cnicas de Investiga\u00e7\u00e3o Hist\u00f3rica",
+                    "sigla": "MTIHIS",
+                    "tipo": "OT",
+                    "turma": "1LHISTO02",
+                    "turmac": "1LHISTO02",
+                    "duracao": "2",
+                    "sala": "206.A\/B",
+                    "profsig": "MHCO",
+                    "prof": "Helena Osswald"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14.5,
+                    "nome": "M\u00e9todos e T\u00e9cnicas de Investiga\u00e7\u00e3o Hist\u00f3rica",
+                    "sigla": "MTIHIS",
+                    "tipo": "OT",
+                    "turma": "1LHISTO03",
+                    "turmac": "1LHISTO03",
+                    "duracao": "2",
+                    "sala": "206.A\/B",
+                    "profsig": "MHCO",
+                    "prof": "Helena Osswald"
+                }
+            ]
+        },
+        "PREHIS": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "Pr\u00e9-Hist\u00f3ria",
+                    "sigla": "PREHIS",
+                    "tipo": "TP",
+                    "turma": "1LHISTO01",
+                    "turmac": "1LHISTO01",
+                    "duracao": "4",
+                    "sala": "GA1",
+                    "profsig": "SEMR",
+                    "prof": "S\u00e9rgio Rodrigues"
+                },
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "Pr\u00e9-Hist\u00f3ria",
+                    "sigla": "PREHIS",
+                    "tipo": "TP",
+                    "turma": "1LHISTO01",
+                    "turmac": "1LHISTO01",
+                    "duracao": "2",
+                    "sala": "GA1",
+                    "profsig": "SEMR",
+                    "prof": "S\u00e9rgio Rodrigues"
+                }
+            ],
+            "nome": "Pr\u00e9-Hist\u00f3ria",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 16.5,
+                    "nome": "Pr\u00e9-Hist\u00f3ria",
+                    "sigla": "PREHIS",
+                    "tipo": "OT",
+                    "turma": "1LHISTO01",
+                    "turmac": "1LHISTO01",
+                    "duracao": "2",
+                    "sala": "GA1",
+                    "profsig": "SEMR",
+                    "prof": "S\u00e9rgio Rodrigues"
+                }
+            ]
+        }
+    },
+    "2\u00ba Ano": {
+        "HCPOR": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Hist\u00f3ria da Cidade do Porto",
+                    "sigla": "HCPOR",
+                    "tipo": "TP",
+                    "turma": "2_LHISTO_OP01",
+                    "turmac": "2_LHISTO_OP01",
+                    "duracao": "4",
+                    "sala": "G302",
+                    "profsig": "AMBC",
+                    "prof": "Ant\u00f3nio Barros Cardoso"
+                },
+                {
+                    "dia": 3,
+                    "hora": 17.5,
+                    "nome": "Hist\u00f3ria da Cidade do Porto",
+                    "sigla": "HCPOR",
+                    "tipo": "TP",
+                    "turma": "2_LHISTO_OP01",
+                    "turmac": "2_LHISTO_OP01",
+                    "duracao": "2",
+                    "sala": "G102",
+                    "profsig": "AMBC",
+                    "prof": "Ant\u00f3nio Barros Cardoso"
+                }
+            ],
+            "nome": "Hist\u00f3ria da Cidade do Porto",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 18.5,
+                    "nome": "Hist\u00f3ria da Cidade do Porto",
+                    "sigla": "HCPOR",
+                    "tipo": "OT",
+                    "turma": "2_LHISTO_OP01",
+                    "turmac": "2_LHISTO_OP01",
+                    "duracao": "2",
+                    "sala": "G102",
+                    "profsig": "AMBC",
+                    "prof": "Ant\u00f3nio Barros Cardoso"
+                }
+            ]
+        },
+        "HAIMP": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "Hist\u00f3ria da Alta Idade M\u00e9dia em Portugal",
+                    "sigla": "HAIMP",
+                    "tipo": "TP",
+                    "turma": "2_LHISTO_OP01",
+                    "turmac": "2_LHISTO_OP01",
+                    "duracao": "2",
+                    "sala": "106.A\/B",
+                    "profsig": "LCCFA",
+                    "prof": "Lu\u00eds Amaral"
+                },
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "Hist\u00f3ria da Alta Idade M\u00e9dia em Portugal",
+                    "sigla": "HAIMP",
+                    "tipo": "TP",
+                    "turma": "2_LHISTO_OP01",
+                    "turmac": "2_LHISTO_OP01",
+                    "duracao": "4",
+                    "sala": "G308",
+                    "profsig": "LCCFA",
+                    "prof": "Lu\u00eds Amaral"
+                }
+            ],
+            "nome": "Hist\u00f3ria da Alta Idade M\u00e9dia em Portugal",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Hist\u00f3ria da Alta Idade M\u00e9dia em Portugal",
+                    "sigla": "HAIMP",
+                    "tipo": "OT",
+                    "turma": "2_LHISTO_OP01",
+                    "turmac": "2_LHISTO_OP01",
+                    "duracao": "2",
+                    "sala": "106.A\/B",
+                    "profsig": "LCCFA",
+                    "prof": "Lu\u00eds Amaral"
+                }
+            ]
+        },
+        "HIPOR": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 10.5,
+                    "nome": "Hist\u00f3ria da Igreja em Portugal",
+                    "sigla": "HIPOR",
+                    "tipo": "TP",
+                    "turma": "2_LHISTO_OP01",
+                    "turmac": "2_LHISTO_OP01",
+                    "duracao": "2",
+                    "sala": "G103",
+                    "profsig": "LCCFA",
+                    "prof": "Lu\u00eds Amaral"
+                }
+            ],
+            "nome": "Hist\u00f3ria da Igreja em Portugal",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 11.5,
+                    "nome": "Hist\u00f3ria da Igreja em Portugal",
+                    "sigla": "HIPOR",
+                    "tipo": "OT",
+                    "turma": "2_LHISTO_OP01",
+                    "turmac": "2_LHISTO_OP01",
+                    "duracao": "2",
+                    "sala": "G103",
+                    "profsig": "LCCFA",
+                    "prof": "Lu\u00eds Amaral"
+                }
+            ]
+        },
+        "HECONT": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Hist\u00f3ria da Europa Contempor\u00e2nea",
+                    "sigla": "HECONT",
+                    "tipo": "TP",
+                    "turma": "2_LHISTO_OP01",
+                    "turmac": "2_LHISTO_OP01",
+                    "duracao": "2",
+                    "sala": "GA1",
+                    "profsig": "JMMR",
+                    "prof": "Jorge Ribeiro"
+                }
+            ],
+            "nome": "Hist\u00f3ria da Europa Contempor\u00e2nea",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 14.5,
+                    "nome": "Hist\u00f3ria da Europa Contempor\u00e2nea",
+                    "sigla": "HECONT",
+                    "tipo": "OT",
+                    "turma": "2_LHISTO_OP01",
+                    "turmac": "2_LHISTO_OP01",
+                    "duracao": "2",
+                    "sala": "GA1",
+                    "profsig": "JMMR",
+                    "prof": "Jorge Ribeiro"
+                }
+            ]
+        },
+        "HCMUN": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "Hist\u00f3ria dos Concelhos e do Municipalismo",
+                    "sigla": "HCMUN",
+                    "tipo": "TP",
+                    "turma": "2_LHISTO_OP01",
+                    "turmac": "2_LHISTO_OP01",
+                    "duracao": "4",
+                    "sala": "G207",
+                    "profsig": "PMCPC",
+                    "prof": "Paula Pinto Costa"
+                },
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "Hist\u00f3ria dos Concelhos e do Municipalismo",
+                    "sigla": "HCMUN",
+                    "tipo": "TP",
+                    "turma": "2_LHISTO_OP01",
+                    "turmac": "2_LHISTO_OP01",
+                    "duracao": "2",
+                    "sala": "G207",
+                    "profsig": "PMCPC",
+                    "prof": "Paula Pinto Costa"
+                }
+            ],
+            "nome": "Hist\u00f3ria dos Concelhos e do Municipalismo",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 16.5,
+                    "nome": "Hist\u00f3ria dos Concelhos e do Municipalismo",
+                    "sigla": "HCMUN",
+                    "tipo": "OT",
+                    "turma": "2_LHISTO_OP01",
+                    "turmac": "2_LHISTO_OP01",
+                    "duracao": "2",
+                    "sala": "G207",
+                    "profsig": "PMCPC",
+                    "prof": "Paula Pinto Costa"
+                }
+            ]
+        },
+        "HBRA": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 17.5,
+                    "nome": "Hist\u00f3ria do Brasil",
+                    "sigla": "HBRA",
+                    "tipo": "TP",
+                    "turma": "2_LHISTO_OP01",
+                    "turmac": "2_LHISTO_OP01",
+                    "duracao": "4",
+                    "sala": "G104",
+                    "profsig": "JFA",
+                    "prof": "Jorge Alves"
+                },
+                {
+                    "dia": 4,
+                    "hora": 17.5,
+                    "nome": "Hist\u00f3ria do Brasil",
+                    "sigla": "HBRA",
+                    "tipo": "TP",
+                    "turma": "2_LHISTO_OP01",
+                    "turmac": "2_LHISTO_OP01",
+                    "duracao": "2",
+                    "sala": "G208",
+                    "profsig": "JFA",
+                    "prof": "Jorge Alves"
+                }
+            ],
+            "nome": "Hist\u00f3ria do Brasil",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 18.5,
+                    "nome": "Hist\u00f3ria do Brasil",
+                    "sigla": "HBRA",
+                    "tipo": "OT",
+                    "turma": "2_LHISTO_OP01",
+                    "turmac": "2_LHISTO_OP01",
+                    "duracao": "2",
+                    "sala": "G208",
+                    "profsig": "JFA",
+                    "prof": "Jorge Alves"
+                }
+            ]
+        },
+        "TTFHIS": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 8.5,
+                    "nome": "Teoria e Tipologia das Fontes em Hist\u00f3ria",
+                    "sigla": "TTFHIS",
+                    "tipo": "TP",
+                    "turma": "2LHISTO01",
+                    "turmac": "2LHISTO01",
+                    "duracao": "2",
+                    "sala": "106.A\/B",
+                    "profsig": "LMROD",
+                    "prof": "Lu\u00eds Miguel Duarte"
+                },
+                {
+                    "dia": 1,
+                    "hora": 10.5,
+                    "nome": "Teoria e Tipologia das Fontes em Hist\u00f3ria",
+                    "sigla": "TTFHIS",
+                    "tipo": "TP",
+                    "turma": "2LHISTO01",
+                    "turmac": "2LHISTO01",
+                    "duracao": "4",
+                    "sala": "106.A\/B",
+                    "profsig": "LMROD",
+                    "prof": "Lu\u00eds Miguel Duarte"
+                }
+            ],
+            "nome": "Teoria e Tipologia das Fontes em Hist\u00f3ria",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 9.5,
+                    "nome": "Teoria e Tipologia das Fontes em Hist\u00f3ria",
+                    "sigla": "TTFHIS",
+                    "tipo": "OT",
+                    "turma": "2LHISTO01",
+                    "turmac": "2LHISTO01",
+                    "duracao": "2",
+                    "sala": "106.A\/B",
+                    "profsig": "LMROD",
+                    "prof": "Lu\u00eds Miguel Duarte"
+                }
+            ]
+        },
+        "HMODP1": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "Hist\u00f3ria Moderna de Portugal I",
+                    "sigla": "HMODP1",
+                    "tipo": "TP",
+                    "turma": "2LHISTO01",
+                    "turmac": "2LHISTO01",
+                    "duracao": "4",
+                    "sala": "306.A\/B",
+                    "profsig": "AMBC",
+                    "prof": "Ant\u00f3nio Barros Cardoso"
+                },
+                {
+                    "dia": 3,
+                    "hora": 15.5,
+                    "nome": "Hist\u00f3ria Moderna de Portugal I",
+                    "sigla": "HMODP1",
+                    "tipo": "TP",
+                    "turma": "2LHISTO01",
+                    "turmac": "2LHISTO01",
+                    "duracao": "2",
+                    "sala": "306.A\/B",
+                    "profsig": "AMBC",
+                    "prof": "Ant\u00f3nio Barros Cardoso"
+                }
+            ],
+            "nome": "Hist\u00f3ria Moderna de Portugal I",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 16.5,
+                    "nome": "Hist\u00f3ria Moderna de Portugal I",
+                    "sigla": "HMODP1",
+                    "tipo": "OT",
+                    "turma": "2LHISTO01",
+                    "turmac": "2LHISTO01",
+                    "duracao": "2",
+                    "sala": "306.A\/B",
+                    "profsig": "AMBC",
+                    "prof": "Ant\u00f3nio Barros Cardoso"
+                }
+            ]
+        },
+        "HESEMO": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 13.5,
+                    "nome": "Hist\u00f3ria Econ\u00f3mica e Social na \u00c9poca Moderna",
+                    "sigla": "HESEMO",
+                    "tipo": "TP",
+                    "turma": "2LHISTO01",
+                    "turmac": "2LHISTO01",
+                    "duracao": "4",
+                    "sala": "GA2",
+                    "profsig": "MIFABS",
+                    "prof": "In\u00eas Amorim"
+                },
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Hist\u00f3ria Econ\u00f3mica e Social na \u00c9poca Moderna",
+                    "sigla": "HESEMO",
+                    "tipo": "TP",
+                    "turma": "2LHISTO01",
+                    "turmac": "2LHISTO01",
+                    "duracao": "2",
+                    "sala": "GA1",
+                    "profsig": "MIFABS",
+                    "prof": "In\u00eas Amorim"
+                }
+            ],
+            "nome": "Hist\u00f3ria Econ\u00f3mica e Social na \u00c9poca Moderna",
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 16.5,
+                    "nome": "Hist\u00f3ria Econ\u00f3mica e Social na \u00c9poca Moderna",
+                    "sigla": "HESEMO",
+                    "tipo": "OT",
+                    "turma": "2LHISTO01",
+                    "turmac": "2LHISTO01",
+                    "duracao": "2",
+                    "sala": "GA1",
+                    "profsig": "MIFABS",
+                    "prof": "In\u00eas Amorim"
+                }
+            ]
+        }
+    },
+    "3\u00ba Ano": {
+        "SHMO_I": {
+            "S": [
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Semin\u00e1rio de Hist\u00f3ria Moderna I",
+                    "sigla": "SHMO_I",
+                    "tipo": "S",
+                    "turma": "3LHISTO01",
+                    "turmac": "3LHISTO01",
+                    "duracao": "4",
+                    "sala": "G207",
+                    "profsig": "AMPS",
+                    "prof": "Am\u00e9lia Pol\u00f3nia"
+                }
+            ],
+            "nome": "Semin\u00e1rio de Hist\u00f3ria Moderna I",
+            "PL": [
+                {
+                    "dia": 5,
+                    "hora": 10.5,
+                    "nome": "Semin\u00e1rio de Hist\u00f3ria Moderna I",
+                    "sigla": "SHMO_I",
+                    "tipo": "PL",
+                    "turma": "3LHISTO01",
+                    "turmac": "3LHISTO01",
+                    "duracao": "4",
+                    "sala": "G207",
+                    "profsig": "AMPS",
+                    "prof": "Am\u00e9lia Pol\u00f3nia"
+                }
+            ]
+        },
+        "HCONP1": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 13.5,
+                    "nome": "Hist\u00f3ria Contempor\u00e2nea de Portugal I",
+                    "sigla": "HCONP1",
+                    "tipo": "TP",
+                    "turma": "3LHISTO01",
+                    "turmac": "3LHISTO01",
+                    "duracao": "4",
+                    "sala": "306.A\/B",
+                    "profsig": "JFA",
+                    "prof": "Jorge Alves"
+                },
+                {
+                    "dia": 5,
+                    "hora": 13.5,
+                    "nome": "Hist\u00f3ria Contempor\u00e2nea de Portugal I",
+                    "sigla": "HCONP1",
+                    "tipo": "TP",
+                    "turma": "3LHISTO01",
+                    "turmac": "3LHISTO01",
+                    "duracao": "2",
+                    "sala": "106.A\/B",
+                    "profsig": "JFA",
+                    "prof": "Jorge Alves"
+                }
+            ],
+            "nome": "Hist\u00f3ria Contempor\u00e2nea de Portugal I",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 14.5,
+                    "nome": "Hist\u00f3ria Contempor\u00e2nea de Portugal I",
+                    "sigla": "HCONP1",
+                    "tipo": "OT",
+                    "turma": "3LHISTO01",
+                    "turmac": "3LHISTO01",
+                    "duracao": "2",
+                    "sala": "106.A\/B",
+                    "profsig": "JFA",
+                    "prof": "Jorge Alves"
+                }
+            ]
+        },
+        "HESEC1": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Hist\u00f3ria Econ\u00f3mica e Social na \u00c9poca Contempor\u00e2nea",
+                    "sigla": "HESEC1",
+                    "tipo": "TP",
+                    "turma": "3LHISTO01",
+                    "turmac": "3LHISTO01",
+                    "duracao": "4",
+                    "sala": "306.A\/B",
+                    "profsig": "GMMP",
+                    "prof": "Gaspar Pereira"
+                },
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "Hist\u00f3ria Econ\u00f3mica e Social na \u00c9poca Contempor\u00e2nea",
+                    "sigla": "HESEC1",
+                    "tipo": "TP",
+                    "turma": "3LHISTO01",
+                    "turmac": "3LHISTO01",
+                    "duracao": "2",
+                    "sala": "306.A\/B",
+                    "profsig": "GMMP",
+                    "prof": "Gaspar Pereira"
+                }
+            ],
+            "nome": "Hist\u00f3ria Econ\u00f3mica e Social na \u00c9poca Contempor\u00e2nea",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 16.5,
+                    "nome": "Hist\u00f3ria Econ\u00f3mica e Social na \u00c9poca Contempor\u00e2nea",
+                    "sigla": "HESEC1",
+                    "tipo": "OT",
+                    "turma": "3LHISTO01",
+                    "turmac": "3LHISTO01",
+                    "duracao": "2",
+                    "sala": "306.A\/B",
+                    "profsig": "GMMP",
+                    "prof": "Gaspar Pereira"
+                }
+            ]
+        },
+        "SHC_I": {
+            "S": [
+                {
+                    "dia": 5,
+                    "hora": 10.5,
+                    "nome": "Semin\u00e1rio de Hist\u00f3ria Contempor\u00e2nea I",
+                    "sigla": "SHC_I",
+                    "tipo": "S",
+                    "turma": "3LHISTO02",
+                    "turmac": "3LHISTO02",
+                    "duracao": "4",
+                    "sala": "G311",
+                    "profsig": "GMMP",
+                    "prof": "Gaspar Pereira"
+                }
+            ],
+            "nome": "Semin\u00e1rio de Hist\u00f3ria Contempor\u00e2nea I"
+        }
+    }
+}
