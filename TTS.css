@@ -308,6 +308,10 @@ li.listcad{
 	list-style-type:none;
 }
 
+a.noLink{
+	color: #FFFFFF;
+    text-decoration: none;
+}
 
 /*geral*/
 p.error{
