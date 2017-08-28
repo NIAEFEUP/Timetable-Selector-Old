@@ -349,6 +349,7 @@ $(document).ready(function() {
     });
 
     $(document).on('change', '.classselector select.turmaselect', function(event) {
+        saveTimetable();//update the url after each click
         cadeiras[this.getAttribute('data-cadeira')].turmaselect = this.options[this.selectedIndex].value;
         cadeiras[this.getAttribute('data-cadeira')].showTurma();
     });
@@ -388,7 +389,8 @@ $(document).ready(function() {
         else $('input.listcad[data-ano="' + ano + '"]').prop("checked", false);
     });
 
-    $('#saveTT').click(saveTimetable);
+    $('#showTTurl').click(function(){saveTimetable();displayCopyLink();});
+    $('#copyTTurl').click(CopyLinkToClipboard);
 
     $('#updatevagasbtn').click(function() {
         $.getJSON("getvagas.php", { curso: curso }, function(data) {
@@ -544,7 +546,21 @@ function saveTimetable() {
         stringsave += "~" + cadeira + "." + aula;
     });
     window.location.hash = stringsave;
-    $('#savelinkinput').val(window.location);
-    $('#savelinkdisplay').animate({ height: "show" });
+    $('#savelinkinput').val(window.location);//update the value
+}
+function displayCopyLink(){
+    $('#savelinkdisplay').toggle();
     $('#savelinkinput').select();
+}
+function CopyLinkToClipboard(){
+    $("#copiedIcon").hide();
+    $("#copiedIconError").hide();
+    saveTimetable();//in case the user has edited the url by hand
+    $('#savelinkinput').select();
+    var successful = document.execCommand('copy');
+    if(successful){
+        $("#copiedIcon").fadeIn(1000).fadeOut(1000);
+    }else{
+        $("#copiedIconError").fadeIn(1000).fadeOut(1000);
+    }
 }
