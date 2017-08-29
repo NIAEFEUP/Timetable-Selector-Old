@@ -309,7 +309,7 @@ li.listcad{
 }
 
 a.noLink{
-	color: #FFFFFF;
+	color: inherit;
     text-decoration: none;
 }
 
