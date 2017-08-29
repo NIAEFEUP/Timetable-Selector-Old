@@ -549,7 +549,7 @@ function saveTimetable() {
     $('#savelinkinput').val(window.location);//update the value
 }
 function displayCopyLink(){
-    $('#savelinkdisplay').toggle();
+    $('#savelinkdisplay').slideToggle();
     $('#savelinkinput').select();
 }
 function CopyLinkToClipboard(){
