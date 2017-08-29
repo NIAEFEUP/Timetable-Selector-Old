@@ -313,6 +313,10 @@ a.noLink{
     text-decoration: none;
 }
 
+.mostrarpraticas{
+	margin-left: 20px;
+}
+
 /*geral*/
 p.error{
 	text-align:center;
