@@ -138,7 +138,7 @@ Cadeira.prototype.selectorhtml = function() {
     if (this.praticas.length == 0) str += '<option value="teoricas">só teoricas</option>';
     str += '</select>';
     if (this.teoricas.length != 0) str += '<label title="Alternar mostrar/esconder aulas teóricas"><input class="mostrarteoricas" value="' + this.nome + '" type="checkbox" data-cadeira="' + this.nome + '" checked/>Teóricas</label>';
-    if (this.praticas.length != 0) str += '<label title="Alternar mostrar/esconder aulas práticas"><input class="mostrarpraticas" value="' + this.nome + '" type="checkbox" data-cadeira="' + this.nome + '" checked/>Práticas</label>';
+    if (this.praticas.length != 0) str += '<label title="Alternar mostrar/esconder aulas práticas"><input class="mostrarpraticas mostrarpraticasMargin" value="' + this.nome + '" type="checkbox" data-cadeira="' + this.nome + '" checked/>Práticas</label>';
     str += '</div>';
 
     //str+='<div class="selectorwarning" data-cadeira="'+this.nome+'">';
