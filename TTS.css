@@ -11,94 +11,96 @@
 
 /*geral*/
 body {
-	color:#1B1C26;
-	margin:0;
-	font-family:"Trebuchet MS",Helvetica,Arial,sans-serif;
-	background-color:#FFFFFF;
+  color: #1b1c26;
+  margin: 0;
+  font-family: "Trebuchet MS", Helvetica, Arial, sans-serif;
+  background-color: #ffffff;
 }
 
-input[type="text"],input[type="password"] {
-	font-weight:bold;
-	padding:0.5em;
-	border:none;
+input[type="text"],
+input[type="password"] {
+  font-weight: bold;
+  padding: 0.5em;
+  border: none;
 }
 
-input[type="button"],select {
-	font-weight:bold;
-	background-color:#EEB667;
-	padding:0.5em;
-	border:none;
+input[type="button"],
+select {
+  font-weight: bold;
+  background-color: #eeb667;
+  padding: 0.5em;
+  border: none;
 }
 
-input[type="button"]:hover,select:hover {
-	background-color:#F2ECB0;
+input[type="button"]:hover,
+select:hover {
+  background-color: #f2ecb0;
 }
 
 input[type="button"]:active {
-	background-color:#EEB667;
-	color:#FFFFFF;
+  background-color: #eeb667;
+  color: #ffffff;
 }
 
 div#content {
-	padding:1em;
-	min-width:1200px;
+  padding: 1em;
+  min-width: 1200px;
 }
 
 ::-webkit-scrollbar {
-    width: 6px;
-	height: 6px;
+  width: 6px;
+  height: 6px;
 }
- 
+
 ::-webkit-scrollbar-track {
-    width: 3px;
-	height: 3px;
-	background-color:#F0F0F0;
+  width: 3px;
+  height: 3px;
+  background-color: #f0f0f0;
 }
- 
+
 ::-webkit-scrollbar-thumb {
-    width: 6px;
-	height: 6px;
-	background-color:#823C3C;
+  width: 6px;
+  height: 6px;
+  background-color: #823c3c;
 }
 
 /*header*/
 h1 {
-	margin-top:0;
-	margin-bottom:0;
-	line-height:60px;
-	vertical-align:top;
-	display:inline-block;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 60px;
+  vertical-align: top;
+  display: inline-block;
 }
 header {
-	height:60px;
-	padding-left:1em;
-	color:#FFFFFF;
-	background-color:#1B1C26;
+  height: 60px;
+  padding-left: 1em;
+  color: #ffffff;
+  background-color: #1b1c26;
 }
-.logo{
-height:60px;
-margin-right:30px;
+.logo {
+  height: 60px;
+  margin-right: 30px;
 }
 
 /*footer*/
-footer
-{
-	color:#FFFFFF;
-	background-color:#1B1C26;
-	padding:0.5em;
+footer {
+  color: #ffffff;
+  background-color: #1b1c26;
+  padding: 0.5em;
 }
 footer a {
-	color:#FFFFFF;
-	font-weight:bold;
+  color: #ffffff;
+  font-weight: bold;
 }
 
 /*menu*/
 
 #savelinkdisplay {
-    font-size: 10px;
-    margin: 5px 0;
-    max-width: 286px;
-    min-width: 286px;
+  font-size: 10px;
+  margin: 5px 0;
+  max-width: 286px;
+  min-width: 286px;
 }
 
 #savelinkdisplay p {
@@ -111,226 +113,229 @@ footer a {
   font-weight: 400;
   min-width: 270px;
   padding: 7px;
-  background-color:#eee;
+  background-color: #eee;
 }
 
 /*seletor turmas*/
-div.selector{
-	vertical-align:top;
-	display:inline-block;
-	max-width:360px;
+div.selector {
+  vertical-align: top;
+  display: inline-block;
+  max-width: 360px;
 }
-div.classselector{
-	margin-bottom:0.5em;
-	max-width:270px;
-	min-width:270px;
-	/*border:4px #823C3C solid;*/
-	padding:8px;
-	background-color:#823C3C;
-	color:#FFFFFF;
-	margin-top:0.5em;
-	display:inline-block;
+div.classselector {
+  margin-bottom: 0.5em;
+  max-width: 270px;
+  min-width: 270px;
+  /*border:4px #823C3C solid;*/
+  padding: 8px;
+  background-color: #823c3c;
+  color: #ffffff;
+  margin-top: 0.5em;
+  display: inline-block;
 }
-select.turmaselect{
-	width:100%;
-	display:block;
-	margin-top:8px;
-	margin-bottom:6px;
+select.turmaselect {
+  width: 100%;
+  display: block;
+  margin-top: 8px;
+  margin-bottom: 6px;
 }
 /*
 div.selectorwarning{
 	display:none;
 }*/
-img.selectorwarning{
-	width:64px;
-	height:64px;
-	display:none;
-	vertical-align:top;
-	padding-top:20px;
+img.selectorwarning {
+  width: 64px;
+  height: 64px;
+  display: none;
+  vertical-align: top;
+  padding-top: 20px;
 }
 
-img.selectorwarningoverlap{
-	display:inline-block;
+img.selectorwarningoverlap {
+  display: inline-block;
 }
-
-
-
-
 
 /* horario*/
 table#horario {
-	font-size:12px;
-	vertical-align:top;
-	display:inline-block;
-	min-width:756px;
-	max-width:70%;
-	border-spacing:0;
+  font-size: 12px;
+  vertical-align: top;
+  display: inline-block;
+  min-width: 756px;
+  max-width: 70%;
+  border-spacing: 0;
 }
-table#horario td,table#horario th{
-	border:1px #FFFFFF solid;
-	text-align:center;
-	background-color:#F0F0F0;
-	padding:3px;
-	width:100px;
+table#horario td,
+table#horario th {
+  border: 1px #ffffff solid;
+  text-align: center;
+  background-color: #f0f0f0;
+  padding: 3px;
+  width: 100px;
 }
-table#horario th{
-	background-color:#823C3C;
-	color:#FFFFFF;
+table#horario th {
+  background-color: #823c3c;
+  color: #ffffff;
 }
 
 /* aulas */
-div.aula{
-	position:absolute;
-	border:2px #1B1C26 solid;
-	opacity:0.8;
-	overflow:hidden;
-	z-index:3;
+div.aula {
+  position: absolute;
+  border: 2px #1b1c26 solid;
+  opacity: 0.8;
+  overflow: hidden;
+  z-index: 3;
 }
-div.aula:hover{
-	opacity:1;
-	z-index:4;
+div.aula:hover {
+  opacity: 1;
+  z-index: 4;
 }
-div.teorica{
-	background-color:#F2ECB0;
-	z-index:2;
-}
-
-div.teoricopratica{
-	background-color:#EBB667;
+div.teorica {
+  background-color: #f2ecb0;
+  z-index: 2;
 }
 
-div.pratica{
-	background-color:#FA5A52;
+div.teoricopratica {
+  background-color: #ebb667;
 }
 
-div.praticalaboratorial{
-	background-color:#BA6A45;
+div.pratica {
+  background-color: #fa5a52;
 }
 
-div.laboratorio{
-	background-color:#D7E9C9;
-}
-div.trabalhocampo{
-	background-color:#cca67b;
-}
-div.seminario{
-	background-color:#cda8cf;
+div.praticalaboratorial {
+  background-color: #ba6a45;
 }
 
-div.aulapreview{
-	z-index:5;
-	opacity:0.7
+div.laboratorio {
+  background-color: #d7e9c9;
+}
+div.trabalhocampo {
+  background-color: #cca67b;
+}
+div.seminario {
+  background-color: #cda8cf;
 }
 
-
-div.mouseoverselect{
-	opacity:1;
-	z-index:4;
-	border:2px green solid;
+div.aulapreview {
+  z-index: 5;
+  opacity: 0.7;
 }
 
-div.aulaoverlap{
-	border:2px red solid;
+div.mouseoverselect {
+  opacity: 1;
+  z-index: 4;
+  border: 2px green solid;
 }
 
-
-div.aulawrapper{
-display:table;
+div.aulaoverlap {
+  border: 2px red solid;
 }
 
-span.aula{
-	text-align:center;
-	padding:3px;
-	font-size:10px;
-	font-weight:bold;
-	display:table-cell;
-	max-width:50px;
-	width:50px;
+div.aulawrapper {
+  display: table;
 }
-p.aula{
-	margin:2px;
-	display:table-row;
+
+span.aula {
+  text-align: center;
+  padding: 3px;
+  font-size: 10px;
+  font-weight: bold;
+  display: table-cell;
+  max-width: 50px;
+  width: 50px;
+}
+p.aula {
+  margin: 2px;
+  display: table-row;
 }
 
 /* blocks*/
 
-div.blockprompt{
-	padding:0.5em;
-	z-index: 1011; 
-	position: fixed;
-	min-height:210px;
-	left:0;
-	right:0;
-	top:20%;
-	background-color:#823C3C;
-	color:#FFFFFF;
-	text-align:center;
-	overflow:visible;
+div.blockprompt {
+  padding: 0.5em;
+  z-index: 1011;
+  position: fixed;
+  min-height: 210px;
+  left: 0;
+  right: 0;
+  top: 20%;
+  background-color: #823c3c;
+  color: #ffffff;
+  text-align: center;
+  overflow: visible;
 }
 
-div#loading{
-	cursor:wait;
+div#loading {
+  cursor: wait;
 }
 
-div#promptcadeiras{
+div#promptcadeiras {
 }
 
-div#listcadeiras{
-	overflow:auto;
-	max-height:300px;
+div#listcadeiras {
+  overflow: auto;
+  max-height: 300px;
 }
 
-div.listcadano{
-	/*height:250px;	*/
-	float:center;
-    text-align: left;
-	display:inline-block;
-	vertical-align:top;
-	/*max-width:14%;*/
-	padding-left:1%;
-	padding-right:1%;
-	/*width:250px;*/
+div.listcadano {
+  /*height:250px;	*/
+  float: center;
+  text-align: left;
+  display: inline-block;
+  vertical-align: top;
+  /*max-width:14%;*/
+  padding-left: 1%;
+  padding-right: 1%;
+  /*width:250px;*/
 }
 
-div.listcadano ul{
-	padding:0px;
-	-moz-columns:2 85px;
-	-webkit-columns:2 85px;
-	columns:2 85px;
+div.listcadano ul {
+  padding: 0px;
+  -moz-columns: 2 85px;
+  -webkit-columns: 2 85px;
+  columns: 2 85px;
 }
 
-p.listcadanop{
-	text-align:center;
+p.listcadanop {
+  text-align: center;
 }
-li.listcad{
-    width: 85px;
-    text-align: left;
-	list-style-type:none;
+li.listcad {
+  width: 85px;
+  text-align: left;
+  list-style-type: none;
 }
 
+a.noLink {
+  color: inherit;
+  text-decoration: none;
+}
+
+.mostrarpraticas {
+  margin-left: 20px;
+}
 
 /*geral*/
-p.error{
-	text-align:center;
-	font-size:18px;
-	color:#FFFFFF;
-	font-weight:bold;
+p.error {
+  text-align: center;
+  font-size: 18px;
+  color: #ffffff;
+  font-weight: bold;
 }
 
-
 @media print {
-    footer, div.selector{
-		display:none;
-    }
-	
-	
-	table#horario td,table#horario th{
-		border:2px #FFFFFF solid;
-		height:18px;
-		padding:2px;
-	}
-	
-	div#content{
-		min-width:unset;
-	}
+  footer,
+  div.selector {
+    display: none;
+  }
+
+  table#horario td,
+  table#horario th {
+    border: 2px #ffffff solid;
+    height: 18px;
+    padding: 2px;
+  }
+
+  div#content {
+    min-width: unset;
+  }
 }

@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
 	<meta charset="utf-8" />
 	<title>TimeTableSelector by NIAEFEUP</title>
@@ -12,19 +13,27 @@
 	<link href="favicon.ico" rel="shortcut icon">
 	<script src="TTS.js"></script>
 	<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		(function (i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r;
+			i[r] = i[r] || function () {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date();
+			a = s.createElement(o),
+				m = s.getElementsByTagName(o)[0];
+			a.async = 1;
+			a.src = g;
+			m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-  ga('create', 'UA-54320913-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
+		ga('create', 'UA-54320913-1', 'auto');
+		ga('send', 'pageview');
+	</script>
 </head>
+
 <body>
 	<header>
-		<img class="logo" src="logosmall.png"><h1><i class="icon-table"></i> Timetable Selector</h1>
+		<img class="logo" src="logosmall.png">
+		<h1><a href="." class="noLink"><i class="icon-table"></i> Timetable Selector</a></h1>
 	</header>
 	<div id="content">
 		<table id="horario">
@@ -32,27 +41,33 @@
 		<div class="selector">
 			<!-- <input type="button" id="updatevagasbtn" value="Carregar vagas"/> -->
 			<div id="menu">
-				<input type="button" id="saveTT" title="Copia horário para o URL" value="Gravar horário">
+				<input type="button" id="showTTurl" title="Mostra o url correspondente ao horário atual" value="Ver link">
+				<input type="button" id="copyTTurl" title="Copia horário para o URL para a área de transferência" value="Copiar link">
+				<i id="" style="display:none;" class="icon-exclamation" aria-hidden="true"></i>
 				<div id="savelinkdisplay" style="display:none">
 					<p>Copia este link ou adiciona aos teus marcadores:</p>
-					<p><input  id="savelinkinput" type="text" readonly="true" value=""></p>
+					<p><input id="savelinkinput" type="text" readonly="true" value=""></p>
 				</div>
 			</div>
 			<div id="selectorsdiv">
 			</div>
 		</div>
-		<div id= "promptcurso" class="blockprompt" style="display: none;">
-			<div id="motdnotice"><h3>Os horários apresentados podem estar errados ou desatualizados. Por favor verifiquem a validade dos mesmos.<br/>Obrigado pela compreensão.</h3></div>
-			<div  id="promptcursoerror" style="display:none"><p class="error" ><i class="icon-warning-sign"></i> Erro a carregar o horário, p.f. verifique os campos e tente outra vez.</p>
-			<!--<p>
+		<div id="promptcurso" class="blockprompt" style="display: none;">
+			<div id="motdnotice">
+				<h3>Os horários apresentados podem estar errados ou desatualizados. Por favor verifiquem a validade dos mesmos.<br/>Obrigado
+					pela compreensão.</h3>
+			</div>
+			<div id="promptcursoerror" style="display:none">
+				<p class="error"><i class="icon-warning-sign"></i> Erro a carregar o horário, p.f. verifique os campos e tente outra vez.</p>
+				<!--<p>
 			<p>Usar em caso de erro (opcional):</p>
 			<label for="username">Nome de Utilizador:</label><input type="text" id="username"/>
 			<label for="password">Password:</label><input type="password" id="password"/>
 			</p>-->
 			</div>
 			<p>
-			<label for="cursoselect">Curso:</label>
-			<select id="cursoselect">
+				<label for="cursoselect">Curso:</label>
+				<select id="cursoselect">
 				  <option value="feup-MIEIC">FEUP-MIEIC</option>
 				  <option value="feup-MIEEC">FEUP-MIEEC</option>
 				  <option value="feup-MIEC">FEUP-MIEC</option>
@@ -99,8 +114,8 @@
 
 			</select></p>
 			<p>
-			<label for="anoselect">Ano Lectivo:</label>
-			<select id="anoselect">
+				<label for="anoselect">Ano Lectivo:</label>
+				<select id="anoselect">
 				  <!-- <option value="2012">2012/2013</option> -->
 				  <option value="2013">2013/2014</option>
 				  <option value="2014">2014/2015</option>
@@ -111,29 +126,32 @@
 				  <option value="2019">2019/2020</option>
 			</select>
 
-			<label for="semestreselect">Semestre:</label>
-			<select id="semestreselect">
+				<label for="semestreselect">Semestre:</label>
+				<select id="semestreselect">
 				  <option value="1">1</option>
 				  <option value="2">2</option>
 			</select>
 			</p>
 			<input type="button" id="cursook" value="Carregar Horarios">
 		</div>
-		<div id= "loading" class="blockprompt" style="display: none;">
+		<div id="loading" class="blockprompt" style="display: none;">
 			<p>A extrair os horários, poderá demorar 1-5 minutos</p>
 			<i class="icon-spinner icon-spin icon-4x"></i>
 		</div>
-		<div id= "promptcadeiras" class="blockprompt" style="display: none;">
-			<div id="bug2" style="display:none"><h3>Atenção:</h3> Foram detetadas cadeiras com siglas iguais em anos diferentes.<br>Verifique qual o ano selecionado ao fazer o horário e a validade do mesmo.</div> 
+		<div id="promptcadeiras" class="blockprompt" style="display: none;">
+			<div id="bug2" style="display:none">
+				<h3>Atenção:</h3> Foram detetadas cadeiras com siglas iguais em anos diferentes.<br>Verifique qual o ano selecionado ao fazer
+				o horário e a validade do mesmo.</div>
 			<div id="listcadeiras">
 			</div>
-			<input type="button" id="cadeirasok" value="Selecionar Cadeiras"/>
+			<input type="button" id="cadeirasok" value="Selecionar Cadeiras" />
 		</div>
 	</div>
 	<footer>
-		Desenvolvido por: <a href="//ni.fe.up.pt">NIAEFEUP</a> 
-		<i class="icon-github"></i> <a href="https://github.com/NIFEUP/Timetable-Selector.git">Source Code</a>
-		Bugs e feedback: github ou email ni at aefeup.pt
+		Desenvolvido por: <a href="//ni.fe.up.pt">NIAEFEUP</a>
+		<i class="icon-github"></i> <a href="https://github.com/NIFEUP/Timetable-Selector.git">Source Code</a> Bugs e feedback:
+		github ou email ni at aefeup.pt
 	</footer>
 </body>
+
 </html>
