@@ -58,8 +58,8 @@
                     "turmac": "1LFILO01",
                     "duracao": "4",
                     "sala": "GA2",
-                    "profsig": "DOCENTE",
-                    "prof": null
+                    "profsig": "LMCP",
+                    "prof": "L\u00eddia Pires"
                 },
                 {
                     "dia": 4,
@@ -71,8 +71,8 @@
                     "turmac": "1LFILO01",
                     "duracao": "2",
                     "sala": "306.A\/B",
-                    "profsig": "DOCENTE",
-                    "prof": null
+                    "profsig": "LMCP",
+                    "prof": "L\u00eddia Pires"
                 }
             ],
             "nome": "Filosofia e Ci\u00eancia Pol\u00edtica I",
@@ -87,8 +87,8 @@
                     "turmac": "1LFILO01",
                     "duracao": "2",
                     "sala": "306.A\/B",
-                    "profsig": "DOCENTE",
-                    "prof": null
+                    "profsig": "LMCP",
+                    "prof": "L\u00eddia Pires"
                 }
             ]
         },
@@ -324,18 +324,64 @@
                 }
             ]
         },
-        "FC_I": {
+        "AFIL1": {
             "TP": [
                 {
                     "dia": 4,
                     "hora": 13.5,
+                    "nome": "Antropologia Filos\u00f3fica I",
+                    "sigla": "AFIL1",
+                    "tipo": "TP",
+                    "turma": "2LFILO01 ",
+                    "turmac": "2LFILO01",
+                    "duracao": "2",
+                    "sala": "G301",
+                    "profsig": "PCMSP",
+                    "prof": "Paula Pereira"
+                },
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "Antropologia Filos\u00f3fica I",
+                    "sigla": "AFIL1",
+                    "tipo": "TP",
+                    "turma": "2LFILO01 ",
+                    "turmac": "2LFILO01",
+                    "duracao": "4",
+                    "sala": "G302",
+                    "profsig": "PCMSP",
+                    "prof": "Paula Pereira"
+                }
+            ],
+            "nome": "Antropologia Filos\u00f3fica I",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 14.5,
+                    "nome": "Antropologia Filos\u00f3fica I",
+                    "sigla": "AFIL1",
+                    "tipo": "OT",
+                    "turma": "2LFILO01 ",
+                    "turmac": "2LFILO01",
+                    "duracao": "2",
+                    "sala": "G301",
+                    "profsig": "PCMSP",
+                    "prof": "Paula Pereira"
+                }
+            ]
+        },
+        "FC_I": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 15.5,
                     "nome": "Filosofia das Ci\u00eancias I",
                     "sigla": "FC_I",
                     "tipo": "TP",
                     "turma": "2LFILO01 ",
                     "turmac": "2LFILO01",
                     "duracao": "4",
-                    "sala": "G301",
+                    "sala": "G308",
                     "profsig": "RBBR",
                     "prof": "Rui Rom\u00e3o"
                 },
@@ -367,52 +413,6 @@
                     "sala": "G103",
                     "profsig": "RBBR",
                     "prof": "Rui Rom\u00e3o"
-                }
-            ]
-        },
-        "AFIL1": {
-            "TP": [
-                {
-                    "dia": 1,
-                    "hora": 15.5,
-                    "nome": "Antropologia Filos\u00f3fica I",
-                    "sigla": "AFIL1",
-                    "tipo": "TP",
-                    "turma": "2LFILO01 ",
-                    "turmac": "2LFILO01",
-                    "duracao": "4",
-                    "sala": "G302",
-                    "profsig": "PCMSP",
-                    "prof": "Paula Pereira"
-                },
-                {
-                    "dia": 4,
-                    "hora": 15.5,
-                    "nome": "Antropologia Filos\u00f3fica I",
-                    "sigla": "AFIL1",
-                    "tipo": "TP",
-                    "turma": "2LFILO01 ",
-                    "turmac": "2LFILO01",
-                    "duracao": "2",
-                    "sala": "G308",
-                    "profsig": "PCMSP",
-                    "prof": "Paula Pereira"
-                }
-            ],
-            "nome": "Antropologia Filos\u00f3fica I",
-            "OT": [
-                {
-                    "dia": 4,
-                    "hora": 16.5,
-                    "nome": "Antropologia Filos\u00f3fica I",
-                    "sigla": "AFIL1",
-                    "tipo": "OT",
-                    "turma": "2LFILO01 ",
-                    "turmac": "2LFILO01",
-                    "duracao": "2",
-                    "sala": "G308",
-                    "profsig": "PCMSP",
-                    "prof": "Paula Pereira"
                 }
             ]
         }

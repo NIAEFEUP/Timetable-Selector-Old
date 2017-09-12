@@ -113,30 +113,30 @@
             "nome": "L\u00f3gica e Linguagem",
             "T": [
                 {
-                    "dia": 2,
-                    "hora": 13.5,
+                    "dia": 4,
+                    "hora": 15.5,
                     "nome": "L\u00f3gica e Linguagem",
                     "sigla": "LOGLIN",
                     "tipo": "T",
                     "turma": "1CL01",
                     "turmac": "1CL01",
                     "duracao": "2",
-                    "sala": "G105",
+                    "sala": "G311",
                     "profsig": "AJRL",
                     "prof": "Ant\u00f3nio Leal"
                 }
             ],
             "OT": [
                 {
-                    "dia": 2,
-                    "hora": 14.5,
+                    "dia": 4,
+                    "hora": 16.5,
                     "nome": "L\u00f3gica e Linguagem",
                     "sigla": "LOGLIN",
                     "tipo": "OT",
                     "turma": "1CL01",
                     "turmac": "1CL01",
                     "duracao": "2",
-                    "sala": "G105",
+                    "sala": "G311",
                     "profsig": "AJRL",
                     "prof": "Ant\u00f3nio Leal"
                 }
@@ -267,6 +267,22 @@
     },
     "2\u00ba Ano": {
         "SEMLEX": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 8.5,
+                    "nome": "Sem\u00e2ntica Lexical",
+                    "sigla": "SEMLEX",
+                    "tipo": "TP",
+                    "turma": "2CL01",
+                    "turmac": "2CL01",
+                    "duracao": "4",
+                    "sala": "G109",
+                    "profsig": "MFHS",
+                    "prof": "Maria de F\u00e1tima Henriques da Silva"
+                }
+            ],
+            "nome": "Sem\u00e2ntica Lexical",
             "T": [
                 {
                     "dia": 2,
@@ -282,22 +298,6 @@
                     "prof": "Maria de F\u00e1tima Henriques da Silva"
                 }
             ],
-            "nome": "Sem\u00e2ntica Lexical",
-            "TP": [
-                {
-                    "dia": 5,
-                    "hora": 8.5,
-                    "nome": "Sem\u00e2ntica Lexical",
-                    "sigla": "SEMLEX",
-                    "tipo": "TP",
-                    "turma": "2CL01",
-                    "turmac": "2CL01",
-                    "duracao": "4",
-                    "sala": "G111",
-                    "profsig": "MFHS",
-                    "prof": "Maria de F\u00e1tima Henriques da Silva"
-                }
-            ],
             "OT": [
                 {
                     "dia": 2,
@@ -309,6 +309,54 @@
                     "turmac": "2CL01",
                     "duracao": "2",
                     "sala": "G209",
+                    "profsig": "MFHS",
+                    "prof": "Maria de F\u00e1tima Henriques da Silva"
+                }
+            ]
+        },
+        "ELP": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 8.5,
+                    "nome": "Estruturas L\u00e9xicas do Portugu\u00eas",
+                    "sigla": "ELP",
+                    "tipo": "TP",
+                    "turma": "2CL01",
+                    "turmac": "2CL01",
+                    "duracao": "4",
+                    "sala": "G208",
+                    "profsig": "MFHS",
+                    "prof": "Maria de F\u00e1tima Henriques da Silva"
+                }
+            ],
+            "nome": "Estruturas L\u00e9xicas do Portugu\u00eas",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 17.5,
+                    "nome": "Estruturas L\u00e9xicas do Portugu\u00eas",
+                    "sigla": "ELP",
+                    "tipo": "T",
+                    "turma": "2CL01",
+                    "turmac": "2CL01",
+                    "duracao": "2",
+                    "sala": "G107",
+                    "profsig": "MFHS",
+                    "prof": "Maria de F\u00e1tima Henriques da Silva"
+                }
+            ],
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 18.5,
+                    "nome": "Estruturas L\u00e9xicas do Portugu\u00eas",
+                    "sigla": "ELP",
+                    "tipo": "OT",
+                    "turma": "2CL01",
+                    "turmac": "2CL01",
+                    "duracao": "2",
+                    "sala": "G107",
                     "profsig": "MFHS",
                     "prof": "Maria de F\u00e1tima Henriques da Silva"
                 }
@@ -536,54 +584,6 @@
                     "sala": "G304",
                     "profsig": "AJRL",
                     "prof": "Ant\u00f3nio Leal"
-                }
-            ]
-        },
-        "ELP": {
-            "TP": [
-                {
-                    "dia": 5,
-                    "hora": 15.5,
-                    "nome": "Estruturas L\u00e9xicas do Portugu\u00eas",
-                    "sigla": "ELP",
-                    "tipo": "TP",
-                    "turma": "2CL01",
-                    "turmac": "2CL01",
-                    "duracao": "4",
-                    "sala": "G207",
-                    "profsig": "MFHS",
-                    "prof": "Maria de F\u00e1tima Henriques da Silva"
-                }
-            ],
-            "nome": "Estruturas L\u00e9xicas do Portugu\u00eas",
-            "T": [
-                {
-                    "dia": 2,
-                    "hora": 17.5,
-                    "nome": "Estruturas L\u00e9xicas do Portugu\u00eas",
-                    "sigla": "ELP",
-                    "tipo": "T",
-                    "turma": "2CL01",
-                    "turmac": "2CL01",
-                    "duracao": "2",
-                    "sala": "G107",
-                    "profsig": "MFHS",
-                    "prof": "Maria de F\u00e1tima Henriques da Silva"
-                }
-            ],
-            "OT": [
-                {
-                    "dia": 2,
-                    "hora": 18.5,
-                    "nome": "Estruturas L\u00e9xicas do Portugu\u00eas",
-                    "sigla": "ELP",
-                    "tipo": "OT",
-                    "turma": "2CL01",
-                    "turmac": "2CL01",
-                    "duracao": "2",
-                    "sala": "G107",
-                    "profsig": "MFHS",
-                    "prof": "Maria de F\u00e1tima Henriques da Silva"
                 }
             ]
         }

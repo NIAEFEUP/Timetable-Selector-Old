@@ -294,14 +294,14 @@
                 },
                 {
                     "dia": 1,
-                    "hora": 15.5,
+                    "hora": 17.5,
                     "nome": "Latim III",
                     "sigla": "LAT3",
                     "tipo": "P",
                     "turma": "2LEPL_OP01",
                     "turmac": "2LEPL_OP01",
                     "duracao": "4",
-                    "sala": "G307",
+                    "sala": "G111",
                     "profsig": "MIOV",
                     "prof": "Marta V\u00e1rzeas"
                 }
@@ -375,14 +375,14 @@
             "TP": [
                 {
                     "dia": 5,
-                    "hora": 13.5,
+                    "hora": 15.5,
                     "nome": "Literatura Mo\u00e7ambicana",
                     "sigla": "LITMOC",
                     "tipo": "TP",
                     "turma": "2LEPL_OP01",
                     "turmac": "2LEPL_OP01",
                     "duracao": "4",
-                    "sala": "G207",
+                    "sala": "G209",
                     "profsig": "MLRMS",
                     "prof": "Maria de Lurdes Sampaio"
                 }
@@ -646,7 +646,7 @@
                     "turma": "3LEPL_OP01",
                     "turmac": "3LEPL_OP01",
                     "duracao": "4",
-                    "sala": "A105",
+                    "sala": "G205",
                     "profsig": "PJSCE",
                     "prof": "Pedro Eiras"
                 }
@@ -686,55 +686,23 @@
                 }
             ]
         },
-        "CPRR_XX": {
-            "T": [
+        "TGLIT": {
+            "TP": [
                 {
                     "dia": 2,
                     "hora": 13.5,
-                    "nome": "Cultura Portuguesa do Romantismo e da Regenera\u00e7\u00e3o ao S\u00e9c. XX",
-                    "sigla": "CPRR_XX",
-                    "tipo": "T",
-                    "turma": "3LEPL_OP01",
-                    "turmac": "3LEPL_OP01",
-                    "duracao": "2",
-                    "sala": "G408",
-                    "profsig": "PCVBT",
-                    "prof": "Pedro Clementino Vilas Boas Tavares"
-                }
-            ],
-            "nome": "Cultura Portuguesa do Romantismo e da Regenera\u00e7\u00e3o ao S\u00e9c. XX",
-            "OT": [
-                {
-                    "dia": 2,
-                    "hora": 14.5,
-                    "nome": "Cultura Portuguesa do Romantismo e da Regenera\u00e7\u00e3o ao S\u00e9c. XX",
-                    "sigla": "CPRR_XX",
-                    "tipo": "OT",
-                    "turma": "3LEPL_OP01",
-                    "turmac": "3LEPL_OP01",
-                    "duracao": "2",
-                    "sala": "G408",
-                    "profsig": "PCVBT",
-                    "prof": "Pedro Clementino Vilas Boas Tavares"
-                }
-            ],
-            "TP": [
-                {
-                    "dia": 3,
-                    "hora": 17.5,
-                    "nome": "Cultura Portuguesa do Romantismo e da Regenera\u00e7\u00e3o ao S\u00e9c. XX",
-                    "sigla": "CPRR_XX",
+                    "nome": "Teoria do Gosto Liter\u00e1rio",
+                    "sigla": "TGLIT",
                     "tipo": "TP",
                     "turma": "3LEPL_OP01",
                     "turmac": "3LEPL_OP01",
                     "duracao": "4",
-                    "sala": "G207",
-                    "profsig": "PCVBT",
-                    "prof": "Pedro Clementino Vilas Boas Tavares"
+                    "sala": "G409",
+                    "profsig": "LAC",
+                    "prof": "Lu\u00eds Adriano Carlos"
                 }
-            ]
-        },
-        "TGLIT": {
+            ],
+            "nome": "Teoria do Gosto Liter\u00e1rio",
             "T": [
                 {
                     "dia": 1,
@@ -750,7 +718,6 @@
                     "prof": "Lu\u00eds Adriano Carlos"
                 }
             ],
-            "nome": "Teoria do Gosto Liter\u00e1rio",
             "OT": [
                 {
                     "dia": 1,
@@ -765,22 +732,25 @@
                     "profsig": "LAC",
                     "prof": "Lu\u00eds Adriano Carlos"
                 }
-            ],
+            ]
+        },
+        "CPRR_XX": {
             "TP": [
                 {
-                    "dia": 4,
+                    "dia": 3,
                     "hora": 17.5,
-                    "nome": "Teoria do Gosto Liter\u00e1rio",
-                    "sigla": "TGLIT",
+                    "nome": "Cultura Portuguesa do Romantismo e da Regenera\u00e7\u00e3o ao S\u00e9c. XX",
+                    "sigla": "CPRR_XX",
                     "tipo": "TP",
                     "turma": "3LEPL_OP01",
                     "turmac": "3LEPL_OP01",
                     "duracao": "4",
-                    "sala": "G309",
-                    "profsig": "LAC",
-                    "prof": "Lu\u00eds Adriano Carlos"
+                    "sala": "G207",
+                    "profsig": "PCVBT",
+                    "prof": "Pedro Clementino Vilas Boas Tavares"
                 }
-            ]
+            ],
+            "nome": "Cultura Portuguesa do Romantismo e da Regenera\u00e7\u00e3o ao S\u00e9c. XX"
         },
         "TELIT1": {
             "TP": [

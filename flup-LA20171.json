@@ -108,8 +108,8 @@
                     "turmac": "1LLA_OP01",
                     "duracao": "4",
                     "sala": "G207",
-                    "profsig": "DOCENTE",
-                    "prof": null
+                    "profsig": "DPB",
+                    "prof": "David Pinho Barros"
                 }
             ],
             "nome": "Cultura Japonesa Contempor\u00e2nea",
@@ -124,8 +124,8 @@
                     "turmac": "1LLA_OP01",
                     "duracao": "2",
                     "sala": "G209",
-                    "profsig": "DOCENTE",
-                    "prof": null
+                    "profsig": "DPB",
+                    "prof": "David Pinho Barros"
                 }
             ],
             "OT": [
@@ -139,8 +139,8 @@
                     "turmac": "1LLA_OP01",
                     "duracao": "2",
                     "sala": "G209",
-                    "profsig": "DOCENTE",
-                    "prof": null
+                    "profsig": "DPB",
+                    "prof": "David Pinho Barros"
                 }
             ]
         },
@@ -337,8 +337,8 @@
                     "turmac": "1LLA01",
                     "duracao": "4",
                     "sala": "G305",
-                    "profsig": "DOCENTE",
-                    "prof": null
+                    "profsig": "KA",
+                    "prof": "Keiko Amakasu"
                 },
                 {
                     "dia": 5,
@@ -350,8 +350,8 @@
                     "turmac": "1LLA01",
                     "duracao": "2",
                     "sala": "G111",
-                    "profsig": "DOCENTE",
-                    "prof": null
+                    "profsig": "KA",
+                    "prof": "Keiko Amakasu"
                 }
             ],
             "nome": "Japon\u00eas A1.1",
@@ -366,61 +366,13 @@
                     "turmac": "1LLA01",
                     "duracao": "2",
                     "sala": "G111",
-                    "profsig": "DOCENTE",
-                    "prof": null
+                    "profsig": "KA",
+                    "prof": "Keiko Amakasu"
                 }
             ]
         }
     },
     "2\u00ba Ano": {
-        "LINFRA": {
-            "T": [
-                {
-                    "dia": 1,
-                    "hora": 8.5,
-                    "nome": "Lingu\u00edstica Francesa",
-                    "sigla": "LINFRA",
-                    "tipo": "T",
-                    "turma": "2LLA_OP01",
-                    "turmac": "2LLA_OP01",
-                    "duracao": "2",
-                    "sala": "G307",
-                    "profsig": "JDA",
-                    "prof": "Jos\u00e9 Domingues de Almeida"
-                }
-            ],
-            "nome": "Lingu\u00edstica Francesa",
-            "OT": [
-                {
-                    "dia": 1,
-                    "hora": 9.5,
-                    "nome": "Lingu\u00edstica Francesa",
-                    "sigla": "LINFRA",
-                    "tipo": "OT",
-                    "turma": "2LLA_OP01",
-                    "turmac": "2LLA_OP01",
-                    "duracao": "2",
-                    "sala": "G307",
-                    "profsig": "JDA",
-                    "prof": "Jos\u00e9 Domingues de Almeida"
-                }
-            ],
-            "P": [
-                {
-                    "dia": 3,
-                    "hora": 13.5,
-                    "nome": "Lingu\u00edstica Francesa",
-                    "sigla": "LINFRA",
-                    "tipo": "P",
-                    "turma": "2LLA_OP01",
-                    "turmac": "2LLA_OP01",
-                    "duracao": "4",
-                    "sala": "G404",
-                    "profsig": "JDA",
-                    "prof": "Jos\u00e9 Domingues de Almeida"
-                }
-            ]
-        },
         "LINGA1": {
             "T": [
                 {
@@ -431,13 +383,28 @@
                     "tipo": "T",
                     "turma": "2LLA_OP01",
                     "turmac": "2LLA_OP01",
-                    "duracao": "4",
+                    "duracao": "2",
                     "sala": "G207",
                     "profsig": "IMGR",
                     "prof": "Isabel Maria Galhano Rodrigues"
                 }
             ],
             "nome": "Lingu\u00edstica Alem\u00e3 I",
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 9.5,
+                    "nome": "Lingu\u00edstica Alem\u00e3 I",
+                    "sigla": "LINGA1",
+                    "tipo": "OT",
+                    "turma": "2LLA_OP01",
+                    "turmac": "2LLA_OP01",
+                    "duracao": "2",
+                    "sala": "G207",
+                    "profsig": "IMGR",
+                    "prof": "Isabel Maria Galhano Rodrigues"
+                }
+            ],
             "P": [
                 {
                     "dia": 4,
@@ -502,6 +469,54 @@
                 }
             ]
         },
+        "CULPC": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Cultura Portuguesa Contempor\u00e2nea",
+                    "sigla": "CULPC",
+                    "tipo": "TP",
+                    "turma": "2LLA_OP01",
+                    "turmac": "2LLA_OP01",
+                    "duracao": "4",
+                    "sala": "G303",
+                    "profsig": "PCVBT",
+                    "prof": "Pedro Clementino Vilas Boas Tavares"
+                }
+            ],
+            "nome": "Cultura Portuguesa Contempor\u00e2nea",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Cultura Portuguesa Contempor\u00e2nea",
+                    "sigla": "CULPC",
+                    "tipo": "T",
+                    "turma": "2LLA_OP01",
+                    "turmac": "2LLA_OP01",
+                    "duracao": "2",
+                    "sala": "G104",
+                    "profsig": "PCVBT",
+                    "prof": "Pedro Clementino Vilas Boas Tavares"
+                }
+            ],
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 16.5,
+                    "nome": "Cultura Portuguesa Contempor\u00e2nea",
+                    "sigla": "CULPC",
+                    "tipo": "OT",
+                    "turma": "2LLA_OP01",
+                    "turmac": "2LLA_OP01",
+                    "duracao": "2",
+                    "sala": "G104",
+                    "profsig": "PCVBT",
+                    "prof": "Pedro Clementino Vilas Boas Tavares"
+                }
+            ]
+        },
         "LINING": {
             "P": [
                 {
@@ -513,7 +528,7 @@
                     "turma": "2LLA_OP01",
                     "turmac": "2LLA_OP01",
                     "duracao": "4",
-                    "sala": "G304",
+                    "sala": "G303",
                     "profsig": "JDL",
                     "prof": "Jonathan Lewis"
                 }
@@ -549,6 +564,24 @@
                     "prof": "Jonathan Lewis"
                 }
             ]
+        },
+        "LINFRA": {
+            "P": [
+                {
+                    "dia": 3,
+                    "hora": 17.5,
+                    "nome": "Lingu\u00edstica Francesa",
+                    "sigla": "LINFRA",
+                    "tipo": "P",
+                    "turma": "2LLA_OP01",
+                    "turmac": "2LLA_OP01",
+                    "duracao": "4",
+                    "sala": "G307",
+                    "profsig": "JDA",
+                    "prof": "Jos\u00e9 Domingues de Almeida"
+                }
+            ],
+            "nome": "Lingu\u00edstica Francesa"
         },
         "ID": {
             "TP": [
@@ -635,41 +668,21 @@
                 }
             ]
         },
-        "CULPC": {
-            "T": [
-                {
-                    "dia": 2,
-                    "hora": 15.5,
-                    "nome": "Cultura Portuguesa Contempor\u00e2nea",
-                    "sigla": "CULPC",
-                    "tipo": "T",
-                    "turma": "2LLA01",
-                    "turmac": "2LLA01",
-                    "duracao": "2",
-                    "sala": "G104",
-                    "profsig": "PCVBT",
-                    "prof": "Pedro Clementino Vilas Boas Tavares"
-                }
-            ],
-            "nome": "Cultura Portuguesa Contempor\u00e2nea",
-            "OT": [
-                {
-                    "dia": 2,
-                    "hora": 16.5,
-                    "nome": "Cultura Portuguesa Contempor\u00e2nea",
-                    "sigla": "CULPC",
-                    "tipo": "OT",
-                    "turma": "2LLA01",
-                    "turmac": "2LLA01",
-                    "duracao": "2",
-                    "sala": "G104",
-                    "profsig": "PCVBT",
-                    "prof": "Pedro Clementino Vilas Boas Tavares"
-                }
-            ]
-        },
         "JA1.3": {
             "P": [
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "Japon\u00eas A1.3",
+                    "sigla": "JA1.3",
+                    "tipo": "P",
+                    "turma": "2LLA01",
+                    "turmac": "2LLA01",
+                    "duracao": "4",
+                    "sala": "G107",
+                    "profsig": "KA",
+                    "prof": "Keiko Amakasu"
+                },
                 {
                     "dia": 5,
                     "hora": 15.5,
@@ -678,13 +691,28 @@
                     "tipo": "P",
                     "turma": "2LLA01",
                     "turmac": "2LLA01",
-                    "duracao": "4",
+                    "duracao": "2",
                     "sala": "G111",
-                    "profsig": "DOCENTE",
-                    "prof": null
+                    "profsig": "KA",
+                    "prof": "Keiko Amakasu"
                 }
             ],
-            "nome": "Japon\u00eas A1.3"
+            "nome": "Japon\u00eas A1.3",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 16.5,
+                    "nome": "Japon\u00eas A1.3",
+                    "sigla": "JA1.3",
+                    "tipo": "OT",
+                    "turma": "2LLA01",
+                    "turmac": "2LLA01",
+                    "duracao": "2",
+                    "sala": "G111",
+                    "profsig": "KA",
+                    "prof": "Keiko Amakasu"
+                }
+            ]
         }
     },
     "3\u00ba Ano": {
@@ -780,6 +808,52 @@
                 }
             ]
         },
+        "TGFP2": {
+            "P": [
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Tradu\u00e7\u00e3o Geral II Franc\u00eas_Portugu\u00eas",
+                    "sigla": "TGFP2",
+                    "tipo": "P",
+                    "turma": "3LLA_OP01",
+                    "turmac": "3LLA_OP01",
+                    "duracao": "2",
+                    "sala": "G404",
+                    "profsig": "FMEB",
+                    "prof": "Fran\u00e7oise Bacquelaine"
+                },
+                {
+                    "dia": 1,
+                    "hora": 17.5,
+                    "nome": "Tradu\u00e7\u00e3o Geral II Franc\u00eas_Portugu\u00eas",
+                    "sigla": "TGFP2",
+                    "tipo": "P",
+                    "turma": "3LLA_OP01",
+                    "turmac": "3LLA_OP01",
+                    "duracao": "4",
+                    "sala": "G205",
+                    "profsig": "FMEB",
+                    "prof": "Fran\u00e7oise Bacquelaine"
+                }
+            ],
+            "nome": "Tradu\u00e7\u00e3o Geral II Franc\u00eas_Portugu\u00eas",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 9.5,
+                    "nome": "Tradu\u00e7\u00e3o Geral II Franc\u00eas_Portugu\u00eas",
+                    "sigla": "TGFP2",
+                    "tipo": "OT",
+                    "turma": "3LLA_OP01",
+                    "turmac": "3LLA_OP01",
+                    "duracao": "2",
+                    "sala": "G404",
+                    "profsig": "FMEB",
+                    "prof": "Fran\u00e7oise Bacquelaine"
+                }
+            ]
+        },
         "TGAP2": {
             "P": [
                 {
@@ -826,52 +900,6 @@
                 }
             ]
         },
-        "TGFP2": {
-            "P": [
-                {
-                    "dia": 2,
-                    "hora": 15.5,
-                    "nome": "Tradu\u00e7\u00e3o Geral II Franc\u00eas_Portugu\u00eas",
-                    "sigla": "TGFP2",
-                    "tipo": "P",
-                    "turma": "3LLA_OP01",
-                    "turmac": "3LLA_OP01",
-                    "duracao": "4",
-                    "sala": "G211",
-                    "profsig": "DOCENTE",
-                    "prof": null
-                },
-                {
-                    "dia": 3,
-                    "hora": 15.5,
-                    "nome": "Tradu\u00e7\u00e3o Geral II Franc\u00eas_Portugu\u00eas",
-                    "sigla": "TGFP2",
-                    "tipo": "P",
-                    "turma": "3LLA_OP01",
-                    "turmac": "3LLA_OP01",
-                    "duracao": "2",
-                    "sala": "G211",
-                    "profsig": "DOCENTE",
-                    "prof": null
-                }
-            ],
-            "nome": "Tradu\u00e7\u00e3o Geral II Franc\u00eas_Portugu\u00eas",
-            "OT": [
-                {
-                    "dia": 3,
-                    "hora": 16.5,
-                    "nome": "Tradu\u00e7\u00e3o Geral II Franc\u00eas_Portugu\u00eas",
-                    "sigla": "TGFP2",
-                    "tipo": "OT",
-                    "turma": "3LLA_OP01",
-                    "turmac": "3LLA_OP01",
-                    "duracao": "2",
-                    "sala": "G211",
-                    "profsig": "DOCENTE",
-                    "prof": null
-                }
-            ]
-        },
         "MRK_LA": {
             "TP": [
                 {
@@ -883,9 +911,9 @@
                     "turma": "3LLA01",
                     "turmac": "3LLA01",
                     "duracao": "4",
-                    "sala": "106.A\/B",
-                    "profsig": "DOCENTE",
-                    "prof": null
+                    "sala": "G304",
+                    "profsig": "JPJF",
+                    "prof": "Jo\u00e3o Faustino"
                 },
                 {
                     "dia": 2,
@@ -896,9 +924,9 @@
                     "turma": "3LLA01",
                     "turmac": "3LLA01",
                     "duracao": "2",
-                    "sala": "106.A\/B",
-                    "profsig": "DOCENTE",
-                    "prof": null
+                    "sala": "G304",
+                    "profsig": "JPJF",
+                    "prof": "Jo\u00e3o Faustino"
                 }
             ],
             "nome": "Marketing",
@@ -912,9 +940,9 @@
                     "turma": "3LLA01",
                     "turmac": "3LLA01",
                     "duracao": "2",
-                    "sala": "106.A\/B",
-                    "profsig": "DOCENTE",
-                    "prof": null
+                    "sala": "G304",
+                    "profsig": "JPJF",
+                    "prof": "Jo\u00e3o Faustino"
                 }
             ]
         },
@@ -976,8 +1004,8 @@
                     "turmac": "3LLA01",
                     "duracao": "2",
                     "sala": "G205",
-                    "profsig": "DOCENTE",
-                    "prof": null
+                    "profsig": "RK",
+                    "prof": "Reiko Kikuchi"
                 },
                 {
                     "dia": 2,
@@ -989,8 +1017,8 @@
                     "turmac": "3LLA01",
                     "duracao": "4",
                     "sala": "G307",
-                    "profsig": "DOCENTE",
-                    "prof": null
+                    "profsig": "RK",
+                    "prof": "Reiko Kikuchi"
                 }
             ],
             "nome": "Japon\u00eas A2.2",
@@ -1005,8 +1033,8 @@
                     "turmac": "3LLA01",
                     "duracao": "2",
                     "sala": "G205",
-                    "profsig": "DOCENTE",
-                    "prof": null
+                    "profsig": "RK",
+                    "prof": "Reiko Kikuchi"
                 }
             ]
         }

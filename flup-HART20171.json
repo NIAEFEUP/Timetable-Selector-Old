@@ -78,8 +78,8 @@
                     "turmac": "1LHART01",
                     "duracao": "6",
                     "sala": "G202",
-                    "profsig": "DOCENTE",
-                    "prof": null
+                    "profsig": "CFS",
+                    "prof": "Celso Santos"
                 }
             ],
             "nome": "Hist\u00f3ria da Arquitetura Cl\u00e1ssica",
@@ -94,8 +94,8 @@
                     "turmac": "1LHART01",
                     "duracao": "2",
                     "sala": "G202",
-                    "profsig": "DOCENTE",
-                    "prof": null
+                    "profsig": "CFS",
+                    "prof": "Celso Santos"
                 }
             ]
         },
@@ -111,8 +111,8 @@
                     "turmac": "1LHART01",
                     "duracao": "6",
                     "sala": "G301",
-                    "profsig": "DOCENTE",
-                    "prof": null
+                    "profsig": "CFS",
+                    "prof": "Celso Santos"
                 },
                 {
                     "dia": 2,
@@ -124,8 +124,8 @@
                     "turmac": "1LHART01",
                     "duracao": "2",
                     "sala": "G301",
-                    "profsig": "DOCENTE",
-                    "prof": null
+                    "profsig": "CFS",
+                    "prof": "Celso Santos"
                 }
             ],
             "nome": "Hist\u00f3ria da Arte e Cultura Cl\u00e1ssicas"
@@ -278,8 +278,8 @@
                     "turmac": "3LHART01",
                     "duracao": "6",
                     "sala": "G101",
-                    "profsig": "DOCENTE",
-                    "prof": null
+                    "profsig": "CFS",
+                    "prof": "Celso Santos"
                 }
             ],
             "nome": "Arte e Mercado na Sociedade Contempor\u00e2nea",
@@ -294,8 +294,8 @@
                     "turmac": "3LHART01",
                     "duracao": "2",
                     "sala": "G101",
-                    "profsig": "DOCENTE",
-                    "prof": null
+                    "profsig": "CFS",
+                    "prof": "Celso Santos"
                 }
             ]
         },

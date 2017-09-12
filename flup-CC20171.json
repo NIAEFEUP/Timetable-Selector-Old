@@ -692,65 +692,6 @@
                 }
             ]
         },
-        "MARK": {
-            "TP": [
-                {
-                    "dia": 5,
-                    "hora": 8.5,
-                    "nome": "Marketing",
-                    "sigla": "MARK",
-                    "tipo": "TP",
-                    "turma": "2LCC01",
-                    "turmac": "2LCC01",
-                    "duracao": "6",
-                    "sala": "G104",
-                    "profsig": "AMPCB",
-                    "prof": "Am\u00e9lia Brand\u00e3o"
-                },
-                {
-                    "dia": 5,
-                    "hora": 13.5,
-                    "nome": "Marketing",
-                    "sigla": "MARK",
-                    "tipo": "TP",
-                    "turma": "2LCC02",
-                    "turmac": "2LCC02",
-                    "duracao": "6",
-                    "sala": "G104",
-                    "profsig": "AMPCB",
-                    "prof": "Am\u00e9lia Brand\u00e3o"
-                }
-            ],
-            "nome": "Marketing",
-            "OT": [
-                {
-                    "dia": 5,
-                    "hora": 11.5,
-                    "nome": "Marketing",
-                    "sigla": "MARK",
-                    "tipo": "OT",
-                    "turma": "2LCC01",
-                    "turmac": "2LCC01",
-                    "duracao": "1",
-                    "sala": "G104",
-                    "profsig": "AMPCB",
-                    "prof": "Am\u00e9lia Brand\u00e3o"
-                },
-                {
-                    "dia": 5,
-                    "hora": 16.5,
-                    "nome": "Marketing",
-                    "sigla": "MARK",
-                    "tipo": "OT",
-                    "turma": "2LCC02",
-                    "turmac": "2LCC02",
-                    "duracao": "1",
-                    "sala": "G104",
-                    "profsig": "AMPCB",
-                    "prof": "Am\u00e9lia Brand\u00e3o"
-                }
-            ]
-        },
         "TEJ_O_II": {
             "TP": [
                 {
@@ -888,6 +829,65 @@
                 }
             ]
         },
+        "MARK": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Marketing",
+                    "sigla": "MARK",
+                    "tipo": "TP",
+                    "turma": "2LCC01",
+                    "turmac": "2LCC01",
+                    "duracao": "6",
+                    "sala": "G104",
+                    "profsig": "AMPCB",
+                    "prof": "Am\u00e9lia Brand\u00e3o"
+                },
+                {
+                    "dia": 5,
+                    "hora": 13.5,
+                    "nome": "Marketing",
+                    "sigla": "MARK",
+                    "tipo": "TP",
+                    "turma": "2LCC02",
+                    "turmac": "2LCC02",
+                    "duracao": "6",
+                    "sala": "G104",
+                    "profsig": "AMPCB",
+                    "prof": "Am\u00e9lia Brand\u00e3o"
+                }
+            ],
+            "nome": "Marketing",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 12,
+                    "nome": "Marketing",
+                    "sigla": "MARK",
+                    "tipo": "OT",
+                    "turma": "2LCC01",
+                    "turmac": "2LCC01",
+                    "duracao": "1",
+                    "sala": "G104",
+                    "profsig": "AMPCB",
+                    "prof": "Am\u00e9lia Brand\u00e3o"
+                },
+                {
+                    "dia": 5,
+                    "hora": 16.5,
+                    "nome": "Marketing",
+                    "sigla": "MARK",
+                    "tipo": "OT",
+                    "turma": "2LCC02",
+                    "turmac": "2LCC02",
+                    "duracao": "1",
+                    "sala": "G104",
+                    "profsig": "AMPCB",
+                    "prof": "Am\u00e9lia Brand\u00e3o"
+                }
+            ]
+        },
         "CDINT": {
             "TP": [
                 {
@@ -993,6 +993,19 @@
                     "sala": "206_Cel_Pacheco",
                     "profsig": "BSG",
                     "prof": "Bruno Giesteira"
+                },
+                {
+                    "dia": 3,
+                    "hora": 16,
+                    "nome": "Comunica\u00e7\u00f5es Digitais e Internet",
+                    "sigla": "CDINT",
+                    "tipo": "TP",
+                    "turma": "2LCC05",
+                    "turmac": "2LCC05",
+                    "duracao": "4",
+                    "sala": "205_Cel_Pacheco",
+                    "profsig": "DOCENTE",
+                    "prof": null
                 },
                 {
                     "dia": 3,

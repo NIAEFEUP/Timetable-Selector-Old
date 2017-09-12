@@ -12,8 +12,8 @@
                     "turmac": "1LRI01",
                     "duracao": "4",
                     "sala": "G103",
-                    "profsig": "DOCENTE",
-                    "prof": null
+                    "profsig": "NCM",
+                    "prof": "Nuno Marques"
                 },
                 {
                     "dia": 5,
@@ -25,8 +25,8 @@
                     "turmac": "1LRI01",
                     "duracao": "2",
                     "sala": "GA1",
-                    "profsig": "DOCENTE",
-                    "prof": null
+                    "profsig": "NCM",
+                    "prof": "Nuno Marques"
                 },
                 {
                     "dia": 2,
@@ -67,8 +67,8 @@
                     "turmac": "1LRI01",
                     "duracao": "2",
                     "sala": "GA1",
-                    "profsig": "DOCENTE",
-                    "prof": null
+                    "profsig": "NCM",
+                    "prof": "Nuno Marques"
                 },
                 {
                     "dia": 5,
@@ -97,8 +97,8 @@
                     "turmac": "1LRI01",
                     "duracao": "4",
                     "sala": "GA1",
-                    "profsig": "DOCENTE",
-                    "prof": null
+                    "profsig": "JAPCS",
+                    "prof": "Jorge Cerdeira"
                 },
                 {
                     "dia": 4,
@@ -110,8 +110,8 @@
                     "turmac": "1LRI01",
                     "duracao": "2",
                     "sala": "GA1",
-                    "profsig": "DOCENTE",
-                    "prof": null
+                    "profsig": "JAPCS",
+                    "prof": "Jorge Cerdeira"
                 }
             ],
             "nome": "Introdu\u00e7\u00e3o \u00e0 Economia",
@@ -126,8 +126,8 @@
                     "turmac": "1LRI01",
                     "duracao": "2",
                     "sala": "GA1",
-                    "profsig": "DOCENTE",
-                    "prof": null
+                    "profsig": "JAPCS",
+                    "prof": "Jorge Cerdeira"
                 }
             ]
         },
@@ -143,8 +143,8 @@
                     "turmac": "1LRI01",
                     "duracao": "2",
                     "sala": "G208",
-                    "profsig": "HCRV",
-                    "prof": "Helena Vila\u00e7a"
+                    "profsig": "LSAPF",
+                    "prof": "Ligia Ferro"
                 },
                 {
                     "dia": 1,
@@ -156,8 +156,8 @@
                     "turmac": "1LRI01",
                     "duracao": "4",
                     "sala": "G303",
-                    "profsig": "HCRV",
-                    "prof": "Helena Vila\u00e7a"
+                    "profsig": "LSAPF",
+                    "prof": "Ligia Ferro"
                 }
             ],
             "nome": "Introdu\u00e7\u00e3o \u00e0 Sociologia",
@@ -176,24 +176,6 @@
                     "prof": "Helena Vila\u00e7a"
                 }
             ]
-        },
-        "DINT": {
-            "TP": [
-                {
-                    "dia": 2,
-                    "hora": 15.5,
-                    "nome": "Direito Internacional",
-                    "sigla": "DINT",
-                    "tipo": "TP",
-                    "turma": "1LRI01",
-                    "turmac": "1LRI01",
-                    "duracao": "4",
-                    "sala": "106.A\/B",
-                    "profsig": "DOCENTE",
-                    "prof": null
-                }
-            ],
-            "nome": "Direito Internacional"
         }
     },
     "2\u00ba Ano": {
@@ -286,8 +268,21 @@
                     "turmac": "2LRI01",
                     "duracao": "2",
                     "sala": "106.A\/B",
-                    "profsig": "DOCENTE",
-                    "prof": null
+                    "profsig": "BRS",
+                    "prof": "Bruno Sousa"
+                },
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Direito Internacional",
+                    "sigla": "DINT",
+                    "tipo": "TP",
+                    "turma": "2LRI01",
+                    "turmac": "2LRI01",
+                    "duracao": "4",
+                    "sala": "106.A\/B",
+                    "profsig": "BRS",
+                    "prof": "Bruno Sousa"
                 }
             ],
             "nome": "Direito Internacional",
@@ -302,8 +297,8 @@
                     "turmac": "2LRI01",
                     "duracao": "2",
                     "sala": "106.A\/B",
-                    "profsig": "DOCENTE",
-                    "prof": null
+                    "profsig": "BRS",
+                    "prof": "Bruno Sousa"
                 }
             ]
         }

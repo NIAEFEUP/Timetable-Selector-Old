@@ -71,8 +71,8 @@
                     "turmac": "1LHISTO01",
                     "duracao": "2",
                     "sala": "GA1",
-                    "profsig": "JAPSMP",
-                    "prof": "Jos\u00e9 Augusto Sotto Mayor Pizarro"
+                    "profsig": "RMLSM",
+                    "prof": "Rui Morais"
                 }
             ],
             "nome": "Hist\u00f3ria de Roma",
@@ -700,23 +700,53 @@
         }
     },
     "3\u00ba Ano": {
-        "SHMO_I": {
+        "SHC_I": {
             "S": [
                 {
                     "dia": 5,
                     "hora": 8.5,
-                    "nome": "Semin\u00e1rio de Hist\u00f3ria Moderna I",
-                    "sigla": "SHMO_I",
+                    "nome": "Semin\u00e1rio de Hist\u00f3ria Contempor\u00e2nea I",
+                    "sigla": "SHC_I",
                     "tipo": "S",
                     "turma": "3LHISTO01",
-                    "turmac": "3LHISTO01",
+                    "turmac": "SHC_I_S",
                     "duracao": "4",
-                    "sala": "G207",
-                    "profsig": "AMPS",
-                    "prof": "Am\u00e9lia Pol\u00f3nia"
+                    "sala": "G311",
+                    "profsig": "GMMP_MCCMP",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Semin\u00e1rio de Hist\u00f3ria Contempor\u00e2nea I",
+                    "sigla": "SHC_I",
+                    "tipo": "S",
+                    "turma": "3LHISTO02",
+                    "turmac": "SHC_I_S",
+                    "duracao": "4",
+                    "sala": "G311",
+                    "profsig": "GMMP_MCCMP",
+                    "prof": null
                 }
             ],
-            "nome": "Semin\u00e1rio de Hist\u00f3ria Moderna I",
+            "nome": "Semin\u00e1rio de Hist\u00f3ria Contempor\u00e2nea I",
+            "PL": [
+                {
+                    "dia": 5,
+                    "hora": 10.5,
+                    "nome": "Semin\u00e1rio de Hist\u00f3ria Contempor\u00e2nea I",
+                    "sigla": "SHC_I",
+                    "tipo": "PL",
+                    "turma": "3LHISTO02",
+                    "turmac": "3LHISTO02",
+                    "duracao": "4",
+                    "sala": "G311",
+                    "profsig": "MCCMP",
+                    "prof": "Concei\u00e7\u00e3o Meireles Pereira"
+                }
+            ]
+        },
+        "SHMO_I": {
             "PL": [
                 {
                     "dia": 5,
@@ -731,7 +761,8 @@
                     "profsig": "AMPS",
                     "prof": "Am\u00e9lia Pol\u00f3nia"
                 }
-            ]
+            ],
+            "nome": "Semin\u00e1rio de Hist\u00f3ria Moderna I"
         },
         "HCONP1": {
             "TP": [
@@ -824,24 +855,6 @@
                     "prof": "Gaspar Pereira"
                 }
             ]
-        },
-        "SHC_I": {
-            "S": [
-                {
-                    "dia": 5,
-                    "hora": 10.5,
-                    "nome": "Semin\u00e1rio de Hist\u00f3ria Contempor\u00e2nea I",
-                    "sigla": "SHC_I",
-                    "tipo": "S",
-                    "turma": "3LHISTO02",
-                    "turmac": "3LHISTO02",
-                    "duracao": "4",
-                    "sala": "G311",
-                    "profsig": "GMMP",
-                    "prof": "Gaspar Pereira"
-                }
-            ],
-            "nome": "Semin\u00e1rio de Hist\u00f3ria Contempor\u00e2nea I"
         }
     }
 }
