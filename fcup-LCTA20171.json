@@ -88,11 +88,40 @@
                     "prof": "Maria Alexandra Guedes"
                 },
                 {
-                    "dia": 2,
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Geodin\u00e2mica",
+                    "sigla": "GEOL1001",
+                    "tipo": "TP",
+                    "turma": "GEOL1001_TP1 CTA",
+                    "turmac": "GEOL1001_TP1 CTA",
+                    "duracao": "4",
+                    "sala": "FC3-116",
+                    "profsig": "MAMG",
+                    "prof": "Maria Alexandra Guedes"
+                },
+                {
+                    "dia": 5,
                     "hora": 9,
                     "nome": "Geodin\u00e2mica",
                     "sigla": "GEOL1001",
                     "tipo": "TP",
+                    "turma": "GEOL1001_TP2 CTA ",
+                    "turmac": "GEOL1001_TP2 CTA",
+                    "duracao": "4",
+                    "sala": "FC3-116",
+                    "profsig": "MAMG",
+                    "prof": "Maria Alexandra Guedes"
+                }
+            ],
+            "nome": "Geodin\u00e2mica",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Geodin\u00e2mica",
+                    "sigla": "GEOL1001",
+                    "tipo": "T",
                     "turma": "GEOL1001_T",
                     "turmac": "GEOL1001_T",
                     "duracao": "2",
@@ -105,29 +134,15 @@
                     "hora": 9,
                     "nome": "Geodin\u00e2mica",
                     "sigla": "GEOL1001",
-                    "tipo": "TP",
+                    "tipo": "T",
                     "turma": "GEOL1001_T",
                     "turmac": "GEOL1001_T",
                     "duracao": "2",
                     "sala": "FC3-119",
                     "profsig": "HMSMS",
                     "prof": "Helena Silva"
-                },
-                {
-                    "dia": 5,
-                    "hora": 11,
-                    "nome": "Geodin\u00e2mica",
-                    "sigla": "GEOL1001",
-                    "tipo": "TP",
-                    "turma": "GEOL1001_TP1 CTA",
-                    "turmac": "GEOL1001_TP1 CTA",
-                    "duracao": "4",
-                    "sala": "FC3-116",
-                    "profsig": "MAMG",
-                    "prof": "Maria Alexandra Guedes"
                 }
-            ],
-            "nome": "Geodin\u00e2mica"
+            ]
         }
     },
     "2\u00ba Ano": {
@@ -245,7 +260,7 @@
                     "turma": "Q1008_PL1",
                     "turmac": "Q1008_PL1",
                     "duracao": "4",
-                    "sala": "FC2-115+FC2-101",
+                    "sala": "FC2-115+FC2023",
                     "profsig": "JERB",
                     "prof": "Enrique Borges"
                 },
@@ -258,7 +273,7 @@
                     "turma": "Q1008_PL2",
                     "turmac": "Q1008_PL2",
                     "duracao": "4",
-                    "sala": "FC2-115+FC2-101",
+                    "sala": "FC2-115+FC007",
                     "profsig": "JERB",
                     "prof": "Enrique Borges"
                 },
@@ -271,9 +286,9 @@
                     "turma": "Q1008_PL3",
                     "turmac": "Q1008_PL3",
                     "duracao": "4",
-                    "sala": "FC2-115+FC2-101",
-                    "profsig": "PACG",
-                    "prof": "Paula Gomes"
+                    "sala": "FC2-115+FC2007",
+                    "profsig": "JERB",
+                    "prof": "Enrique Borges"
                 }
             ],
             "nome": "Qu\u00edmica Org\u00e2nica",
@@ -316,20 +331,20 @@
                     "tipo": "PL",
                     "turma": "Q2010_PL1",
                     "turmac": "Q2010_PL1",
-                    "duracao": "2",
+                    "duracao": "4",
                     "sala": "FC2011+FC2013",
                     "profsig": "CMMP",
                     "prof": "Carlos Pereira"
                 },
                 {
                     "dia": 2,
-                    "hora": 17,
+                    "hora": 16,
                     "nome": "Qu\u00edmica Anal\u00edtica",
                     "sigla": "Q2010",
                     "tipo": "PL",
                     "turma": "Q2010_PL2",
                     "turmac": "Q2010_PL2",
-                    "duracao": "2",
+                    "duracao": "4",
                     "sala": "FC2011+FC2013",
                     "profsig": "JAMR",
                     "prof": "Jos\u00e9 Rodrigues"
@@ -342,7 +357,7 @@
                     "tipo": "PL",
                     "turma": "Q2010_PL3",
                     "turmac": "Q2010_PL3",
-                    "duracao": "2",
+                    "duracao": "4",
                     "sala": "FC2011+FC2013",
                     "profsig": "JAMR",
                     "prof": "Jos\u00e9 Rodrigues"
@@ -419,7 +434,7 @@
                     "turma": "AMB3001_T",
                     "turmac": "AMB3001_T",
                     "duracao": "4",
-                    "sala": "FC3025",
+                    "sala": "FC1029",
                     "profsig": "AG+JES",
                     "prof": null
                 }
@@ -544,34 +559,47 @@
         "AMB3003": {
             "PL": [
                 {
-                    "dia": 2,
-                    "hora": 17,
+                    "dia": 5,
+                    "hora": 15,
                     "nome": "Qualidade dos Solos",
                     "sigla": "AMB3003",
                     "tipo": "PL",
                     "turma": "AMB3003_PL1",
                     "turmac": "AMB3003_PL1",
                     "duracao": "2",
-                    "sala": "FC3-120+FC2 021",
+                    "sala": "FC3-119+FC2-112",
                     "profsig": "JES+ROP",
                     "prof": null
                 },
                 {
-                    "dia": 2,
-                    "hora": 18,
+                    "dia": 5,
+                    "hora": 16,
                     "nome": "Qualidade dos Solos",
                     "sigla": "AMB3003",
                     "tipo": "PL",
                     "turma": "AMB3003_PL2",
                     "turmac": "AMB3003_PL2",
                     "duracao": "2",
-                    "sala": "FC3-120+FC2 021",
+                    "sala": "FC3-119+FC2-112",
                     "profsig": "JES+ROP",
                     "prof": null
                 }
             ],
             "nome": "Qualidade dos Solos",
             "T": [
+                {
+                    "dia": 5,
+                    "hora": 12,
+                    "nome": "Qualidade dos Solos",
+                    "sigla": "AMB3003",
+                    "tipo": "T",
+                    "turma": "AMB3003_T",
+                    "turmac": "AMB3003_T",
+                    "duracao": "2",
+                    "sala": "FC3-120",
+                    "profsig": "JES+ROP",
+                    "prof": null
+                },
                 {
                     "dia": 2,
                     "hora": 14,
@@ -580,7 +608,7 @@
                     "tipo": "T",
                     "turma": "AMB3003_T",
                     "turmac": "AMB3003_T",
-                    "duracao": "4",
+                    "duracao": "2",
                     "sala": "FC3-120",
                     "profsig": "JES+ROP",
                     "prof": null
@@ -588,15 +616,15 @@
             ],
             "TP": [
                 {
-                    "dia": 2,
-                    "hora": 16,
+                    "dia": 5,
+                    "hora": 14,
                     "nome": "Qualidade dos Solos",
                     "sigla": "AMB3003",
                     "tipo": "TP",
                     "turma": "AMB3003_TP",
                     "turmac": "AMB3003_TP",
                     "duracao": "2",
-                    "sala": "FC3-120+FC2 021",
+                    "sala": "FC3-119+FC2-112",
                     "profsig": "JES+ROP",
                     "prof": null
                 }

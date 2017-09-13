@@ -1726,8 +1726,8 @@
                     "turmac": "COMP_1637",
                     "duracao": "2",
                     "sala": "B017",
-                    "profsig": "AN_doc1",
-                    "prof": null
+                    "profsig": "FDA",
+                    "prof": "Filomena Dias de Almeida"
                 },
                 {
                     "dia": 4,
@@ -1752,8 +1752,8 @@
                     "turmac": "COMP_1637",
                     "duracao": "2",
                     "sala": "B017",
-                    "profsig": "AN_doc1",
-                    "prof": null
+                    "profsig": "FDA",
+                    "prof": "Filomena Dias de Almeida"
                 },
                 {
                     "dia": 4,
@@ -1778,8 +1778,8 @@
                     "turmac": "COMP_1637",
                     "duracao": "2",
                     "sala": "B017",
-                    "profsig": "AN_doc1",
-                    "prof": null
+                    "profsig": "FDA",
+                    "prof": "Filomena Dias de Almeida"
                 },
                 {
                     "dia": 4,
@@ -1804,8 +1804,8 @@
                     "turmac": "COMP_1637",
                     "duracao": "2",
                     "sala": "B017",
-                    "profsig": "AN_doc1",
-                    "prof": null
+                    "profsig": "FDA",
+                    "prof": "Filomena Dias de Almeida"
                 },
                 {
                     "dia": 4,
@@ -1830,8 +1830,8 @@
                     "turmac": "COMP_1637",
                     "duracao": "2",
                     "sala": "B017",
-                    "profsig": "AN_doc1",
-                    "prof": null
+                    "profsig": "FDA",
+                    "prof": "Filomena Dias de Almeida"
                 }
             ],
             "nome": "An\u00e1lise Num\u00e9rica",
@@ -2839,15 +2839,15 @@
                     "prof": "Ana Isabel Palmero"
                 },
                 {
-                    "dia": 2,
-                    "hora": 18,
+                    "dia": 3,
+                    "hora": 18.5,
                     "nome": "Termodin\u00e2mica II",
                     "sigla": "T II",
                     "tipo": "TP",
                     "turma": "2M03",
                     "turmac": "2M03",
                     "duracao": "3",
-                    "sala": "B009",
+                    "sala": "B024",
                     "profsig": "JLA",
                     "prof": "Jos\u00e9 Lu\u00eds Alexandre"
                 },
@@ -4641,8 +4641,8 @@
                     "turmac": "3M09",
                     "duracao": "3",
                     "sala": "L-101+L004",
-                    "profsig": "MPB",
-                    "prof": "Manuel Romano Barbosa"
+                    "profsig": "FTF",
+                    "prof": "Francisco Freitas"
                 },
                 {
                     "dia": 2,
@@ -4654,8 +4654,8 @@
                     "turmac": "3M10",
                     "duracao": "3",
                     "sala": "L-101+L004",
-                    "profsig": "FTF",
-                    "prof": "Francisco Freitas"
+                    "profsig": "MPB",
+                    "prof": "Manuel Romano Barbosa"
                 },
                 {
                     "dia": 2,
@@ -4680,8 +4680,8 @@
                     "turmac": "3M12",
                     "duracao": "3",
                     "sala": "L-101+L004",
-                    "profsig": "SHP_doc1",
-                    "prof": null
+                    "profsig": "MPB",
+                    "prof": "Manuel Romano Barbosa"
                 },
                 {
                     "dia": 3,
@@ -4706,8 +4706,8 @@
                     "turmac": "3M14",
                     "duracao": "3",
                     "sala": "L-101+L004",
-                    "profsig": "JFC",
-                    "prof": "Jo\u00e3o Pedro Falc\u00e3o Carneiro"
+                    "profsig": "SBF",
+                    "prof": "Sara Bazenga Fernandes"
                 },
                 {
                     "dia": 3,
@@ -4719,8 +4719,8 @@
                     "turmac": "3M15",
                     "duracao": "3",
                     "sala": "L-101+L004",
-                    "profsig": "MPB",
-                    "prof": "Manuel Romano Barbosa"
+                    "profsig": "SBF",
+                    "prof": "Sara Bazenga Fernandes"
                 },
                 {
                     "dia": 3,
@@ -4745,8 +4745,8 @@
                     "turmac": "3M17",
                     "duracao": "3",
                     "sala": "L-101+L004",
-                    "profsig": "SHP_doc1",
-                    "prof": null
+                    "profsig": "SBF",
+                    "prof": "Sara Bazenga Fernandes"
                 },
                 {
                     "dia": 4,
@@ -4758,8 +4758,8 @@
                     "turmac": "3M18",
                     "duracao": "3",
                     "sala": "L-101+L004",
-                    "profsig": "SHP_doc1",
-                    "prof": null
+                    "profsig": "JFC",
+                    "prof": "Jo\u00e3o Pedro Falc\u00e3o Carneiro"
                 },
                 {
                     "dia": 4,

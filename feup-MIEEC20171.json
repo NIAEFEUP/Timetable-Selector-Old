@@ -1636,7 +1636,7 @@
                     "turma": "1MIEEC08",
                     "turmac": "1MIEEC08",
                     "duracao": "3",
-                    "sala": "B111",
+                    "sala": "B101",
                     "profsig": "NTA",
                     "prof": "Nuno Almeida"
                 },
@@ -4061,7 +4061,7 @@
                 },
                 {
                     "dia": 4,
-                    "hora": 15,
+                    "hora": 15.5,
                     "nome": "Medi\u00e7\u00e3o, Sensores e Instrumenta\u00e7\u00e3o",
                     "sigla": "MSIN",
                     "tipo": "PL",
@@ -5194,7 +5194,7 @@
                     "turma": "3MIEEC_T1",
                     "turmac": "3MIEEC_T1",
                     "duracao": "4",
-                    "sala": "I010",
+                    "sala": "I009",
                     "profsig": "HSM",
                     "prof": "H\u00e9lio Mendon\u00e7a"
                 },
@@ -6589,7 +6589,7 @@
                 },
                 {
                     "dia": 4,
-                    "hora": 14.5,
+                    "hora": 14,
                     "nome": "Regimes Transit\u00f3rios do SEE",
                     "sigla": "RTSEE",
                     "tipo": "TP",
@@ -6602,7 +6602,7 @@
                 },
                 {
                     "dia": 4,
-                    "hora": 14.5,
+                    "hora": 14,
                     "nome": "Regimes Transit\u00f3rios do SEE",
                     "sigla": "RTSEE",
                     "tipo": "TP",
@@ -6618,7 +6618,7 @@
             "T": [
                 {
                     "dia": 4,
-                    "hora": 16.5,
+                    "hora": 16,
                     "nome": "Regimes Transit\u00f3rios do SEE",
                     "sigla": "RTSEE",
                     "tipo": "T",
@@ -6631,7 +6631,7 @@
                 },
                 {
                     "dia": 4,
-                    "hora": 16.5,
+                    "hora": 16,
                     "nome": "Regimes Transit\u00f3rios do SEE",
                     "sigla": "RTSEE",
                     "tipo": "T",
@@ -6644,7 +6644,7 @@
                 },
                 {
                     "dia": 4,
-                    "hora": 16.5,
+                    "hora": 16,
                     "nome": "Regimes Transit\u00f3rios do SEE",
                     "sigla": "RTSEE",
                     "tipo": "T",
@@ -7705,7 +7705,7 @@
                     "turma": "5MIEEC_T_ME",
                     "turmac": "5MIEEC_T_ME",
                     "duracao": "4",
-                    "sala": "B308+B008",
+                    "sala": "B308+B021",
                     "profsig": "PFS",
                     "prof": "Pedro Souto"
                 }
@@ -8661,7 +8661,7 @@
                     "turma": "5MIEEC_T_CM",
                     "turmac": "5MIEEC_T_CM",
                     "duracao": "4",
-                    "sala": "B205+B006+I323",
+                    "sala": "B205+B010+I323",
                     "profsig": "EMC",
                     "prof": "Eurico Carrapatoso"
                 }
@@ -8677,7 +8677,7 @@
                     "turma": "5MIEEC_T_CM",
                     "turmac": "5MIEEC_T_CM",
                     "duracao": "4",
-                    "sala": "B205+B006+I323",
+                    "sala": "B205+B010+I323",
                     "profsig": "EMC",
                     "prof": "Eurico Carrapatoso"
                 }

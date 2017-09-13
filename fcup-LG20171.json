@@ -42,7 +42,7 @@
                     "turma": "GEOL2002_T",
                     "turmac": "GEOL2002_T",
                     "duracao": "2",
-                    "sala": "FC3-116",
+                    "sala": "FC3-119",
                     "profsig": "HC+AJ",
                     "prof": null
                 },
@@ -55,7 +55,7 @@
                     "turma": "GEOL2002_T",
                     "turmac": "GEOL2002_T",
                     "duracao": "2",
-                    "sala": "FC3-117",
+                    "sala": "FC3-119",
                     "profsig": "HC+AJ",
                     "prof": null
                 }
@@ -64,7 +64,7 @@
             "TP": [
                 {
                     "dia": 2,
-                    "hora": 15.5,
+                    "hora": 15,
                     "nome": "Estratigrafia e Paleontologia",
                     "sigla": "GEOL2002",
                     "tipo": "TP",
@@ -97,7 +97,7 @@
                     "turma": "GEOL2002TP3",
                     "turmac": "GEOL2002TP3",
                     "duracao": "4",
-                    "sala": "FC3015",
+                    "sala": "FC3-113",
                     "profsig": "HC+AJ",
                     "prof": null
                 }
@@ -258,15 +258,15 @@
         "GEOL2001": {
             "T": [
                 {
-                    "dia": 3,
-                    "hora": 9,
+                    "dia": 4,
+                    "hora": 14,
                     "nome": "Mineralogia e Petrologia Geral",
                     "sigla": "GEOL2001",
                     "tipo": "T",
                     "turma": "GEOL2001_T",
                     "turmac": "GEOL2001_T",
                     "duracao": "4",
-                    "sala": "FC3-124A",
+                    "sala": "FC3-124B",
                     "profsig": "HCBM",
                     "prof": "Helena Brites Martins"
                 }
@@ -274,15 +274,15 @@
             "nome": "Mineralogia e Petrologia Geral",
             "TP": [
                 {
-                    "dia": 3,
-                    "hora": 11,
+                    "dia": 4,
+                    "hora": 16,
                     "nome": "Mineralogia e Petrologia Geral",
                     "sigla": "GEOL2001",
                     "tipo": "TP",
                     "turma": "GEOL2001_TP",
                     "turmac": "GEOL2001_TP",
                     "duracao": "4",
-                    "sala": "FC3-124A",
+                    "sala": "FC3-124B",
                     "profsig": "HCBM",
                     "prof": "Helena Brites Martins"
                 }
@@ -336,6 +336,32 @@
         },
         "GEOL3001": {
             "PL": [
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Inform\u00e1tica Aplicada \u00e0 Geologia",
+                    "sigla": "GEOL3001",
+                    "tipo": "PL",
+                    "turma": "GEOL3001 PL4",
+                    "turmac": "GEOL3001 PL4",
+                    "duracao": "4",
+                    "sala": "FC3028",
+                    "profsig": "JMDC",
+                    "prof": "Jo\u00e3o Coelho"
+                },
+                {
+                    "dia": 1,
+                    "hora": 18,
+                    "nome": "Inform\u00e1tica Aplicada \u00e0 Geologia",
+                    "sigla": "GEOL3001",
+                    "tipo": "PL",
+                    "turma": "GEOL3001 PL5",
+                    "turmac": "GEOL3001 PL5",
+                    "duracao": "4",
+                    "sala": "FC3028",
+                    "profsig": "JMDC",
+                    "prof": "Jo\u00e3o Coelho"
+                },
                 {
                     "dia": 2,
                     "hora": 18,
@@ -404,7 +430,7 @@
                     "turma": "GEOL3002_T",
                     "turmac": "GEOL3002_T",
                     "duracao": "4",
-                    "sala": "FC3025",
+                    "sala": "FC3-119",
                     "profsig": "M\u00c2CFA",
                     "prof": "Maria \u00c2ngela Almeida"
                 }
@@ -420,7 +446,7 @@
                     "turma": "GEOL3002_TP",
                     "turmac": "GEOL3002_TP",
                     "duracao": "4",
-                    "sala": "FC3025",
+                    "sala": "FC3-119",
                     "profsig": "M\u00c2CFA",
                     "prof": "Maria \u00c2ngela Almeida"
                 }
@@ -511,19 +537,6 @@
                     "sala": "FC3-124B",
                     "profsig": "MAR",
                     "prof": "Anjos Ribeiro"
-                },
-                {
-                    "dia": 2,
-                    "hora": 9,
-                    "nome": "Petrologia Metam\u00f3rfica",
-                    "sigla": "GEOL2003",
-                    "tipo": "PL",
-                    "turma": "GEOL2003PL2",
-                    "turmac": "GEOL2003PL2",
-                    "duracao": "4",
-                    "sala": "FC3-124B",
-                    "profsig": "MAR",
-                    "prof": "Anjos Ribeiro"
                 }
             ],
             "nome": "Petrologia Metam\u00f3rfica",
@@ -537,7 +550,7 @@
                     "turma": "GEOL2003_T",
                     "turmac": "GEOL2003_T",
                     "duracao": "4",
-                    "sala": "FC3-119",
+                    "sala": "FC3015",
                     "profsig": "MAR",
                     "prof": "Anjos Ribeiro"
                 }
@@ -554,7 +567,7 @@
                     "turma": "GEOL3004_PL1",
                     "turmac": "GEOL3004_PL1",
                     "duracao": "4",
-                    "sala": "FC3-125B",
+                    "sala": "FC3-116+ -125B",
                     "profsig": "AJNGM",
                     "prof": "Ant\u00f3nio Moura"
                 },
@@ -567,7 +580,7 @@
                     "turma": "GEOL3004_PL2",
                     "turmac": "GEOL3004_PL2",
                     "duracao": "4",
-                    "sala": "FC3-125B",
+                    "sala": "FC3025+ - 125B",
                     "profsig": "AJNGM",
                     "prof": "Ant\u00f3nio Moura"
                 }
@@ -583,7 +596,7 @@
                     "turma": "GEOL3004_T",
                     "turmac": "GEOL3004_T",
                     "duracao": "4",
-                    "sala": "FC3-119",
+                    "sala": "FC3-116",
                     "profsig": "AJNGM",
                     "prof": "Ant\u00f3nio Moura"
                 }
@@ -634,8 +647,8 @@
                     "turmac": "GEOL3013_T",
                     "duracao": "4",
                     "sala": "FC3015",
-                    "profsig": "D.Convidado",
-                    "prof": null
+                    "profsig": "JPMR",
+                    "prof": "Joana Ribeiro"
                 }
             ],
             "nome": "Geologia de Engenharia",
@@ -650,8 +663,8 @@
                     "turmac": "GEOL3013_TP",
                     "duracao": "4",
                     "sala": "FC3015",
-                    "profsig": "D.Convidado",
-                    "prof": null
+                    "profsig": "JPMR",
+                    "prof": "Joana Ribeiro"
                 }
             ]
         },
@@ -699,7 +712,7 @@
                     "turma": "GEOL3015_T",
                     "turmac": "GEOL3015_T",
                     "duracao": "2",
-                    "sala": "FC3-116",
+                    "sala": "FC3024",
                     "profsig": "RMMM",
                     "prof": "Rui Moura"
                 }
@@ -715,7 +728,7 @@
                     "turma": "GEOL3015_TP",
                     "turmac": "GEOL3015_TP",
                     "duracao": "6",
-                    "sala": "FC3-116",
+                    "sala": "FC3024",
                     "profsig": "RMMM",
                     "prof": "Rui Moura"
                 }

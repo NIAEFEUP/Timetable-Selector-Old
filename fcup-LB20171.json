@@ -12,8 +12,8 @@
                     "turmac": "BIOL1012_PL1",
                     "duracao": "4",
                     "sala": "FC4108",
-                    "profsig": "JPSC",
-                    "prof": "Jo\u00e3o Cabral"
+                    "profsig": "CM+JC+LC+RA+SQ",
+                    "prof": null
                 },
                 {
                     "dia": 5,
@@ -25,8 +25,8 @@
                     "turmac": "BIOL1012_PL10",
                     "duracao": "4",
                     "sala": "FC4108",
-                    "profsig": "JPSC",
-                    "prof": "Jo\u00e3o Cabral"
+                    "profsig": "CM+JC+LC+RA+SQ",
+                    "prof": null
                 },
                 {
                     "dia": 1,
@@ -38,8 +38,8 @@
                     "turmac": "BIOL1012_PL2",
                     "duracao": "4",
                     "sala": "FC4108",
-                    "profsig": "JPSC",
-                    "prof": "Jo\u00e3o Cabral"
+                    "profsig": "CM+JC+LC+RA+SQ",
+                    "prof": null
                 },
                 {
                     "dia": 2,
@@ -51,8 +51,8 @@
                     "turmac": "BIOL1012_PL3",
                     "duracao": "4",
                     "sala": "FC4108",
-                    "profsig": "JPSC",
-                    "prof": "Jo\u00e3o Cabral"
+                    "profsig": "CM+JC+LC+RA+SQ",
+                    "prof": null
                 },
                 {
                     "dia": 2,
@@ -64,8 +64,8 @@
                     "turmac": "BIOL1012_PL4",
                     "duracao": "4",
                     "sala": "FC4108",
-                    "profsig": "JPSC",
-                    "prof": "Jo\u00e3o Cabral"
+                    "profsig": "CM+JC+LC+RA+SQ",
+                    "prof": null
                 },
                 {
                     "dia": 3,
@@ -77,8 +77,8 @@
                     "turmac": "BIOL1012_PL5",
                     "duracao": "4",
                     "sala": "FC4108",
-                    "profsig": "JPSC",
-                    "prof": "Jo\u00e3o Cabral"
+                    "profsig": "CM+JC+LC+RA+SQ",
+                    "prof": null
                 },
                 {
                     "dia": 3,
@@ -90,8 +90,8 @@
                     "turmac": "BIOL1012_PL6",
                     "duracao": "4",
                     "sala": "FC4108",
-                    "profsig": "JPSC",
-                    "prof": "Jo\u00e3o Cabral"
+                    "profsig": "CM+JC+LC+RA+SQ",
+                    "prof": null
                 },
                 {
                     "dia": 4,
@@ -103,8 +103,8 @@
                     "turmac": "BIOL1012_PL7",
                     "duracao": "4",
                     "sala": "FC4108",
-                    "profsig": "JPSC",
-                    "prof": "Jo\u00e3o Cabral"
+                    "profsig": "CM+JC+LC+RA+SQ",
+                    "prof": null
                 },
                 {
                     "dia": 4,
@@ -116,8 +116,8 @@
                     "turmac": "BIOL1012_PL8",
                     "duracao": "4",
                     "sala": "FC4108",
-                    "profsig": "JPSC",
-                    "prof": "Jo\u00e3o Cabral"
+                    "profsig": "CM+JC+LC+RA+SQ",
+                    "prof": null
                 },
                 {
                     "dia": 5,
@@ -129,8 +129,8 @@
                     "turmac": "BIOL1012_PL9",
                     "duracao": "4",
                     "sala": "FC4108",
-                    "profsig": "JPSC",
-                    "prof": "Jo\u00e3o Cabral"
+                    "profsig": "CM+JC+LC+RA+SQ",
+                    "prof": null
                 }
             ],
             "nome": "Biologia de Algas e Fungos",
@@ -526,7 +526,7 @@
                     "turma": "FIS1006_TP1",
                     "turmac": "FIS1006_TP1",
                     "duracao": "4",
-                    "sala": "FC3-116",
+                    "sala": "FC4040",
                     "profsig": "PPA",
                     "prof": "Pedro Avelino"
                 },
@@ -539,7 +539,7 @@
                     "turma": "FIS1006_TP2",
                     "turmac": "FIS1006_TP2",
                     "duracao": "4",
-                    "sala": "FC3-116",
+                    "sala": "FC4040",
                     "profsig": "PPA",
                     "prof": "Pedro Avelino"
                 },
@@ -646,7 +646,7 @@
                     "turma": "FIS1006_T2",
                     "turmac": "FIS1006_T2",
                     "duracao": "2",
-                    "sala": "FC4040",
+                    "sala": "FC4041",
                     "profsig": "MMRSALS",
                     "prof": "Manuela Lopes dos Santos"
                 },
@@ -659,7 +659,7 @@
                     "turma": "FIS1006_T2",
                     "turmac": "FIS1006_T2",
                     "duracao": "2",
-                    "sala": "FC4040",
+                    "sala": "FC4041",
                     "profsig": "MMRSALS",
                     "prof": "Manuela Lopes dos Santos"
                 }
@@ -712,8 +712,8 @@
                     "turmac": "BIOL1005_PL1",
                     "duracao": "4",
                     "sala": "FC4034",
-                    "profsig": "JT",
-                    "prof": "Jorge Teixeira"
+                    "profsig": "AMC+JT+HA",
+                    "prof": null
                 },
                 {
                     "dia": 1,
@@ -725,8 +725,8 @@
                     "turmac": "BIOL1005_PL2",
                     "duracao": "4",
                     "sala": "FC4034",
-                    "profsig": "JT",
-                    "prof": "Jorge Teixeira"
+                    "profsig": "AMC+JT+HA",
+                    "prof": null
                 },
                 {
                     "dia": 2,
@@ -738,8 +738,8 @@
                     "turmac": "BIOL1005_PL3",
                     "duracao": "4",
                     "sala": "FC4034",
-                    "profsig": "JT",
-                    "prof": "Jorge Teixeira"
+                    "profsig": "AMC+JT+HA",
+                    "prof": null
                 },
                 {
                     "dia": 2,
@@ -751,8 +751,8 @@
                     "turmac": "BIOL1005_PL4",
                     "duracao": "4",
                     "sala": "FC4034",
-                    "profsig": "JT",
-                    "prof": "Jorge Teixeira"
+                    "profsig": "AMC+JT+HA",
+                    "prof": null
                 },
                 {
                     "dia": 4,
@@ -764,8 +764,8 @@
                     "turmac": "BIOL1005_PL5",
                     "duracao": "4",
                     "sala": "FC4034",
-                    "profsig": "JT",
-                    "prof": "Jorge Teixeira"
+                    "profsig": "AMC+JT+HA",
+                    "prof": null
                 },
                 {
                     "dia": 4,
@@ -777,8 +777,8 @@
                     "turmac": "BIOL1005_PL6",
                     "duracao": "4",
                     "sala": "FC4034",
-                    "profsig": "JT",
-                    "prof": "Jorge Teixeira"
+                    "profsig": "AMC+JT+HA",
+                    "prof": null
                 },
                 {
                     "dia": 5,
@@ -790,8 +790,8 @@
                     "turmac": "BIOL1005_PL7",
                     "duracao": "4",
                     "sala": "FC4034",
-                    "profsig": "JT",
-                    "prof": "Jorge Teixeira"
+                    "profsig": "AMC+JT+HA",
+                    "prof": null
                 }
             ],
             "nome": "Fisiologia Vegetal",
@@ -1434,6 +1434,32 @@
                     "sala": "FC4021+FC4031",
                     "profsig": "LT+MS",
                     "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Toxicologia Geral",
+                    "sigla": "BIOL3001",
+                    "tipo": "PL",
+                    "turma": "BIOL3001_PL4",
+                    "turmac": "BIOL3001_PL4",
+                    "duracao": "4",
+                    "sala": "FC4021+FC4031",
+                    "profsig": "LT+MS",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 17,
+                    "nome": "Toxicologia Geral",
+                    "sigla": "BIOL3001",
+                    "tipo": "PL",
+                    "turma": "BIOL3001_PL5",
+                    "turmac": "BIOL3001_PL5",
+                    "duracao": "4",
+                    "sala": "FC4021+FC4031",
+                    "profsig": "LFPOT",
+                    "prof": "Luis Teles"
                 }
             ],
             "nome": "Toxicologia Geral",
@@ -1550,8 +1576,8 @@
                     "turmac": "BIOL3005_T",
                     "duracao": "4",
                     "sala": "FC4012",
-                    "profsig": "NEMMEF",
-                    "prof": "Nuno Formigo"
+                    "profsig": "NF+SA",
+                    "prof": null
                 }
             ],
             "nome": "Biologia Ambiental",
@@ -1566,8 +1592,8 @@
                     "turmac": "BIOL3005_TP",
                     "duracao": "4",
                     "sala": "FC4012",
-                    "profsig": "NEMMEF",
-                    "prof": "Nuno Formigo"
+                    "profsig": "NF+SA",
+                    "prof": null
                 }
             ]
         },
@@ -1856,9 +1882,9 @@
                     "turma": "EGEO2002_PL",
                     "turmac": "EGEO2002_PL",
                     "duracao": "4",
-                    "sala": "FC3015",
-                    "profsig": "ASM",
-                    "prof": "Am\u00e9rico Magalh\u00e3es"
+                    "sala": "FC3107",
+                    "profsig": "D.Convidados",
+                    "prof": null
                 }
             ],
             "nome": "Topografia",
@@ -1872,7 +1898,7 @@
                     "turma": "EGEO2002_T",
                     "turmac": "EGEO2002_T",
                     "duracao": "4",
-                    "sala": "FC3015",
+                    "sala": "FC3107",
                     "profsig": "ACMT",
                     "prof": "Ana Teodoro"
                 }

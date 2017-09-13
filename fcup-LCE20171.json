@@ -198,6 +198,109 @@
                 }
             ]
         },
+        "EF158": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 8,
+                    "nome": "Electr\u00f3nica Digital e Circuitos",
+                    "sigla": "EF158",
+                    "tipo": "T",
+                    "turma": "EF158_T",
+                    "turmac": "EF158_T",
+                    "duracao": "1",
+                    "sala": "FC3-119",
+                    "profsig": "MASS",
+                    "prof": "Manuel Silva"
+                },
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Electr\u00f3nica Digital e Circuitos",
+                    "sigla": "EF158",
+                    "tipo": "T",
+                    "turma": "EF158_T",
+                    "turmac": "EF158_T",
+                    "duracao": "2",
+                    "sala": "FC6029",
+                    "profsig": "MASS",
+                    "prof": "Manuel Silva"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Electr\u00f3nica Digital e Circuitos",
+                    "sigla": "EF158",
+                    "tipo": "T",
+                    "turma": "EF158_T",
+                    "turmac": "EF158_T",
+                    "duracao": "2",
+                    "sala": "FC6029",
+                    "profsig": "MASS",
+                    "prof": "Manuel Silva"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Electr\u00f3nica Digital e Circuitos",
+                    "sigla": "EF158",
+                    "tipo": "T",
+                    "turma": "EF158_TP1",
+                    "turmac": "EF158_TP1",
+                    "duracao": "4",
+                    "sala": "FC6137",
+                    "profsig": "MASS",
+                    "prof": "Manuel Silva"
+                }
+            ],
+            "nome": "Electr\u00f3nica Digital e Circuitos"
+        },
+        "EF159": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Mec\u00e2nica e Ondas",
+                    "sigla": "EF159",
+                    "tipo": "T",
+                    "turma": "EF159_T",
+                    "turmac": "EF159_T",
+                    "duracao": "2",
+                    "sala": "FC1003",
+                    "profsig": "MFGM",
+                    "prof": "Maria de F\u00e1tima Mota"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Mec\u00e2nica e Ondas",
+                    "sigla": "EF159",
+                    "tipo": "T",
+                    "turma": "EF159_T",
+                    "turmac": "EF159_T",
+                    "duracao": "2",
+                    "sala": "FC3-117",
+                    "profsig": "MFGM",
+                    "prof": "Maria de F\u00e1tima Mota"
+                }
+            ],
+            "nome": "Mec\u00e2nica e Ondas",
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 17,
+                    "nome": "Mec\u00e2nica e Ondas",
+                    "sigla": "EF159",
+                    "tipo": "TP",
+                    "turma": "EF159_TP1",
+                    "turmac": "EF159_TP1",
+                    "duracao": "4",
+                    "sala": "FC3013",
+                    "profsig": "PTPV",
+                    "prof": "Pedro Viana"
+                }
+            ]
+        },
         "EM191": {
             "PL": [
                 {
@@ -255,7 +358,7 @@
                     "turma": "EP101_TP",
                     "turmac": "EP101_TP",
                     "duracao": "3",
-                    "sala": "FC3015",
+                    "sala": "FC3-119",
                     "profsig": "AT+SC+LL",
                     "prof": null
                 }
@@ -308,7 +411,7 @@
                     "turma": "AGR3001_PL",
                     "turmac": "AGR3001_PL",
                     "duracao": "4",
-                    "sala": "FC3111",
+                    "sala": "FC3015",
                     "profsig": "SMPC",
                     "prof": "Susana Carvalho"
                 }
@@ -324,7 +427,7 @@
                     "turma": "AGR3001_T",
                     "turmac": "AGR3001_T",
                     "duracao": "3",
-                    "sala": "FC3111",
+                    "sala": "FC3015",
                     "profsig": "SMPC",
                     "prof": "Susana Carvalho"
                 }
@@ -545,9 +648,9 @@
                     "turma": "EEG241_PL",
                     "turmac": "EEG241_PL",
                     "duracao": "6",
-                    "sala": "FC3015",
-                    "profsig": "ASM",
-                    "prof": "Am\u00e9rico Magalh\u00e3es"
+                    "sala": "FC3107",
+                    "profsig": "DCONVIDADO",
+                    "prof": null
                 }
             ],
             "nome": "Topografia",
@@ -561,9 +664,42 @@
                     "turma": "EEG241_T",
                     "turmac": "EEG241_T",
                     "duracao": "4",
-                    "sala": "FC3015",
+                    "sala": "FC3107",
                     "profsig": "ACMT",
                     "prof": "Ana Teodoro"
+                }
+            ]
+        },
+        "EGEO3001": {
+            "PL": [
+                {
+                    "dia": 5,
+                    "hora": 16.5,
+                    "nome": "Localiza\u00e7\u00e3o por Sat\u00e9lite",
+                    "sigla": "EGEO3001",
+                    "tipo": "PL",
+                    "turma": "EGEO3001_PL",
+                    "turmac": "EGEO3001_PL",
+                    "duracao": "4",
+                    "sala": "FC4024",
+                    "profsig": "DConvidado",
+                    "prof": null
+                }
+            ],
+            "nome": "Localiza\u00e7\u00e3o por Sat\u00e9lite",
+            "T": [
+                {
+                    "dia": 5,
+                    "hora": 14.5,
+                    "nome": "Localiza\u00e7\u00e3o por Sat\u00e9lite",
+                    "sigla": "EGEO3001",
+                    "tipo": "T",
+                    "turma": "EGEO3001_T",
+                    "turmac": "EGEO3001_T",
+                    "duracao": "4",
+                    "sala": "FC4024",
+                    "profsig": "DJFM",
+                    "prof": "Dalmiro Maia"
                 }
             ]
         },
@@ -594,7 +730,7 @@
                     "turma": "EGEO3002_T",
                     "turmac": "EGEO3002_T",
                     "duracao": "4",
-                    "sala": "FC3025",
+                    "sala": "FC3015",
                     "profsig": "ACMT",
                     "prof": "Ana Teodoro"
                 }
@@ -878,7 +1014,7 @@
                     "turma": "EQ243_PL1",
                     "turmac": "EQ243_PL1",
                     "duracao": "4",
-                    "sala": "FC2-115+FC2-101",
+                    "sala": "FC2-115+FC2023",
                     "profsig": "JERB",
                     "prof": "Enrique Borges"
                 },
@@ -891,7 +1027,7 @@
                     "turma": "EQ243_PL2",
                     "turmac": "EQ243_PL2",
                     "duracao": "4",
-                    "sala": "FC2-115+FC2-101",
+                    "sala": "FC2-115+FC2007",
                     "profsig": "JERB",
                     "prof": "Enrique Borges"
                 },
@@ -904,7 +1040,7 @@
                     "turma": "EQ243_PL3",
                     "turmac": "EQ243_PL3",
                     "duracao": "4",
-                    "sala": "FC2-115+FC2-101",
+                    "sala": "FC2-115+FC2007",
                     "profsig": "PACG",
                     "prof": "Paula Gomes"
                 }
@@ -949,20 +1085,20 @@
                     "tipo": "PL",
                     "turma": "EQ253_PL1",
                     "turmac": "EQ253_PL1",
-                    "duracao": "2",
+                    "duracao": "4",
                     "sala": "FC2011+FC2013",
                     "profsig": "CMMP",
                     "prof": "Carlos Pereira"
                 },
                 {
                     "dia": 2,
-                    "hora": 17,
+                    "hora": 16,
                     "nome": "Qu\u00edmica Anal\u00edtica",
                     "sigla": "EQ253",
                     "tipo": "PL",
                     "turma": "EQ253_PL2",
                     "turmac": "EQ253_PL2",
-                    "duracao": "2",
+                    "duracao": "4",
                     "sala": "FC2011+FC2013",
                     "profsig": "JAMR",
                     "prof": "Jos\u00e9 Rodrigues"
@@ -975,7 +1111,7 @@
                     "tipo": "PL",
                     "turma": "EQ253_PL3",
                     "turmac": "EQ253_PL3",
-                    "duracao": "2",
+                    "duracao": "4",
                     "sala": "FC2011+FC2013",
                     "profsig": "JAMR",
                     "prof": "Jos\u00e9 Rodrigues"
@@ -1137,7 +1273,7 @@
                     "turma": "EAGR211_PL",
                     "turmac": "EAGR211_PL",
                     "duracao": "4",
-                    "sala": "FC3111",
+                    "sala": "FC3015",
                     "profsig": "SMPC",
                     "prof": "Susana Carvalho"
                 }
@@ -1153,7 +1289,7 @@
                     "turma": "EAGR211_T",
                     "turmac": "EAGR211_T",
                     "duracao": "3",
-                    "sala": "FC3111",
+                    "sala": "FC3015",
                     "profsig": "SMPC",
                     "prof": "Susana Carvalho"
                 }
@@ -1195,8 +1331,8 @@
         "ENOL": {
             "PL": [
                 {
-                    "dia": 3,
-                    "hora": 10,
+                    "dia": 2,
+                    "hora": 15.5,
                     "nome": "Enologia",
                     "sigla": "ENOL",
                     "tipo": "PL",
@@ -1211,8 +1347,8 @@
             "nome": "Enologia",
             "T": [
                 {
-                    "dia": 3,
-                    "hora": 8.5,
+                    "dia": 2,
+                    "hora": 14,
                     "nome": "Enologia",
                     "sigla": "ENOL",
                     "tipo": "T",
@@ -1410,7 +1546,7 @@
                     "turma": "EEG362_T",
                     "turmac": "EEG362_T",
                     "duracao": "4",
-                    "sala": "FC3025",
+                    "sala": "FC3015",
                     "profsig": "ACMT",
                     "prof": "Ana Teodoro"
                 }
@@ -1427,7 +1563,7 @@
                     "turma": "EG351_T",
                     "turmac": "EG351_T",
                     "duracao": "4",
-                    "sala": "FC3014",
+                    "sala": "FC3024",
                     "profsig": "DJFM",
                     "prof": "Dalmiro Maia"
                 }
@@ -1444,8 +1580,8 @@
                     "turmac": "EG351_TP",
                     "duracao": "6",
                     "sala": "FC3028",
-                    "profsig": "ASM",
-                    "prof": "Am\u00e9rico Magalh\u00e3es"
+                    "profsig": "DCONVIDADO",
+                    "prof": null
                 }
             ]
         },
@@ -1479,14 +1615,14 @@
                 },
                 {
                     "dia": 3,
-                    "hora": 12,
+                    "hora": 11,
                     "nome": "Qu\u00edmica F\u00edsica Biol\u00f3gica",
                     "sigla": "EQ283",
                     "tipo": "T",
                     "turma": "EQ283_T",
                     "turmac": "EQ283_T",
                     "duracao": "2",
-                    "sala": "FC2007",
+                    "sala": "FC2023",
                     "profsig": "MMHMB",
                     "prof": "Margarida Bastos"
                 }

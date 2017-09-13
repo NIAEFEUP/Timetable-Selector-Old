@@ -309,7 +309,7 @@
         "THCN": {
             "T": [
                 {
-                    "dia": 2,
+                    "dia": 4,
                     "hora": 18,
                     "nome": "Teoria e Hist\u00f3ria do Cinema",
                     "sigla": "THCN",
@@ -317,7 +317,7 @@
                     "turma": "THCN500",
                     "turmac": "THCN500",
                     "duracao": "4",
-                    "sala": "PS32",
+                    "sala": "PS01",
                     "profsig": "JPSC",
                     "prof": "Jo\u00e3o Cardoso"
                 }
@@ -852,7 +852,7 @@
                     "prof": "Norberto Jorge"
                 },
                 {
-                    "dia": 4,
+                    "dia": 5,
                     "hora": 9,
                     "nome": "Atelier I - Pintura",
                     "sigla": "API",

@@ -599,7 +599,7 @@
                     "tipo": "T",
                     "turma": "Q1_Q01",
                     "turmac": "COMP_1173",
-                    "duracao": "4",
+                    "duracao": "3",
                     "sala": "B004",
                     "profsig": "JMO",
                     "prof": "Jos\u00e9 \u00d3rf\u00e3o"
@@ -625,7 +625,7 @@
                     "tipo": "T",
                     "turma": "Q1_Q02",
                     "turmac": "COMP_1173",
-                    "duracao": "4",
+                    "duracao": "3",
                     "sala": "B004",
                     "profsig": "JMO",
                     "prof": "Jos\u00e9 \u00d3rf\u00e3o"
@@ -651,7 +651,7 @@
                     "tipo": "T",
                     "turma": "Q1_Q03",
                     "turmac": "COMP_1173",
-                    "duracao": "4",
+                    "duracao": "3",
                     "sala": "B004",
                     "profsig": "JMO",
                     "prof": "Jos\u00e9 \u00d3rf\u00e3o"
@@ -2366,8 +2366,8 @@
                     "turmac": "Q4_PEQIII03",
                     "duracao": "6",
                     "sala": "E005",
-                    "profsig": "AMM",
-                    "prof": "Ad\u00e9lio Mendes"
+                    "profsig": "AFPF",
+                    "prof": "Alexandre Ferreira"
                 },
                 {
                     "dia": 4,
@@ -2379,8 +2379,8 @@
                     "turmac": "Q4_PEQIII04",
                     "duracao": "6",
                     "sala": "E005",
-                    "profsig": "AFPF",
-                    "prof": "Alexandre Ferreira"
+                    "profsig": "AMM",
+                    "prof": "Ad\u00e9lio Mendes"
                 }
             ],
             "nome": "Pr\u00e1ticas de Engenharia Qu\u00edmica III"

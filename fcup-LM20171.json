@@ -587,8 +587,8 @@
                     "turmac": "M2007_T",
                     "duracao": "2",
                     "sala": "FC1030",
-                    "profsig": "ACHGO",
-                    "prof": "Ant\u00f3nio Guedes de Oliveira"
+                    "profsig": "PVAS",
+                    "prof": "Pedro Silva"
                 },
                 {
                     "dia": 4,
@@ -600,37 +600,24 @@
                     "turmac": "M2007_T",
                     "duracao": "2",
                     "sala": "FC1030",
-                    "profsig": "ACHGO",
-                    "prof": "Ant\u00f3nio Guedes de Oliveira"
+                    "profsig": "PVAS",
+                    "prof": "Pedro Silva"
                 }
             ],
             "nome": "Algoritmos em Matem\u00e1tica Discreta",
             "TP": [
                 {
                     "dia": 2,
-                    "hora": 12,
+                    "hora": 14.5,
                     "nome": "Algoritmos em Matem\u00e1tica Discreta",
                     "sigla": "M2007",
                     "tipo": "TP",
                     "turma": "M2007_TP",
                     "turmac": "M2007_TP",
-                    "duracao": "2",
-                    "sala": "FC1030",
-                    "profsig": "ACHGO",
-                    "prof": "Ant\u00f3nio Guedes de Oliveira"
-                },
-                {
-                    "dia": 4,
-                    "hora": 15.5,
-                    "nome": "Algoritmos em Matem\u00e1tica Discreta",
-                    "sigla": "M2007",
-                    "tipo": "TP",
-                    "turma": "M2007_TP",
-                    "turmac": "M2007_TP",
-                    "duracao": "2",
-                    "sala": "FC1030",
-                    "profsig": "ACHGO",
-                    "prof": "Ant\u00f3nio Guedes de Oliveira"
+                    "duracao": "4",
+                    "sala": "FC1219",
+                    "profsig": "PVAS",
+                    "prof": "Pedro Silva"
                 }
             ]
         },
@@ -645,7 +632,7 @@
                     "turma": "M2010_T",
                     "turmac": "M2010_T",
                     "duracao": "2",
-                    "sala": "FC1027",
+                    "sala": "FC1030",
                     "profsig": "ISL",
                     "prof": "Isabel Labouriau"
                 },
@@ -848,7 +835,7 @@
                     "turma": "M2025_T",
                     "turmac": "M2025_T",
                     "duracao": "2",
-                    "sala": "FC1027",
+                    "sala": "FC1005",
                     "profsig": "AMAMO",
                     "prof": "Ana Oliveira"
                 },
@@ -861,7 +848,7 @@
                     "turma": "M2025_T",
                     "turmac": "M2025_T",
                     "duracao": "2",
-                    "sala": "FC1226",
+                    "sala": "FC1005",
                     "profsig": "AMAMO",
                     "prof": "Ana Oliveira"
                 }
@@ -930,20 +917,20 @@
         "M3004": {
             "TP": [
                 {
-                    "dia": 1,
-                    "hora": 16.5,
+                    "dia": 4,
+                    "hora": 11,
                     "nome": "Complementos de Geometria",
                     "sigla": "M3004",
                     "tipo": "TP",
                     "turma": "M3004_TP",
                     "turmac": "M3004_TP",
                     "duracao": "4",
-                    "sala": "FC1004",
+                    "sala": "FC1030",
                     "profsig": "PVA",
                     "prof": "Paulo Ara\u00fajo"
                 },
                 {
-                    "dia": 4,
+                    "dia": 1,
                     "hora": 16.5,
                     "nome": "Complementos de Geometria",
                     "sigla": "M3004",
@@ -1023,19 +1010,6 @@
         "M3011": {
             "TP": [
                 {
-                    "dia": 4,
-                    "hora": 11,
-                    "nome": "Matem\u00e1tica Discreta",
-                    "sigla": "M3011",
-                    "tipo": "TP",
-                    "turma": "M3011_TP",
-                    "turmac": "M3011_TP",
-                    "duracao": "4",
-                    "sala": "FC1030",
-                    "profsig": "ACHGO",
-                    "prof": "Ant\u00f3nio Guedes de Oliveira"
-                },
-                {
                     "dia": 1,
                     "hora": 14.5,
                     "nome": "Matem\u00e1tica Discreta",
@@ -1045,8 +1019,21 @@
                     "turmac": "M3011_TP",
                     "duracao": "4",
                     "sala": "FC1004",
-                    "profsig": "ACHGO",
-                    "prof": "Ant\u00f3nio Guedes de Oliveira"
+                    "profsig": "PVAS+JMMR+LATO",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 16.5,
+                    "nome": "Matem\u00e1tica Discreta",
+                    "sigla": "M3011",
+                    "tipo": "TP",
+                    "turma": "M3011_TP",
+                    "turmac": "M3011_TP",
+                    "duracao": "4",
+                    "sala": "FC1030",
+                    "profsig": "PVAS+JMMR+LATO",
+                    "prof": null
                 }
             ],
             "nome": "Matem\u00e1tica Discreta"

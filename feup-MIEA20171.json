@@ -1114,15 +1114,15 @@
                     "prof": "Maria Cristina Vila"
                 },
                 {
-                    "dia": 5,
-                    "hora": 12,
+                    "dia": 4,
+                    "hora": 16.5,
                     "nome": "Reabilita\u00e7\u00e3o de Solos e Aqu\u00edferos",
                     "sigla": "RSA",
                     "tipo": "TP",
                     "turma": "MIEA402",
                     "turmac": "MIEA402",
                     "duracao": "2",
-                    "sala": "B111",
+                    "sala": "B216",
                     "profsig": "MCV",
                     "prof": "Maria Cristina Vila"
                 }
@@ -1324,176 +1324,6 @@
                     "sala": "B021",
                     "profsig": "JMMD",
                     "prof": "Joana Dias"
-                }
-            ]
-        },
-        "SSO": {
-            "PL": [
-                {
-                    "dia": 2,
-                    "hora": 18,
-                    "nome": "Semin\u00e1rios de Seguran\u00e7a Ocupacional",
-                    "sigla": "SSO",
-                    "tipo": "PL",
-                    "turma": "MIEA401",
-                    "turmac": "1MESHO2+MIEA",
-                    "duracao": "4",
-                    "sala": "B232A",
-                    "profsig": "sso",
-                    "prof": null
-                },
-                {
-                    "dia": 2,
-                    "hora": 20,
-                    "nome": "Semin\u00e1rios de Seguran\u00e7a Ocupacional",
-                    "sigla": "SSO",
-                    "tipo": "PL",
-                    "turma": "MIEA401",
-                    "turmac": "1MESHO1+MIEA",
-                    "duracao": "4",
-                    "sala": "B232A",
-                    "profsig": "sso",
-                    "prof": null
-                },
-                {
-                    "dia": 2,
-                    "hora": 18,
-                    "nome": "Semin\u00e1rios de Seguran\u00e7a Ocupacional",
-                    "sigla": "SSO",
-                    "tipo": "PL",
-                    "turma": "MIEA402",
-                    "turmac": "1MESHO2+MIEA",
-                    "duracao": "4",
-                    "sala": "B232A",
-                    "profsig": "sso",
-                    "prof": null
-                },
-                {
-                    "dia": 2,
-                    "hora": 20,
-                    "nome": "Semin\u00e1rios de Seguran\u00e7a Ocupacional",
-                    "sigla": "SSO",
-                    "tipo": "PL",
-                    "turma": "MIEA402",
-                    "turmac": "1MESHO1+MIEA",
-                    "duracao": "4",
-                    "sala": "B232A",
-                    "profsig": "sso",
-                    "prof": null
-                }
-            ],
-            "nome": "Semin\u00e1rios de Seguran\u00e7a Ocupacional",
-            "T": [
-                {
-                    "dia": 3,
-                    "hora": 18,
-                    "nome": "Semin\u00e1rios de Seguran\u00e7a Ocupacional",
-                    "sigla": "SSO",
-                    "tipo": "T",
-                    "turma": "MIEA401",
-                    "turmac": "MESHO+MIEA",
-                    "duracao": "4",
-                    "sala": "B232A",
-                    "profsig": "sso",
-                    "prof": null
-                },
-                {
-                    "dia": 3,
-                    "hora": 18,
-                    "nome": "Semin\u00e1rios de Seguran\u00e7a Ocupacional",
-                    "sigla": "SSO",
-                    "tipo": "T",
-                    "turma": "MIEA402",
-                    "turmac": "MESHO+MIEA",
-                    "duracao": "4",
-                    "sala": "B232A",
-                    "profsig": "sso",
-                    "prof": null
-                }
-            ]
-        },
-        "SHO": {
-            "T": [
-                {
-                    "dia": 5,
-                    "hora": 18,
-                    "nome": "Semin\u00e1rios de Higiene Ocupacional",
-                    "sigla": "SHO",
-                    "tipo": "T",
-                    "turma": "MIEA401",
-                    "turmac": "MESHO+MIEA",
-                    "duracao": "4",
-                    "sala": "B232A",
-                    "profsig": "sho",
-                    "prof": null
-                },
-                {
-                    "dia": 5,
-                    "hora": 18,
-                    "nome": "Semin\u00e1rios de Higiene Ocupacional",
-                    "sigla": "SHO",
-                    "tipo": "T",
-                    "turma": "MIEA402",
-                    "turmac": "MESHO+MIEA",
-                    "duracao": "4",
-                    "sala": "B232A",
-                    "profsig": "sho",
-                    "prof": null
-                }
-            ],
-            "nome": "Semin\u00e1rios de Higiene Ocupacional",
-            "PL": [
-                {
-                    "dia": 3,
-                    "hora": 20,
-                    "nome": "Semin\u00e1rios de Higiene Ocupacional",
-                    "sigla": "SHO",
-                    "tipo": "PL",
-                    "turma": "MIEA401",
-                    "turmac": "1MESHO1+MIEA",
-                    "duracao": "4",
-                    "sala": "B232A",
-                    "profsig": "sho",
-                    "prof": null
-                },
-                {
-                    "dia": 5,
-                    "hora": 20,
-                    "nome": "Semin\u00e1rios de Higiene Ocupacional",
-                    "sigla": "SHO",
-                    "tipo": "PL",
-                    "turma": "MIEA401",
-                    "turmac": "1MESHO2+MIEA",
-                    "duracao": "4",
-                    "sala": "B232A",
-                    "profsig": "sho",
-                    "prof": null
-                },
-                {
-                    "dia": 3,
-                    "hora": 20,
-                    "nome": "Semin\u00e1rios de Higiene Ocupacional",
-                    "sigla": "SHO",
-                    "tipo": "PL",
-                    "turma": "MIEA402",
-                    "turmac": "1MESHO1+MIEA",
-                    "duracao": "4",
-                    "sala": "B232A",
-                    "profsig": "sho",
-                    "prof": null
-                },
-                {
-                    "dia": 5,
-                    "hora": 20,
-                    "nome": "Semin\u00e1rios de Higiene Ocupacional",
-                    "sigla": "SHO",
-                    "tipo": "PL",
-                    "turma": "MIEA402",
-                    "turmac": "1MESHO2+MIEA",
-                    "duracao": "4",
-                    "sala": "B232A",
-                    "profsig": "sho",
-                    "prof": null
                 }
             ]
         }
@@ -1819,6 +1649,163 @@
                 }
             ],
             "nome": "Gest\u00e3o Empresarial"
+        },
+        "SSO": {
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 18,
+                    "nome": "Semin\u00e1rios de Seguran\u00e7a Ocupacional",
+                    "sigla": "SSO",
+                    "tipo": "T",
+                    "turma": "MIEA501",
+                    "turmac": "MESHO+MIEA",
+                    "duracao": "4",
+                    "sala": "B232A",
+                    "profsig": "sso",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 18,
+                    "nome": "Semin\u00e1rios de Seguran\u00e7a Ocupacional",
+                    "sigla": "SSO",
+                    "tipo": "T",
+                    "turma": "MIEA502",
+                    "turmac": "MESHO+MIEA",
+                    "duracao": "4",
+                    "sala": "B232A",
+                    "profsig": "sso",
+                    "prof": null
+                }
+            ],
+            "nome": "Semin\u00e1rios de Seguran\u00e7a Ocupacional",
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 20,
+                    "nome": "Semin\u00e1rios de Seguran\u00e7a Ocupacional",
+                    "sigla": "SSO",
+                    "tipo": "PL",
+                    "turma": "MIEA501",
+                    "turmac": "1MESHO1+MIEA",
+                    "duracao": "4",
+                    "sala": "B232A",
+                    "profsig": "sso",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 18,
+                    "nome": "Semin\u00e1rios de Seguran\u00e7a Ocupacional",
+                    "sigla": "SSO",
+                    "tipo": "PL",
+                    "turma": "MIEA502",
+                    "turmac": "1MESHO2+MIEA",
+                    "duracao": "4",
+                    "sala": "B232A",
+                    "profsig": "sso",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 20,
+                    "nome": "Semin\u00e1rios de Seguran\u00e7a Ocupacional",
+                    "sigla": "SSO",
+                    "tipo": "PL",
+                    "turma": "MIEA502",
+                    "turmac": "1MESHO1+MIEA",
+                    "duracao": "4",
+                    "sala": "B232A",
+                    "profsig": "sso",
+                    "prof": null
+                }
+            ]
+        },
+        "SHO": {
+            "T": [
+                {
+                    "dia": 5,
+                    "hora": 18,
+                    "nome": "Semin\u00e1rios de Higiene Ocupacional",
+                    "sigla": "SHO",
+                    "tipo": "T",
+                    "turma": "MIEA501",
+                    "turmac": "MESHO+MIEA",
+                    "duracao": "4",
+                    "sala": "B232A",
+                    "profsig": "sho",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 18,
+                    "nome": "Semin\u00e1rios de Higiene Ocupacional",
+                    "sigla": "SHO",
+                    "tipo": "T",
+                    "turma": "MIEA502",
+                    "turmac": "MESHO+MIEA",
+                    "duracao": "4",
+                    "sala": "B232A",
+                    "profsig": "sho",
+                    "prof": null
+                }
+            ],
+            "nome": "Semin\u00e1rios de Higiene Ocupacional",
+            "PL": [
+                {
+                    "dia": 3,
+                    "hora": 20,
+                    "nome": "Semin\u00e1rios de Higiene Ocupacional",
+                    "sigla": "SHO",
+                    "tipo": "PL",
+                    "turma": "MIEA501",
+                    "turmac": "1MESHO1+MIEA",
+                    "duracao": "4",
+                    "sala": "B232A",
+                    "profsig": "sho",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 20,
+                    "nome": "Semin\u00e1rios de Higiene Ocupacional",
+                    "sigla": "SHO",
+                    "tipo": "PL",
+                    "turma": "MIEA501",
+                    "turmac": "1MESHO2+MIEA",
+                    "duracao": "4",
+                    "sala": "B232A",
+                    "profsig": "sho",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 20,
+                    "nome": "Semin\u00e1rios de Higiene Ocupacional",
+                    "sigla": "SHO",
+                    "tipo": "PL",
+                    "turma": "MIEA502",
+                    "turmac": "1MESHO1+MIEA",
+                    "duracao": "4",
+                    "sala": "B232A",
+                    "profsig": "sho",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 20,
+                    "nome": "Semin\u00e1rios de Higiene Ocupacional",
+                    "sigla": "SHO",
+                    "tipo": "PL",
+                    "turma": "MIEA502",
+                    "turmac": "1MESHO2+MIEA",
+                    "duracao": "4",
+                    "sala": "B232A",
+                    "profsig": "sho",
+                    "prof": null
+                }
+            ]
         }
     }
 }

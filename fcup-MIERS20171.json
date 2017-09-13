@@ -25,8 +25,8 @@
                     "turmac": "F3001_PL2",
                     "duracao": "4",
                     "sala": "FC6137",
-                    "profsig": "MASS",
-                    "prof": "Manuel Silva"
+                    "profsig": "PASJ",
+                    "prof": "Pedro Jorge"
                 },
                 {
                     "dia": 4,
@@ -38,8 +38,8 @@
                     "turmac": "F3001_PL3",
                     "duracao": "4",
                     "sala": "FC6137",
-                    "profsig": "PVSM",
-                    "prof": "Paulo Marques"
+                    "profsig": "MASS",
+                    "prof": "Manuel Silva"
                 }
             ],
             "nome": "Electr\u00f3nica Digital e Circuitos",
@@ -54,8 +54,8 @@
                     "turmac": "F3001_T",
                     "duracao": "2",
                     "sala": "FC6029",
-                    "profsig": "PVSM",
-                    "prof": "Paulo Marques"
+                    "profsig": "MASS",
+                    "prof": "Manuel Silva"
                 },
                 {
                     "dia": 4,
@@ -67,8 +67,8 @@
                     "turmac": "F3001_T",
                     "duracao": "2",
                     "sala": "FC6029",
-                    "profsig": "PVSM",
-                    "prof": "Paulo Marques"
+                    "profsig": "MASS",
+                    "prof": "Manuel Silva"
                 }
             ]
         }
@@ -85,7 +85,7 @@
                     "turma": "CC4037_TP",
                     "turmac": "CC4037_TP",
                     "duracao": "3",
-                    "sala": "FC6010",
+                    "sala": "FC6142",
                     "profsig": "rprior",
                     "prof": "Rui Prior"
                 },
@@ -98,7 +98,7 @@
                     "turma": "CC4037_TP",
                     "turmac": "CC4037_TP",
                     "duracao": "3",
-                    "sala": "FC6010",
+                    "sala": "FC6142",
                     "profsig": "rprior",
                     "prof": "Rui Prior"
                 }

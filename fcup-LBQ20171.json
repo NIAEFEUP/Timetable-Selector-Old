@@ -94,7 +94,7 @@
                 },
                 {
                     "dia": 3,
-                    "hora": 11,
+                    "hora": 12,
                     "nome": "Elementos de Estat\u00edstica",
                     "sigla": "M1022",
                     "tipo": "TP",
@@ -137,14 +137,14 @@
                 },
                 {
                     "dia": 3,
-                    "hora": 12,
+                    "hora": 11,
                     "nome": "Qu\u00edmica F\u00edsica Biol\u00f3gica",
                     "sigla": "Q2015",
                     "tipo": "T",
                     "turma": "Q2015_T",
                     "turmac": "Q2015_T",
                     "duracao": "2",
-                    "sala": "FC2007",
+                    "sala": "FC2023",
                     "profsig": "MMHMB",
                     "prof": "Margarida Bastos"
                 }
@@ -258,7 +258,7 @@
                     "turma": "Q2018_T",
                     "turmac": "Q2018_T",
                     "duracao": "2",
-                    "sala": "FC2023",
+                    "sala": "FC4041",
                     "profsig": "MJSMPA",
                     "prof": "Maria Jo\u00e3o Ara\u00fajo"
                 },
@@ -271,7 +271,7 @@
                     "turma": "Q2018_T",
                     "turmac": "Q2018_T",
                     "duracao": "2",
-                    "sala": "FC2023",
+                    "sala": "FC2007",
                     "profsig": "MJSMPA",
                     "prof": "Maria Jo\u00e3o Ara\u00fajo"
                 }
@@ -287,23 +287,23 @@
                     "tipo": "PL",
                     "turma": "Q2020_PL1",
                     "turmac": "Q2020_PL1",
-                    "duracao": "2",
+                    "duracao": "4",
                     "sala": "FC2011+FC2013",
                     "profsig": "JAMR",
                     "prof": "Jos\u00e9 Rodrigues"
                 },
                 {
                     "dia": 2,
-                    "hora": 15,
+                    "hora": 14,
                     "nome": "Qu\u00edmica Anal\u00edtica",
                     "sigla": "Q2020",
                     "tipo": "PL",
                     "turma": "Q2020_PL2",
                     "turmac": "Q2020_PL2",
-                    "duracao": "2",
+                    "duracao": "4",
                     "sala": "FC2011+FC2013",
-                    "profsig": "PJFA",
-                    "prof": "Paulo Almeida"
+                    "profsig": "LGLFG",
+                    "prof": "Luis Guido"
                 },
                 {
                     "dia": 3,
@@ -313,20 +313,20 @@
                     "tipo": "PL",
                     "turma": "Q2020_PL3",
                     "turmac": "Q2020_PL3",
-                    "duracao": "2",
+                    "duracao": "4",
                     "sala": "FC2011+FC2013",
-                    "profsig": "LGLFG",
-                    "prof": "Luis Guido"
+                    "profsig": "JAMR",
+                    "prof": "Jos\u00e9 Rodrigues"
                 },
                 {
                     "dia": 3,
-                    "hora": 15,
+                    "hora": 14,
                     "nome": "Qu\u00edmica Anal\u00edtica",
                     "sigla": "Q2020",
                     "tipo": "PL",
                     "turma": "Q2020_PL4",
                     "turmac": "Q2020_PL4",
-                    "duracao": "2",
+                    "duracao": "4",
                     "sala": "FC2011+FC2013",
                     "profsig": "PJFA",
                     "prof": "Paulo Almeida"
@@ -356,33 +356,33 @@
                     "turma": "Q2020_T",
                     "turmac": "Q2020_T",
                     "duracao": "2",
-                    "sala": "FC2007",
-                    "profsig": "CMMP",
-                    "prof": "Carlos Pereira"
-                },
-                {
-                    "dia": 1,
-                    "hora": 16,
-                    "nome": "Qu\u00edmica Anal\u00edtica",
-                    "sigla": "Q2020",
-                    "tipo": "T",
-                    "turma": "Q2020_TP2",
-                    "turmac": "Q2020_TP2",
-                    "duracao": "4",
-                    "sala": "FC2-104",
+                    "sala": "FC2-101",
                     "profsig": "CMMP",
                     "prof": "Carlos Pereira"
                 }
             ],
             "TP": [
                 {
-                    "dia": 1,
+                    "dia": 2,
                     "hora": 14,
                     "nome": "Qu\u00edmica Anal\u00edtica",
                     "sigla": "Q2020",
                     "tipo": "TP",
                     "turma": "Q2020_TP1",
                     "turmac": "Q2020_TP1",
+                    "duracao": "4",
+                    "sala": "FC1003",
+                    "profsig": "JAMR",
+                    "prof": "Jos\u00e9 Rodrigues"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Qu\u00edmica Anal\u00edtica",
+                    "sigla": "Q2020",
+                    "tipo": "TP",
+                    "turma": "Q2020_TP2",
+                    "turmac": "Q2020_TP2",
                     "duracao": "4",
                     "sala": "FC2-104",
                     "profsig": "JAMR",

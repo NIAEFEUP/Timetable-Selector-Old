@@ -287,7 +287,7 @@
                 },
                 {
                     "dia": 4,
-                    "hora": 10,
+                    "hora": 9.5,
                     "nome": "Programa\u00e7\u00e3o de Computadores I",
                     "sigla": "PC I",
                     "tipo": "TP",
@@ -1812,8 +1812,8 @@
                     "turmac": "COMP_671",
                     "duracao": "4",
                     "sala": "B201",
-                    "profsig": "JST",
-                    "prof": "Jo\u00e3o Manuel Ribeiro da Silva Tavares"
+                    "profsig": "MC",
+                    "prof": "Marcelo Costa"
                 },
                 {
                     "dia": 5,
@@ -1825,8 +1825,8 @@
                     "turmac": "COMP_671",
                     "duracao": "4",
                     "sala": "B201",
-                    "profsig": "JST",
-                    "prof": "Jo\u00e3o Manuel Ribeiro da Silva Tavares"
+                    "profsig": "MC",
+                    "prof": "Marcelo Costa"
                 },
                 {
                     "dia": 2,
@@ -1838,8 +1838,8 @@
                     "turmac": "COMP_1203",
                     "duracao": "4",
                     "sala": "B301",
-                    "profsig": "M",
-                    "prof": "Marco Parente"
+                    "profsig": "JST",
+                    "prof": "Jo\u00e3o Manuel Ribeiro da Silva Tavares"
                 },
                 {
                     "dia": 2,
@@ -1851,8 +1851,8 @@
                     "turmac": "COMP_1203",
                     "duracao": "4",
                     "sala": "B301",
-                    "profsig": "M",
-                    "prof": "Marco Parente"
+                    "profsig": "JST",
+                    "prof": "Jo\u00e3o Manuel Ribeiro da Silva Tavares"
                 }
             ]
         },

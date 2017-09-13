@@ -312,6 +312,19 @@
         "AST3005": {
             "T": [
                 {
+                    "dia": 4,
+                    "hora": 14.5,
+                    "nome": "Fluidos e Plasmas em Astrof\u00edsica",
+                    "sigla": "AST3005",
+                    "tipo": "T",
+                    "turma": "AST3005_T",
+                    "turmac": "AST3005_T",
+                    "duracao": "2",
+                    "sala": "FC3026",
+                    "profsig": "JJFGAL",
+                    "prof": "Jo\u00e3o Lima"
+                },
+                {
                     "dia": 1,
                     "hora": 15.5,
                     "nome": "Fluidos e Plasmas em Astrof\u00edsica",
@@ -320,20 +333,7 @@
                     "turma": "AST3005_T",
                     "turmac": "AST3005_T",
                     "duracao": "3",
-                    "sala": "FC3014",
-                    "profsig": "JJFGAL",
-                    "prof": "Jo\u00e3o Lima"
-                },
-                {
-                    "dia": 4,
-                    "hora": 16,
-                    "nome": "Fluidos e Plasmas em Astrof\u00edsica",
-                    "sigla": "AST3005",
-                    "tipo": "T",
-                    "turma": "AST3005_T",
-                    "turmac": "AST3005_T",
-                    "duracao": "2",
-                    "sala": "FC3026",
+                    "sala": "FC3023",
                     "profsig": "JJFGAL",
                     "prof": "Jo\u00e3o Lima"
                 }
@@ -398,21 +398,8 @@
                     "tipo": "T",
                     "turma": "FIS3001_T",
                     "turmac": "FIS3001_T",
-                    "duracao": "3",
+                    "duracao": "4",
                     "sala": "FC3-117",
-                    "profsig": "MSC",
-                    "prof": "Miguel Costa"
-                },
-                {
-                    "dia": 4,
-                    "hora": 15,
-                    "nome": "Eletrodin\u00e2mica e Relatividade",
-                    "sigla": "FIS3001",
-                    "tipo": "T",
-                    "turma": "FIS3001_T",
-                    "turmac": "FIS3001_T",
-                    "duracao": "2",
-                    "sala": "FC3026",
                     "profsig": "MSC",
                     "prof": "Miguel Costa"
                 }
@@ -421,7 +408,7 @@
             "TP": [
                 {
                     "dia": 2,
-                    "hora": 11,
+                    "hora": 11.5,
                     "nome": "Eletrodin\u00e2mica e Relatividade",
                     "sigla": "FIS3001",
                     "tipo": "TP",

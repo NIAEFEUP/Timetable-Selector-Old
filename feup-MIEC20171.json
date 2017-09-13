@@ -266,15 +266,15 @@
                     "prof": "Ana Maria Faustino"
                 },
                 {
-                    "dia": 1,
-                    "hora": 17.5,
+                    "dia": 4,
+                    "hora": 10,
                     "nome": "\u00c1lgebra",
                     "sigla": "ALGE",
                     "tipo": "P",
                     "turma": "11MC05",
                     "turmac": "11MC05",
                     "duracao": "4",
-                    "sala": "B323",
+                    "sala": "B217",
                     "profsig": "AMF",
                     "prof": "Ana Maria Faustino"
                 },
@@ -1107,14 +1107,14 @@
                 },
                 {
                     "dia": 4,
-                    "hora": 17.5,
+                    "hora": 13.5,
                     "nome": "Computa\u00e7\u00e3o",
                     "sigla": "COMP",
                     "tipo": "P",
                     "turma": "11MC06",
                     "turmac": "11MC06",
                     "duracao": "3",
-                    "sala": "B312",
+                    "sala": "B308",
                     "profsig": "AMF",
                     "prof": "Ana Maria Faustino"
                 },
@@ -1536,15 +1536,15 @@
             "nome": "An\u00e1lise Matem\u00e1tica 3",
             "P": [
                 {
-                    "dia": 5,
-                    "hora": 13.5,
+                    "dia": 2,
+                    "hora": 16.5,
                     "nome": "An\u00e1lise Matem\u00e1tica 3",
                     "sigla": "AMAT3",
                     "tipo": "P",
                     "turma": "21MC01",
                     "turmac": "21MC01",
                     "duracao": "4",
-                    "sala": "B308",
+                    "sala": "B313",
                     "profsig": "MAdSM",
                     "prof": "Miguel \u00c2ngelo De Sousa Mendes"
                 },
@@ -1589,7 +1589,7 @@
                 },
                 {
                     "dia": 1,
-                    "hora": 15.5,
+                    "hora": 16,
                     "nome": "An\u00e1lise Matem\u00e1tica 3",
                     "sigla": "AMAT3",
                     "tipo": "P",
@@ -2105,8 +2105,8 @@
                     "turmac": "21MC01",
                     "duracao": "4",
                     "sala": "B311",
-                    "profsig": "PSC",
-                    "prof": "Paulo Concei\u00e7\u00e3o"
+                    "profsig": "SSC",
+                    "prof": "Sara Cruz"
                 },
                 {
                     "dia": 4,
@@ -2118,8 +2118,8 @@
                     "turmac": "21MC02",
                     "duracao": "4",
                     "sala": "B311",
-                    "profsig": "SSC",
-                    "prof": "Sara Cruz"
+                    "profsig": "PSC",
+                    "prof": "Paulo Concei\u00e7\u00e3o"
                 },
                 {
                     "dia": 2,
@@ -2131,8 +2131,8 @@
                     "turmac": "21MC03",
                     "duracao": "4",
                     "sala": "B311",
-                    "profsig": "PSC",
-                    "prof": "Paulo Concei\u00e7\u00e3o"
+                    "profsig": "SSC",
+                    "prof": "Sara Cruz"
                 },
                 {
                     "dia": 4,
@@ -2144,8 +2144,8 @@
                     "turmac": "21MC04",
                     "duracao": "4",
                     "sala": "B311",
-                    "profsig": "SSC",
-                    "prof": "Sara Cruz"
+                    "profsig": "PSC",
+                    "prof": "Paulo Concei\u00e7\u00e3o"
                 },
                 {
                     "dia": 1,
@@ -2170,8 +2170,8 @@
                     "turmac": "21MC06",
                     "duracao": "4",
                     "sala": "B311",
-                    "profsig": "PSC",
-                    "prof": "Paulo Concei\u00e7\u00e3o"
+                    "profsig": "SSC",
+                    "prof": "Sara Cruz"
                 },
                 {
                     "dia": 2,
@@ -2183,8 +2183,8 @@
                     "turmac": "21MC07",
                     "duracao": "4",
                     "sala": "B203",
-                    "profsig": "SSC",
-                    "prof": "Sara Cruz"
+                    "profsig": "PSC",
+                    "prof": "Paulo Concei\u00e7\u00e3o"
                 }
             ]
         },
@@ -2423,7 +2423,7 @@
                     "turma": "21MC02",
                     "turmac": "21MC02",
                     "duracao": "2",
-                    "sala": "B217",
+                    "sala": "B109",
                     "profsig": "XNR",
                     "prof": "Xavier Rom\u00e3o"
                 },
@@ -3663,7 +3663,7 @@
                     "sigla": "FCON",
                     "tipo": "T",
                     "turma": "31MC01",
-                    "turmac": "COMP_1803",
+                    "turmac": "comp_fcon",
                     "duracao": "2",
                     "sala": "B013",
                     "profsig": "VAA",
@@ -3676,7 +3676,7 @@
                     "sigla": "FCON",
                     "tipo": "T",
                     "turma": "31MC01",
-                    "turmac": "COMP_1803",
+                    "turmac": "comp_fcon",
                     "duracao": "2",
                     "sala": "B020",
                     "profsig": "VAA",
@@ -3710,12 +3710,12 @@
                 },
                 {
                     "dia": 2,
-                    "hora": 11,
+                    "hora": 9,
                     "nome": "F\u00edsica das Constru\u00e7\u00f5es",
                     "sigla": "FCON",
                     "tipo": "T",
                     "turma": "31MC03",
-                    "turmac": "COMP_1805",
+                    "turmac": "comp_fcon",
                     "duracao": "2",
                     "sala": "B013",
                     "profsig": "VAA",
@@ -3723,12 +3723,12 @@
                 },
                 {
                     "dia": 4,
-                    "hora": 11,
+                    "hora": 9,
                     "nome": "F\u00edsica das Constru\u00e7\u00f5es",
                     "sigla": "FCON",
                     "tipo": "T",
                     "turma": "31MC03",
-                    "turmac": "COMP_1805",
+                    "turmac": "comp_fcon",
                     "duracao": "2",
                     "sala": "B020",
                     "profsig": "VAA",
@@ -3741,7 +3741,7 @@
                     "sigla": "FCON",
                     "tipo": "T",
                     "turma": "31MC04",
-                    "turmac": "COMP_1803",
+                    "turmac": "comp_fcon",
                     "duracao": "2",
                     "sala": "B013",
                     "profsig": "VAA",
@@ -3754,7 +3754,7 @@
                     "sigla": "FCON",
                     "tipo": "T",
                     "turma": "31MC04",
-                    "turmac": "COMP_1803",
+                    "turmac": "comp_fcon",
                     "duracao": "2",
                     "sala": "B020",
                     "profsig": "VAA",
@@ -3788,12 +3788,12 @@
                 },
                 {
                     "dia": 2,
-                    "hora": 11,
+                    "hora": 9,
                     "nome": "F\u00edsica das Constru\u00e7\u00f5es",
                     "sigla": "FCON",
                     "tipo": "T",
                     "turma": "31MC06",
-                    "turmac": "COMP_1805",
+                    "turmac": "comp_fcon",
                     "duracao": "2",
                     "sala": "B013",
                     "profsig": "VAA",
@@ -3801,12 +3801,12 @@
                 },
                 {
                     "dia": 4,
-                    "hora": 11,
+                    "hora": 9,
                     "nome": "F\u00edsica das Constru\u00e7\u00f5es",
                     "sigla": "FCON",
                     "tipo": "T",
                     "turma": "31MC06",
-                    "turmac": "COMP_1805",
+                    "turmac": "comp_fcon",
                     "duracao": "2",
                     "sala": "B020",
                     "profsig": "VAA",
@@ -3882,14 +3882,14 @@
                 },
                 {
                     "dia": 2,
-                    "hora": 9,
+                    "hora": 10,
                     "nome": "F\u00edsica das Constru\u00e7\u00f5es",
                     "sigla": "FCON",
                     "tipo": "TP",
                     "turma": "31MC06",
                     "turmac": "31MC06",
                     "duracao": "4",
-                    "sala": "B229",
+                    "sala": "B108",
                     "profsig": "AVS",
                     "prof": "Ana S\u00e1"
                 }
@@ -6603,91 +6603,6 @@
         }
     },
     "5\u00ba Ano": {
-        "TEDI": {
-            "TP": [
-                {
-                    "dia": 3,
-                    "hora": 8,
-                    "nome": "T\u00e9rmica de Edif\u00edcios",
-                    "sigla": "TEDI",
-                    "tipo": "TP",
-                    "turma": "51MCC1",
-                    "turmac": "51MCC1",
-                    "duracao": "4",
-                    "sala": "B332",
-                    "profsig": "MHC",
-                    "prof": "Maria Helena Corvacho"
-                },
-                {
-                    "dia": 2,
-                    "hora": 8.5,
-                    "nome": "T\u00e9rmica de Edif\u00edcios",
-                    "sigla": "TEDI",
-                    "tipo": "TP",
-                    "turma": "51MCC2",
-                    "turmac": "51MCC2",
-                    "duracao": "4",
-                    "sala": "B326",
-                    "profsig": "MHC",
-                    "prof": "Maria Helena Corvacho"
-                }
-            ],
-            "nome": "T\u00e9rmica de Edif\u00edcios",
-            "T": [
-                {
-                    "dia": 2,
-                    "hora": 10.5,
-                    "nome": "T\u00e9rmica de Edif\u00edcios",
-                    "sigla": "TEDI",
-                    "tipo": "T",
-                    "turma": "51MCC1",
-                    "turmac": "COMP_1870",
-                    "duracao": "2",
-                    "sala": "B006",
-                    "profsig": "MHC",
-                    "prof": "Maria Helena Corvacho"
-                },
-                {
-                    "dia": 3,
-                    "hora": 10.5,
-                    "nome": "T\u00e9rmica de Edif\u00edcios",
-                    "sigla": "TEDI",
-                    "tipo": "T",
-                    "turma": "51MCC1",
-                    "turmac": "COMP_1870",
-                    "duracao": "2",
-                    "sala": "B016",
-                    "profsig": "MHC",
-                    "prof": "Maria Helena Corvacho"
-                },
-                {
-                    "dia": 2,
-                    "hora": 10.5,
-                    "nome": "T\u00e9rmica de Edif\u00edcios",
-                    "sigla": "TEDI",
-                    "tipo": "T",
-                    "turma": "51MCC2",
-                    "turmac": "COMP_1870",
-                    "duracao": "2",
-                    "sala": "B006",
-                    "profsig": "MHC",
-                    "prof": "Maria Helena Corvacho"
-                },
-                {
-                    "dia": 3,
-                    "hora": 10.5,
-                    "nome": "T\u00e9rmica de Edif\u00edcios",
-                    "sigla": "TEDI",
-                    "tipo": "T",
-                    "turma": "51MCC2",
-                    "turmac": "COMP_1870",
-                    "duracao": "2",
-                    "sala": "B016",
-                    "profsig": "MHC",
-                    "prof": "Maria Helena Corvacho"
-                }
-            ]
-        },
         "DOBR": {
             "TP": [
                 {
@@ -6747,114 +6662,77 @@
                 }
             ]
         },
-        "QCON": {
+        "TEDI": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "T\u00e9rmica de Edif\u00edcios",
+                    "sigla": "TEDI",
+                    "tipo": "T",
+                    "turma": "51MCC1",
+                    "turmac": "COMP_1870",
+                    "duracao": "2",
+                    "sala": "B006",
+                    "profsig": "MHC",
+                    "prof": "Maria Helena Corvacho"
+                },
+                {
+                    "dia": 3,
+                    "hora": 10.5,
+                    "nome": "T\u00e9rmica de Edif\u00edcios",
+                    "sigla": "TEDI",
+                    "tipo": "T",
+                    "turma": "51MCC1",
+                    "turmac": "COMP_1870",
+                    "duracao": "2",
+                    "sala": "B016",
+                    "profsig": "MHC",
+                    "prof": "Maria Helena Corvacho"
+                },
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "T\u00e9rmica de Edif\u00edcios",
+                    "sigla": "TEDI",
+                    "tipo": "T",
+                    "turma": "51MCC2",
+                    "turmac": "COMP_1870",
+                    "duracao": "2",
+                    "sala": "B006",
+                    "profsig": "MHC",
+                    "prof": "Maria Helena Corvacho"
+                },
+                {
+                    "dia": 3,
+                    "hora": 10.5,
+                    "nome": "T\u00e9rmica de Edif\u00edcios",
+                    "sigla": "TEDI",
+                    "tipo": "T",
+                    "turma": "51MCC2",
+                    "turmac": "COMP_1870",
+                    "duracao": "2",
+                    "sala": "B016",
+                    "profsig": "MHC",
+                    "prof": "Maria Helena Corvacho"
+                }
+            ],
+            "nome": "T\u00e9rmica de Edif\u00edcios",
             "TP": [
                 {
                     "dia": 2,
-                    "hora": 11.5,
-                    "nome": "Qualidade na Constru\u00e7\u00e3o",
-                    "sigla": "QCON",
-                    "tipo": "TP",
-                    "turma": "51MCC1",
-                    "turmac": "51MCC1",
-                    "duracao": "4",
-                    "sala": "B113",
-                    "profsig": "JMC",
-                    "prof": "Jorge Moreira da Costa"
-                },
-                {
-                    "dia": 4,
-                    "hora": 17.5,
-                    "nome": "Qualidade na Constru\u00e7\u00e3o",
-                    "sigla": "QCON",
-                    "tipo": "TP",
-                    "turma": "51MCC1",
-                    "turmac": "51MCC1",
-                    "duracao": "4",
-                    "sala": "B222",
-                    "profsig": "JMC",
-                    "prof": "Jorge Moreira da Costa"
-                },
-                {
-                    "dia": 4,
-                    "hora": 9,
-                    "nome": "Qualidade na Constru\u00e7\u00e3o",
-                    "sigla": "QCON",
+                    "hora": 8.5,
+                    "nome": "T\u00e9rmica de Edif\u00edcios",
+                    "sigla": "TEDI",
                     "tipo": "TP",
                     "turma": "51MCC2",
                     "turmac": "51MCC2",
                     "duracao": "4",
-                    "sala": "B229",
-                    "profsig": "JMC",
-                    "prof": "Jorge Moreira da Costa"
-                },
-                {
-                    "dia": 5,
-                    "hora": 9,
-                    "nome": "Qualidade na Constru\u00e7\u00e3o",
-                    "sigla": "QCON",
-                    "tipo": "TP",
-                    "turma": "51MCC2",
-                    "turmac": "51MCC2",
-                    "duracao": "4",
-                    "sala": "B229",
-                    "profsig": "JMC",
-                    "prof": "Jorge Moreira da Costa"
-                },
-                {
-                    "dia": 4,
-                    "hora": 11,
-                    "nome": "Qualidade na Constru\u00e7\u00e3o",
-                    "sigla": "QCON",
-                    "tipo": "TP",
-                    "turma": "51MCC3",
-                    "turmac": "51MCC3",
-                    "duracao": "4",
-                    "sala": "B229",
-                    "profsig": "JMC",
-                    "prof": "Jorge Moreira da Costa"
-                },
-                {
-                    "dia": 1,
-                    "hora": 16.5,
-                    "nome": "Qualidade na Constru\u00e7\u00e3o",
-                    "sigla": "QCON",
-                    "tipo": "TP",
-                    "turma": "51MCC3",
-                    "turmac": "51MCC3",
-                    "duracao": "4",
-                    "sala": "B229",
-                    "profsig": "JMC",
-                    "prof": "Jorge Moreira da Costa"
-                },
-                {
-                    "dia": 5,
-                    "hora": 11,
-                    "nome": "Qualidade na Constru\u00e7\u00e3o",
-                    "sigla": "QCON",
-                    "tipo": "TP",
-                    "turma": "51MCC4",
-                    "turmac": "51MCC4",
-                    "duracao": "4",
-                    "sala": "B229",
-                    "profsig": "JMC",
-                    "prof": "Jorge Moreira da Costa"
-                },
-                {
-                    "dia": 2,
-                    "hora": 15.5,
-                    "nome": "Qualidade na Constru\u00e7\u00e3o",
-                    "sigla": "QCON",
-                    "tipo": "TP",
-                    "turma": "51MCC4",
-                    "turmac": "51MCC4",
-                    "duracao": "4",
-                    "sala": "B110",
-                    "profsig": "JMC",
-                    "prof": "Jorge Moreira da Costa"
+                    "sala": "B326",
+                    "profsig": "MHC",
+                    "prof": "Maria Helena Corvacho"
                 }
-            ],
-            "nome": "Qualidade na Constru\u00e7\u00e3o"
+            ]
         },
         "PRED": {
             "T": [
@@ -6865,7 +6743,7 @@
                     "sigla": "PRED",
                     "tipo": "T",
                     "turma": "51MCC1",
-                    "turmac": "COMP_1867",
+                    "turmac": "comp_520",
                     "duracao": "4",
                     "sala": "B004",
                     "profsig": "ASMSG+ESMB",
@@ -6878,20 +6756,7 @@
                     "sigla": "PRED",
                     "tipo": "T",
                     "turma": "51MCC2",
-                    "turmac": "COMP_1867",
-                    "duracao": "4",
-                    "sala": "B004",
-                    "profsig": "ASMSG+ESMB",
-                    "prof": null
-                },
-                {
-                    "dia": 3,
-                    "hora": 11.5,
-                    "nome": "Patologia e Reabilita\u00e7\u00e3o de Edif\u00edcios",
-                    "sigla": "PRED",
-                    "tipo": "T",
-                    "turma": "51MCC3",
-                    "turmac": "COMP_1867",
+                    "turmac": "comp_520",
                     "duracao": "4",
                     "sala": "B004",
                     "profsig": "ASMSG+ESMB",
@@ -6904,7 +6769,7 @@
                     "sigla": "PRED",
                     "tipo": "T",
                     "turma": "51MCC4",
-                    "turmac": "COMP_1867",
+                    "turmac": "comp_520",
                     "duracao": "4",
                     "sala": "B004",
                     "profsig": "ASMSG+ESMB",
@@ -6941,19 +6806,6 @@
                 },
                 {
                     "dia": 4,
-                    "hora": 9,
-                    "nome": "Patologia e Reabilita\u00e7\u00e3o de Edif\u00edcios",
-                    "sigla": "PRED",
-                    "tipo": "TP",
-                    "turma": "51MCC3",
-                    "turmac": "51MCC3",
-                    "duracao": "4",
-                    "sala": "B332",
-                    "profsig": "NMR",
-                    "prof": "Nuno Ramos"
-                },
-                {
-                    "dia": 4,
                     "hora": 10.5,
                     "nome": "Patologia e Reabilita\u00e7\u00e3o de Edif\u00edcios",
                     "sigla": "PRED",
@@ -6978,7 +6830,7 @@
                     "turma": "51MCC1",
                     "turmac": "51MCC1",
                     "duracao": "2",
-                    "sala": "B027",
+                    "sala": "B028",
                     "profsig": "APOC",
                     "prof": "Ant\u00f3nio Carvalho"
                 },
@@ -7079,21 +6931,91 @@
                 }
             ]
         },
-        "IEDI": {
+        "QCON": {
             "TP": [
                 {
-                    "dia": 5,
-                    "hora": 17,
-                    "nome": "Instala\u00e7\u00e3o de Edif\u00edcios",
-                    "sigla": "IEDI",
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Qualidade na Constru\u00e7\u00e3o",
+                    "sigla": "QCON",
                     "tipo": "TP",
-                    "turma": "51MCC1",
-                    "turmac": "51MCC1",
+                    "turma": "51MCC2",
+                    "turmac": "51MCC2",
                     "duracao": "4",
-                    "sala": "B103",
-                    "profsig": "NMR+CAM",
-                    "prof": null
+                    "sala": "B229",
+                    "profsig": "JMC",
+                    "prof": "Jorge Moreira da Costa"
                 },
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Qualidade na Constru\u00e7\u00e3o",
+                    "sigla": "QCON",
+                    "tipo": "TP",
+                    "turma": "51MCC2",
+                    "turmac": "51MCC2",
+                    "duracao": "4",
+                    "sala": "B229",
+                    "profsig": "JMC",
+                    "prof": "Jorge Moreira da Costa"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Qualidade na Constru\u00e7\u00e3o",
+                    "sigla": "QCON",
+                    "tipo": "TP",
+                    "turma": "51MCC3",
+                    "turmac": "51MCC3",
+                    "duracao": "4",
+                    "sala": "B229",
+                    "profsig": "JMC",
+                    "prof": "Jorge Moreira da Costa"
+                },
+                {
+                    "dia": 1,
+                    "hora": 16.5,
+                    "nome": "Qualidade na Constru\u00e7\u00e3o",
+                    "sigla": "QCON",
+                    "tipo": "TP",
+                    "turma": "51MCC3",
+                    "turmac": "51MCC3",
+                    "duracao": "4",
+                    "sala": "B229",
+                    "profsig": "JMC",
+                    "prof": "Jorge Moreira da Costa"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Qualidade na Constru\u00e7\u00e3o",
+                    "sigla": "QCON",
+                    "tipo": "TP",
+                    "turma": "51MCC4",
+                    "turmac": "51MCC4",
+                    "duracao": "4",
+                    "sala": "B229",
+                    "profsig": "JMC",
+                    "prof": "Jorge Moreira da Costa"
+                },
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Qualidade na Constru\u00e7\u00e3o",
+                    "sigla": "QCON",
+                    "tipo": "TP",
+                    "turma": "51MCC4",
+                    "turmac": "51MCC4",
+                    "duracao": "4",
+                    "sala": "B110",
+                    "profsig": "JMC",
+                    "prof": "Jorge Moreira da Costa"
+                }
+            ],
+            "nome": "Qualidade na Constru\u00e7\u00e3o"
+        },
+        "IEDI": {
+            "TP": [
                 {
                     "dia": 5,
                     "hora": 11,
@@ -7142,19 +7064,6 @@
                     "nome": "Instala\u00e7\u00e3o de Edif\u00edcios",
                     "sigla": "IEDI",
                     "tipo": "T",
-                    "turma": "51MCC1",
-                    "turmac": "COMP_1867",
-                    "duracao": "4",
-                    "sala": "B007",
-                    "profsig": "NMR+CAM",
-                    "prof": null
-                },
-                {
-                    "dia": 2,
-                    "hora": 17.5,
-                    "nome": "Instala\u00e7\u00e3o de Edif\u00edcios",
-                    "sigla": "IEDI",
-                    "tipo": "T",
                     "turma": "51MCC2",
                     "turmac": "COMP_1867",
                     "duracao": "4",
@@ -7190,65 +7099,6 @@
                 }
             ]
         },
-        "FOBR": {
-            "TP": [
-                {
-                    "dia": 4,
-                    "hora": 11,
-                    "nome": "Fiscaliza\u00e7\u00e3o de Obras",
-                    "sigla": "FOBR",
-                    "tipo": "TP",
-                    "turma": "51MCC2",
-                    "turmac": "51MCC2",
-                    "duracao": "3",
-                    "sala": "B334",
-                    "profsig": "RCR",
-                    "prof": "Rui Calejo Rodrigues"
-                },
-                {
-                    "dia": 5,
-                    "hora": 17,
-                    "nome": "Fiscaliza\u00e7\u00e3o de Obras",
-                    "sigla": "FOBR",
-                    "tipo": "TP",
-                    "turma": "51MCC3",
-                    "turmac": "51MCC3",
-                    "duracao": "3",
-                    "sala": "B219",
-                    "profsig": "RCR",
-                    "prof": "Rui Calejo Rodrigues"
-                }
-            ],
-            "nome": "Fiscaliza\u00e7\u00e3o de Obras",
-            "T": [
-                {
-                    "dia": 5,
-                    "hora": 14,
-                    "nome": "Fiscaliza\u00e7\u00e3o de Obras",
-                    "sigla": "FOBR",
-                    "tipo": "T",
-                    "turma": "51MCC2",
-                    "turmac": "COMP_518",
-                    "duracao": "3",
-                    "sala": "B004",
-                    "profsig": "RCR",
-                    "prof": "Rui Calejo Rodrigues"
-                },
-                {
-                    "dia": 5,
-                    "hora": 14,
-                    "nome": "Fiscaliza\u00e7\u00e3o de Obras",
-                    "sigla": "FOBR",
-                    "tipo": "T",
-                    "turma": "51MCC3",
-                    "turmac": "COMP_518",
-                    "duracao": "3",
-                    "sala": "B004",
-                    "profsig": "RCR",
-                    "prof": "Rui Calejo Rodrigues"
-                }
-            ]
-        },
         "MRED": {
             "T": [
                 {
@@ -7258,19 +7108,6 @@
                     "sigla": "MRED",
                     "tipo": "T",
                     "turma": "51MCC2",
-                    "turmac": "COMP_518",
-                    "duracao": "3",
-                    "sala": "B004",
-                    "profsig": "RCR",
-                    "prof": "Rui Calejo Rodrigues"
-                },
-                {
-                    "dia": 4,
-                    "hora": 14.5,
-                    "nome": "Manuten\u00e7\u00e3o e Reabilita\u00e7\u00e3o de Edif\u00edcios",
-                    "sigla": "MRED",
-                    "tipo": "T",
-                    "turma": "51MCC3",
                     "turmac": "COMP_518",
                     "duracao": "3",
                     "sala": "B004",
@@ -7292,78 +7129,98 @@
                     "sala": "B223",
                     "profsig": "RCR",
                     "prof": "Rui Calejo Rodrigues"
-                },
+                }
+            ]
+        },
+        "FOBR": {
+            "T": [
                 {
                     "dia": 5,
-                    "hora": 11.5,
-                    "nome": "Manuten\u00e7\u00e3o e Reabilita\u00e7\u00e3o de Edif\u00edcios",
-                    "sigla": "MRED",
+                    "hora": 14,
+                    "nome": "Fiscaliza\u00e7\u00e3o de Obras",
+                    "sigla": "FOBR",
+                    "tipo": "T",
+                    "turma": "51MCC3",
+                    "turmac": "comp_519",
+                    "duracao": "3",
+                    "sala": "B004",
+                    "profsig": "RCR",
+                    "prof": "Rui Calejo Rodrigues"
+                }
+            ],
+            "nome": "Fiscaliza\u00e7\u00e3o de Obras",
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 17,
+                    "nome": "Fiscaliza\u00e7\u00e3o de Obras",
+                    "sigla": "FOBR",
                     "tipo": "TP",
                     "turma": "51MCC3",
                     "turmac": "51MCC3",
                     "duracao": "3",
-                    "sala": "B331",
+                    "sala": "B219",
                     "profsig": "RCR",
                     "prof": "Rui Calejo Rodrigues"
                 }
             ]
         },
-        "PONT": {
+        "EPES": {
             "T": [
                 {
                     "dia": 2,
                     "hora": 8,
-                    "nome": "Pontes",
-                    "sigla": "PONT",
+                    "nome": "Estruturas Pr\u00e9-Esfor\u00e7adas",
+                    "sigla": "EPES",
                     "tipo": "T",
                     "turma": "51MCE1",
                     "turmac": "COMP_1499",
                     "duracao": "4",
-                    "sala": "B030",
-                    "profsig": "PAP",
-                    "prof": "Pedro Pacheco"
+                    "sala": "B008",
+                    "profsig": "MJSP+AARH",
+                    "prof": null
                 },
                 {
                     "dia": 2,
                     "hora": 8,
-                    "nome": "Pontes",
-                    "sigla": "PONT",
+                    "nome": "Estruturas Pr\u00e9-Esfor\u00e7adas",
+                    "sigla": "EPES",
                     "tipo": "T",
                     "turma": "51MCE2",
                     "turmac": "COMP_1499",
                     "duracao": "4",
-                    "sala": "B030",
-                    "profsig": "PAP",
-                    "prof": "Pedro Pacheco"
+                    "sala": "B008",
+                    "profsig": "MJSP+AARH",
+                    "prof": null
                 }
             ],
-            "nome": "Pontes",
+            "nome": "Estruturas Pr\u00e9-Esfor\u00e7adas",
             "TP": [
                 {
-                    "dia": 4,
-                    "hora": 9.5,
-                    "nome": "Pontes",
-                    "sigla": "PONT",
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "Estruturas Pr\u00e9-Esfor\u00e7adas",
+                    "sigla": "EPES",
                     "tipo": "TP",
                     "turma": "51MCE1",
                     "turmac": "51MCE1",
                     "duracao": "4",
-                    "sala": "B102",
-                    "profsig": "FMLM",
-                    "prof": "Filipe Magalh\u00e3es"
+                    "sala": "B111",
+                    "profsig": "AARH",
+                    "prof": "Ant\u00f3nio Abel Henriques"
                 },
                 {
-                    "dia": 1,
-                    "hora": 11,
-                    "nome": "Pontes",
-                    "sigla": "PONT",
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "Estruturas Pr\u00e9-Esfor\u00e7adas",
+                    "sigla": "EPES",
                     "tipo": "TP",
                     "turma": "51MCE2",
                     "turmac": "51MCE2",
                     "duracao": "4",
-                    "sala": "B319",
-                    "profsig": "FMLM",
-                    "prof": "Filipe Magalh\u00e3es"
+                    "sala": "B119",
+                    "profsig": "MJSP+AARH",
+                    "prof": null
                 }
             ]
         },
@@ -7511,6 +7368,65 @@
                 }
             ]
         },
+        "PONT": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Pontes",
+                    "sigla": "PONT",
+                    "tipo": "TP",
+                    "turma": "51MCE1",
+                    "turmac": "51MCE1",
+                    "duracao": "4",
+                    "sala": "B102",
+                    "profsig": "FMLM",
+                    "prof": "Filipe Magalh\u00e3es"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Pontes",
+                    "sigla": "PONT",
+                    "tipo": "TP",
+                    "turma": "51MCE2",
+                    "turmac": "51MCE2",
+                    "duracao": "4",
+                    "sala": "B319",
+                    "profsig": "FMLM",
+                    "prof": "Filipe Magalh\u00e3es"
+                }
+            ],
+            "nome": "Pontes",
+            "T": [
+                {
+                    "dia": 5,
+                    "hora": 13.5,
+                    "nome": "Pontes",
+                    "sigla": "PONT",
+                    "tipo": "T",
+                    "turma": "51MCE1",
+                    "turmac": "COMP_1499",
+                    "duracao": "4",
+                    "sala": "B031",
+                    "profsig": "PAP",
+                    "prof": "Pedro Pacheco"
+                },
+                {
+                    "dia": 5,
+                    "hora": 13.5,
+                    "nome": "Pontes",
+                    "sigla": "PONT",
+                    "tipo": "T",
+                    "turma": "51MCE2",
+                    "turmac": "COMP_1499",
+                    "duracao": "4",
+                    "sala": "B031",
+                    "profsig": "PAP",
+                    "prof": "Pedro Pacheco"
+                }
+            ]
+        },
         "DEES": {
             "T": [
                 {
@@ -7570,65 +7486,6 @@
                 }
             ]
         },
-        "EPES": {
-            "TP": [
-                {
-                    "dia": 2,
-                    "hora": 13.5,
-                    "nome": "Estruturas Pr\u00e9-Esfor\u00e7adas",
-                    "sigla": "EPES",
-                    "tipo": "TP",
-                    "turma": "51MCE1",
-                    "turmac": "51MCE1",
-                    "duracao": "4",
-                    "sala": "B111",
-                    "profsig": "AARH",
-                    "prof": "Ant\u00f3nio Abel Henriques"
-                },
-                {
-                    "dia": 5,
-                    "hora": 10,
-                    "nome": "Estruturas Pr\u00e9-Esfor\u00e7adas",
-                    "sigla": "EPES",
-                    "tipo": "TP",
-                    "turma": "51MCE2",
-                    "turmac": "51MCE2",
-                    "duracao": "4",
-                    "sala": "B119",
-                    "profsig": "MJSP+AARH",
-                    "prof": null
-                }
-            ],
-            "nome": "Estruturas Pr\u00e9-Esfor\u00e7adas",
-            "T": [
-                {
-                    "dia": 5,
-                    "hora": 13.5,
-                    "nome": "Estruturas Pr\u00e9-Esfor\u00e7adas",
-                    "sigla": "EPES",
-                    "tipo": "T",
-                    "turma": "51MCE1",
-                    "turmac": "COMP_1499",
-                    "duracao": "4",
-                    "sala": "B031",
-                    "profsig": "MJSP+AARH",
-                    "prof": null
-                },
-                {
-                    "dia": 5,
-                    "hora": 13.5,
-                    "nome": "Estruturas Pr\u00e9-Esfor\u00e7adas",
-                    "sigla": "EPES",
-                    "tipo": "T",
-                    "turma": "51MCE2",
-                    "turmac": "COMP_1499",
-                    "duracao": "4",
-                    "sala": "B031",
-                    "profsig": "MJSP+AARH",
-                    "prof": null
-                }
-            ]
-        },
         "FESU": {
             "TP": [
                 {
@@ -7669,7 +7526,7 @@
                     "turma": "51MCE1",
                     "turmac": "COMP_1499",
                     "duracao": "2",
-                    "sala": "B006",
+                    "sala": "B031",
                     "profsig": "PMBAC+NVP",
                     "prof": null
                 },
@@ -7682,42 +7539,42 @@
                     "turma": "51MCE2",
                     "turmac": "COMP_1499",
                     "duracao": "2",
-                    "sala": "B006",
+                    "sala": "B031",
                     "profsig": "PMBAC+NVP",
                     "prof": null
                 }
             ]
         },
-        "FUND": {
-            "TP": [
+        "MSGE": {
+            "T": [
                 {
                     "dia": 4,
                     "hora": 9,
-                    "nome": "Funda\u00e7\u00f5es",
-                    "sigla": "FUND",
-                    "tipo": "TP",
-                    "turma": "51MCG1",
-                    "turmac": "51MCG1",
-                    "duracao": "4",
-                    "sala": "B111",
-                    "profsig": "AVF",
-                    "prof": "Ant\u00f3nio Joaquim Pereira Viana Da Fonseca"
-                }
-            ],
-            "nome": "Funda\u00e7\u00f5es",
-            "T": [
-                {
-                    "dia": 5,
-                    "hora": 15.5,
-                    "nome": "Funda\u00e7\u00f5es",
-                    "sigla": "FUND",
+                    "nome": "Modelos e Seguran\u00e7a em Geotecnia",
+                    "sigla": "MSGE",
                     "tipo": "T",
                     "turma": "51MCG1",
                     "turmac": "51MCG1",
                     "duracao": "4",
-                    "sala": "B105",
-                    "profsig": "AVF",
-                    "prof": "Ant\u00f3nio Joaquim Pereira Viana Da Fonseca"
+                    "sala": "B111",
+                    "profsig": "PMBAC+ASC",
+                    "prof": null
+                }
+            ],
+            "nome": "Modelos e Seguran\u00e7a em Geotecnia",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Modelos e Seguran\u00e7a em Geotecnia",
+                    "sigla": "MSGE",
+                    "tipo": "TP",
+                    "turma": "51MCG1",
+                    "turmac": "51MCG1",
+                    "duracao": "3",
+                    "sala": "B319",
+                    "profsig": "PMBAC+ASC",
+                    "prof": null
                 }
             ]
         },
@@ -7853,36 +7710,36 @@
                 }
             ]
         },
-        "MSGE": {
-            "T": [
+        "FUND": {
+            "TP": [
                 {
                     "dia": 2,
-                    "hora": 14,
-                    "nome": "Modelos e Seguran\u00e7a em Geotecnia",
-                    "sigla": "MSGE",
-                    "tipo": "T",
+                    "hora": 15.5,
+                    "nome": "Funda\u00e7\u00f5es",
+                    "sigla": "FUND",
+                    "tipo": "TP",
                     "turma": "51MCG1",
                     "turmac": "51MCG1",
                     "duracao": "4",
                     "sala": "B319",
-                    "profsig": "PMBAC+ASC",
-                    "prof": null
+                    "profsig": "AVF",
+                    "prof": "Ant\u00f3nio Joaquim Pereira Viana Da Fonseca"
                 }
             ],
-            "nome": "Modelos e Seguran\u00e7a em Geotecnia",
-            "TP": [
+            "nome": "Funda\u00e7\u00f5es",
+            "T": [
                 {
-                    "dia": 2,
-                    "hora": 16,
-                    "nome": "Modelos e Seguran\u00e7a em Geotecnia",
-                    "sigla": "MSGE",
-                    "tipo": "TP",
+                    "dia": 5,
+                    "hora": 15.5,
+                    "nome": "Funda\u00e7\u00f5es",
+                    "sigla": "FUND",
+                    "tipo": "T",
                     "turma": "51MCG1",
                     "turmac": "51MCG1",
-                    "duracao": "3",
-                    "sala": "B319",
-                    "profsig": "PMBAC+ASC",
-                    "prof": null
+                    "duracao": "4",
+                    "sala": "B105",
+                    "profsig": "AVF",
+                    "prof": "Ant\u00f3nio Joaquim Pereira Viana Da Fonseca"
                 }
             ]
         },

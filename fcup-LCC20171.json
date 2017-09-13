@@ -174,7 +174,7 @@
                     "turma": "CC1002_PL3",
                     "turmac": "CC1002_PL3",
                     "duracao": "4",
-                    "sala": "FC6155",
+                    "sala": "FC6008",
                     "profsig": "MCPF",
                     "prof": "Michel Ferreira"
                 },
@@ -337,7 +337,7 @@
                     "turma": "CC1003_PL7",
                     "turmac": "CC1003_PL7",
                     "duracao": "4",
-                    "sala": "FC6157",
+                    "sala": "FC6008",
                     "profsig": "BLFP",
                     "prof": "Bernardo Portela"
                 }
@@ -569,8 +569,8 @@
                     "turmac": "CC2001_PL2",
                     "duracao": "4",
                     "sala": "FC6157",
-                    "profsig": "APNGT",
-                    "prof": "Ana Paula Tom\u00e1s"
+                    "profsig": "PMPR",
+                    "prof": "Pedro Ribeiro"
                 },
                 {
                     "dia": 5,
@@ -582,8 +582,8 @@
                     "turmac": "CC2001_PL3",
                     "duracao": "4",
                     "sala": "FC6157",
-                    "profsig": "PMPR",
-                    "prof": "Pedro Ribeiro"
+                    "profsig": "APNGT",
+                    "prof": "Ana Paula Tom\u00e1s"
                 },
                 {
                     "dia": 3,
@@ -806,6 +806,19 @@
                     "sala": "FC6140",
                     "profsig": "SMMA",
                     "prof": "Sandra Alves"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "L\u00f3gica Computacional",
+                    "sigla": "CC2003",
+                    "tipo": "PL",
+                    "turma": "CC2003_PL5",
+                    "turmac": "CC2003_PL5",
+                    "duracao": "4",
+                    "sala": "FC6140",
+                    "profsig": "SMMA",
+                    "prof": "Sandra Alves"
                 }
             ],
             "nome": "L\u00f3gica Computacional",
@@ -998,19 +1011,6 @@
         "CC3012": {
             "PL": [
                 {
-                    "dia": 3,
-                    "hora": 9,
-                    "nome": "Programa\u00e7\u00e3o em L\u00f3gica",
-                    "sigla": "CC3012",
-                    "tipo": "PL",
-                    "turma": "CC3012_PL1",
-                    "turmac": "CC3012_PL1",
-                    "duracao": "4",
-                    "sala": "FC6157",
-                    "profsig": "AMGJ",
-                    "prof": "Al\u00edpio Jorge"
-                },
-                {
                     "dia": 1,
                     "hora": 17,
                     "nome": "Programa\u00e7\u00e3o em L\u00f3gica",
@@ -1020,6 +1020,19 @@
                     "turmac": "CC3012_PL1",
                     "duracao": "4",
                     "sala": "FC6008",
+                    "profsig": "AMGJ",
+                    "prof": "Al\u00edpio Jorge"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Programa\u00e7\u00e3o em L\u00f3gica",
+                    "sigla": "CC3012",
+                    "tipo": "PL",
+                    "turma": "CC3012_PL2",
+                    "turmac": "CC3012_PL2",
+                    "duracao": "4",
+                    "sala": "FC6157",
                     "profsig": "AMGJ",
                     "prof": "Al\u00edpio Jorge"
                 }

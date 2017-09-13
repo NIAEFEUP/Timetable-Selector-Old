@@ -149,14 +149,14 @@
                 },
                 {
                     "dia": 3,
-                    "hora": 16,
+                    "hora": 9,
                     "nome": "Elementos de Geologia",
                     "sigla": "GEOL1005",
                     "tipo": "TP",
                     "turma": "GEOL1005_TP2",
                     "turmac": "GEOL1005_TP2",
                     "duracao": "4",
-                    "sala": "FC4011",
+                    "sala": "FC6137",
                     "profsig": "M\u00c2CFA",
                     "prof": "Maria \u00c2ngela Almeida"
                 }
@@ -354,8 +354,8 @@
                     "nome": "Ecofisiologia Vegetal",
                     "sigla": "BIOL2010",
                     "tipo": "PL",
-                    "turma": "BIOL2010_PLD",
-                    "turmac": "BIOL2010_PLD",
+                    "turma": "BIOL2010_PL",
+                    "turmac": "BIOL2010_PL",
                     "duracao": "4",
                     "sala": "FC4034",
                     "profsig": "MFF",
