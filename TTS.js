@@ -141,11 +141,11 @@ function Cadeira(sigla, jsonobj) {
   this.turmaselect = "-";
   this.data = jsonobj;
 }
-Cadeira.prototype.addMoreTurmas = function(jsonobj) {
+Cadeira.prototype.addMoreTurmas = function (jsonobj) {
   this.addTurmas();
   this.data = jsonobj;
 };
-Cadeira.prototype.addTurmas = function() {
+Cadeira.prototype.addTurmas = function () {
   if (typeof this.data.T != "undefined") {
     for (var i = 0; i < this.data.T.length; i++)
       this.teoricas.push(new Aula(this.data.T[i]));
@@ -179,7 +179,7 @@ Cadeira.prototype.addTurmas = function() {
       this.praticas.push(new Aula(this.data.S[i]));
   }
 };
-Cadeira.prototype.selectorhtml = function() {
+Cadeira.prototype.selectorhtml = function () {
   this.addTurmas();
   var str = "";
   str += '<div class="classselectorwrapper">';
@@ -214,18 +214,18 @@ Cadeira.prototype.selectorhtml = function() {
   str += "</select>";
   if (this.teoricas.length != 0)
     str +=
-      '<label title="Alternar mostrar/esconder aulas teóricas"><input class="mostrarteoricas" value="' +
-      this.nome +
-      '" type="checkbox" data-cadeira="' +
-      this.nome +
-      '" checked/>Teóricas</label>';
+    '<label title="Alternar mostrar/esconder aulas teóricas"><input class="mostrarteoricas" value="' +
+    this.nome +
+    '" type="checkbox" data-cadeira="' +
+    this.nome +
+    '" checked/>Teóricas</label>';
   if (this.praticas.length != 0)
     str +=
-      '<label title="Alternar mostrar/esconder aulas práticas"><input class="mostrarpraticas" value="' +
-      this.nome +
-      '" type="checkbox" data-cadeira="' +
-      this.nome +
-      '" checked/>Práticas</label>';
+    '<label title="Alternar mostrar/esconder aulas práticas"><input class="mostrarpraticas" value="' +
+    this.nome +
+    '" type="checkbox" data-cadeira="' +
+    this.nome +
+    '" checked/>Práticas</label>';
   str += "</div>";
 
   //str+='<div class="selectorwarning" data-cadeira="'+this.nome+'">';
@@ -238,7 +238,7 @@ Cadeira.prototype.selectorhtml = function() {
 
   return str;
 };
-Cadeira.prototype.showTurma = function() {
+Cadeira.prototype.showTurma = function () {
   $('.aula[data-cadeira="' + this.nome + '"]').remove();
   $('.selectorwarning[data-cadeira="' + this.nome + '"]').removeClass(
     "selectorwarningoverlap"
@@ -247,7 +247,7 @@ Cadeira.prototype.showTurma = function() {
   var turmaselect = this.turmaselect;
   if (turmaselect != "-") {
     if (this.showteoricas) {
-      $.each(this.teoricas, function(i, aula) {
+      $.each(this.teoricas, function (i, aula) {
         if (
           aula.turma == turmaselect ||
           turmaselect == "teoricas" ||
@@ -258,7 +258,7 @@ Cadeira.prototype.showTurma = function() {
       });
     }
     if (this.showpraticas) {
-      $.each(this.praticas, function(i, aula) {
+      $.each(this.praticas, function (i, aula) {
         aulas[aula.id] = false;
         if (aula.turma == turmaselect) {
           var flag = false;
@@ -270,10 +270,10 @@ Cadeira.prototype.showTurma = function() {
   }
   verOverlap();
 };
-Cadeira.prototype.previewTurma = function(turma) {
+Cadeira.prototype.previewTurma = function (turma) {
   if (turma != "-" && turma != this.turmaselect) {
     if (this.showteoricas) {
-      $.each(this.teoricas, function(i, aula) {
+      $.each(this.teoricas, function (i, aula) {
         if (
           aula.turma == turma ||
           turma == "teoricas" ||
@@ -284,7 +284,7 @@ Cadeira.prototype.previewTurma = function(turma) {
       });
     }
     if (this.showpraticas) {
-      $.each(this.praticas, function(i, aula) {
+      $.each(this.praticas, function (i, aula) {
         if (aula.turma == turma) {
           $("#content").append(aula.horariopreviewhtml());
         }
@@ -292,7 +292,7 @@ Cadeira.prototype.previewTurma = function(turma) {
     }
   }
 };
-Cadeira.prototype.especialdeCC = function() {
+Cadeira.prototype.especialdeCC = function () {
   var fl;
   for (var i = 0; i < this.teoricas.length; i++) {
     fl = true;
@@ -306,7 +306,7 @@ Cadeira.prototype.especialdeCC = function() {
     }
   }
 };
-Aula.prototype.horariohtml = function() {
+Aula.prototype.horariohtml = function () {
   var str = "";
   str +=
     '<div id="aula' +
@@ -349,7 +349,7 @@ Aula.prototype.horariohtml = function() {
   str += "</div></div>";
   return str;
 };
-Aula.prototype.horariopreviewhtml = function() {
+Aula.prototype.horariopreviewhtml = function () {
   var str = "";
   str +=
     '<div id="aula' +
@@ -392,12 +392,12 @@ Aula.prototype.horariopreviewhtml = function() {
   str += "</div></div>";
   return str;
 };
-Aula.prototype.selecttext = function() {
+Aula.prototype.selecttext = function () {
   var str =
     this.turma + " - " + this.profsig + " " + this.txtdia + " " + this.txthora;
   return str;
 };
-Aula.prototype.selecttextrepetida = function() {
+Aula.prototype.selecttextrepetida = function () {
   var str = " + " + this.txtdia + " " + this.txthora;
   return str;
 };
@@ -442,15 +442,16 @@ function verOverlap() {
           '.selectorwarning[data-cadeira="' + divaula2.data("cadeira") + '"]'
         );
         img.addClass("selectorwarningoverlap");
-        img.attr({ alt: strconf, title: strconf });
+        img.attr({
+          alt: strconf,
+          title: strconf
+        });
       } else {
         divaula2.removeClass("aulaoverlap");
         //só fazer remove caso nenhuma aula desta cadeira tenha conflito, acontece em casos da aula ter mais que uma prática p.e. SRSI
-        if (
-          !$('.aula[data-cadeira="' + divaula2.data("cadeira") + '"]').hasClass(
+        if (!$('.aula[data-cadeira="' + divaula2.data("cadeira") + '"]').hasClass(
             "aulaoverlap"
-          )
-        )
+          ))
           $(
             '.selectorwarning[data-cadeira="' + divaula2.data("cadeira") + '"]'
           ).removeClass("selectorwarningoverlap");
@@ -459,7 +460,7 @@ function verOverlap() {
   }
 }
 
-$(document).ready(function() {
+$(document).ready(function () {
   generateTimetable();
   $.blockUI.defaults.css = {};
   if (!window.location.hash) {
@@ -480,17 +481,23 @@ $(document).ready(function() {
       .prop("selected", true);
     //$('#semestreselect').prop('disabled', true);
 
-    $.blockUI({ message: $("#promptcurso") });
+    $.blockUI({
+      message: $("#promptcurso")
+    });
   } else {
     //Parse hash string to load timetable
     var str = window.location.hash.slice(1); //remove '#' from string
     var args = str.split("~");
-    $.blockUI({ message: $("#loading") });
+    $.blockUI({
+      message: $("#loading")
+    });
     loadTimetable(args);
   }
 
-  $("#cursook").click(function() {
-    $.blockUI({ message: $("#loading") });
+  $("#cursook").click(function () {
+    $.blockUI({
+      message: $("#loading")
+    });
 
     curso = $("#cursoselect option:selected").val();
     ano_lectivo = $("#anoselect option:selected").val();
@@ -505,37 +512,42 @@ $(document).ready(function() {
         	$.blockUI({message:$('#promptcurso')});
         });*/
     $.post(
-      "getturmas.php",
-      {
+      "getturmas.php", {
         curso: curso,
         anolectivo: ano_lectivo,
         periodo: periodo,
         username: username,
         password: password
       },
-      function(data) {
+      function (data) {
         //console.log(data);
         if (data == "null") {
           $("#promptcursoerror").show();
-          $.blockUI({ message: $("#promptcurso") });
+          $.blockUI({
+            message: $("#promptcurso")
+          });
         } else {
           data = JSON.parse(data);
           parse_horario(data);
-          $.blockUI({ message: $("#promptcadeiras") });
+          $.blockUI({
+            message: $("#promptcadeiras")
+          });
         }
       }
-    ).error(function() {
+    ).error(function () {
       $("#promptcursoerror").show();
-      $.blockUI({ message: $("#promptcurso") });
+      $.blockUI({
+        message: $("#promptcurso")
+      });
     });
   });
 
-  $("#cadeirasok").click(function() {
+  $("#cadeirasok").click(function () {
     addCadeiras();
     $.unblockUI();
   });
 
-  $(document).on("change", ".classselector select.turmaselect", function(
+  $(document).on("change", ".classselector select.turmaselect", function (
     event
   ) {
     saveTimetable(); //update the url after each click
@@ -545,45 +557,45 @@ $(document).ready(function() {
     cadeiras[this.getAttribute("data-cadeira")].showTurma();
   });
 
-  $(document).on("change", ".classselector input.mostrarteoricas", function(
+  $(document).on("change", ".classselector input.mostrarteoricas", function (
     event
   ) {
     cadeiras[this.getAttribute("data-cadeira")].showteoricas = this.checked;
     cadeiras[this.getAttribute("data-cadeira")].showTurma();
   });
-  $(document).on("change", ".classselector input.mostrarpraticas", function(
+  $(document).on("change", ".classselector input.mostrarpraticas", function (
     event
   ) {
     cadeiras[this.getAttribute("data-cadeira")].showpraticas = this.checked;
     cadeiras[this.getAttribute("data-cadeira")].showTurma();
   });
 
-  $(document).on("mouseenter", ".classselector select option", function(event) {
+  $(document).on("mouseenter", ".classselector select option", function (event) {
     //console.log("enter"+this.value+this.parentElement.getAttribute('data-cadeira'));
     cadeiras[this.parentElement.getAttribute("data-cadeira")].previewTurma(
       this.value
     );
   });
-  $(document).on("mouseleave", ".classselector select option", function(event) {
+  $(document).on("mouseleave", ".classselector select option", function (event) {
     $(
       'div.aulapreview[data-cadeira="' +
-        this.parentElement.getAttribute("data-cadeira") +
-        '"]'
+      this.parentElement.getAttribute("data-cadeira") +
+      '"]'
     ).remove();
   });
 
-  $(document).on("mouseenter", ".classselector", function(event) {
+  $(document).on("mouseenter", ".classselector", function (event) {
     var cadeira = $(this).data("cadeira");
     $('div.aula[data-cadeira="' + cadeira + '"]').addClass("mouseoverselect");
   });
-  $(document).on("mouseleave", ".classselector", function(event) {
+  $(document).on("mouseleave", ".classselector", function (event) {
     var cadeira = $(this).data("cadeira");
     $('div.aula[data-cadeira="' + cadeira + '"]').removeClass(
       "mouseoverselect"
     );
   });
 
-  $(document).on("click", "input.listcadano", function(event) {
+  $(document).on("click", "input.listcadano", function (event) {
     var ano = $(this).attr("value");
     var checked = $(this).prop("checked");
     //alert(ano);
@@ -592,15 +604,17 @@ $(document).ready(function() {
     else $('input.listcad[data-ano="' + ano + '"]').prop("checked", false);
   });
 
-  $("#showTTurl").click(function() {
+  $("#showTTurl").click(function () {
     saveTimetable();
     displayCopyLink();
   });
   $("#copyTTurl").click(copyLinkToClipboard);
 
-  $("#updatevagasbtn").click(function() {
-    $.getJSON("getvagas.php", { curso: curso }, function(data) {
-      $.each(data, function(cadeira, obj) {
+  $("#updatevagasbtn").click(function () {
+    $.getJSON("getvagas.php", {
+      curso: curso
+    }, function (data) {
+      $.each(data, function (cadeira, obj) {
         var i = "";
         for (var key in cadeiras)
           if (cadeiras[key].nomec == cadeira) {
@@ -608,32 +622,30 @@ $(document).ready(function() {
             break;
           }
         if (i != "") {
-          $.each(obj, function(turma, vagas) {
+          $.each(obj, function (turma, vagas) {
             var j;
             for (
-              j = 0;
-              j < cadeiras[i].praticas.length &&
-              cadeiras[i].praticas[j].turma != turma;
-              j++
+              j = 0; j < cadeiras[i].praticas.length &&
+              cadeiras[i].praticas[j].turma != turma; j++
             );
             if (j < cadeiras[i].praticas.length) {
               cadeiras[i].praticas[j].vagas = vagas;
               var str = $(
                 'select[data-cadeira="' +
-                  cadeiras[i].nome +
-                  '"] option[value="' +
-                  cadeiras[i].praticas[j].turma +
-                  '"]'
+                cadeiras[i].nome +
+                '"] option[value="' +
+                cadeiras[i].praticas[j].turma +
+                '"]'
               ).html();
               var pat = /\([\?0-9]+\)/;
               if (str.search(pat) == -1) str += " (" + vagas + ")";
               else str = str.replace(pat, "(" + vagas + ")");
               $(
                 'select[data-cadeira="' +
-                  cadeiras[i].nome +
-                  '"] option[value="' +
-                  cadeiras[i].praticas[j].turma +
-                  '"]'
+                cadeiras[i].nome +
+                '"] option[value="' +
+                cadeiras[i].praticas[j].turma +
+                '"]'
               ).html(str);
             }
           });
@@ -648,21 +660,21 @@ function parse_horario(data) {
   cadeiras = {};
   aulas = {};
   aulaid = 0;
-  $.each(data, function(ano, data2) {
+  $.each(data, function (ano, data2) {
     $("#listcadeiras").append(
       '<div class="listcadano" id="divlistcadeiras' +
-        ano.replace(" ", "_") +
-        '"><p class="listcadanop"><label><input class="listcadano" value="' +
-        ano.replace(" ", "_") +
-        '" type="checkbox"/>' +
-        ano +
-        '</label></p><ul  id="listcadeiras' +
-        ano.replace(" ", "_") +
-        '"></ul></div>'
+      ano.replace(" ", "_") +
+      '"><p class="listcadanop"><label><input class="listcadano" value="' +
+      ano.replace(" ", "_") +
+      '" type="checkbox"/>' +
+      ano +
+      '</label></p><ul  id="listcadeiras' +
+      ano.replace(" ", "_") +
+      '"></ul></div>'
     );
     nrcad = 3;
 
-    $.each(data2, function(cadeira, obj) {
+    $.each(data2, function (cadeira, obj) {
       if (typeof cadeiras[cadeira] == "undefined")
         cadeiras[cadeira] = new Cadeira(cadeira, obj);
       else {
@@ -671,14 +683,14 @@ function parse_horario(data) {
       }
       $("#listcadeiras" + ano.replace(" ", "_")).append(
         '<li class="listcad"><label><input class="listcad" data-ano="' +
-          ano.replace(" ", "_") +
-          '" value="' +
-          cadeira +
-          '" type="checkbox"/><abbr title="' +
-          obj.nome +
-          '">' +
-          cadeira +
-          "</abbr></label></li>"
+        ano.replace(" ", "_") +
+        '" value="' +
+        cadeira +
+        '" type="checkbox"/><abbr title="' +
+        obj.nome +
+        '">' +
+        cadeira +
+        "</abbr></label></li>"
       );
       nrcad++;
     });
@@ -704,7 +716,7 @@ function parse_horario(data) {
 }
 
 function addCadeiras() {
-  $("input.listcad:checked").each(function(index, element) {
+  $("input.listcad:checked").each(function (index, element) {
     $("#selectorsdiv").append(cadeiras[$(element).val()].selectorhtml());
   });
   //possibilidade de fazer um each para os unchecked e destruir os objectos para limpar memoria
@@ -734,7 +746,9 @@ function loadTimetable(args) {
   var infos = args[0].split(".");
   if (infos.length != 3) {
     $("#promptcursoerror").show();
-    $.blockUI({ message: $("#promptcurso") });
+    $.blockUI({
+      message: $("#promptcurso")
+    });
     return;
   }
   curso = infos[0];
@@ -742,8 +756,7 @@ function loadTimetable(args) {
   periodo = infos[2];
 
   $.post(
-    "getturmas.php",
-    {
+    "getturmas.php", {
       curso: curso,
       anolectivo: ano_lectivo,
       periodo: periodo,
@@ -751,11 +764,13 @@ function loadTimetable(args) {
       password: "",
       fulljson: "true"
     },
-    function(data) {
+    function (data) {
       //console.log(data);
       if (data == "null") {
         $("#promptcursoerror").show();
-        $.blockUI({ message: $("#promptcurso") });
+        $.blockUI({
+          message: $("#promptcurso")
+        });
       } else {
         data = JSON.parse(data);
         //vai carregar cadeiras a mais do que as que preciso e fazer html que não vou ver mas não tou para rescrever a função
@@ -770,8 +785,8 @@ function loadTimetable(args) {
               var turma = args[i].split(".")[1];
               $(
                 '.classselector select.turmaselect[data-cadeira="' +
-                  cnome +
-                  '"]'
+                cnome +
+                '"]'
               ).val(turma);
               cadeira.turmaselect = turma;
               cadeira.showTurma();
@@ -782,15 +797,17 @@ function loadTimetable(args) {
         $.unblockUI();
       }
     }
-  ).error(function() {
+  ).error(function () {
     $("#promptcursoerror").show();
-    $.blockUI({ message: $("#promptcurso") });
+    $.blockUI({
+      message: $("#promptcurso")
+    });
   });
 }
 
 function saveTimetable() {
   var stringsave = curso + "." + ano_lectivo + "." + periodo;
-  $(".classselector select.turmaselect").each(function(index) {
+  $(".classselector select.turmaselect").each(function (index) {
     var cadeira = this.getAttribute("data-cadeira");
     var aula = this.options[this.selectedIndex].value;
     stringsave += "~" + cadeira + "." + aula;
@@ -798,24 +815,32 @@ function saveTimetable() {
   window.location.hash = stringsave;
   $("#savelinkinput").val(window.location); //update the value
 }
+
 function displayCopyLink() {
   $("#savelinkdisplay").slideToggle();
   $("#savelinkinput").select();
 }
+
 function copyLinkToClipboard(e) {
   var target = $(e.target);
   $("#copiedIcon").hide();
   $("#copiedIconError").hide();
   saveTimetable(); //in case the user has edited the url by hand
+  $("#savelinkdisplay").slideDown(); // this must be visible in order to copy to clipboard. 
   $("#savelinkinput").select();
 
-  var successful = document.execCommand("copy");
+  try {
+    var successful = document.execCommand("copy");
 
-  if (successful) target.val("Link copiado com successo");
-  else target.val("Erro ao copiar link");
+    if (successful) target.val("Link copiado com successo");
+    else target.val("Erro ao copiar link");
+  } catch (err) {
+    target.val("Erro ao copiar link");
+  }
 
   setTimeout(resetCopyLinkText, 1000);
 }
+
 function resetCopyLinkText() {
   $("#copyTTurl").val(COPY_LINK_CLIPBOARD_DEFAULT_TEXT);
 }
