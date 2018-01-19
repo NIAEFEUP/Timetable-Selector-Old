@@ -1,0 +1,712 @@
+{
+    "1\u00ba Ano": {
+        "AMB1001": {
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 An\u00e1lise Ambiental",
+                    "sigla": "AMB1001",
+                    "tipo": "PL",
+                    "turma": "AMB1001_PL1",
+                    "turmac": "AMB1001_PL1",
+                    "duracao": "4",
+                    "sala": "FC2011+FC3-123",
+                    "profsig": "LG+ADJ",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 17,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 An\u00e1lise Ambiental",
+                    "sigla": "AMB1001",
+                    "tipo": "PL",
+                    "turma": "AMB1001_PL2",
+                    "turmac": "AMB1001_PL2",
+                    "duracao": "4",
+                    "sala": "FC2011+FC3-123",
+                    "profsig": "LG+ADJ",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 16,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 An\u00e1lise Ambiental",
+                    "sigla": "AMB1001",
+                    "tipo": "PL",
+                    "turma": "AMB1001_PL3",
+                    "turmac": "AMB1001_PL3",
+                    "duracao": "4",
+                    "sala": "FC2011+FC3-123",
+                    "profsig": "LGLFG",
+                    "prof": "Luis Guido"
+                }
+            ],
+            "nome": "Introdu\u00e7\u00e3o \u00e0 An\u00e1lise Ambiental",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 An\u00e1lise Ambiental",
+                    "sigla": "AMB1001",
+                    "tipo": "TP",
+                    "turma": "AMB1001_TP1",
+                    "turmac": "AMB1001_TP1",
+                    "duracao": "4",
+                    "sala": "FC2011+FC3-123",
+                    "profsig": "LG+ADJ",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 15,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 An\u00e1lise Ambiental",
+                    "sigla": "AMB1001",
+                    "tipo": "TP",
+                    "turma": "AMB1001_TP2",
+                    "turmac": "AMB1001_TP2",
+                    "duracao": "4",
+                    "sala": "FC2011+FC3-123",
+                    "profsig": "LG+ADJ",
+                    "prof": null
+                }
+            ]
+        },
+        "M1030": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 10,
+                    "nome": "Fundamentos de Estat\u00edstica",
+                    "sigla": "M1030",
+                    "tipo": "T",
+                    "turma": "M1030_T",
+                    "turmac": "M1030_T",
+                    "duracao": "2",
+                    "sala": "FC1007",
+                    "profsig": "JPMC",
+                    "prof": "Jorge de Carvalho"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Fundamentos de Estat\u00edstica",
+                    "sigla": "M1030",
+                    "tipo": "T",
+                    "turma": "M1030_T",
+                    "turmac": "M1030_T",
+                    "duracao": "2",
+                    "sala": "FC1007",
+                    "profsig": "JPMC",
+                    "prof": "Jorge de Carvalho"
+                }
+            ],
+            "nome": "Fundamentos de Estat\u00edstica",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Fundamentos de Estat\u00edstica",
+                    "sigla": "M1030",
+                    "tipo": "TP",
+                    "turma": "M1030_TP1",
+                    "turmac": "M1030_TP1",
+                    "duracao": "4",
+                    "sala": "FC1122",
+                    "profsig": "JPMC",
+                    "prof": "Jorge de Carvalho"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Fundamentos de Estat\u00edstica",
+                    "sigla": "M1030",
+                    "tipo": "TP",
+                    "turma": "M1030_TP2",
+                    "turmac": "M1030_TP2",
+                    "duracao": "4",
+                    "sala": "FC1122",
+                    "profsig": "JPMC",
+                    "prof": "Jorge de Carvalho"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Fundamentos de Estat\u00edstica",
+                    "sigla": "M1030",
+                    "tipo": "TP",
+                    "turma": "M1030_TP3",
+                    "turmac": "M1030_TP3",
+                    "duracao": "4",
+                    "sala": "FC1219",
+                    "profsig": "SMAG",
+                    "prof": "S\u00edlvio Gama"
+                }
+            ]
+        },
+        "Q1007": {
+            "PL": [
+                {
+                    "dia": 3,
+                    "hora": 10,
+                    "nome": "Qu\u00edmica",
+                    "sigla": "Q1007",
+                    "tipo": "PL",
+                    "turma": "Q1007_PL1",
+                    "turmac": "Q1007_PL1",
+                    "duracao": "4",
+                    "sala": "FC2011+FC2010",
+                    "profsig": "JAMR",
+                    "prof": "Jos\u00e9 Rodrigues"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Qu\u00edmica",
+                    "sigla": "Q1007",
+                    "tipo": "PL",
+                    "turma": "Q1007_PL2",
+                    "turmac": "Q1007_PL2",
+                    "duracao": "4",
+                    "sala": "FC2011+FC1005",
+                    "profsig": "CMMP",
+                    "prof": "Carlos Pereira"
+                },
+                {
+                    "dia": 3,
+                    "hora": 16,
+                    "nome": "Qu\u00edmica",
+                    "sigla": "Q1007",
+                    "tipo": "PL",
+                    "turma": "Q1007_PL3",
+                    "turmac": "Q1007_PL3",
+                    "duracao": "4",
+                    "sala": "FC2011+FC2-104",
+                    "profsig": "CMMP",
+                    "prof": "Carlos Pereira"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "Qu\u00edmica",
+                    "sigla": "Q1007",
+                    "tipo": "PL",
+                    "turma": "Q1007_PL4",
+                    "turmac": "Q1007_PL4",
+                    "duracao": "4",
+                    "sala": "FC2011+FC2010",
+                    "profsig": "CMMP",
+                    "prof": "Carlos Pereira"
+                }
+            ],
+            "nome": "Qu\u00edmica",
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Qu\u00edmica",
+                    "sigla": "Q1007",
+                    "tipo": "T",
+                    "turma": "Q1007_T",
+                    "turmac": "Q1007_T",
+                    "duracao": "2",
+                    "sala": "FC2007",
+                    "profsig": "JAMR",
+                    "prof": "Jos\u00e9 Rodrigues"
+                },
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Qu\u00edmica",
+                    "sigla": "Q1007",
+                    "tipo": "T",
+                    "turma": "Q1007_T",
+                    "turmac": "Q1007_T",
+                    "duracao": "2",
+                    "sala": "FC2007",
+                    "profsig": "JAMR",
+                    "prof": "Jos\u00e9 Rodrigues"
+                }
+            ]
+        }
+    },
+    "2\u00ba Ano": {
+        "AMB2002": {
+            "PL": [
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Climatologia",
+                    "sigla": "AMB2002",
+                    "tipo": "PL",
+                    "turma": "AMB2002_PL",
+                    "turmac": "AMB2002_PL",
+                    "duracao": "4",
+                    "sala": "FC3-119",
+                    "profsig": "TMS+MASS",
+                    "prof": null
+                }
+            ],
+            "nome": "Climatologia",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Climatologia",
+                    "sigla": "AMB2002",
+                    "tipo": "T",
+                    "turma": "AMB2002_T",
+                    "turmac": "AMB2002_T",
+                    "duracao": "4",
+                    "sala": "FC3-119",
+                    "profsig": "TMS+MASS",
+                    "prof": null
+                }
+            ]
+        },
+        "AMB2003": {
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 10,
+                    "nome": "Biogeoqu\u00edmica",
+                    "sigla": "AMB2003",
+                    "tipo": "PL",
+                    "turma": "AMB2003_PL1",
+                    "turmac": "AMB2003_PL1",
+                    "duracao": "2",
+                    "sala": "FC2-112",
+                    "profsig": "CG+IB",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 12,
+                    "nome": "Biogeoqu\u00edmica",
+                    "sigla": "AMB2003",
+                    "tipo": "PL",
+                    "turma": "AMB2003_PL2",
+                    "turmac": "AMB2003_PL2",
+                    "duracao": "2",
+                    "sala": "FC2-112",
+                    "profsig": "CG+IB",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 15,
+                    "nome": "Biogeoqu\u00edmica",
+                    "sigla": "AMB2003",
+                    "tipo": "PL",
+                    "turma": "AMB2003_PL3",
+                    "turmac": "AMB2003_PL3",
+                    "duracao": "2",
+                    "sala": "FC2-112",
+                    "profsig": "CG+IB",
+                    "prof": null
+                }
+            ],
+            "nome": "Biogeoqu\u00edmica",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Biogeoqu\u00edmica",
+                    "sigla": "AMB2003",
+                    "tipo": "T",
+                    "turma": "AMB2003_T",
+                    "turmac": "AMB2003_T",
+                    "duracao": "4",
+                    "sala": "FC2-103",
+                    "profsig": "CG+IB",
+                    "prof": null
+                }
+            ],
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Biogeoqu\u00edmica",
+                    "sigla": "AMB2003",
+                    "tipo": "TP",
+                    "turma": "AMB2003_TP1",
+                    "turmac": "AMB2003_TP1",
+                    "duracao": "2",
+                    "sala": "FC2-111",
+                    "profsig": "CG+IB",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Biogeoqu\u00edmica",
+                    "sigla": "AMB2003",
+                    "tipo": "TP",
+                    "turma": "AMB2003_TP2",
+                    "turmac": "AMB2003_TP2",
+                    "duracao": "2",
+                    "sala": "FC2-111",
+                    "profsig": "CG+IB",
+                    "prof": null
+                }
+            ]
+        },
+        "AMB2004": {
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 16.5,
+                    "nome": "Avalia\u00e7\u00e3o de Risco",
+                    "sigla": "AMB2004",
+                    "tipo": "PL",
+                    "turma": "AMB2004_PL1",
+                    "turmac": "AMB2004_PL1",
+                    "duracao": "4",
+                    "sala": "FC3-119",
+                    "profsig": "JES+RMM",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Avalia\u00e7\u00e3o de Risco",
+                    "sigla": "AMB2004",
+                    "tipo": "PL",
+                    "turma": "AMB2004_PL2",
+                    "turmac": "AMB2004_PL2",
+                    "duracao": "4",
+                    "sala": "FC3-119",
+                    "profsig": "JES+RMM",
+                    "prof": null
+                }
+            ],
+            "nome": "Avalia\u00e7\u00e3o de Risco",
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 14.5,
+                    "nome": "Avalia\u00e7\u00e3o de Risco",
+                    "sigla": "AMB2004",
+                    "tipo": "T",
+                    "turma": "AMB2004_T",
+                    "turmac": "AMB2004_T",
+                    "duracao": "4",
+                    "sala": "FC3-119",
+                    "profsig": "JES+RMM",
+                    "prof": null
+                }
+            ]
+        },
+        "AMB2005": {
+            "PL": [
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "T\u00e9cnicas de An\u00e1lise Ambiental",
+                    "sigla": "AMB2005",
+                    "tipo": "PL",
+                    "turma": "AMB2005_PL1",
+                    "turmac": "AMB2005_PL1",
+                    "duracao": "4",
+                    "sala": "FC2-116+FC2011",
+                    "profsig": "CG_PA",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 16,
+                    "nome": "T\u00e9cnicas de An\u00e1lise Ambiental",
+                    "sigla": "AMB2005",
+                    "tipo": "PL",
+                    "turma": "AMB2005_PL2",
+                    "turmac": "AMB2005_PL2",
+                    "duracao": "4",
+                    "sala": "FC2-116+FC2011",
+                    "profsig": "CG_PA",
+                    "prof": null
+                }
+            ],
+            "nome": "T\u00e9cnicas de An\u00e1lise Ambiental",
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "T\u00e9cnicas de An\u00e1lise Ambiental",
+                    "sigla": "AMB2005",
+                    "tipo": "TP",
+                    "turma": "AMB2005_TP1",
+                    "turmac": "AMB2005_TP1",
+                    "duracao": "4",
+                    "sala": "FC2-101",
+                    "profsig": "CG_PA",
+                    "prof": null
+                }
+            ]
+        },
+        "EGEO1001": {
+            "PL": [
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Fundamentos de Informa\u00e7\u00e3o Geogr\u00e1fica",
+                    "sigla": "EGEO1001",
+                    "tipo": "PL",
+                    "turma": "EGEO1001_PL1",
+                    "turmac": "EGEO1001_PL1",
+                    "duracao": "4",
+                    "sala": "FC3028",
+                    "profsig": "LBCBD",
+                    "prof": "Lia Duarte"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Fundamentos de Informa\u00e7\u00e3o Geogr\u00e1fica",
+                    "sigla": "EGEO1001",
+                    "tipo": "PL",
+                    "turma": "EGEO1001_PL2",
+                    "turmac": "EGEO1001_PL2",
+                    "duracao": "4",
+                    "sala": "FC3028",
+                    "profsig": "LBCBD",
+                    "prof": "Lia Duarte"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Fundamentos de Informa\u00e7\u00e3o Geogr\u00e1fica",
+                    "sigla": "EGEO1001",
+                    "tipo": "PL",
+                    "turma": "EGEO1001_PL3",
+                    "turmac": "EGEO1001_PL3",
+                    "duracao": "4",
+                    "sala": "FC1106",
+                    "profsig": "LBCBD",
+                    "prof": "Lia Duarte"
+                }
+            ],
+            "nome": "Fundamentos de Informa\u00e7\u00e3o Geogr\u00e1fica",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Fundamentos de Informa\u00e7\u00e3o Geogr\u00e1fica",
+                    "sigla": "EGEO1001",
+                    "tipo": "T",
+                    "turma": "EGEO1001_T",
+                    "turmac": "EGEO1001_T",
+                    "duracao": "4",
+                    "sala": "FC2007",
+                    "profsig": "ACMT",
+                    "prof": "Ana Teodoro"
+                }
+            ]
+        }
+    },
+    "3\u00ba Ano": {
+        "AMB3005": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Qualidade do Ar",
+                    "sigla": "AMB3005",
+                    "tipo": "T",
+                    "turma": "AMB3005_T",
+                    "turmac": "AMB3005_T",
+                    "duracao": "4",
+                    "sala": "FC3-120",
+                    "profsig": "JES+CG",
+                    "prof": null
+                }
+            ],
+            "nome": "Qualidade do Ar",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Qualidade do Ar",
+                    "sigla": "AMB3005",
+                    "tipo": "TP",
+                    "turma": "AMB3005_TP",
+                    "turmac": "AMB3005_TP",
+                    "duracao": "4",
+                    "sala": "FC3026+FC2-112",
+                    "profsig": "JES+CG",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Qualidade do Ar",
+                    "sigla": "AMB3005",
+                    "tipo": "TP",
+                    "turma": "AMB3005_TP2",
+                    "turmac": "AMB3005_TP2",
+                    "duracao": "4",
+                    "sala": "FC3014+FC2-112",
+                    "profsig": "JES+CG",
+                    "prof": null
+                }
+            ]
+        },
+        "AMB3006": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Avalia\u00e7\u00e3o de Impacte Ambiental",
+                    "sigla": "AMB3006",
+                    "tipo": "T",
+                    "turma": "AMB3006_T",
+                    "turmac": "AMB3006_T",
+                    "duracao": "4",
+                    "sala": "FC4130",
+                    "profsig": "AG+NF",
+                    "prof": null
+                }
+            ],
+            "nome": "Avalia\u00e7\u00e3o de Impacte Ambiental",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Avalia\u00e7\u00e3o de Impacte Ambiental",
+                    "sigla": "AMB3006",
+                    "tipo": "TP",
+                    "turma": "AMB3006_TP",
+                    "turmac": "AMB3006_TP",
+                    "duracao": "4",
+                    "sala": "FC4130",
+                    "profsig": "AG+NF",
+                    "prof": null
+                }
+            ]
+        },
+        "AMB3007": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Oceanografia",
+                    "sigla": "AMB3007",
+                    "tipo": "T",
+                    "turma": "AMB3007_T",
+                    "turmac": "AMB3007_T",
+                    "duracao": "4",
+                    "sala": "FC3111",
+                    "profsig": "JCPBTS",
+                    "prof": "Jose Silva"
+                }
+            ],
+            "nome": "Oceanografia",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Oceanografia",
+                    "sigla": "AMB3007",
+                    "tipo": "TP",
+                    "turma": "AMB3007_TP",
+                    "turmac": "AMB3007_TP",
+                    "duracao": "4",
+                    "sala": "FC3028",
+                    "profsig": "JCPBTS",
+                    "prof": "Jose Silva"
+                }
+            ]
+        },
+        "AMB3008": {
+            "T": [
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Caracteriza\u00e7\u00e3o, Monitoriza\u00e7\u00e3o e Recupera\u00e7\u00e3o Ambiental",
+                    "sigla": "AMB3008",
+                    "tipo": "T",
+                    "turma": "AMB3008_T",
+                    "turmac": "AMB3008_T",
+                    "duracao": "2",
+                    "sala": "FC4028",
+                    "profsig": "AG+NF",
+                    "prof": null
+                }
+            ],
+            "nome": "Caracteriza\u00e7\u00e3o, Monitoriza\u00e7\u00e3o e Recupera\u00e7\u00e3o Ambiental",
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 15,
+                    "nome": "Caracteriza\u00e7\u00e3o, Monitoriza\u00e7\u00e3o e Recupera\u00e7\u00e3o Ambiental",
+                    "sigla": "AMB3008",
+                    "tipo": "TP",
+                    "turma": "AMB3008_TP",
+                    "turmac": "AMB3008_TP",
+                    "duracao": "2",
+                    "sala": "FC4028",
+                    "profsig": "NEMMEF",
+                    "prof": "Nuno Formigo"
+                }
+            ]
+        },
+        "ARQTP3001": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 10,
+                    "nome": "Introdu\u00e7\u00e3o ao Ordenamento do Territ\u00f3rio",
+                    "sigla": "ARQTP3001",
+                    "tipo": "TP",
+                    "turma": "ARQTP3001_TP1",
+                    "turmac": "ARQTP3001_TP1",
+                    "duracao": "2",
+                    "sala": "FC6055",
+                    "profsig": "GDNA",
+                    "prof": "Gon\u00e7alo Andrade"
+                },
+                {
+                    "dia": 2,
+                    "hora": 12,
+                    "nome": "Introdu\u00e7\u00e3o ao Ordenamento do Territ\u00f3rio",
+                    "sigla": "ARQTP3001",
+                    "tipo": "TP",
+                    "turma": "ARQTP3001_TP2",
+                    "turmac": "ARQTP3001_TP2",
+                    "duracao": "2",
+                    "sala": "FC6055",
+                    "profsig": "GDNA",
+                    "prof": "Gon\u00e7alo Andrade"
+                }
+            ],
+            "nome": "Introdu\u00e7\u00e3o ao Ordenamento do Territ\u00f3rio",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Introdu\u00e7\u00e3o ao Ordenamento do Territ\u00f3rio",
+                    "sigla": "ARQTP3001",
+                    "tipo": "T",
+                    "turma": "ARQTP3001_T1",
+                    "turmac": "ARQTP3001_T1",
+                    "duracao": "2",
+                    "sala": "FC6055",
+                    "profsig": "GDNA",
+                    "prof": "Gon\u00e7alo Andrade"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Introdu\u00e7\u00e3o ao Ordenamento do Territ\u00f3rio",
+                    "sigla": "ARQTP3001",
+                    "tipo": "T",
+                    "turma": "ARQTP3001_T2",
+                    "turmac": "ARQTP3001_T2",
+                    "duracao": "2",
+                    "sala": "FC6055",
+                    "profsig": "GDNA",
+                    "prof": "Gon\u00e7alo Andrade"
+                }
+            ]
+        }
+    }
+}

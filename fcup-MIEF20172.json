@@ -1,0 +1,863 @@
+{
+    "1\u00ba Ano": {
+        "FIS1004": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Eletromagnetismo I",
+                    "sigla": "FIS1004",
+                    "tipo": "T",
+                    "turma": "FIS1004_T",
+                    "turmac": "FIS1004_T",
+                    "duracao": "2",
+                    "sala": "FC3-120",
+                    "profsig": "JAGM",
+                    "prof": "Joaquim Moreira"
+                },
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "Eletromagnetismo I",
+                    "sigla": "FIS1004",
+                    "tipo": "T",
+                    "turma": "FIS1004_T",
+                    "turmac": "FIS1004_T",
+                    "duracao": "2",
+                    "sala": "FC3-120",
+                    "profsig": "JAGM",
+                    "prof": "Joaquim Moreira"
+                }
+            ],
+            "nome": "Eletromagnetismo I",
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Eletromagnetismo I",
+                    "sigla": "FIS1004",
+                    "tipo": "TP",
+                    "turma": "FIS1004_TP1",
+                    "turmac": "FIS1004_TP1",
+                    "duracao": "4",
+                    "sala": "FC3013",
+                    "profsig": "JMCNS",
+                    "prof": "Jos\u00e9 Miguel Nunes da Silva"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Eletromagnetismo I",
+                    "sigla": "FIS1004",
+                    "tipo": "TP",
+                    "turma": "FIS1004_TP2",
+                    "turmac": "FIS1004_TP2",
+                    "duracao": "4",
+                    "sala": "FC3013",
+                    "profsig": "AJMA",
+                    "prof": "Ab\u00edlio Almeida"
+                },
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Eletromagnetismo I",
+                    "sigla": "FIS1004",
+                    "tipo": "TP",
+                    "turma": "FIS1004_TP3",
+                    "turmac": "FIS1004_TP3",
+                    "duracao": "4",
+                    "sala": "FC3013",
+                    "profsig": "ARNSG",
+                    "prof": "Ariel Guerreiro"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Eletromagnetismo I",
+                    "sigla": "FIS1004",
+                    "tipo": "TP",
+                    "turma": "FIS1004_TP4",
+                    "turmac": "FIS1004_TP4",
+                    "duracao": "4",
+                    "sala": "FC3-116",
+                    "profsig": "ARNSG",
+                    "prof": "Ariel Guerreiro"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Eletromagnetismo I",
+                    "sigla": "FIS1004",
+                    "tipo": "TP",
+                    "turma": "FIS1004_TP5",
+                    "turmac": "FIS1004_TP5",
+                    "duracao": "4",
+                    "sala": "FC3013",
+                    "profsig": "JMCNS",
+                    "prof": "Jos\u00e9 Miguel Nunes da Silva"
+                }
+            ]
+        },
+        "FIS1005": {
+            "PL": [
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Laborat\u00f3rio de F\u00edsica I",
+                    "sigla": "FIS1005",
+                    "tipo": "PL",
+                    "turma": "FIS1005_PL1",
+                    "turmac": "FIS1005_PL1",
+                    "duracao": "4",
+                    "sala": "FC3119",
+                    "profsig": "MASS",
+                    "prof": "Manuel Silva"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Laborat\u00f3rio de F\u00edsica I",
+                    "sigla": "FIS1005",
+                    "tipo": "PL",
+                    "turma": "FIS1005_PL1",
+                    "turmac": "FIS1005_PL1",
+                    "duracao": "4",
+                    "sala": "FC3-122",
+                    "profsig": "MASS",
+                    "prof": "Manuel Silva"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Laborat\u00f3rio de F\u00edsica I",
+                    "sigla": "FIS1005",
+                    "tipo": "PL",
+                    "turma": "FIS1005_PL2",
+                    "turmac": "FIS1005_PL2",
+                    "duracao": "4",
+                    "sala": "FC3-122",
+                    "profsig": "AMTP",
+                    "prof": "Andr\u00e9 Pereira"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Laborat\u00f3rio de F\u00edsica I",
+                    "sigla": "FIS1005",
+                    "tipo": "PL",
+                    "turma": "FIS1005_PL2",
+                    "turmac": "FIS1005_PL2",
+                    "duracao": "4",
+                    "sala": "FC3119",
+                    "profsig": "HMPRCC",
+                    "prof": "Helder Crespo"
+                },
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Laborat\u00f3rio de F\u00edsica I",
+                    "sigla": "FIS1005",
+                    "tipo": "PL",
+                    "turma": "FIS1005_PL3",
+                    "turmac": "FIS1005_PL3",
+                    "duracao": "4",
+                    "sala": "FC3119",
+                    "profsig": "AMTP",
+                    "prof": "Andr\u00e9 Pereira"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9.5,
+                    "nome": "Laborat\u00f3rio de F\u00edsica I",
+                    "sigla": "FIS1005",
+                    "tipo": "PL",
+                    "turma": "FIS1005_PL3",
+                    "turmac": "FIS1005_PL3",
+                    "duracao": "4",
+                    "sala": "FC3-122",
+                    "profsig": "MJBM",
+                    "prof": "Manuel Marques"
+                },
+                {
+                    "dia": 3,
+                    "hora": 10,
+                    "nome": "Laborat\u00f3rio de F\u00edsica I",
+                    "sigla": "FIS1005",
+                    "tipo": "PL",
+                    "turma": "FIS1005_PL4",
+                    "turmac": "FIS1005_PL4",
+                    "duracao": "4",
+                    "sala": "FC3119",
+                    "profsig": "MMRSALS",
+                    "prof": "Manuela Lopes dos Santos"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Laborat\u00f3rio de F\u00edsica I",
+                    "sigla": "FIS1005",
+                    "tipo": "PL",
+                    "turma": "FIS1005_PL4",
+                    "turmac": "FIS1005_PL4",
+                    "duracao": "4",
+                    "sala": "FC3-122",
+                    "profsig": "MMRSALS",
+                    "prof": "Manuela Lopes dos Santos"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "Laborat\u00f3rio de F\u00edsica I",
+                    "sigla": "FIS1005",
+                    "tipo": "PL",
+                    "turma": "FIS1005_PL5",
+                    "turmac": "FIS1005_PL5",
+                    "duracao": "4",
+                    "sala": "FC3-122",
+                    "profsig": "HMPRCC",
+                    "prof": "Helder Crespo"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Laborat\u00f3rio de F\u00edsica I",
+                    "sigla": "FIS1005",
+                    "tipo": "PL",
+                    "turma": "FIS1005_PL5",
+                    "turmac": "FIS1005_PL5",
+                    "duracao": "4",
+                    "sala": "FC3119",
+                    "profsig": "AMTP",
+                    "prof": "Andr\u00e9 Pereira"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "Laborat\u00f3rio de F\u00edsica I",
+                    "sigla": "FIS1005",
+                    "tipo": "PL",
+                    "turma": "FIS1005_PL6",
+                    "turmac": "FIS1005_PL6",
+                    "duracao": "4",
+                    "sala": "FC3119",
+                    "profsig": "AJMA",
+                    "prof": "Ab\u00edlio Almeida"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Laborat\u00f3rio de F\u00edsica I",
+                    "sigla": "FIS1005",
+                    "tipo": "PL",
+                    "turma": "FIS1005_PL6",
+                    "turmac": "FIS1005_PL6",
+                    "duracao": "4",
+                    "sala": "FC3-122",
+                    "profsig": "AJMA",
+                    "prof": "Ab\u00edlio Almeida"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Laborat\u00f3rio de F\u00edsica I",
+                    "sigla": "FIS1005",
+                    "tipo": "PL",
+                    "turma": "FIS1005_PL7",
+                    "turmac": "FIS1005_PL7",
+                    "duracao": "4",
+                    "sala": "FC3-122",
+                    "profsig": "CSS",
+                    "prof": "Caroline Silva"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Laborat\u00f3rio de F\u00edsica I",
+                    "sigla": "FIS1005",
+                    "tipo": "PL",
+                    "turma": "FIS1005_PL7",
+                    "turmac": "FIS1005_PL7",
+                    "duracao": "4",
+                    "sala": "FC3119",
+                    "profsig": "CSS",
+                    "prof": "Caroline Silva"
+                },
+                {
+                    "dia": 1,
+                    "hora": 8.5,
+                    "nome": "Laborat\u00f3rio de F\u00edsica I",
+                    "sigla": "FIS1005",
+                    "tipo": "PL",
+                    "turma": "FIS1005_PL8",
+                    "turmac": "FIS1005_PL8",
+                    "duracao": "4",
+                    "sala": "FC3-122",
+                    "profsig": "MJBM",
+                    "prof": "Manuel Marques"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Laborat\u00f3rio de F\u00edsica I",
+                    "sigla": "FIS1005",
+                    "tipo": "PL",
+                    "turma": "FIS1005_PL8",
+                    "turmac": "FIS1005_PL8",
+                    "duracao": "4",
+                    "sala": "FC3119",
+                    "profsig": "MJBM",
+                    "prof": "Manuel Marques"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Laborat\u00f3rio de F\u00edsica I",
+                    "sigla": "FIS1005",
+                    "tipo": "PL",
+                    "turma": "FIS1005_PL9",
+                    "turmac": "FIS1005_PL9",
+                    "duracao": "4",
+                    "sala": "FC3119",
+                    "profsig": "AJMA",
+                    "prof": "Ab\u00edlio Almeida"
+                },
+                {
+                    "dia": 1,
+                    "hora": 16.5,
+                    "nome": "Laborat\u00f3rio de F\u00edsica I",
+                    "sigla": "FIS1005",
+                    "tipo": "PL",
+                    "turma": "FIS1005_PL9",
+                    "turmac": "FIS1005_PL9",
+                    "duracao": "4",
+                    "sala": "FC3-122",
+                    "profsig": "AJMA",
+                    "prof": "Ab\u00edlio Almeida"
+                }
+            ],
+            "nome": "Laborat\u00f3rio de F\u00edsica I"
+        }
+    },
+    "2\u00ba Ano": {
+        "FIS2003": {
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "F\u00edsica Moderna",
+                    "sigla": "FIS2003",
+                    "tipo": "T",
+                    "turma": "FIS2003_T",
+                    "turmac": "FIS2003_T",
+                    "duracao": "2",
+                    "sala": "FC3-120",
+                    "profsig": "MFGM",
+                    "prof": "Maria de F\u00e1tima Mota"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "F\u00edsica Moderna",
+                    "sigla": "FIS2003",
+                    "tipo": "T",
+                    "turma": "FIS2003_T",
+                    "turmac": "FIS2003_T",
+                    "duracao": "3",
+                    "sala": "FC3-120",
+                    "profsig": "MFGM",
+                    "prof": "Maria de F\u00e1tima Mota"
+                }
+            ],
+            "nome": "F\u00edsica Moderna",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 15,
+                    "nome": "F\u00edsica Moderna",
+                    "sigla": "FIS2003",
+                    "tipo": "TP",
+                    "turma": "FIS2003_TP1",
+                    "turmac": "FIS2003_TP1",
+                    "duracao": "3",
+                    "sala": "FC3014",
+                    "profsig": "MFGM",
+                    "prof": "Maria de F\u00e1tima Mota"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16.5,
+                    "nome": "F\u00edsica Moderna",
+                    "sigla": "FIS2003",
+                    "tipo": "TP",
+                    "turma": "FIS2003_TP2",
+                    "turmac": "FIS2003_TP2",
+                    "duracao": "3",
+                    "sala": "FC3014",
+                    "profsig": "MFGM",
+                    "prof": "Maria de F\u00e1tima Mota"
+                },
+                {
+                    "dia": 3,
+                    "hora": 10.5,
+                    "nome": "F\u00edsica Moderna",
+                    "sigla": "FIS2003",
+                    "tipo": "TP",
+                    "turma": "FIS2003_TP3",
+                    "turmac": "FIS2003_TP3",
+                    "duracao": "3",
+                    "sala": "FC3015",
+                    "profsig": "MFGM",
+                    "prof": "Maria de F\u00e1tima Mota"
+                }
+            ]
+        },
+        "FIS2006": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Eletromagnetismo II",
+                    "sigla": "FIS2006",
+                    "tipo": "T",
+                    "turma": "FIS2006_T",
+                    "turmac": "FIS2006_T",
+                    "duracao": "3",
+                    "sala": "FC3-117",
+                    "profsig": "PPA",
+                    "prof": "Pedro Avelino"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Eletromagnetismo II",
+                    "sigla": "FIS2006",
+                    "tipo": "T",
+                    "turma": "FIS2006_T",
+                    "turmac": "FIS2006_T",
+                    "duracao": "2",
+                    "sala": "FC3-117",
+                    "profsig": "PPA",
+                    "prof": "Pedro Avelino"
+                }
+            ],
+            "nome": "Eletromagnetismo II",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 14.5,
+                    "nome": "Eletromagnetismo II",
+                    "sigla": "FIS2006",
+                    "tipo": "TP",
+                    "turma": "FIS2006_TP1",
+                    "turmac": "FIS2006_TP1",
+                    "duracao": "3",
+                    "sala": "FC3013",
+                    "profsig": "PPA",
+                    "prof": "Pedro Avelino"
+                },
+                {
+                    "dia": 1,
+                    "hora": 16.5,
+                    "nome": "Eletromagnetismo II",
+                    "sigla": "FIS2006",
+                    "tipo": "TP",
+                    "turma": "FIS2006_TP2",
+                    "turmac": "FIS2006_TP2",
+                    "duracao": "3",
+                    "sala": "FC3013",
+                    "profsig": "PPA",
+                    "prof": "Pedro Avelino"
+                },
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Eletromagnetismo II",
+                    "sigla": "FIS2006",
+                    "tipo": "TP",
+                    "turma": "FIS2006_TP3",
+                    "turmac": "FIS2006_TP3",
+                    "duracao": "3",
+                    "sala": "FC3026",
+                    "profsig": "JMMM",
+                    "prof": "Jos\u00e9 Moreira"
+                }
+            ]
+        },
+        "FIS2009": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 14.5,
+                    "nome": "F\u00edsica Computacional",
+                    "sigla": "FIS2009",
+                    "tipo": "PL",
+                    "turma": "FIS2009_PL1",
+                    "turmac": "FIS2009_PL1",
+                    "duracao": "4",
+                    "sala": "FC2133",
+                    "profsig": "JMVPL",
+                    "prof": "Jo\u00e3o Lopes"
+                },
+                {
+                    "dia": 3,
+                    "hora": 15.5,
+                    "nome": "F\u00edsica Computacional",
+                    "sigla": "FIS2009",
+                    "tipo": "PL",
+                    "turma": "FIS2009_PL2",
+                    "turmac": "FIS2009_PL2",
+                    "duracao": "4",
+                    "sala": "FC2133",
+                    "profsig": "JMVPL",
+                    "prof": "Jo\u00e3o Lopes"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "F\u00edsica Computacional",
+                    "sigla": "FIS2009",
+                    "tipo": "PL",
+                    "turma": "FIS2009_PL3",
+                    "turmac": "FIS2009_PL3",
+                    "duracao": "4",
+                    "sala": "FC2133",
+                    "profsig": "JMVPL",
+                    "prof": "Jo\u00e3o Lopes"
+                }
+            ],
+            "nome": "F\u00edsica Computacional",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 12,
+                    "nome": "F\u00edsica Computacional",
+                    "sigla": "FIS2009",
+                    "tipo": "T",
+                    "turma": "FIS2009_T",
+                    "turmac": "FIS2009_T",
+                    "duracao": "2",
+                    "sala": "FC3-120",
+                    "profsig": "JMVPL",
+                    "prof": "Jo\u00e3o Lopes"
+                },
+                {
+                    "dia": 4,
+                    "hora": 12,
+                    "nome": "F\u00edsica Computacional",
+                    "sigla": "FIS2009",
+                    "tipo": "T",
+                    "turma": "FIS2009_T",
+                    "turmac": "FIS2009_T",
+                    "duracao": "2",
+                    "sala": "FC3-117",
+                    "profsig": "JMVPL",
+                    "prof": "Jo\u00e3o Lopes"
+                }
+            ]
+        },
+        "FIS2012": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Sinais e Sistemas",
+                    "sigla": "FIS2012",
+                    "tipo": "T",
+                    "turma": "FIS2012_T",
+                    "turmac": "FIS2012_T",
+                    "duracao": "2",
+                    "sala": "FC3-117",
+                    "profsig": "JMMM",
+                    "prof": "Jos\u00e9 Moreira"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Sinais e Sistemas",
+                    "sigla": "FIS2012",
+                    "tipo": "T",
+                    "turma": "FIS2012_T",
+                    "turmac": "FIS2012_T",
+                    "duracao": "3",
+                    "sala": "FC3-117",
+                    "profsig": "JMMM",
+                    "prof": "Jos\u00e9 Moreira"
+                }
+            ],
+            "nome": "Sinais e Sistemas",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 10.5,
+                    "nome": "Sinais e Sistemas",
+                    "sigla": "FIS2012",
+                    "tipo": "TP",
+                    "turma": "FIS2012_TP1",
+                    "turmac": "FIS2012_TP1",
+                    "duracao": "3",
+                    "sala": "FC3014",
+                    "profsig": "JMMM",
+                    "prof": "Jos\u00e9 Moreira"
+                }
+            ]
+        }
+    },
+    "3\u00ba Ano": {
+        "D3001": {
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "Desenho de CAD e Oficina",
+                    "sigla": "D3001",
+                    "tipo": "PL",
+                    "turma": "D3001_PL",
+                    "turmac": "D3001_PL",
+                    "duracao": "3",
+                    "sala": "FC3028",
+                    "profsig": "JCPBTS",
+                    "prof": "Jose Silva"
+                }
+            ],
+            "nome": "Desenho de CAD e Oficina"
+        },
+        "FIS3005": {
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "F\u00edsica da Mat\u00e9ria Condensada",
+                    "sigla": "FIS3005",
+                    "tipo": "T",
+                    "turma": "FIS3005_T",
+                    "turmac": "FIS3005_T",
+                    "duracao": "2",
+                    "sala": "FC3-120",
+                    "profsig": "JAGM",
+                    "prof": "Joaquim Moreira"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "F\u00edsica da Mat\u00e9ria Condensada",
+                    "sigla": "FIS3005",
+                    "tipo": "T",
+                    "turma": "FIS3005_T",
+                    "turmac": "FIS3005_T",
+                    "duracao": "2",
+                    "sala": "FC3-120",
+                    "profsig": "JAGM",
+                    "prof": "Joaquim Moreira"
+                }
+            ],
+            "nome": "F\u00edsica da Mat\u00e9ria Condensada",
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 10,
+                    "nome": "F\u00edsica da Mat\u00e9ria Condensada",
+                    "sigla": "FIS3005",
+                    "tipo": "TP",
+                    "turma": "FIS3005_TP1",
+                    "turmac": "FIS3005_TP1",
+                    "duracao": "3",
+                    "sala": "FC3014",
+                    "profsig": "TMS",
+                    "prof": "Teresa Seixas"
+                }
+            ]
+        },
+        "FIS3013": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Ondas Guiadas",
+                    "sigla": "FIS3013",
+                    "tipo": "T",
+                    "turma": "FIS3013_T",
+                    "turmac": "FIS3013_T",
+                    "duracao": "4",
+                    "sala": "FEUP",
+                    "profsig": "OJRF",
+                    "prof": "Orlando Frazao"
+                }
+            ],
+            "nome": "Ondas Guiadas",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 11.5,
+                    "nome": "Ondas Guiadas",
+                    "sigla": "FIS3013",
+                    "tipo": "TP",
+                    "turma": "FIS3013_TP",
+                    "turmac": "FIS3013_TP",
+                    "duracao": "3",
+                    "sala": "FEUP",
+                    "profsig": "OJRF",
+                    "prof": "Orlando Frazao"
+                }
+            ]
+        },
+        "FIS3014": {
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "\u00d3tica",
+                    "sigla": "FIS3014",
+                    "tipo": "T",
+                    "turma": "FIS3014_T",
+                    "turmac": "FIS3014_T",
+                    "duracao": "2",
+                    "sala": "FC3-120",
+                    "profsig": "ARNSG",
+                    "prof": "Ariel Guerreiro"
+                },
+                {
+                    "dia": 3,
+                    "hora": 12,
+                    "nome": "\u00d3tica",
+                    "sigla": "FIS3014",
+                    "tipo": "T",
+                    "turma": "FIS3014_T",
+                    "turmac": "FIS3014_T",
+                    "duracao": "2",
+                    "sala": "FC3-120",
+                    "profsig": "ARNSG",
+                    "prof": "Ariel Guerreiro"
+                }
+            ],
+            "nome": "\u00d3tica",
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "\u00d3tica",
+                    "sigla": "FIS3014",
+                    "tipo": "TP",
+                    "turma": "FIS3014_TP1",
+                    "turmac": "FIS3014_TP1",
+                    "duracao": "3",
+                    "sala": "FC3-116",
+                    "profsig": "ARNSG",
+                    "prof": "Ariel Guerreiro"
+                }
+            ]
+        },
+        "FIS3015": {
+            "PL": [
+                {
+                    "dia": 3,
+                    "hora": 14.5,
+                    "nome": "Projeto de Aquisi\u00e7\u00e3o e Controlo",
+                    "sigla": "FIS3015",
+                    "tipo": "PL",
+                    "turma": "FIS3015_PL1",
+                    "turmac": "FIS3015_PL1",
+                    "duracao": "8",
+                    "sala": "FC3-114",
+                    "profsig": "PASJ",
+                    "prof": "Pedro Jorge"
+                }
+            ],
+            "nome": "Projeto de Aquisi\u00e7\u00e3o e Controlo"
+        }
+    },
+    "4\u00ba Ano": {
+        "FIS4009": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 14.5,
+                    "nome": "Nanoestruturas Multifuncionais",
+                    "sigla": "FIS4009",
+                    "tipo": "TP",
+                    "turma": "FIS4009_TP",
+                    "turmac": "FIS4009_TP",
+                    "duracao": "3",
+                    "sala": "FC3014",
+                    "profsig": "JPA+AP+JAM",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 16.5,
+                    "nome": "Nanoestruturas Multifuncionais",
+                    "sigla": "FIS4009",
+                    "tipo": "TP",
+                    "turma": "FIS4009_TP",
+                    "turmac": "FIS4009_TP",
+                    "duracao": "3",
+                    "sala": "FC3014",
+                    "profsig": "JPA+AP+JAM",
+                    "prof": null
+                }
+            ],
+            "nome": "Nanoestruturas Multifuncionais"
+        },
+        "FIS4016": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 14.5,
+                    "nome": "T\u00e9cnicas  Laboratoriais Avan\u00e7adas II",
+                    "sigla": "FIS4016",
+                    "tipo": "PL",
+                    "turma": "FIS4016_PL1",
+                    "turmac": "FIS4016_PL1",
+                    "duracao": "8",
+                    "sala": "LabAvan\u00e7ado",
+                    "profsig": "PM+JPA+JOV",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 14.5,
+                    "nome": "T\u00e9cnicas  Laboratoriais Avan\u00e7adas II",
+                    "sigla": "FIS4016",
+                    "tipo": "PL",
+                    "turma": "FIS4016_PL2",
+                    "turmac": "FIS4016_PL2",
+                    "duracao": "8",
+                    "sala": "LabAvan\u00e7ado",
+                    "profsig": "PM+JPA+JOV",
+                    "prof": null
+                }
+            ],
+            "nome": "T\u00e9cnicas  Laboratoriais Avan\u00e7adas II"
+        },
+        "FIS4017": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Telesc\u00f3pios e Detetores para as Ci\u00eancias do Espa\u00e7o",
+                    "sigla": "FIS4017",
+                    "tipo": "TP",
+                    "turma": "FIS4017_TP",
+                    "turmac": "FIS4017_TP",
+                    "duracao": "3",
+                    "sala": "FC2133",
+                    "profsig": "JG+NS",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Telesc\u00f3pios e Detetores para as Ci\u00eancias do Espa\u00e7o",
+                    "sigla": "FIS4017",
+                    "tipo": "TP",
+                    "turma": "FIS4017_TP",
+                    "turmac": "FIS4017_TP",
+                    "duracao": "3",
+                    "sala": "FC3014",
+                    "profsig": "JG+NS",
+                    "prof": null
+                }
+            ],
+            "nome": "Telesc\u00f3pios e Detetores para as Ci\u00eancias do Espa\u00e7o"
+        }
+    }
+}

@@ -1,0 +1,161 @@
+{
+    "1\u00ba Ano": {
+        "HM": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Hidromineralurgia",
+                    "sigla": "HM",
+                    "tipo": "TP",
+                    "turma": "MEMG01",
+                    "turmac": "MEMG01",
+                    "duracao": "4",
+                    "sala": "F204+F401",
+                    "profsig": "AFS",
+                    "prof": "Aurora Futuro"
+                }
+            ],
+            "nome": "Hidromineralurgia",
+            "PL": [
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Hidromineralurgia",
+                    "sigla": "HM",
+                    "tipo": "PL",
+                    "turma": "MEMG01",
+                    "turmac": "MEMG01",
+                    "duracao": "4",
+                    "sala": "F204+F401",
+                    "profsig": "AFS",
+                    "prof": "Aurora Futuro"
+                }
+            ]
+        },
+        "TMG": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Teoria dos M\u00e9todos Geof\u00edsicos",
+                    "sigla": "TMG",
+                    "tipo": "TP",
+                    "turma": "MEMG01",
+                    "turmac": "MEMG01",
+                    "duracao": "4",
+                    "sala": "B336",
+                    "profsig": "JMC",
+                    "prof": "Jorge Manuel Carvalho"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Teoria dos M\u00e9todos Geof\u00edsicos",
+                    "sigla": "TMG",
+                    "tipo": "TP",
+                    "turma": "MEMG01",
+                    "turmac": "MEMG01",
+                    "duracao": "4",
+                    "sala": "B101",
+                    "profsig": "JMC",
+                    "prof": "Jorge Manuel Carvalho"
+                }
+            ],
+            "nome": "Teoria dos M\u00e9todos Geof\u00edsicos"
+        },
+        "PMI": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Projecto Mineiro Integrado",
+                    "sigla": "PMI",
+                    "tipo": "TP",
+                    "turma": "MEMG01",
+                    "turmac": "MEMG01",
+                    "duracao": "4",
+                    "sala": "B314",
+                    "profsig": "JCCG+JSB",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 11.5,
+                    "nome": "Projecto Mineiro Integrado",
+                    "sigla": "PMI",
+                    "tipo": "TP",
+                    "turma": "MEMG01",
+                    "turmac": "MEMG01",
+                    "duracao": "4",
+                    "sala": "B314",
+                    "profsig": "JCCG+JSB",
+                    "prof": null
+                }
+            ],
+            "nome": "Projecto Mineiro Integrado"
+        },
+        "EMM": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Explora\u00e7\u00e3o de Massas Minerais",
+                    "sigla": "EMM",
+                    "tipo": "TP",
+                    "turma": "MEMG01",
+                    "turmac": "MEMG01",
+                    "duracao": "4",
+                    "sala": "F208",
+                    "profsig": "MFTD+AML+JCG",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 11.5,
+                    "nome": "Explora\u00e7\u00e3o de Massas Minerais",
+                    "sigla": "EMM",
+                    "tipo": "TP",
+                    "turma": "MEMG01",
+                    "turmac": "MEMG01",
+                    "duracao": "4",
+                    "sala": "F208",
+                    "profsig": "MFTD+AML+JCG",
+                    "prof": null
+                }
+            ],
+            "nome": "Explora\u00e7\u00e3o de Massas Minerais"
+        },
+        "GM": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 15,
+                    "nome": "Geomec\u00e2nica",
+                    "sigla": "GM",
+                    "tipo": "TP",
+                    "turma": "MEMG01",
+                    "turmac": "MEMG01",
+                    "duracao": "4",
+                    "sala": "B326",
+                    "profsig": "JMC+MFTD",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 16,
+                    "nome": "Geomec\u00e2nica",
+                    "sigla": "GM",
+                    "tipo": "TP",
+                    "turma": "MEMG01",
+                    "turmac": "MEMG01",
+                    "duracao": "4",
+                    "sala": "B119",
+                    "profsig": "JMC+MFTD",
+                    "prof": null
+                }
+            ],
+            "nome": "Geomec\u00e2nica"
+        }
+    }
+}

@@ -1,0 +1,1434 @@
+{
+    "1\u00ba Ano": {
+        "IEMA2": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Engenharia de Materiais II",
+                    "sigla": "IEMA2",
+                    "tipo": "TP",
+                    "turma": "1EMM01",
+                    "turmac": "COMP_1155",
+                    "duracao": "4",
+                    "sala": "B021",
+                    "profsig": "JDS",
+                    "prof": "Jos\u00e9 Domingos Santos"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Engenharia de Materiais II",
+                    "sigla": "IEMA2",
+                    "tipo": "TP",
+                    "turma": "1EMM02",
+                    "turmac": "COMP_1155",
+                    "duracao": "4",
+                    "sala": "B021",
+                    "profsig": "JDS",
+                    "prof": "Jos\u00e9 Domingos Santos"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Engenharia de Materiais II",
+                    "sigla": "IEMA2",
+                    "tipo": "TP",
+                    "turma": "1EMM03",
+                    "turmac": "COMP_1155",
+                    "duracao": "4",
+                    "sala": "B021",
+                    "profsig": "JDS",
+                    "prof": "Jos\u00e9 Domingos Santos"
+                }
+            ],
+            "nome": "Introdu\u00e7\u00e3o \u00e0 Engenharia de Materiais II",
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Engenharia de Materiais II",
+                    "sigla": "IEMA2",
+                    "tipo": "PL",
+                    "turma": "1EMM01",
+                    "turmac": "COMP_1155",
+                    "duracao": "4",
+                    "sala": "B019+F304",
+                    "profsig": "JDS",
+                    "prof": "Jos\u00e9 Domingos Santos"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Engenharia de Materiais II",
+                    "sigla": "IEMA2",
+                    "tipo": "PL",
+                    "turma": "1EMM02",
+                    "turmac": "COMP_1155",
+                    "duracao": "4",
+                    "sala": "B019+F304",
+                    "profsig": "JDS",
+                    "prof": "Jos\u00e9 Domingos Santos"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Engenharia de Materiais II",
+                    "sigla": "IEMA2",
+                    "tipo": "PL",
+                    "turma": "1EMM03",
+                    "turmac": "COMP_1155",
+                    "duracao": "4",
+                    "sala": "B019+F304",
+                    "profsig": "JDS",
+                    "prof": "Jos\u00e9 Domingos Santos"
+                }
+            ]
+        },
+        "QUIM2": {
+            "PL": [
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Qu\u00edmica II",
+                    "sigla": "QUIM2",
+                    "tipo": "PL",
+                    "turma": "1EMM01",
+                    "turmac": "COMP_433",
+                    "duracao": "4",
+                    "sala": "F303",
+                    "profsig": "SCP",
+                    "prof": "S\u00edlvia Cardinal Pinho"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Qu\u00edmica II",
+                    "sigla": "QUIM2",
+                    "tipo": "PL",
+                    "turma": "1EMM02",
+                    "turmac": "COMP_830",
+                    "duracao": "4",
+                    "sala": "F303",
+                    "profsig": "SCP",
+                    "prof": "S\u00edlvia Cardinal Pinho"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Qu\u00edmica II",
+                    "sigla": "QUIM2",
+                    "tipo": "PL",
+                    "turma": "1EMM03",
+                    "turmac": "1EMM03",
+                    "duracao": "4",
+                    "sala": "F303",
+                    "profsig": "SCP",
+                    "prof": "S\u00edlvia Cardinal Pinho"
+                }
+            ],
+            "nome": "Qu\u00edmica II",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 17,
+                    "nome": "Qu\u00edmica II",
+                    "sigla": "QUIM2",
+                    "tipo": "TP",
+                    "turma": "1EMM01",
+                    "turmac": "COMP_1154",
+                    "duracao": "2",
+                    "sala": "B019",
+                    "profsig": "MLopes",
+                    "prof": "Maria Ascens\u00e3o Lopes"
+                },
+                {
+                    "dia": 3,
+                    "hora": 17,
+                    "nome": "Qu\u00edmica II",
+                    "sigla": "QUIM2",
+                    "tipo": "TP",
+                    "turma": "1EMM01",
+                    "turmac": "COMP_1154",
+                    "duracao": "2",
+                    "sala": "B019",
+                    "profsig": "MLopes",
+                    "prof": "Maria Ascens\u00e3o Lopes"
+                },
+                {
+                    "dia": 2,
+                    "hora": 17,
+                    "nome": "Qu\u00edmica II",
+                    "sigla": "QUIM2",
+                    "tipo": "TP",
+                    "turma": "1EMM02",
+                    "turmac": "COMP_1154",
+                    "duracao": "2",
+                    "sala": "B019",
+                    "profsig": "MLopes",
+                    "prof": "Maria Ascens\u00e3o Lopes"
+                },
+                {
+                    "dia": 3,
+                    "hora": 17,
+                    "nome": "Qu\u00edmica II",
+                    "sigla": "QUIM2",
+                    "tipo": "TP",
+                    "turma": "1EMM02",
+                    "turmac": "COMP_1154",
+                    "duracao": "2",
+                    "sala": "B019",
+                    "profsig": "MLopes",
+                    "prof": "Maria Ascens\u00e3o Lopes"
+                },
+                {
+                    "dia": 2,
+                    "hora": 17,
+                    "nome": "Qu\u00edmica II",
+                    "sigla": "QUIM2",
+                    "tipo": "TP",
+                    "turma": "1EMM03",
+                    "turmac": "COMP_1154",
+                    "duracao": "2",
+                    "sala": "B019",
+                    "profsig": "MLopes",
+                    "prof": "Maria Ascens\u00e3o Lopes"
+                },
+                {
+                    "dia": 3,
+                    "hora": 17,
+                    "nome": "Qu\u00edmica II",
+                    "sigla": "QUIM2",
+                    "tipo": "TP",
+                    "turma": "1EMM03",
+                    "turmac": "COMP_1154",
+                    "duracao": "2",
+                    "sala": "B019",
+                    "profsig": "MLopes",
+                    "prof": "Maria Ascens\u00e3o Lopes"
+                }
+            ]
+        },
+        "FISI1": {
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "F\u00edsica I",
+                    "sigla": "FISI1",
+                    "tipo": "PL",
+                    "turma": "1EMM01",
+                    "turmac": "COMP_433",
+                    "duracao": "4",
+                    "sala": "B009",
+                    "profsig": "MJFVLM",
+                    "prof": "Maria Jos\u00e9 Marques"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "F\u00edsica I",
+                    "sigla": "FISI1",
+                    "tipo": "PL",
+                    "turma": "1EMM02",
+                    "turmac": "COMP_830",
+                    "duracao": "4",
+                    "sala": "B019",
+                    "profsig": "MJFVLM",
+                    "prof": "Maria Jos\u00e9 Marques"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "F\u00edsica I",
+                    "sigla": "FISI1",
+                    "tipo": "PL",
+                    "turma": "1EMM03",
+                    "turmac": "1EMM03",
+                    "duracao": "4",
+                    "sala": "B024",
+                    "profsig": "MJFVLM",
+                    "prof": "Maria Jos\u00e9 Marques"
+                }
+            ],
+            "nome": "F\u00edsica I",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "F\u00edsica I",
+                    "sigla": "FISI1",
+                    "tipo": "TP",
+                    "turma": "1EMM01",
+                    "turmac": "COMP_1154",
+                    "duracao": "2",
+                    "sala": "B019",
+                    "profsig": "MJFVLM",
+                    "prof": "Maria Jos\u00e9 Marques"
+                },
+                {
+                    "dia": 3,
+                    "hora": 16,
+                    "nome": "F\u00edsica I",
+                    "sigla": "FISI1",
+                    "tipo": "TP",
+                    "turma": "1EMM01",
+                    "turmac": "COMP_1154",
+                    "duracao": "2",
+                    "sala": "B019",
+                    "profsig": "MJFVLM",
+                    "prof": "Maria Jos\u00e9 Marques"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "F\u00edsica I",
+                    "sigla": "FISI1",
+                    "tipo": "TP",
+                    "turma": "1EMM02",
+                    "turmac": "COMP_1154",
+                    "duracao": "2",
+                    "sala": "B019",
+                    "profsig": "MJFVLM",
+                    "prof": "Maria Jos\u00e9 Marques"
+                },
+                {
+                    "dia": 3,
+                    "hora": 16,
+                    "nome": "F\u00edsica I",
+                    "sigla": "FISI1",
+                    "tipo": "TP",
+                    "turma": "1EMM02",
+                    "turmac": "COMP_1154",
+                    "duracao": "2",
+                    "sala": "B019",
+                    "profsig": "MJFVLM",
+                    "prof": "Maria Jos\u00e9 Marques"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "F\u00edsica I",
+                    "sigla": "FISI1",
+                    "tipo": "TP",
+                    "turma": "1EMM03",
+                    "turmac": "COMP_1154",
+                    "duracao": "2",
+                    "sala": "B019",
+                    "profsig": "MJFVLM",
+                    "prof": "Maria Jos\u00e9 Marques"
+                },
+                {
+                    "dia": 3,
+                    "hora": 16,
+                    "nome": "F\u00edsica I",
+                    "sigla": "FISI1",
+                    "tipo": "TP",
+                    "turma": "1EMM03",
+                    "turmac": "COMP_1154",
+                    "duracao": "2",
+                    "sala": "B019",
+                    "profsig": "MJFVLM",
+                    "prof": "Maria Jos\u00e9 Marques"
+                }
+            ]
+        },
+        "DTEC": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Desenho T\u00e9cnico",
+                    "sigla": "DTEC",
+                    "tipo": "TP",
+                    "turma": "1EMM01",
+                    "turmac": "COMP_1151",
+                    "duracao": "4",
+                    "sala": "B112",
+                    "profsig": "JRM",
+                    "prof": "Jos\u00e9 Duarte Marafona"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Desenho T\u00e9cnico",
+                    "sigla": "DTEC",
+                    "tipo": "TP",
+                    "turma": "1EMM01",
+                    "turmac": "COMP_1151",
+                    "duracao": "4",
+                    "sala": "B112",
+                    "profsig": "JRM",
+                    "prof": "Jos\u00e9 Duarte Marafona"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Desenho T\u00e9cnico",
+                    "sigla": "DTEC",
+                    "tipo": "TP",
+                    "turma": "1EMM02",
+                    "turmac": "COMP_1151",
+                    "duracao": "4",
+                    "sala": "B112",
+                    "profsig": "JRM",
+                    "prof": "Jos\u00e9 Duarte Marafona"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Desenho T\u00e9cnico",
+                    "sigla": "DTEC",
+                    "tipo": "TP",
+                    "turma": "1EMM02",
+                    "turmac": "COMP_1151",
+                    "duracao": "4",
+                    "sala": "B112",
+                    "profsig": "JRM",
+                    "prof": "Jos\u00e9 Duarte Marafona"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Desenho T\u00e9cnico",
+                    "sigla": "DTEC",
+                    "tipo": "TP",
+                    "turma": "1EMM03",
+                    "turmac": "1EMM03",
+                    "duracao": "4",
+                    "sala": "B112",
+                    "profsig": "JRM",
+                    "prof": "Jos\u00e9 Duarte Marafona"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Desenho T\u00e9cnico",
+                    "sigla": "DTEC",
+                    "tipo": "TP",
+                    "turma": "1EMM03",
+                    "turmac": "1EMM03",
+                    "duracao": "4",
+                    "sala": "B318",
+                    "profsig": "JRM",
+                    "prof": "Jos\u00e9 Duarte Marafona"
+                }
+            ],
+            "nome": "Desenho T\u00e9cnico"
+        },
+        "AMAT2": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "An\u00e1lise Matem\u00e1tica II",
+                    "sigla": "AMAT2",
+                    "tipo": "TP",
+                    "turma": "1EMM01",
+                    "turmac": "COMP_1155",
+                    "duracao": "4",
+                    "sala": "B021",
+                    "profsig": "MJO",
+                    "prof": "Manuel Joaquim Oliveira"
+                },
+                {
+                    "dia": 5,
+                    "hora": 16,
+                    "nome": "An\u00e1lise Matem\u00e1tica II",
+                    "sigla": "AMAT2",
+                    "tipo": "TP",
+                    "turma": "1EMM01",
+                    "turmac": "COMP_1155",
+                    "duracao": "4",
+                    "sala": "B024",
+                    "profsig": "MJO",
+                    "prof": "Manuel Joaquim Oliveira"
+                },
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "An\u00e1lise Matem\u00e1tica II",
+                    "sigla": "AMAT2",
+                    "tipo": "TP",
+                    "turma": "1EMM02",
+                    "turmac": "COMP_1155",
+                    "duracao": "4",
+                    "sala": "B021",
+                    "profsig": "MJO",
+                    "prof": "Manuel Joaquim Oliveira"
+                },
+                {
+                    "dia": 5,
+                    "hora": 16,
+                    "nome": "An\u00e1lise Matem\u00e1tica II",
+                    "sigla": "AMAT2",
+                    "tipo": "TP",
+                    "turma": "1EMM02",
+                    "turmac": "COMP_1155",
+                    "duracao": "4",
+                    "sala": "B024",
+                    "profsig": "MJO",
+                    "prof": "Manuel Joaquim Oliveira"
+                },
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "An\u00e1lise Matem\u00e1tica II",
+                    "sigla": "AMAT2",
+                    "tipo": "TP",
+                    "turma": "1EMM03",
+                    "turmac": "COMP_1155",
+                    "duracao": "4",
+                    "sala": "B021",
+                    "profsig": "MJO",
+                    "prof": "Manuel Joaquim Oliveira"
+                },
+                {
+                    "dia": 5,
+                    "hora": 16,
+                    "nome": "An\u00e1lise Matem\u00e1tica II",
+                    "sigla": "AMAT2",
+                    "tipo": "TP",
+                    "turma": "1EMM03",
+                    "turmac": "COMP_1155",
+                    "duracao": "4",
+                    "sala": "B024",
+                    "profsig": "MJO",
+                    "prof": "Manuel Joaquim Oliveira"
+                }
+            ],
+            "nome": "An\u00e1lise Matem\u00e1tica II"
+        }
+    },
+    "2\u00ba Ano": {
+        "EMAT": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Ensaios dos Materiais",
+                    "sigla": "EMAT",
+                    "tipo": "TP",
+                    "turma": "2EMM01",
+                    "turmac": "COMP_1562",
+                    "duracao": "4",
+                    "sala": "B022",
+                    "profsig": "LMMR+EWS",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Ensaios dos Materiais",
+                    "sigla": "EMAT",
+                    "tipo": "TP",
+                    "turma": "2EMM02",
+                    "turmac": "COMP_1562",
+                    "duracao": "4",
+                    "sala": "B022",
+                    "profsig": "LMMR+EWS",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Ensaios dos Materiais",
+                    "sigla": "EMAT",
+                    "tipo": "TP",
+                    "turma": "2EMM03",
+                    "turmac": "COMP_1562",
+                    "duracao": "4",
+                    "sala": "B022",
+                    "profsig": "LMMR+EWS",
+                    "prof": null
+                }
+            ],
+            "nome": "Ensaios dos Materiais",
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Ensaios dos Materiais",
+                    "sigla": "EMAT",
+                    "tipo": "PL",
+                    "turma": "2EMM01",
+                    "turmac": "COMP_1562",
+                    "duracao": "4",
+                    "sala": "B022+F102",
+                    "profsig": "LMMR+EWS",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Ensaios dos Materiais",
+                    "sigla": "EMAT",
+                    "tipo": "PL",
+                    "turma": "2EMM02",
+                    "turmac": "COMP_1562",
+                    "duracao": "4",
+                    "sala": "B022+F102",
+                    "profsig": "LMMR+EWS",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Ensaios dos Materiais",
+                    "sigla": "EMAT",
+                    "tipo": "PL",
+                    "turma": "2EMM03",
+                    "turmac": "COMP_1562",
+                    "duracao": "4",
+                    "sala": "B022+F102",
+                    "profsig": "LMMR+EWS",
+                    "prof": null
+                }
+            ]
+        },
+        "LABO1": {
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Laborat\u00f3rios I",
+                    "sigla": "LABO1",
+                    "tipo": "PL",
+                    "turma": "2EMM01",
+                    "turmac": "2EMM01",
+                    "duracao": "6",
+                    "sala": "F102",
+                    "profsig": "RS+EWS+CFTL",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Laborat\u00f3rios I",
+                    "sigla": "LABO1",
+                    "tipo": "PL",
+                    "turma": "2EMM02",
+                    "turmac": "2EMM02",
+                    "duracao": "6",
+                    "sala": "F102",
+                    "profsig": "RS+EWS+CFTL",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "Laborat\u00f3rios I",
+                    "sigla": "LABO1",
+                    "tipo": "PL",
+                    "turma": "2EMM03",
+                    "turmac": "2EMM03",
+                    "duracao": "6",
+                    "sala": "F102",
+                    "profsig": "RS+EWS+CFTL",
+                    "prof": null
+                }
+            ],
+            "nome": "Laborat\u00f3rios I",
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Laborat\u00f3rios I",
+                    "sigla": "LABO1",
+                    "tipo": "TP",
+                    "turma": "2EMM01",
+                    "turmac": "COMP_1562",
+                    "duracao": "2",
+                    "sala": "B021",
+                    "profsig": "EWS",
+                    "prof": "Elsa Sequeiros"
+                },
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Laborat\u00f3rios I",
+                    "sigla": "LABO1",
+                    "tipo": "TP",
+                    "turma": "2EMM02",
+                    "turmac": "COMP_1562",
+                    "duracao": "2",
+                    "sala": "B021",
+                    "profsig": "EWS",
+                    "prof": "Elsa Sequeiros"
+                },
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Laborat\u00f3rios I",
+                    "sigla": "LABO1",
+                    "tipo": "TP",
+                    "turma": "2EMM03",
+                    "turmac": "COMP_1562",
+                    "duracao": "2",
+                    "sala": "B021",
+                    "profsig": "EWS",
+                    "prof": "Elsa Sequeiros"
+                }
+            ]
+        },
+        "TCMA": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "T\u00e9cnicas Caracteriza\u00e7\u00e3o de Materiais",
+                    "sigla": "TCMA",
+                    "tipo": "TP",
+                    "turma": "2EMM01",
+                    "turmac": "COMP_1562",
+                    "duracao": "4",
+                    "sala": "B034",
+                    "profsig": "SS",
+                    "prof": "Sonia Sim\u00f5es"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "T\u00e9cnicas Caracteriza\u00e7\u00e3o de Materiais",
+                    "sigla": "TCMA",
+                    "tipo": "TP",
+                    "turma": "2EMM01",
+                    "turmac": "COMP_1562",
+                    "duracao": "4",
+                    "sala": "B022",
+                    "profsig": "SS",
+                    "prof": "Sonia Sim\u00f5es"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "T\u00e9cnicas Caracteriza\u00e7\u00e3o de Materiais",
+                    "sigla": "TCMA",
+                    "tipo": "TP",
+                    "turma": "2EMM02",
+                    "turmac": "COMP_1562",
+                    "duracao": "4",
+                    "sala": "B034",
+                    "profsig": "SS",
+                    "prof": "Sonia Sim\u00f5es"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "T\u00e9cnicas Caracteriza\u00e7\u00e3o de Materiais",
+                    "sigla": "TCMA",
+                    "tipo": "TP",
+                    "turma": "2EMM02",
+                    "turmac": "COMP_1562",
+                    "duracao": "4",
+                    "sala": "B022",
+                    "profsig": "SS",
+                    "prof": "Sonia Sim\u00f5es"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "T\u00e9cnicas Caracteriza\u00e7\u00e3o de Materiais",
+                    "sigla": "TCMA",
+                    "tipo": "TP",
+                    "turma": "2EMM03",
+                    "turmac": "COMP_1562",
+                    "duracao": "4",
+                    "sala": "B034",
+                    "profsig": "SS",
+                    "prof": "Sonia Sim\u00f5es"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "T\u00e9cnicas Caracteriza\u00e7\u00e3o de Materiais",
+                    "sigla": "TCMA",
+                    "tipo": "TP",
+                    "turma": "2EMM03",
+                    "turmac": "COMP_1562",
+                    "duracao": "4",
+                    "sala": "B022",
+                    "profsig": "SS",
+                    "prof": "Sonia Sim\u00f5es"
+                }
+            ],
+            "nome": "T\u00e9cnicas Caracteriza\u00e7\u00e3o de Materiais"
+        },
+        "EINT": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "Electroqu\u00edmica e Interfaces",
+                    "sigla": "EINT",
+                    "tipo": "TP",
+                    "turma": "2EMM01",
+                    "turmac": "COMP_1562",
+                    "duracao": "2",
+                    "sala": "B021",
+                    "profsig": "JCF",
+                    "prof": "Jos\u00e9 Carlos Fonseca"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Electroqu\u00edmica e Interfaces",
+                    "sigla": "EINT",
+                    "tipo": "TP",
+                    "turma": "2EMM01",
+                    "turmac": "COMP_1562",
+                    "duracao": "4",
+                    "sala": "B022",
+                    "profsig": "JCF",
+                    "prof": "Jos\u00e9 Carlos Fonseca"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "Electroqu\u00edmica e Interfaces",
+                    "sigla": "EINT",
+                    "tipo": "TP",
+                    "turma": "2EMM02",
+                    "turmac": "COMP_1562",
+                    "duracao": "2",
+                    "sala": "B021",
+                    "profsig": "JCF",
+                    "prof": "Jos\u00e9 Carlos Fonseca"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Electroqu\u00edmica e Interfaces",
+                    "sigla": "EINT",
+                    "tipo": "TP",
+                    "turma": "2EMM02",
+                    "turmac": "COMP_1562",
+                    "duracao": "4",
+                    "sala": "B022",
+                    "profsig": "JCF",
+                    "prof": "Jos\u00e9 Carlos Fonseca"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "Electroqu\u00edmica e Interfaces",
+                    "sigla": "EINT",
+                    "tipo": "TP",
+                    "turma": "2EMM03",
+                    "turmac": "COMP_1562",
+                    "duracao": "2",
+                    "sala": "B021",
+                    "profsig": "JCF",
+                    "prof": "Jos\u00e9 Carlos Fonseca"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Electroqu\u00edmica e Interfaces",
+                    "sigla": "EINT",
+                    "tipo": "TP",
+                    "turma": "2EMM03",
+                    "turmac": "COMP_1562",
+                    "duracao": "4",
+                    "sala": "B022",
+                    "profsig": "JCF",
+                    "prof": "Jos\u00e9 Carlos Fonseca"
+                }
+            ],
+            "nome": "Electroqu\u00edmica e Interfaces"
+        },
+        "ESTA": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Estat\u00edstica",
+                    "sigla": "ESTA",
+                    "tipo": "TP",
+                    "turma": "2EMM01",
+                    "turmac": "COMP_1562",
+                    "duracao": "4",
+                    "sala": "B034",
+                    "profsig": "MJO",
+                    "prof": "Manuel Joaquim Oliveira"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Estat\u00edstica",
+                    "sigla": "ESTA",
+                    "tipo": "TP",
+                    "turma": "2EMM01",
+                    "turmac": "COMP_1562",
+                    "duracao": "4",
+                    "sala": "B021",
+                    "profsig": "MJO",
+                    "prof": "Manuel Joaquim Oliveira"
+                },
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Estat\u00edstica",
+                    "sigla": "ESTA",
+                    "tipo": "TP",
+                    "turma": "2EMM02",
+                    "turmac": "COMP_1562",
+                    "duracao": "4",
+                    "sala": "B034",
+                    "profsig": "MJO",
+                    "prof": "Manuel Joaquim Oliveira"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Estat\u00edstica",
+                    "sigla": "ESTA",
+                    "tipo": "TP",
+                    "turma": "2EMM02",
+                    "turmac": "COMP_1562",
+                    "duracao": "4",
+                    "sala": "B021",
+                    "profsig": "MJO",
+                    "prof": "Manuel Joaquim Oliveira"
+                },
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Estat\u00edstica",
+                    "sigla": "ESTA",
+                    "tipo": "TP",
+                    "turma": "2EMM03",
+                    "turmac": "COMP_1562",
+                    "duracao": "4",
+                    "sala": "B034",
+                    "profsig": "MJO",
+                    "prof": "Manuel Joaquim Oliveira"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Estat\u00edstica",
+                    "sigla": "ESTA",
+                    "tipo": "TP",
+                    "turma": "2EMM03",
+                    "turmac": "COMP_1562",
+                    "duracao": "4",
+                    "sala": "B021",
+                    "profsig": "MJO",
+                    "prof": "Manuel Joaquim Oliveira"
+                }
+            ],
+            "nome": "Estat\u00edstica"
+        }
+    },
+    "3\u00ba Ano": {
+        "CMAT": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Ci\u00eancia dos Materiais",
+                    "sigla": "CMAT",
+                    "tipo": "PL",
+                    "turma": "3EMM01",
+                    "turmac": "3EMM01",
+                    "duracao": "4",
+                    "sala": "F102",
+                    "profsig": "SS",
+                    "prof": "Sonia Sim\u00f5es"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Ci\u00eancia dos Materiais",
+                    "sigla": "CMAT",
+                    "tipo": "PL",
+                    "turma": "3EMM02",
+                    "turmac": "3EMM02",
+                    "duracao": "4",
+                    "sala": "F102",
+                    "profsig": "SS",
+                    "prof": "Sonia Sim\u00f5es"
+                }
+            ],
+            "nome": "Ci\u00eancia dos Materiais",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Ci\u00eancia dos Materiais",
+                    "sigla": "CMAT",
+                    "tipo": "TP",
+                    "turma": "3EMM01",
+                    "turmac": "COMP_462",
+                    "duracao": "2",
+                    "sala": "B016",
+                    "profsig": "FMV",
+                    "prof": "Filomena Viana"
+                },
+                {
+                    "dia": 3,
+                    "hora": 15.5,
+                    "nome": "Ci\u00eancia dos Materiais",
+                    "sigla": "CMAT",
+                    "tipo": "TP",
+                    "turma": "3EMM01",
+                    "turmac": "COMP_462",
+                    "duracao": "2",
+                    "sala": "B021",
+                    "profsig": "FMV",
+                    "prof": "Filomena Viana"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Ci\u00eancia dos Materiais",
+                    "sigla": "CMAT",
+                    "tipo": "TP",
+                    "turma": "3EMM02",
+                    "turmac": "COMP_462",
+                    "duracao": "2",
+                    "sala": "B016",
+                    "profsig": "FMV",
+                    "prof": "Filomena Viana"
+                },
+                {
+                    "dia": 3,
+                    "hora": 15.5,
+                    "nome": "Ci\u00eancia dos Materiais",
+                    "sigla": "CMAT",
+                    "tipo": "TP",
+                    "turma": "3EMM02",
+                    "turmac": "COMP_462",
+                    "duracao": "2",
+                    "sala": "B021",
+                    "profsig": "FMV",
+                    "prof": "Filomena Viana"
+                }
+            ]
+        },
+        "MMET": {
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Materiais Met\u00e1licos",
+                    "sigla": "MMET",
+                    "tipo": "PL",
+                    "turma": "3EMM01",
+                    "turmac": "3EMM01",
+                    "duracao": "4",
+                    "sala": "F102",
+                    "profsig": "EWS",
+                    "prof": "Elsa Sequeiros"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Materiais Met\u00e1licos",
+                    "sigla": "MMET",
+                    "tipo": "PL",
+                    "turma": "3EMM02",
+                    "turmac": "3EMM02",
+                    "duracao": "4",
+                    "sala": "F102",
+                    "profsig": "EWS",
+                    "prof": "Elsa Sequeiros"
+                }
+            ],
+            "nome": "Materiais Met\u00e1licos",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 14.5,
+                    "nome": "Materiais Met\u00e1licos",
+                    "sigla": "MMET",
+                    "tipo": "TP",
+                    "turma": "3EMM01",
+                    "turmac": "COMP_462",
+                    "duracao": "3",
+                    "sala": "B027",
+                    "profsig": "FMV+LMMR",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 16.5,
+                    "nome": "Materiais Met\u00e1licos",
+                    "sigla": "MMET",
+                    "tipo": "TP",
+                    "turma": "3EMM01",
+                    "turmac": "COMP_462",
+                    "duracao": "3",
+                    "sala": "B021",
+                    "profsig": "FMV+LMMR",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 14.5,
+                    "nome": "Materiais Met\u00e1licos",
+                    "sigla": "MMET",
+                    "tipo": "TP",
+                    "turma": "3EMM02",
+                    "turmac": "COMP_462",
+                    "duracao": "3",
+                    "sala": "B027",
+                    "profsig": "FMV+LMMR",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 16.5,
+                    "nome": "Materiais Met\u00e1licos",
+                    "sigla": "MMET",
+                    "tipo": "TP",
+                    "turma": "3EMM02",
+                    "turmac": "COMP_462",
+                    "duracao": "3",
+                    "sala": "B021",
+                    "profsig": "FMV+LMMR",
+                    "prof": null
+                }
+            ]
+        },
+        "BIOM": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Biomateriais",
+                    "sigla": "BIOM",
+                    "tipo": "TP",
+                    "turma": "3EMM01",
+                    "turmac": "COMP_462",
+                    "duracao": "3",
+                    "sala": "B029",
+                    "profsig": "JDS+MLopes+FMM",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Biomateriais",
+                    "sigla": "BIOM",
+                    "tipo": "TP",
+                    "turma": "3EMM01",
+                    "turmac": "COMP_462",
+                    "duracao": "3",
+                    "sala": "B029",
+                    "profsig": "JDS+MLopes+FMM",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Biomateriais",
+                    "sigla": "BIOM",
+                    "tipo": "TP",
+                    "turma": "3EMM02",
+                    "turmac": "COMP_462",
+                    "duracao": "3",
+                    "sala": "B029",
+                    "profsig": "JDS+MLopes+FMM",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Biomateriais",
+                    "sigla": "BIOM",
+                    "tipo": "TP",
+                    "turma": "3EMM02",
+                    "turmac": "COMP_462",
+                    "duracao": "3",
+                    "sala": "B029",
+                    "profsig": "JDS+MLopes+FMM",
+                    "prof": null
+                }
+            ],
+            "nome": "Biomateriais"
+        },
+        "PRMA": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Produ\u00e7\u00e3o e Recupera\u00e7\u00e3o de Materiais",
+                    "sigla": "PRMA",
+                    "tipo": "TP",
+                    "turma": "3EMM01",
+                    "turmac": "COMP_462",
+                    "duracao": "4",
+                    "sala": "B331",
+                    "profsig": "LFM+JMMD",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Produ\u00e7\u00e3o e Recupera\u00e7\u00e3o de Materiais",
+                    "sigla": "PRMA",
+                    "tipo": "TP",
+                    "turma": "3EMM02",
+                    "turmac": "COMP_462",
+                    "duracao": "4",
+                    "sala": "B331",
+                    "profsig": "LFM+JMMD",
+                    "prof": null
+                }
+            ],
+            "nome": "Produ\u00e7\u00e3o e Recupera\u00e7\u00e3o de Materiais",
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 15,
+                    "nome": "Produ\u00e7\u00e3o e Recupera\u00e7\u00e3o de Materiais",
+                    "sigla": "PRMA",
+                    "tipo": "PL",
+                    "turma": "3EMM01",
+                    "turmac": "COMP_462",
+                    "duracao": "4",
+                    "sala": "B223",
+                    "profsig": "LFM+JMMD",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 15,
+                    "nome": "Produ\u00e7\u00e3o e Recupera\u00e7\u00e3o de Materiais",
+                    "sigla": "PRMA",
+                    "tipo": "PL",
+                    "turma": "3EMM02",
+                    "turmac": "COMP_462",
+                    "duracao": "4",
+                    "sala": "B223",
+                    "profsig": "LFM+JMMD",
+                    "prof": null
+                }
+            ]
+        },
+        "MPOL": {
+            "PL": [
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Materiais Polim\u00e9ricos",
+                    "sigla": "MPOL",
+                    "tipo": "PL",
+                    "turma": "3EMM01",
+                    "turmac": "COMP_462",
+                    "duracao": "4",
+                    "sala": "F304+F303",
+                    "profsig": "JCF",
+                    "prof": "Jos\u00e9 Carlos Fonseca"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Materiais Polim\u00e9ricos",
+                    "sigla": "MPOL",
+                    "tipo": "PL",
+                    "turma": "3EMM02",
+                    "turmac": "COMP_462",
+                    "duracao": "4",
+                    "sala": "F304+F303",
+                    "profsig": "JCF",
+                    "prof": "Jos\u00e9 Carlos Fonseca"
+                }
+            ],
+            "nome": "Materiais Polim\u00e9ricos",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Materiais Polim\u00e9ricos",
+                    "sigla": "MPOL",
+                    "tipo": "TP",
+                    "turma": "3EMM01",
+                    "turmac": "COMP_462",
+                    "duracao": "4",
+                    "sala": "B027",
+                    "profsig": "JCF",
+                    "prof": "Jos\u00e9 Carlos Fonseca"
+                },
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Materiais Polim\u00e9ricos",
+                    "sigla": "MPOL",
+                    "tipo": "TP",
+                    "turma": "3EMM02",
+                    "turmac": "COMP_462",
+                    "duracao": "4",
+                    "sala": "B027",
+                    "profsig": "JCF",
+                    "prof": "Jos\u00e9 Carlos Fonseca"
+                }
+            ]
+        }
+    },
+    "4\u00ba Ano": {
+        "SMAT": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Selec\u00e7\u00e3o de Materiais",
+                    "sigla": "SMAT",
+                    "tipo": "TP",
+                    "turma": "4EMM01",
+                    "turmac": "4EMM01",
+                    "duracao": "2",
+                    "sala": "B021",
+                    "profsig": "CSR+FMV",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Selec\u00e7\u00e3o de Materiais",
+                    "sigla": "SMAT",
+                    "tipo": "TP",
+                    "turma": "4EMM01",
+                    "turmac": "4EMM01",
+                    "duracao": "2",
+                    "sala": "B016",
+                    "profsig": "CSR+FMV",
+                    "prof": null
+                }
+            ],
+            "nome": "Selec\u00e7\u00e3o de Materiais",
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 10,
+                    "nome": "Selec\u00e7\u00e3o de Materiais",
+                    "sigla": "SMAT",
+                    "tipo": "PL",
+                    "turma": "4EMM01",
+                    "turmac": "4EMM01",
+                    "duracao": "2",
+                    "sala": "B021",
+                    "profsig": "CSR+FMV",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 12,
+                    "nome": "Selec\u00e7\u00e3o de Materiais",
+                    "sigla": "SMAT",
+                    "tipo": "PL",
+                    "turma": "4EMM01",
+                    "turmac": "4EMM01",
+                    "duracao": "2",
+                    "sala": "B016",
+                    "profsig": "CSR+FMV",
+                    "prof": null
+                }
+            ]
+        },
+        "NANO2": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Nanomateriais",
+                    "sigla": "NANO2",
+                    "tipo": "TP",
+                    "turma": "4EMM01",
+                    "turmac": "4EMM01",
+                    "duracao": "8",
+                    "sala": "B016",
+                    "profsig": "MV+FMV",
+                    "prof": null
+                }
+            ],
+            "nome": "Nanomateriais"
+        },
+        "TMME": {
+            "PL": [
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Tecnologias de Materiais Met\u00e1licos",
+                    "sigla": "TMME",
+                    "tipo": "PL",
+                    "turma": "4EMM01",
+                    "turmac": "4EMM01",
+                    "duracao": "4",
+                    "sala": "B016",
+                    "profsig": "CSR+MV",
+                    "prof": null
+                }
+            ],
+            "nome": "Tecnologias de Materiais Met\u00e1licos",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Tecnologias de Materiais Met\u00e1licos",
+                    "sigla": "TMME",
+                    "tipo": "TP",
+                    "turma": "4EMM01",
+                    "turmac": "4EMM01",
+                    "duracao": "4",
+                    "sala": "B021",
+                    "profsig": "CSR+MV",
+                    "prof": null
+                }
+            ]
+        },
+        "EACO": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Engenharia Assistida por Computador",
+                    "sigla": "EACO",
+                    "tipo": "TP",
+                    "turma": "4EMM01",
+                    "turmac": "4EMM01",
+                    "duracao": "4",
+                    "sala": "CINFU",
+                    "profsig": "VMA",
+                    "prof": "Vitor Martins Augusto"
+                }
+            ],
+            "nome": "Engenharia Assistida por Computador",
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Engenharia Assistida por Computador",
+                    "sigla": "EACO",
+                    "tipo": "PL",
+                    "turma": "4EMM01",
+                    "turmac": "4EMM01",
+                    "duracao": "4",
+                    "sala": "CINFU",
+                    "profsig": "VMA",
+                    "prof": "Vitor Martins Augusto"
+                }
+            ]
+        },
+        "GOPE1": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Gest\u00e3o de Opera\u00e7\u00f5es I",
+                    "sigla": "GOPE1",
+                    "tipo": "TP",
+                    "turma": "4EMM01",
+                    "turmac": "4EMM01",
+                    "duracao": "8",
+                    "sala": "B311",
+                    "profsig": "JPC+APP",
+                    "prof": null
+                }
+            ],
+            "nome": "Gest\u00e3o de Opera\u00e7\u00f5es I"
+        }
+    }
+}

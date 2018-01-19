@@ -1,0 +1,1585 @@
+{
+    "1\u00ba Ano": {
+        "AM II": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "An\u00e1lise Matem\u00e1tica II",
+                    "sigla": "AM II",
+                    "tipo": "T",
+                    "turma": "MIEA101",
+                    "turmac": "COMP_732",
+                    "duracao": "2",
+                    "sala": "B035",
+                    "profsig": "MCC",
+                    "prof": "Maria Do Carmo Coimbra"
+                },
+                {
+                    "dia": 5,
+                    "hora": 13.5,
+                    "nome": "An\u00e1lise Matem\u00e1tica II",
+                    "sigla": "AM II",
+                    "tipo": "T",
+                    "turma": "MIEA101",
+                    "turmac": "COMP_732",
+                    "duracao": "2",
+                    "sala": "B035",
+                    "profsig": "MCC",
+                    "prof": "Maria Do Carmo Coimbra"
+                },
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "An\u00e1lise Matem\u00e1tica II",
+                    "sigla": "AM II",
+                    "tipo": "T",
+                    "turma": "MIEA102",
+                    "turmac": "COMP_732",
+                    "duracao": "2",
+                    "sala": "B035",
+                    "profsig": "MCC",
+                    "prof": "Maria Do Carmo Coimbra"
+                },
+                {
+                    "dia": 5,
+                    "hora": 13.5,
+                    "nome": "An\u00e1lise Matem\u00e1tica II",
+                    "sigla": "AM II",
+                    "tipo": "T",
+                    "turma": "MIEA102",
+                    "turmac": "COMP_732",
+                    "duracao": "2",
+                    "sala": "B035",
+                    "profsig": "MCC",
+                    "prof": "Maria Do Carmo Coimbra"
+                },
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "An\u00e1lise Matem\u00e1tica II",
+                    "sigla": "AM II",
+                    "tipo": "T",
+                    "turma": "MIEA103",
+                    "turmac": "COMP_732",
+                    "duracao": "2",
+                    "sala": "B035",
+                    "profsig": "MCC",
+                    "prof": "Maria Do Carmo Coimbra"
+                },
+                {
+                    "dia": 5,
+                    "hora": 13.5,
+                    "nome": "An\u00e1lise Matem\u00e1tica II",
+                    "sigla": "AM II",
+                    "tipo": "T",
+                    "turma": "MIEA103",
+                    "turmac": "COMP_732",
+                    "duracao": "2",
+                    "sala": "B035",
+                    "profsig": "MCC",
+                    "prof": "Maria Do Carmo Coimbra"
+                }
+            ],
+            "nome": "An\u00e1lise Matem\u00e1tica II",
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 15,
+                    "nome": "An\u00e1lise Matem\u00e1tica II",
+                    "sigla": "AM II",
+                    "tipo": "TP",
+                    "turma": "MIEA101",
+                    "turmac": "MIEA101",
+                    "duracao": "4",
+                    "sala": "B331",
+                    "profsig": "MCC",
+                    "prof": "Maria Do Carmo Coimbra"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14.5,
+                    "nome": "An\u00e1lise Matem\u00e1tica II",
+                    "sigla": "AM II",
+                    "tipo": "TP",
+                    "turma": "MIEA102",
+                    "turmac": "COMP_1222",
+                    "duracao": "4",
+                    "sala": "B331",
+                    "profsig": "MCC",
+                    "prof": "Maria Do Carmo Coimbra"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14.5,
+                    "nome": "An\u00e1lise Matem\u00e1tica II",
+                    "sigla": "AM II",
+                    "tipo": "TP",
+                    "turma": "MIEA103",
+                    "turmac": "COMP_1222",
+                    "duracao": "4",
+                    "sala": "B331",
+                    "profsig": "MCC",
+                    "prof": "Maria Do Carmo Coimbra"
+                }
+            ]
+        },
+        "FI": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "F\u00edsica I",
+                    "sigla": "FI",
+                    "tipo": "TP",
+                    "turma": "MIEA101",
+                    "turmac": "COMP_1223",
+                    "duracao": "3",
+                    "sala": "B018",
+                    "profsig": "DPU",
+                    "prof": "Diana Urbano"
+                },
+                {
+                    "dia": 5,
+                    "hora": 15.5,
+                    "nome": "F\u00edsica I",
+                    "sigla": "FI",
+                    "tipo": "TP",
+                    "turma": "MIEA101",
+                    "turmac": "COMP_1223",
+                    "duracao": "3",
+                    "sala": "B031",
+                    "profsig": "DPU",
+                    "prof": "Diana Urbano"
+                },
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "F\u00edsica I",
+                    "sigla": "FI",
+                    "tipo": "TP",
+                    "turma": "MIEA102",
+                    "turmac": "COMP_1223",
+                    "duracao": "3",
+                    "sala": "B018",
+                    "profsig": "DPU",
+                    "prof": "Diana Urbano"
+                },
+                {
+                    "dia": 5,
+                    "hora": 15.5,
+                    "nome": "F\u00edsica I",
+                    "sigla": "FI",
+                    "tipo": "TP",
+                    "turma": "MIEA102",
+                    "turmac": "COMP_1223",
+                    "duracao": "3",
+                    "sala": "B031",
+                    "profsig": "DPU",
+                    "prof": "Diana Urbano"
+                },
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "F\u00edsica I",
+                    "sigla": "FI",
+                    "tipo": "TP",
+                    "turma": "MIEA103",
+                    "turmac": "COMP_1223",
+                    "duracao": "3",
+                    "sala": "B018",
+                    "profsig": "DPU",
+                    "prof": "Diana Urbano"
+                },
+                {
+                    "dia": 5,
+                    "hora": 15.5,
+                    "nome": "F\u00edsica I",
+                    "sigla": "FI",
+                    "tipo": "TP",
+                    "turma": "MIEA103",
+                    "turmac": "COMP_1223",
+                    "duracao": "3",
+                    "sala": "B031",
+                    "profsig": "DPU",
+                    "prof": "Diana Urbano"
+                }
+            ],
+            "nome": "F\u00edsica I",
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 13.5,
+                    "nome": "F\u00edsica I",
+                    "sigla": "FI",
+                    "tipo": "PL",
+                    "turma": "MIEA101",
+                    "turmac": "MIEA101",
+                    "duracao": "2",
+                    "sala": "B319",
+                    "profsig": "DPU",
+                    "prof": "Diana Urbano"
+                },
+                {
+                    "dia": 3,
+                    "hora": 15,
+                    "nome": "F\u00edsica I",
+                    "sigla": "FI",
+                    "tipo": "PL",
+                    "turma": "MIEA102",
+                    "turmac": "MIEA102",
+                    "duracao": "2",
+                    "sala": "B225",
+                    "profsig": "DPU",
+                    "prof": "Diana Urbano"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14.5,
+                    "nome": "F\u00edsica I",
+                    "sigla": "FI",
+                    "tipo": "PL",
+                    "turma": "MIEA103",
+                    "turmac": "MIEA103",
+                    "duracao": "2",
+                    "sala": "B319",
+                    "profsig": "DPU",
+                    "prof": "Diana Urbano"
+                }
+            ]
+        },
+        "LCA I": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Laborat\u00f3rios de Ci\u00eancias do Ambiente I",
+                    "sigla": "LCA I",
+                    "tipo": "PL",
+                    "turma": "MIEA101",
+                    "turmac": "MIEA101",
+                    "duracao": "6",
+                    "sala": "F303+E002+F006",
+                    "profsig": "AFS+SCP+HMVMS",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Laborat\u00f3rios de Ci\u00eancias do Ambiente I",
+                    "sigla": "LCA I",
+                    "tipo": "PL",
+                    "turma": "MIEA102",
+                    "turmac": "MIEA102",
+                    "duracao": "6",
+                    "sala": "F303+E002+F006",
+                    "profsig": "AFS+SCP+HMVMS",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 9.5,
+                    "nome": "Laborat\u00f3rios de Ci\u00eancias do Ambiente I",
+                    "sigla": "LCA I",
+                    "tipo": "PL",
+                    "turma": "MIEA103",
+                    "turmac": "MIEA103",
+                    "duracao": "6",
+                    "sala": "F303+E002+F006",
+                    "profsig": "AFS+SCP+HMVMS",
+                    "prof": null
+                }
+            ],
+            "nome": "Laborat\u00f3rios de Ci\u00eancias do Ambiente I"
+        },
+        "QA II": {
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 14.5,
+                    "nome": "Qu\u00edmica Ambiental II",
+                    "sigla": "QA II",
+                    "tipo": "T",
+                    "turma": "MIEA101",
+                    "turmac": "COMP_316",
+                    "duracao": "4",
+                    "sala": "B016",
+                    "profsig": "CMB",
+                    "prof": "Cid\u00e1lia Botelho"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16.5,
+                    "nome": "Qu\u00edmica Ambiental II",
+                    "sigla": "QA II",
+                    "tipo": "T",
+                    "turma": "MIEA101",
+                    "turmac": "COMP_316",
+                    "duracao": "2",
+                    "sala": "B016",
+                    "profsig": "CMB",
+                    "prof": "Cid\u00e1lia Botelho"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14.5,
+                    "nome": "Qu\u00edmica Ambiental II",
+                    "sigla": "QA II",
+                    "tipo": "T",
+                    "turma": "MIEA102",
+                    "turmac": "COMP_316",
+                    "duracao": "4",
+                    "sala": "B016",
+                    "profsig": "CMB",
+                    "prof": "Cid\u00e1lia Botelho"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16.5,
+                    "nome": "Qu\u00edmica Ambiental II",
+                    "sigla": "QA II",
+                    "tipo": "T",
+                    "turma": "MIEA102",
+                    "turmac": "COMP_316",
+                    "duracao": "2",
+                    "sala": "B016",
+                    "profsig": "CMB",
+                    "prof": "Cid\u00e1lia Botelho"
+                }
+            ],
+            "nome": "Qu\u00edmica Ambiental II",
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 14.5,
+                    "nome": "Qu\u00edmica Ambiental II",
+                    "sigla": "QA II",
+                    "tipo": "TP",
+                    "turma": "MIEA101",
+                    "turmac": "COMP_1223",
+                    "duracao": "2",
+                    "sala": "B031",
+                    "profsig": "CMB",
+                    "prof": "Cid\u00e1lia Botelho"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14.5,
+                    "nome": "Qu\u00edmica Ambiental II",
+                    "sigla": "QA II",
+                    "tipo": "TP",
+                    "turma": "MIEA102",
+                    "turmac": "COMP_1223",
+                    "duracao": "2",
+                    "sala": "B031",
+                    "profsig": "CMB",
+                    "prof": "Cid\u00e1lia Botelho"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14.5,
+                    "nome": "Qu\u00edmica Ambiental II",
+                    "sigla": "QA II",
+                    "tipo": "TP",
+                    "turma": "MIEA103",
+                    "turmac": "COMP_1223",
+                    "duracao": "2",
+                    "sala": "B031",
+                    "profsig": "CMB",
+                    "prof": "Cid\u00e1lia Botelho"
+                }
+            ]
+        },
+        "MA": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 16.5,
+                    "nome": "Microbiologia Ambiental",
+                    "sigla": "MA",
+                    "tipo": "TP",
+                    "turma": "MIEA101",
+                    "turmac": "COMP_1223",
+                    "duracao": "4",
+                    "sala": "B016",
+                    "profsig": "OPN",
+                    "prof": "Olga Pastor Nunes"
+                },
+                {
+                    "dia": 3,
+                    "hora": 17,
+                    "nome": "Microbiologia Ambiental",
+                    "sigla": "MA",
+                    "tipo": "TP",
+                    "turma": "MIEA101",
+                    "turmac": "COMP_1223",
+                    "duracao": "4",
+                    "sala": "B016",
+                    "profsig": "OPN",
+                    "prof": "Olga Pastor Nunes"
+                },
+                {
+                    "dia": 4,
+                    "hora": 17.5,
+                    "nome": "Microbiologia Ambiental",
+                    "sigla": "MA",
+                    "tipo": "TP",
+                    "turma": "MIEA101",
+                    "turmac": "COMP_1223",
+                    "duracao": "4",
+                    "sala": "B016",
+                    "profsig": "OPN",
+                    "prof": "Olga Pastor Nunes"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16.5,
+                    "nome": "Microbiologia Ambiental",
+                    "sigla": "MA",
+                    "tipo": "TP",
+                    "turma": "MIEA102",
+                    "turmac": "COMP_1223",
+                    "duracao": "4",
+                    "sala": "B016",
+                    "profsig": "OPN",
+                    "prof": "Olga Pastor Nunes"
+                },
+                {
+                    "dia": 3,
+                    "hora": 17,
+                    "nome": "Microbiologia Ambiental",
+                    "sigla": "MA",
+                    "tipo": "TP",
+                    "turma": "MIEA102",
+                    "turmac": "COMP_1223",
+                    "duracao": "4",
+                    "sala": "B016",
+                    "profsig": "OPN",
+                    "prof": "Olga Pastor Nunes"
+                },
+                {
+                    "dia": 4,
+                    "hora": 17.5,
+                    "nome": "Microbiologia Ambiental",
+                    "sigla": "MA",
+                    "tipo": "TP",
+                    "turma": "MIEA102",
+                    "turmac": "COMP_1223",
+                    "duracao": "4",
+                    "sala": "B016",
+                    "profsig": "OPN",
+                    "prof": "Olga Pastor Nunes"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16.5,
+                    "nome": "Microbiologia Ambiental",
+                    "sigla": "MA",
+                    "tipo": "TP",
+                    "turma": "MIEA103",
+                    "turmac": "COMP_1223",
+                    "duracao": "4",
+                    "sala": "B016",
+                    "profsig": "OPN",
+                    "prof": "Olga Pastor Nunes"
+                },
+                {
+                    "dia": 3,
+                    "hora": 17,
+                    "nome": "Microbiologia Ambiental",
+                    "sigla": "MA",
+                    "tipo": "TP",
+                    "turma": "MIEA103",
+                    "turmac": "COMP_1223",
+                    "duracao": "4",
+                    "sala": "B016",
+                    "profsig": "OPN",
+                    "prof": "Olga Pastor Nunes"
+                },
+                {
+                    "dia": 4,
+                    "hora": 17.5,
+                    "nome": "Microbiologia Ambiental",
+                    "sigla": "MA",
+                    "tipo": "TP",
+                    "turma": "MIEA103",
+                    "turmac": "COMP_1223",
+                    "duracao": "4",
+                    "sala": "B016",
+                    "profsig": "OPN",
+                    "prof": "Olga Pastor Nunes"
+                }
+            ],
+            "nome": "Microbiologia Ambiental"
+        }
+    },
+    "2\u00ba Ano": {
+        "MF I": {
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Mec\u00e2nica de Fluidos I",
+                    "sigla": "MF I",
+                    "tipo": "T",
+                    "turma": "MIEA201",
+                    "turmac": "COMP_1258",
+                    "duracao": "3",
+                    "sala": "B017",
+                    "profsig": "AHR",
+                    "prof": "\u00c1lvaro Rodrigues"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11.5,
+                    "nome": "Mec\u00e2nica de Fluidos I",
+                    "sigla": "MF I",
+                    "tipo": "T",
+                    "turma": "MIEA201",
+                    "turmac": "COMP_1258",
+                    "duracao": "3",
+                    "sala": "B007",
+                    "profsig": "AHR",
+                    "prof": "\u00c1lvaro Rodrigues"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Mec\u00e2nica de Fluidos I",
+                    "sigla": "MF I",
+                    "tipo": "T",
+                    "turma": "MIEA202",
+                    "turmac": "COMP_1258",
+                    "duracao": "3",
+                    "sala": "B017",
+                    "profsig": "AHR",
+                    "prof": "\u00c1lvaro Rodrigues"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11.5,
+                    "nome": "Mec\u00e2nica de Fluidos I",
+                    "sigla": "MF I",
+                    "tipo": "T",
+                    "turma": "MIEA202",
+                    "turmac": "COMP_1258",
+                    "duracao": "3",
+                    "sala": "B007",
+                    "profsig": "AHR",
+                    "prof": "\u00c1lvaro Rodrigues"
+                }
+            ],
+            "nome": "Mec\u00e2nica de Fluidos I",
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 10.5,
+                    "nome": "Mec\u00e2nica de Fluidos I",
+                    "sigla": "MF I",
+                    "tipo": "TP",
+                    "turma": "MIEA201",
+                    "turmac": "COMP_1258",
+                    "duracao": "4",
+                    "sala": "B017",
+                    "profsig": "AHR",
+                    "prof": "\u00c1lvaro Rodrigues"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10.5,
+                    "nome": "Mec\u00e2nica de Fluidos I",
+                    "sigla": "MF I",
+                    "tipo": "TP",
+                    "turma": "MIEA202",
+                    "turmac": "COMP_1258",
+                    "duracao": "4",
+                    "sala": "B017",
+                    "profsig": "AHR",
+                    "prof": "\u00c1lvaro Rodrigues"
+                }
+            ]
+        },
+        "ME": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 9.5,
+                    "nome": "M\u00e9todos Estat\u00edsticos",
+                    "sigla": "ME",
+                    "tipo": "TP",
+                    "turma": "MIEA201",
+                    "turmac": "MIEA201",
+                    "duracao": "2",
+                    "sala": "B312",
+                    "profsig": "MFTD",
+                    "prof": "Miguel Tato Diogo"
+                },
+                {
+                    "dia": 1,
+                    "hora": 17.5,
+                    "nome": "M\u00e9todos Estat\u00edsticos",
+                    "sigla": "ME",
+                    "tipo": "TP",
+                    "turma": "MIEA202",
+                    "turmac": "MIEA202",
+                    "duracao": "2",
+                    "sala": "B202",
+                    "profsig": "MFTD",
+                    "prof": "Miguel Tato Diogo"
+                }
+            ],
+            "nome": "M\u00e9todos Estat\u00edsticos",
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "M\u00e9todos Estat\u00edsticos",
+                    "sigla": "ME",
+                    "tipo": "T",
+                    "turma": "MIEA201",
+                    "turmac": "COMP_1258",
+                    "duracao": "3",
+                    "sala": "B021+B305",
+                    "profsig": "JSG",
+                    "prof": "Joaquim G\u00f3is"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "M\u00e9todos Estat\u00edsticos",
+                    "sigla": "ME",
+                    "tipo": "T",
+                    "turma": "MIEA201",
+                    "turmac": "COMP_1258",
+                    "duracao": "3",
+                    "sala": "B027+B202",
+                    "profsig": "JSG",
+                    "prof": "Joaquim G\u00f3is"
+                },
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "M\u00e9todos Estat\u00edsticos",
+                    "sigla": "ME",
+                    "tipo": "T",
+                    "turma": "MIEA202",
+                    "turmac": "COMP_1258",
+                    "duracao": "3",
+                    "sala": "B021+B305",
+                    "profsig": "JSG",
+                    "prof": "Joaquim G\u00f3is"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "M\u00e9todos Estat\u00edsticos",
+                    "sigla": "ME",
+                    "tipo": "T",
+                    "turma": "MIEA202",
+                    "turmac": "COMP_1258",
+                    "duracao": "3",
+                    "sala": "B027+B202",
+                    "profsig": "JSG",
+                    "prof": "Joaquim G\u00f3is"
+                }
+            ]
+        },
+        "GA": {
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 9.5,
+                    "nome": "Geologia Ambiental",
+                    "sigla": "GA",
+                    "tipo": "T",
+                    "turma": "MIEA201",
+                    "turmac": "COMP_1258",
+                    "duracao": "3",
+                    "sala": "B021",
+                    "profsig": "MFTD",
+                    "prof": "Miguel Tato Diogo"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11.5,
+                    "nome": "Geologia Ambiental",
+                    "sigla": "GA",
+                    "tipo": "T",
+                    "turma": "MIEA201",
+                    "turmac": "COMP_1258",
+                    "duracao": "3",
+                    "sala": "B011",
+                    "profsig": "MFTD",
+                    "prof": "Miguel Tato Diogo"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9.5,
+                    "nome": "Geologia Ambiental",
+                    "sigla": "GA",
+                    "tipo": "T",
+                    "turma": "MIEA202",
+                    "turmac": "COMP_1258",
+                    "duracao": "3",
+                    "sala": "B021",
+                    "profsig": "MFTD",
+                    "prof": "Miguel Tato Diogo"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11.5,
+                    "nome": "Geologia Ambiental",
+                    "sigla": "GA",
+                    "tipo": "T",
+                    "turma": "MIEA202",
+                    "turmac": "COMP_1258",
+                    "duracao": "3",
+                    "sala": "B011",
+                    "profsig": "MFTD",
+                    "prof": "Miguel Tato Diogo"
+                }
+            ],
+            "nome": "Geologia Ambiental",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 10.5,
+                    "nome": "Geologia Ambiental",
+                    "sigla": "GA",
+                    "tipo": "TP",
+                    "turma": "MIEA201",
+                    "turmac": "COMP_1258",
+                    "duracao": "2",
+                    "sala": "B312",
+                    "profsig": "MFTD",
+                    "prof": "Miguel Tato Diogo"
+                },
+                {
+                    "dia": 1,
+                    "hora": 10.5,
+                    "nome": "Geologia Ambiental",
+                    "sigla": "GA",
+                    "tipo": "TP",
+                    "turma": "MIEA202",
+                    "turmac": "COMP_1258",
+                    "duracao": "2",
+                    "sala": "B312",
+                    "profsig": "MFTD",
+                    "prof": "Miguel Tato Diogo"
+                }
+            ]
+        },
+        "LCAIII": {
+            "PL": [
+                {
+                    "dia": 5,
+                    "hora": 9.5,
+                    "nome": "Laborat\u00f3rios de Ci\u00eancias do Ambiente III",
+                    "sigla": "LCAIII",
+                    "tipo": "PL",
+                    "turma": "MIEA201",
+                    "turmac": "MIEA201",
+                    "duracao": "6",
+                    "sala": "E105+E002+E-105",
+                    "profsig": "OPN+AMTS",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Laborat\u00f3rios de Ci\u00eancias do Ambiente III",
+                    "sigla": "LCAIII",
+                    "tipo": "PL",
+                    "turma": "MIEA202",
+                    "turmac": "MIEA202",
+                    "duracao": "6",
+                    "sala": "E105+E002+E-105",
+                    "profsig": "OPN+AMTS",
+                    "prof": null
+                }
+            ],
+            "nome": "Laborat\u00f3rios de Ci\u00eancias do Ambiente III"
+        },
+        "CTSIG": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "Cartografia, Topografia e SIG",
+                    "sigla": "CTSIG",
+                    "tipo": "TP",
+                    "turma": "MIEA201",
+                    "turmac": "COMP_1261",
+                    "duracao": "2",
+                    "sala": "B313",
+                    "profsig": "MFTD",
+                    "prof": "Miguel Tato Diogo"
+                },
+                {
+                    "dia": 3,
+                    "hora": 8.5,
+                    "nome": "Cartografia, Topografia e SIG",
+                    "sigla": "CTSIG",
+                    "tipo": "TP",
+                    "turma": "MIEA202",
+                    "turmac": "COMP_1262",
+                    "duracao": "2",
+                    "sala": "B305",
+                    "profsig": "MFTD",
+                    "prof": "Miguel Tato Diogo"
+                }
+            ],
+            "nome": "Cartografia, Topografia e SIG",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 14.5,
+                    "nome": "Cartografia, Topografia e SIG",
+                    "sigla": "CTSIG",
+                    "tipo": "T",
+                    "turma": "MIEA201",
+                    "turmac": "COMP_1264",
+                    "duracao": "6",
+                    "sala": "B216",
+                    "profsig": "MFTD+AML",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 14.5,
+                    "nome": "Cartografia, Topografia e SIG",
+                    "sigla": "CTSIG",
+                    "tipo": "T",
+                    "turma": "MIEA202",
+                    "turmac": "COMP_1264",
+                    "duracao": "6",
+                    "sala": "B216",
+                    "profsig": "MFTD+AML",
+                    "prof": null
+                }
+            ]
+        }
+    },
+    "3\u00ba Ano": {
+        "DA": {
+            "T": [
+                {
+                    "dia": 5,
+                    "hora": 13.5,
+                    "nome": "Ferramentas de Decis\u00e3o Ambiental",
+                    "sigla": "DA",
+                    "tipo": "T",
+                    "turma": "MIEA301",
+                    "turmac": "COMP_355",
+                    "duracao": "3",
+                    "sala": "B022",
+                    "profsig": "BN",
+                    "prof": "Belmira Neto"
+                },
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Ferramentas de Decis\u00e3o Ambiental",
+                    "sigla": "DA",
+                    "tipo": "T",
+                    "turma": "MIEA301",
+                    "turmac": "COMP_355",
+                    "duracao": "3",
+                    "sala": "B034",
+                    "profsig": "BN",
+                    "prof": "Belmira Neto"
+                },
+                {
+                    "dia": 5,
+                    "hora": 13.5,
+                    "nome": "Ferramentas de Decis\u00e3o Ambiental",
+                    "sigla": "DA",
+                    "tipo": "T",
+                    "turma": "MIEA302",
+                    "turmac": "COMP_355",
+                    "duracao": "3",
+                    "sala": "B022",
+                    "profsig": "BN",
+                    "prof": "Belmira Neto"
+                },
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Ferramentas de Decis\u00e3o Ambiental",
+                    "sigla": "DA",
+                    "tipo": "T",
+                    "turma": "MIEA302",
+                    "turmac": "COMP_355",
+                    "duracao": "3",
+                    "sala": "B034",
+                    "profsig": "BN",
+                    "prof": "Belmira Neto"
+                }
+            ],
+            "nome": "Ferramentas de Decis\u00e3o Ambiental",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 17,
+                    "nome": "Ferramentas de Decis\u00e3o Ambiental",
+                    "sigla": "DA",
+                    "tipo": "TP",
+                    "turma": "MIEA301",
+                    "turmac": "MIEA301",
+                    "duracao": "2",
+                    "sala": "B034",
+                    "profsig": "BN",
+                    "prof": "Belmira Neto"
+                },
+                {
+                    "dia": 5,
+                    "hora": 15,
+                    "nome": "Ferramentas de Decis\u00e3o Ambiental",
+                    "sigla": "DA",
+                    "tipo": "TP",
+                    "turma": "MIEA302",
+                    "turmac": "MIEA302",
+                    "duracao": "2",
+                    "sala": "B022",
+                    "profsig": "BN",
+                    "prof": "Belmira Neto"
+                }
+            ]
+        },
+        "EA": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Energia e Ambiente",
+                    "sigla": "EA",
+                    "tipo": "T",
+                    "turma": "MIEA301",
+                    "turmac": "COMP_355",
+                    "duracao": "3",
+                    "sala": "B034",
+                    "profsig": "CAA+ACO+OSM",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Energia e Ambiente",
+                    "sigla": "EA",
+                    "tipo": "T",
+                    "turma": "MIEA301",
+                    "turmac": "COMP_355",
+                    "duracao": "3",
+                    "sala": "B034",
+                    "profsig": "CAA+ACO+OSM",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Energia e Ambiente",
+                    "sigla": "EA",
+                    "tipo": "T",
+                    "turma": "MIEA302",
+                    "turmac": "COMP_355",
+                    "duracao": "3",
+                    "sala": "B034",
+                    "profsig": "CAA+ACO+OSM",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Energia e Ambiente",
+                    "sigla": "EA",
+                    "tipo": "T",
+                    "turma": "MIEA302",
+                    "turmac": "COMP_355",
+                    "duracao": "3",
+                    "sala": "B034",
+                    "profsig": "CAA+ACO+OSM",
+                    "prof": null
+                }
+            ],
+            "nome": "Energia e Ambiente",
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "Energia e Ambiente",
+                    "sigla": "EA",
+                    "tipo": "TP",
+                    "turma": "MIEA301",
+                    "turmac": "MIEA301",
+                    "duracao": "2",
+                    "sala": "B103",
+                    "profsig": "ACO+OSM",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 17,
+                    "nome": "Energia e Ambiente",
+                    "sigla": "EA",
+                    "tipo": "TP",
+                    "turma": "MIEA302",
+                    "turmac": "MIEA302",
+                    "duracao": "2",
+                    "sala": "B323",
+                    "profsig": "ACO+OSM",
+                    "prof": null
+                }
+            ]
+        },
+        "POT": {
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Planeamento e Ordenamento do Territ\u00f3rio",
+                    "sigla": "POT",
+                    "tipo": "T",
+                    "turma": "MIEA301",
+                    "turmac": "COMP_355",
+                    "duracao": "4",
+                    "sala": "B012",
+                    "profsig": "CS",
+                    "prof": "Cec\u00edlia do Carmo Ferreira da Silva"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Planeamento e Ordenamento do Territ\u00f3rio",
+                    "sigla": "POT",
+                    "tipo": "T",
+                    "turma": "MIEA302",
+                    "turmac": "COMP_355",
+                    "duracao": "4",
+                    "sala": "B012",
+                    "profsig": "CS",
+                    "prof": "Cec\u00edlia do Carmo Ferreira da Silva"
+                }
+            ],
+            "nome": "Planeamento e Ordenamento do Territ\u00f3rio",
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 16,
+                    "nome": "Planeamento e Ordenamento do Territ\u00f3rio",
+                    "sigla": "POT",
+                    "tipo": "TP",
+                    "turma": "MIEA301",
+                    "turmac": "COMP_355",
+                    "duracao": "4",
+                    "sala": "B203",
+                    "profsig": "CS",
+                    "prof": "Cec\u00edlia do Carmo Ferreira da Silva"
+                },
+                {
+                    "dia": 3,
+                    "hora": 16,
+                    "nome": "Planeamento e Ordenamento do Territ\u00f3rio",
+                    "sigla": "POT",
+                    "tipo": "TP",
+                    "turma": "MIEA302",
+                    "turmac": "COMP_355",
+                    "duracao": "4",
+                    "sala": "B203",
+                    "profsig": "CS",
+                    "prof": "Cec\u00edlia do Carmo Ferreira da Silva"
+                }
+            ]
+        },
+        "LEA II": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 15,
+                    "nome": "Laborat\u00f3rios de Engenharia do Ambiente II",
+                    "sigla": "LEA II",
+                    "tipo": "PL",
+                    "turma": "MIEA301",
+                    "turmac": "MIEA301",
+                    "duracao": "6",
+                    "sala": "M102",
+                    "profsig": "PMC",
+                    "prof": "Paulo Jos\u00e9 Coelho"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Laborat\u00f3rios de Engenharia do Ambiente II",
+                    "sigla": "LEA II",
+                    "tipo": "PL",
+                    "turma": "MIEA302",
+                    "turmac": "MIEA302",
+                    "duracao": "6",
+                    "sala": "M102",
+                    "profsig": "PMC",
+                    "prof": "Paulo Jos\u00e9 Coelho"
+                }
+            ],
+            "nome": "Laborat\u00f3rios de Engenharia do Ambiente II"
+        },
+        "RB": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 16,
+                    "nome": "Reatores Biol\u00f3gicos",
+                    "sigla": "RB",
+                    "tipo": "TP",
+                    "turma": "MIEA301",
+                    "turmac": "COMP_355",
+                    "duracao": "4",
+                    "sala": "B022",
+                    "profsig": "LM",
+                    "prof": "Lu\u00eds Melo"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16.5,
+                    "nome": "Reatores Biol\u00f3gicos",
+                    "sigla": "RB",
+                    "tipo": "TP",
+                    "turma": "MIEA301",
+                    "turmac": "COMP_355",
+                    "duracao": "4",
+                    "sala": "B034",
+                    "profsig": "LM",
+                    "prof": "Lu\u00eds Melo"
+                },
+                {
+                    "dia": 5,
+                    "hora": 16,
+                    "nome": "Reatores Biol\u00f3gicos",
+                    "sigla": "RB",
+                    "tipo": "TP",
+                    "turma": "MIEA302",
+                    "turmac": "COMP_355",
+                    "duracao": "4",
+                    "sala": "B022",
+                    "profsig": "LM",
+                    "prof": "Lu\u00eds Melo"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16.5,
+                    "nome": "Reatores Biol\u00f3gicos",
+                    "sigla": "RB",
+                    "tipo": "TP",
+                    "turma": "MIEA302",
+                    "turmac": "COMP_355",
+                    "duracao": "4",
+                    "sala": "B034",
+                    "profsig": "LM",
+                    "prof": "Lu\u00eds Melo"
+                }
+            ],
+            "nome": "Reatores Biol\u00f3gicos"
+        }
+    },
+    "4\u00ba Ano": {
+        "IICC": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 8,
+                    "nome": "Instala\u00e7\u00f5es Industriais e Constru\u00e7\u00f5es Civis",
+                    "sigla": "IICC",
+                    "tipo": "TP",
+                    "turma": "MIEA401",
+                    "turmac": "COMP_807",
+                    "duracao": "4",
+                    "sala": "B022",
+                    "profsig": "JCF+MCG+CAM",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 8,
+                    "nome": "Instala\u00e7\u00f5es Industriais e Constru\u00e7\u00f5es Civis",
+                    "sigla": "IICC",
+                    "tipo": "TP",
+                    "turma": "MIEA401",
+                    "turmac": "COMP_807",
+                    "duracao": "4",
+                    "sala": "B027",
+                    "profsig": "JCF+MCG+CAM",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 8,
+                    "nome": "Instala\u00e7\u00f5es Industriais e Constru\u00e7\u00f5es Civis",
+                    "sigla": "IICC",
+                    "tipo": "TP",
+                    "turma": "MIEA402",
+                    "turmac": "COMP_807",
+                    "duracao": "4",
+                    "sala": "B022",
+                    "profsig": "JCF+MCG+CAM",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 8,
+                    "nome": "Instala\u00e7\u00f5es Industriais e Constru\u00e7\u00f5es Civis",
+                    "sigla": "IICC",
+                    "tipo": "TP",
+                    "turma": "MIEA402",
+                    "turmac": "COMP_807",
+                    "duracao": "4",
+                    "sala": "B027",
+                    "profsig": "JCF+MCG+CAM",
+                    "prof": null
+                }
+            ],
+            "nome": "Instala\u00e7\u00f5es Industriais e Constru\u00e7\u00f5es Civis"
+        },
+        "AQRA": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "An\u00e1lise Quantitativa de Risco Ambiental",
+                    "sigla": "AQRA",
+                    "tipo": "TP",
+                    "turma": "MIEA401",
+                    "turmac": "COMP_807",
+                    "duracao": "4",
+                    "sala": "B205",
+                    "profsig": "MCV",
+                    "prof": "Maria Cristina Vila"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11.5,
+                    "nome": "An\u00e1lise Quantitativa de Risco Ambiental",
+                    "sigla": "AQRA",
+                    "tipo": "TP",
+                    "turma": "MIEA401",
+                    "turmac": "COMP_807",
+                    "duracao": "4",
+                    "sala": "B305",
+                    "profsig": "MCV",
+                    "prof": "Maria Cristina Vila"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "An\u00e1lise Quantitativa de Risco Ambiental",
+                    "sigla": "AQRA",
+                    "tipo": "TP",
+                    "turma": "MIEA402",
+                    "turmac": "COMP_807",
+                    "duracao": "4",
+                    "sala": "B205",
+                    "profsig": "MCV",
+                    "prof": "Maria Cristina Vila"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11.5,
+                    "nome": "An\u00e1lise Quantitativa de Risco Ambiental",
+                    "sigla": "AQRA",
+                    "tipo": "TP",
+                    "turma": "MIEA402",
+                    "turmac": "COMP_807",
+                    "duracao": "4",
+                    "sala": "B305",
+                    "profsig": "MCV",
+                    "prof": "Maria Cristina Vila"
+                }
+            ],
+            "nome": "An\u00e1lise Quantitativa de Risco Ambiental"
+        },
+        "TA II": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 9.5,
+                    "nome": "Tecnologias e Sistemas de Tratamento de \u00c1guas II",
+                    "sigla": "TA II",
+                    "tipo": "TP",
+                    "turma": "MIEA401",
+                    "turmac": "COMP_807",
+                    "duracao": "4",
+                    "sala": "B219",
+                    "profsig": "CMB+JPM+CMMS+CY",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Tecnologias e Sistemas de Tratamento de \u00c1guas II",
+                    "sigla": "TA II",
+                    "tipo": "TP",
+                    "turma": "MIEA401",
+                    "turmac": "COMP_807",
+                    "duracao": "4",
+                    "sala": "B103",
+                    "profsig": "CMB+JPM+CMMS+CY",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 9.5,
+                    "nome": "Tecnologias e Sistemas de Tratamento de \u00c1guas II",
+                    "sigla": "TA II",
+                    "tipo": "TP",
+                    "turma": "MIEA402",
+                    "turmac": "COMP_807",
+                    "duracao": "4",
+                    "sala": "B219",
+                    "profsig": "CMB+JPM+CMMS+CY",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Tecnologias e Sistemas de Tratamento de \u00c1guas II",
+                    "sigla": "TA II",
+                    "tipo": "TP",
+                    "turma": "MIEA402",
+                    "turmac": "COMP_807",
+                    "duracao": "4",
+                    "sala": "B103",
+                    "profsig": "CMB+JPM+CMMS+CY",
+                    "prof": null
+                }
+            ],
+            "nome": "Tecnologias e Sistemas de Tratamento de \u00c1guas II"
+        },
+        "LEA IV": {
+            "PL": [
+                {
+                    "dia": 5,
+                    "hora": 9.5,
+                    "nome": "Laborat\u00f3rios de Engenharia do Ambiente IV",
+                    "sigla": "LEA IV",
+                    "tipo": "PL",
+                    "turma": "MIEA401",
+                    "turmac": "MIEA401",
+                    "duracao": "6",
+                    "sala": "B303+R001+H206",
+                    "profsig": "VJPV+CMMS+CYC",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Laborat\u00f3rios de Engenharia do Ambiente IV",
+                    "sigla": "LEA IV",
+                    "tipo": "PL",
+                    "turma": "MIEA402",
+                    "turmac": "MIEA402",
+                    "duracao": "6",
+                    "sala": "B314+R001+H206",
+                    "profsig": "VJPV+CMMS+CYC",
+                    "prof": null
+                }
+            ],
+            "nome": "Laborat\u00f3rios de Engenharia do Ambiente IV"
+        },
+        "EIQ": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 10,
+                    "nome": "Ecologia Industrial e Gest\u00e3o da Qualidade",
+                    "sigla": "EIQ",
+                    "tipo": "TP",
+                    "turma": "MIEA401",
+                    "turmac": "COMP_807",
+                    "duracao": "4",
+                    "sala": "B022",
+                    "profsig": "BN",
+                    "prof": "Belmira Neto"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Ecologia Industrial e Gest\u00e3o da Qualidade",
+                    "sigla": "EIQ",
+                    "tipo": "TP",
+                    "turma": "MIEA401",
+                    "turmac": "COMP_807",
+                    "duracao": "4",
+                    "sala": "B027",
+                    "profsig": "BN",
+                    "prof": "Belmira Neto"
+                },
+                {
+                    "dia": 3,
+                    "hora": 10,
+                    "nome": "Ecologia Industrial e Gest\u00e3o da Qualidade",
+                    "sigla": "EIQ",
+                    "tipo": "TP",
+                    "turma": "MIEA402",
+                    "turmac": "COMP_807",
+                    "duracao": "4",
+                    "sala": "B022",
+                    "profsig": "BN",
+                    "prof": "Belmira Neto"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Ecologia Industrial e Gest\u00e3o da Qualidade",
+                    "sigla": "EIQ",
+                    "tipo": "TP",
+                    "turma": "MIEA402",
+                    "turmac": "COMP_807",
+                    "duracao": "4",
+                    "sala": "B027",
+                    "profsig": "BN",
+                    "prof": "Belmira Neto"
+                }
+            ],
+            "nome": "Ecologia Industrial e Gest\u00e3o da Qualidade"
+        },
+        "RS II": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 12,
+                    "nome": "Tecnologias e Sistemas de Tratamento de Res\u00edduos S\u00f3lidos II",
+                    "sigla": "RS II",
+                    "tipo": "TP",
+                    "turma": "MIEA401",
+                    "turmac": "COMP_807",
+                    "duracao": "2",
+                    "sala": "B028",
+                    "profsig": "JMMD",
+                    "prof": "Joana Dias"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Tecnologias e Sistemas de Tratamento de Res\u00edduos S\u00f3lidos II",
+                    "sigla": "RS II",
+                    "tipo": "TP",
+                    "turma": "MIEA401",
+                    "turmac": "COMP_807",
+                    "duracao": "6",
+                    "sala": "B028",
+                    "profsig": "JMMD",
+                    "prof": "Joana Dias"
+                },
+                {
+                    "dia": 4,
+                    "hora": 12,
+                    "nome": "Tecnologias e Sistemas de Tratamento de Res\u00edduos S\u00f3lidos II",
+                    "sigla": "RS II",
+                    "tipo": "TP",
+                    "turma": "MIEA402",
+                    "turmac": "COMP_807",
+                    "duracao": "2",
+                    "sala": "B028",
+                    "profsig": "JMMD",
+                    "prof": "Joana Dias"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Tecnologias e Sistemas de Tratamento de Res\u00edduos S\u00f3lidos II",
+                    "sigla": "RS II",
+                    "tipo": "TP",
+                    "turma": "MIEA402",
+                    "turmac": "COMP_807",
+                    "duracao": "6",
+                    "sala": "B028",
+                    "profsig": "JMMD",
+                    "prof": "Joana Dias"
+                }
+            ],
+            "nome": "Tecnologias e Sistemas de Tratamento de Res\u00edduos S\u00f3lidos II"
+        },
+        "AC": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 14.5,
+                    "nome": "Ac\u00fastica Ambiental",
+                    "sigla": "AC",
+                    "tipo": "T",
+                    "turma": "MIEA401",
+                    "turmac": "COMP_807",
+                    "duracao": "2",
+                    "sala": "B028",
+                    "profsig": "APOC",
+                    "prof": "Ant\u00f3nio Carvalho"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14.5,
+                    "nome": "Ac\u00fastica Ambiental",
+                    "sigla": "AC",
+                    "tipo": "T",
+                    "turma": "MIEA401",
+                    "turmac": "COMP_807",
+                    "duracao": "2",
+                    "sala": "B012",
+                    "profsig": "APOC",
+                    "prof": "Ant\u00f3nio Carvalho"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14.5,
+                    "nome": "Ac\u00fastica Ambiental",
+                    "sigla": "AC",
+                    "tipo": "T",
+                    "turma": "MIEA402",
+                    "turmac": "COMP_807",
+                    "duracao": "2",
+                    "sala": "B028",
+                    "profsig": "APOC",
+                    "prof": "Ant\u00f3nio Carvalho"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14.5,
+                    "nome": "Ac\u00fastica Ambiental",
+                    "sigla": "AC",
+                    "tipo": "T",
+                    "turma": "MIEA402",
+                    "turmac": "COMP_807",
+                    "duracao": "2",
+                    "sala": "B012",
+                    "profsig": "APOC",
+                    "prof": "Ant\u00f3nio Carvalho"
+                }
+            ],
+            "nome": "Ac\u00fastica Ambiental",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "Ac\u00fastica Ambiental",
+                    "sigla": "AC",
+                    "tipo": "TP",
+                    "turma": "MIEA401",
+                    "turmac": "MIEA401",
+                    "duracao": "4",
+                    "sala": "B335",
+                    "profsig": "APOC",
+                    "prof": "Ant\u00f3nio Carvalho"
+                },
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Ac\u00fastica Ambiental",
+                    "sigla": "AC",
+                    "tipo": "TP",
+                    "turma": "MIEA402",
+                    "turmac": "MIEA402",
+                    "duracao": "4",
+                    "sala": "B334",
+                    "profsig": "APOC",
+                    "prof": "Ant\u00f3nio Carvalho"
+                }
+            ]
+        }
+    }
+}

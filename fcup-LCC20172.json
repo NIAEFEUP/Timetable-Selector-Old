@@ -1,0 +1,1545 @@
+{
+    "1\u00ba Ano": {
+        "CC1004": {
+            "PL": [
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Modelos de Computa\u00e7\u00e3o",
+                    "sigla": "CC1004",
+                    "tipo": "PL",
+                    "turma": "CC1004_PL1",
+                    "turmac": "CC1004_PL1",
+                    "duracao": "4",
+                    "sala": "FC6146",
+                    "profsig": "RVLSR",
+                    "prof": "Rog\u00e9rio Reis"
+                },
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Modelos de Computa\u00e7\u00e3o",
+                    "sigla": "CC1004",
+                    "tipo": "PL",
+                    "turma": "CC1004_PL2",
+                    "turmac": "CC1004_PL2",
+                    "duracao": "4",
+                    "sala": "FC6140",
+                    "profsig": "FR",
+                    "prof": "Francesco Renna"
+                },
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Modelos de Computa\u00e7\u00e3o",
+                    "sigla": "CC1004",
+                    "tipo": "PL",
+                    "turma": "CC1004_PL3",
+                    "turmac": "CC1004_PL3",
+                    "duracao": "4",
+                    "sala": "FC6140",
+                    "profsig": "LFCA",
+                    "prof": "Lu\u00eds Antunes"
+                },
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Modelos de Computa\u00e7\u00e3o",
+                    "sigla": "CC1004",
+                    "tipo": "PL",
+                    "turma": "CC1004_PL4",
+                    "turmac": "CC1004_PL4",
+                    "duracao": "4",
+                    "sala": "FC6137",
+                    "profsig": "NRAM",
+                    "prof": "Nelma Moreira"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Modelos de Computa\u00e7\u00e3o",
+                    "sigla": "CC1004",
+                    "tipo": "PL",
+                    "turma": "CC1004_PL5",
+                    "turmac": "CC1004_PL5",
+                    "duracao": "4",
+                    "sala": "FC6146",
+                    "profsig": "FR",
+                    "prof": "Francesco Renna"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Modelos de Computa\u00e7\u00e3o",
+                    "sigla": "CC1004",
+                    "tipo": "PL",
+                    "turma": "CC1004_PL6",
+                    "turmac": "CC1004_PL6",
+                    "duracao": "4",
+                    "sala": "FC6140",
+                    "profsig": "ECGM",
+                    "prof": "Eva Maia"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Modelos de Computa\u00e7\u00e3o",
+                    "sigla": "CC1004",
+                    "tipo": "PL",
+                    "turma": "CC1004_PL7",
+                    "turmac": "CC1004_PL7",
+                    "duracao": "4",
+                    "sala": "FC6140",
+                    "profsig": "ECGM",
+                    "prof": "Eva Maia"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Modelos de Computa\u00e7\u00e3o",
+                    "sigla": "CC1004",
+                    "tipo": "PL",
+                    "turma": "CC1004_PL8",
+                    "turmac": "CC1004_PL8",
+                    "duracao": "4",
+                    "sala": "FC6137",
+                    "profsig": "NRAM",
+                    "prof": "Nelma Moreira"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Modelos de Computa\u00e7\u00e3o",
+                    "sigla": "CC1004",
+                    "tipo": "PL",
+                    "turma": "CC1004_PL9",
+                    "turmac": "CC1004_PL9",
+                    "duracao": "4",
+                    "sala": "FC6140",
+                    "profsig": "LFCA",
+                    "prof": "Lu\u00eds Antunes"
+                }
+            ],
+            "nome": "Modelos de Computa\u00e7\u00e3o",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 12,
+                    "nome": "Modelos de Computa\u00e7\u00e3o",
+                    "sigla": "CC1004",
+                    "tipo": "T",
+                    "turma": "CC1004_T1",
+                    "turmac": "CC1004_T1",
+                    "duracao": "2",
+                    "sala": "FC1007",
+                    "profsig": "RVLSR",
+                    "prof": "Rog\u00e9rio Reis"
+                },
+                {
+                    "dia": 3,
+                    "hora": 12,
+                    "nome": "Modelos de Computa\u00e7\u00e3o",
+                    "sigla": "CC1004",
+                    "tipo": "T",
+                    "turma": "CC1004_T1",
+                    "turmac": "CC1004_T1",
+                    "duracao": "2",
+                    "sala": "FC1007",
+                    "profsig": "RVLSR",
+                    "prof": "Rog\u00e9rio Reis"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Modelos de Computa\u00e7\u00e3o",
+                    "sigla": "CC1004",
+                    "tipo": "T",
+                    "turma": "CC1004_T2",
+                    "turmac": "CC1004_T2",
+                    "duracao": "2",
+                    "sala": "FC1005",
+                    "profsig": "RVLSR",
+                    "prof": "Rog\u00e9rio Reis"
+                },
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Modelos de Computa\u00e7\u00e3o",
+                    "sigla": "CC1004",
+                    "tipo": "T",
+                    "turma": "CC1004_T2",
+                    "turmac": "CC1004_T2",
+                    "duracao": "2",
+                    "sala": "FC1005",
+                    "profsig": "RVLSR",
+                    "prof": "Rog\u00e9rio Reis"
+                }
+            ]
+        },
+        "CC1005": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Programa\u00e7\u00e3o Funcional",
+                    "sigla": "CC1005",
+                    "tipo": "PL",
+                    "turma": "CC1005_PL1",
+                    "turmac": "CC1005_PL1",
+                    "duracao": "4",
+                    "sala": "FC6163",
+                    "profsig": "JPP",
+                    "prof": "Jo\u00e3o Pedro Pedroso"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Programa\u00e7\u00e3o Funcional",
+                    "sigla": "CC1005",
+                    "tipo": "PL",
+                    "turma": "CC1005_PL2",
+                    "turmac": "CC1005_PL2",
+                    "duracao": "4",
+                    "sala": "FC6163",
+                    "profsig": "JPP",
+                    "prof": "Jo\u00e3o Pedro Pedroso"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Programa\u00e7\u00e3o Funcional",
+                    "sigla": "CC1005",
+                    "tipo": "PL",
+                    "turma": "CC1005_PL3",
+                    "turmac": "CC1005_PL3",
+                    "duracao": "4",
+                    "sala": "FC6157",
+                    "profsig": "SMMA",
+                    "prof": "Sandra Alves"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Programa\u00e7\u00e3o Funcional",
+                    "sigla": "CC1005",
+                    "tipo": "PL",
+                    "turma": "CC1005_PL4",
+                    "turmac": "CC1005_PL4",
+                    "duracao": "4",
+                    "sala": "FC6155",
+                    "profsig": "MBB",
+                    "prof": "Manuel Barbosa"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Programa\u00e7\u00e3o Funcional",
+                    "sigla": "CC1005",
+                    "tipo": "PL",
+                    "turma": "CC1005_PL5",
+                    "turmac": "CC1005_PL5",
+                    "duracao": "4",
+                    "sala": "FC6157",
+                    "profsig": "MBB",
+                    "prof": "Manuel Barbosa"
+                },
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Programa\u00e7\u00e3o Funcional",
+                    "sigla": "CC1005",
+                    "tipo": "PL",
+                    "turma": "CC1005_PL6",
+                    "turmac": "CC1005_PL6",
+                    "duracao": "4",
+                    "sala": "FC6165",
+                    "profsig": "MBB",
+                    "prof": "Manuel Barbosa"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Programa\u00e7\u00e3o Funcional",
+                    "sigla": "CC1005",
+                    "tipo": "PL",
+                    "turma": "CC1005_PL7",
+                    "turmac": "CC1005_PL7",
+                    "duracao": "4",
+                    "sala": "FC6155",
+                    "profsig": "JPP",
+                    "prof": "Jo\u00e3o Pedro Pedroso"
+                },
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Programa\u00e7\u00e3o Funcional",
+                    "sigla": "CC1005",
+                    "tipo": "PL",
+                    "turma": "CC1005_PL8",
+                    "turmac": "CC1005_PL8",
+                    "duracao": "4",
+                    "sala": "FC6155",
+                    "profsig": "SMMA",
+                    "prof": "Sandra Alves"
+                },
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Programa\u00e7\u00e3o Funcional",
+                    "sigla": "CC1005",
+                    "tipo": "PL",
+                    "turma": "CC1005_PL9",
+                    "turmac": "CC1005_PL9",
+                    "duracao": "4",
+                    "sala": "FC6155",
+                    "profsig": "BLFP",
+                    "prof": "Bernardo Portela"
+                }
+            ],
+            "nome": "Programa\u00e7\u00e3o Funcional",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 12,
+                    "nome": "Programa\u00e7\u00e3o Funcional",
+                    "sigla": "CC1005",
+                    "tipo": "T",
+                    "turma": "CC1005_T1",
+                    "turmac": "CC1005_T1",
+                    "duracao": "2",
+                    "sala": "FC1027",
+                    "profsig": "SMMA",
+                    "prof": "Sandra Alves"
+                },
+                {
+                    "dia": 5,
+                    "hora": 12,
+                    "nome": "Programa\u00e7\u00e3o Funcional",
+                    "sigla": "CC1005",
+                    "tipo": "T",
+                    "turma": "CC1005_T1",
+                    "turmac": "CC1005_T1",
+                    "duracao": "2",
+                    "sala": "FC1007",
+                    "profsig": "SMMA",
+                    "prof": "Sandra Alves"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Programa\u00e7\u00e3o Funcional",
+                    "sigla": "CC1005",
+                    "tipo": "T",
+                    "turma": "CC1005_T2",
+                    "turmac": "CC1005_T2",
+                    "duracao": "2",
+                    "sala": "FC1003",
+                    "profsig": "SMMA",
+                    "prof": "Sandra Alves"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Programa\u00e7\u00e3o Funcional",
+                    "sigla": "CC1005",
+                    "tipo": "T",
+                    "turma": "CC1005_T2",
+                    "turmac": "CC1005_T2",
+                    "duracao": "2",
+                    "sala": "FC1003",
+                    "profsig": "SMMA",
+                    "prof": "Sandra Alves"
+                }
+            ]
+        },
+        "CC1006": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Laborat\u00f3rio de Computadores",
+                    "sigla": "CC1006",
+                    "tipo": "TP",
+                    "turma": "CC1006_TP1",
+                    "turmac": "CC1006_TP1",
+                    "duracao": "4",
+                    "sala": "FC6163",
+                    "profsig": "LFRAT",
+                    "prof": "Lu\u00eds Torgo"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Laborat\u00f3rio de Computadores",
+                    "sigla": "CC1006",
+                    "tipo": "TP",
+                    "turma": "CC1006_TP2",
+                    "turmac": "CC1006_TP2",
+                    "duracao": "4",
+                    "sala": "FC6157",
+                    "profsig": "AMGJ",
+                    "prof": "Al\u00edpio Jorge"
+                },
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Laborat\u00f3rio de Computadores",
+                    "sigla": "CC1006",
+                    "tipo": "TP",
+                    "turma": "CC1006_TP3",
+                    "turmac": "CC1006_TP3",
+                    "duracao": "4",
+                    "sala": "FC6157",
+                    "profsig": "LFRAT",
+                    "prof": "Lu\u00eds Torgo"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Laborat\u00f3rio de Computadores",
+                    "sigla": "CC1006",
+                    "tipo": "TP",
+                    "turma": "CC1006_TP4",
+                    "turmac": "CC1006_TP4",
+                    "duracao": "4",
+                    "sala": "FC6155",
+                    "profsig": "AMGJ",
+                    "prof": "Al\u00edpio Jorge"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Laborat\u00f3rio de Computadores",
+                    "sigla": "CC1006",
+                    "tipo": "TP",
+                    "turma": "CC1006_TP5",
+                    "turmac": "CC1006_TP5",
+                    "duracao": "4",
+                    "sala": "FC6157",
+                    "profsig": "HFPO",
+                    "prof": "H\u00e9lder Filipe Pinto de Oliveira"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Laborat\u00f3rio de Computadores",
+                    "sigla": "CC1006",
+                    "tipo": "TP",
+                    "turma": "CC1006_TP6",
+                    "turmac": "CC1006_TP6",
+                    "duracao": "4",
+                    "sala": "FC6155",
+                    "profsig": "HFPO",
+                    "prof": "H\u00e9lder Filipe Pinto de Oliveira"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Laborat\u00f3rio de Computadores",
+                    "sigla": "CC1006",
+                    "tipo": "TP",
+                    "turma": "CC1006_TP7",
+                    "turmac": "CC1006_TP7",
+                    "duracao": "4",
+                    "sala": "FC6157",
+                    "profsig": "LFRAT",
+                    "prof": "Lu\u00eds Torgo"
+                },
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Laborat\u00f3rio de Computadores",
+                    "sigla": "CC1006",
+                    "tipo": "TP",
+                    "turma": "CC1006_TP8",
+                    "turmac": "CC1006_TP8",
+                    "duracao": "4",
+                    "sala": "FC6157",
+                    "profsig": "HFPO",
+                    "prof": "H\u00e9lder Filipe Pinto de Oliveira"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Laborat\u00f3rio de Computadores",
+                    "sigla": "CC1006",
+                    "tipo": "TP",
+                    "turma": "CC1006_TP9",
+                    "turmac": "CC1006_TP9",
+                    "duracao": "4",
+                    "sala": "FC6165",
+                    "profsig": "BLFP",
+                    "prof": "Bernardo Portela"
+                }
+            ],
+            "nome": "Laborat\u00f3rio de Computadores"
+        },
+        "CC1007": {
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Estruturas de Dados",
+                    "sigla": "CC1007",
+                    "tipo": "PL",
+                    "turma": "CC1007_PL1",
+                    "turmac": "CC1007_PL1",
+                    "duracao": "4",
+                    "sala": "FC6008",
+                    "profsig": "LMBL",
+                    "prof": "Lu\u00eds Lopes"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Estruturas de Dados",
+                    "sigla": "CC1007",
+                    "tipo": "PL",
+                    "turma": "CC1007_PL10",
+                    "turmac": "CC1007_PL10",
+                    "duracao": "4",
+                    "sala": "FC6008",
+                    "profsig": "PRVS",
+                    "prof": "Patr\u00edcia Sousa"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Estruturas de Dados",
+                    "sigla": "CC1007",
+                    "tipo": "PL",
+                    "turma": "CC1007_PL11",
+                    "turmac": "CC1007_PL11",
+                    "duracao": "4",
+                    "sala": "FC6163",
+                    "profsig": "PRVS",
+                    "prof": "Patr\u00edcia Sousa"
+                },
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Estruturas de Dados",
+                    "sigla": "CC1007",
+                    "tipo": "PL",
+                    "turma": "CC1007_PL2",
+                    "turmac": "CC1007_PL2",
+                    "duracao": "4",
+                    "sala": "FC6165",
+                    "profsig": "JLAB",
+                    "prof": "Jo\u00e3o Barbosa"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Estruturas de Dados",
+                    "sigla": "CC1007",
+                    "tipo": "PL",
+                    "turma": "CC1007_PL3",
+                    "turmac": "CC1007_PL3",
+                    "duracao": "4",
+                    "sala": "FC6163",
+                    "profsig": "ERBM",
+                    "prof": "Eduardo Marques"
+                },
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Estruturas de Dados",
+                    "sigla": "CC1007",
+                    "tipo": "PL",
+                    "turma": "CC1007_PL4",
+                    "turmac": "CC1007_PL4",
+                    "duracao": "4",
+                    "sala": "FC6163",
+                    "profsig": "JLAB",
+                    "prof": "Jo\u00e3o Barbosa"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Estruturas de Dados",
+                    "sigla": "CC1007",
+                    "tipo": "PL",
+                    "turma": "CC1007_PL5",
+                    "turmac": "CC1007_PL5",
+                    "duracao": "4",
+                    "sala": "FC6163",
+                    "profsig": "JFR",
+                    "prof": "Jo\u00e3o Rodrigues"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Estruturas de Dados",
+                    "sigla": "CC1007",
+                    "tipo": "PL",
+                    "turma": "CC1007_PL6",
+                    "turmac": "CC1007_PL6",
+                    "duracao": "4",
+                    "sala": "FC6008",
+                    "profsig": "LMBL",
+                    "prof": "Lu\u00eds Lopes"
+                },
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Estruturas de Dados",
+                    "sigla": "CC1007",
+                    "tipo": "PL",
+                    "turma": "CC1007_PL7",
+                    "turmac": "CC1007_PL7",
+                    "duracao": "4",
+                    "sala": "FC6008",
+                    "profsig": "PMPR",
+                    "prof": "Pedro Ribeiro"
+                },
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Estruturas de Dados",
+                    "sigla": "CC1007",
+                    "tipo": "PL",
+                    "turma": "CC1007_PL8",
+                    "turmac": "CC1007_PL8",
+                    "duracao": "4",
+                    "sala": "FC6008",
+                    "profsig": "JFR",
+                    "prof": "Jo\u00e3o Rodrigues"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Estruturas de Dados",
+                    "sigla": "CC1007",
+                    "tipo": "PL",
+                    "turma": "CC1007_PL9",
+                    "turmac": "CC1007_PL9",
+                    "duracao": "4",
+                    "sala": "FC6008",
+                    "profsig": "ERBM",
+                    "prof": "Eduardo Marques"
+                }
+            ],
+            "nome": "Estruturas de Dados",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Estruturas de Dados",
+                    "sigla": "CC1007",
+                    "tipo": "T",
+                    "turma": "CC1007_T1",
+                    "turmac": "CC1007_T1",
+                    "duracao": "2",
+                    "sala": "FC1027",
+                    "profsig": "PMPR",
+                    "prof": "Pedro Ribeiro"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Estruturas de Dados",
+                    "sigla": "CC1007",
+                    "tipo": "T",
+                    "turma": "CC1007_T1",
+                    "turmac": "CC1007_T1",
+                    "duracao": "2",
+                    "sala": "FC1007",
+                    "profsig": "PMPR",
+                    "prof": "Pedro Ribeiro"
+                },
+                {
+                    "dia": 2,
+                    "hora": 12,
+                    "nome": "Estruturas de Dados",
+                    "sigla": "CC1007",
+                    "tipo": "T",
+                    "turma": "CC1007_T2",
+                    "turmac": "CC1007_T2",
+                    "duracao": "2",
+                    "sala": "FC1003",
+                    "profsig": "PMPR",
+                    "prof": "Pedro Ribeiro"
+                },
+                {
+                    "dia": 5,
+                    "hora": 12,
+                    "nome": "Estruturas de Dados",
+                    "sigla": "CC1007",
+                    "tipo": "T",
+                    "turma": "CC1007_T2",
+                    "turmac": "CC1007_T2",
+                    "duracao": "2",
+                    "sala": "FC1003",
+                    "profsig": "PMPR",
+                    "prof": "Pedro Ribeiro"
+                }
+            ]
+        },
+        "DPI1001": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Comunica\u00e7\u00e3o T\u00e9cnica",
+                    "sigla": "DPI1001",
+                    "tipo": "TP",
+                    "turma": "DPI1001_TP1",
+                    "turmac": "DPI1001_TP1",
+                    "duracao": "4",
+                    "sala": "FC6146",
+                    "profsig": "\u00c1PBBRF",
+                    "prof": "\u00c1lvaro Figueira"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Comunica\u00e7\u00e3o T\u00e9cnica",
+                    "sigla": "DPI1001",
+                    "tipo": "TP",
+                    "turma": "DPI1001_TP2",
+                    "turmac": "DPI1001_TP2",
+                    "duracao": "4",
+                    "sala": "FC6029",
+                    "profsig": "MTC",
+                    "prof": "Miguel Coimbra"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Comunica\u00e7\u00e3o T\u00e9cnica",
+                    "sigla": "DPI1001",
+                    "tipo": "TP",
+                    "turma": "DPI1001_TP3",
+                    "turmac": "DPI1001_TP3",
+                    "duracao": "4",
+                    "sala": "FC6146",
+                    "profsig": "MTC",
+                    "prof": "Miguel Coimbra"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Comunica\u00e7\u00e3o T\u00e9cnica",
+                    "sigla": "DPI1001",
+                    "tipo": "TP",
+                    "turma": "DPI1001_TP4",
+                    "turmac": "DPI1001_TP4",
+                    "duracao": "4",
+                    "sala": "FC6029",
+                    "profsig": "\u00c1PBBRF",
+                    "prof": "\u00c1lvaro Figueira"
+                }
+            ],
+            "nome": "Comunica\u00e7\u00e3o T\u00e9cnica"
+        },
+        "M1003": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "C\u00e1lculo II",
+                    "sigla": "M1003",
+                    "tipo": "TP",
+                    "turma": "M1003_TP1",
+                    "turmac": "M1003_TP1",
+                    "duracao": "4",
+                    "sala": "FC1107",
+                    "profsig": "MEACS",
+                    "prof": "Maria Eug\u00e9nia de Almeida C\u00e9sar de S\u00e1"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "C\u00e1lculo II",
+                    "sigla": "M1003",
+                    "tipo": "TP",
+                    "turma": "M1003_TP2",
+                    "turmac": "M1003_TP2",
+                    "duracao": "4",
+                    "sala": "FC1107",
+                    "profsig": "MEACS",
+                    "prof": "Maria Eug\u00e9nia de Almeida C\u00e9sar de S\u00e1"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "C\u00e1lculo II",
+                    "sigla": "M1003",
+                    "tipo": "TP",
+                    "turma": "M1003_TP3",
+                    "turmac": "M1003_TP3",
+                    "duracao": "4",
+                    "sala": "FC1219",
+                    "profsig": "MEACS",
+                    "prof": "Maria Eug\u00e9nia de Almeida C\u00e9sar de S\u00e1"
+                },
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "C\u00e1lculo II",
+                    "sigla": "M1003",
+                    "tipo": "TP",
+                    "turma": "M1003_TP4",
+                    "turmac": "M1003_TP4",
+                    "duracao": "4",
+                    "sala": "FC1107",
+                    "profsig": "JFA",
+                    "prof": "Jos\u00e9 Ferreira Alves"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "C\u00e1lculo II",
+                    "sigla": "M1003",
+                    "tipo": "TP",
+                    "turma": "M1003_TP5",
+                    "turmac": "M1003_TP5",
+                    "duracao": "4",
+                    "sala": "FC1219",
+                    "profsig": "MEACS",
+                    "prof": "Maria Eug\u00e9nia de Almeida C\u00e9sar de S\u00e1"
+                }
+            ],
+            "nome": "C\u00e1lculo II",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "C\u00e1lculo II",
+                    "sigla": "M1003",
+                    "tipo": "T",
+                    "turma": "M1003_T1",
+                    "turmac": "M1003_T1",
+                    "duracao": "2",
+                    "sala": "FC1007",
+                    "profsig": "LMCL",
+                    "prof": "Lucinda Lima"
+                },
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "C\u00e1lculo II",
+                    "sigla": "M1003",
+                    "tipo": "T",
+                    "turma": "M1003_T1",
+                    "turmac": "M1003_T1",
+                    "duracao": "2",
+                    "sala": "FC1007",
+                    "profsig": "LMCL",
+                    "prof": "Lucinda Lima"
+                },
+                {
+                    "dia": 1,
+                    "hora": 12,
+                    "nome": "C\u00e1lculo II",
+                    "sigla": "M1003",
+                    "tipo": "T",
+                    "turma": "M1003_T2",
+                    "turmac": "M1003_T2",
+                    "duracao": "2",
+                    "sala": "FC1005",
+                    "profsig": "LMCL",
+                    "prof": "Lucinda Lima"
+                },
+                {
+                    "dia": 3,
+                    "hora": 12,
+                    "nome": "C\u00e1lculo II",
+                    "sigla": "M1003",
+                    "tipo": "T",
+                    "turma": "M1003_T2",
+                    "turmac": "M1003_T2",
+                    "duracao": "2",
+                    "sala": "FC1005",
+                    "profsig": "LMCL",
+                    "prof": "Lucinda Lima"
+                }
+            ]
+        }
+    },
+    "2\u00ba Ano": {
+        "CC2004": {
+            "PL": [
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Sistemas de Opera\u00e7\u00e3o",
+                    "sigla": "CC2004",
+                    "tipo": "PL",
+                    "turma": "CC2004_PL1",
+                    "turmac": "CC2004_PL1",
+                    "duracao": "4",
+                    "sala": "FC6008",
+                    "profsig": "RSM",
+                    "prof": "Rolando Martins"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Sistemas de Opera\u00e7\u00e3o",
+                    "sigla": "CC2004",
+                    "tipo": "PL",
+                    "turma": "CC2004_PL2",
+                    "turmac": "CC2004_PL2",
+                    "duracao": "4",
+                    "sala": "FC6157",
+                    "profsig": "JPCS",
+                    "prof": "Jo\u00e3o Soares"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Sistemas de Opera\u00e7\u00e3o",
+                    "sigla": "CC2004",
+                    "tipo": "PL",
+                    "turma": "CC2004_PL3",
+                    "turmac": "CC2004_PL3",
+                    "duracao": "4",
+                    "sala": "FC6163",
+                    "profsig": "RSM",
+                    "prof": "Rolando Martins"
+                },
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Sistemas de Opera\u00e7\u00e3o",
+                    "sigla": "CC2004",
+                    "tipo": "PL",
+                    "turma": "CC2004_PL4",
+                    "turmac": "CC2004_PL4",
+                    "duracao": "4",
+                    "sala": "FC6163",
+                    "profsig": "RJGLR",
+                    "prof": "Ricardo Rocha"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Sistemas de Opera\u00e7\u00e3o",
+                    "sigla": "CC2004",
+                    "tipo": "PL",
+                    "turma": "CC2004_PL5",
+                    "turmac": "CC2004_PL5",
+                    "duracao": "4",
+                    "sala": "FC6157",
+                    "profsig": "MJGA",
+                    "prof": "Miguel Areias"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Sistemas de Opera\u00e7\u00e3o",
+                    "sigla": "CC2004",
+                    "tipo": "PL",
+                    "turma": "CC2004_PL6",
+                    "turmac": "CC2004_PL6",
+                    "duracao": "4",
+                    "sala": "FC6008",
+                    "profsig": "MJGA",
+                    "prof": "Miguel Areias"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Sistemas de Opera\u00e7\u00e3o",
+                    "sigla": "CC2004",
+                    "tipo": "PL",
+                    "turma": "CC2004_PL7",
+                    "turmac": "CC2004_PL7",
+                    "duracao": "4",
+                    "sala": "FC6008",
+                    "profsig": "RJGLR",
+                    "prof": "Ricardo Rocha"
+                },
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Sistemas de Opera\u00e7\u00e3o",
+                    "sigla": "CC2004",
+                    "tipo": "PL",
+                    "turma": "CC2004_PL8",
+                    "turmac": "CC2004_PL8",
+                    "duracao": "4",
+                    "sala": "FC6163",
+                    "profsig": "JPCS",
+                    "prof": "Jo\u00e3o Soares"
+                }
+            ],
+            "nome": "Sistemas de Opera\u00e7\u00e3o",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Sistemas de Opera\u00e7\u00e3o",
+                    "sigla": "CC2004",
+                    "tipo": "T",
+                    "turma": "CC2004_T1",
+                    "turmac": "CC2004_T1",
+                    "duracao": "2",
+                    "sala": "FC4041",
+                    "profsig": "RJGLR",
+                    "prof": "Ricardo Rocha"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Sistemas de Opera\u00e7\u00e3o",
+                    "sigla": "CC2004",
+                    "tipo": "T",
+                    "turma": "CC2004_T1",
+                    "turmac": "CC2004_T1",
+                    "duracao": "2",
+                    "sala": "FC4041",
+                    "profsig": "RJGLR",
+                    "prof": "Ricardo Rocha"
+                },
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Sistemas de Opera\u00e7\u00e3o",
+                    "sigla": "CC2004",
+                    "tipo": "T",
+                    "turma": "CC2004_T2",
+                    "turmac": "CC2004_T2",
+                    "duracao": "2",
+                    "sala": "FC4040",
+                    "profsig": "RJGLR",
+                    "prof": "Ricardo Rocha"
+                },
+                {
+                    "dia": 2,
+                    "hora": 17,
+                    "nome": "Sistemas de Opera\u00e7\u00e3o",
+                    "sigla": "CC2004",
+                    "tipo": "T",
+                    "turma": "CC2004_T2",
+                    "turmac": "CC2004_T2",
+                    "duracao": "2",
+                    "sala": "FC6029",
+                    "profsig": "RJGLR",
+                    "prof": "Ricardo Rocha"
+                }
+            ]
+        },
+        "CC2005": {
+            "PL": [
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Bases de Dados",
+                    "sigla": "CC2005",
+                    "tipo": "PL",
+                    "turma": "CC2005_PL1",
+                    "turmac": "CC2005_PL1",
+                    "duracao": "4",
+                    "sala": "FC6157",
+                    "profsig": "MCPF",
+                    "prof": "Michel Ferreira"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Bases de Dados",
+                    "sigla": "CC2005",
+                    "tipo": "PL",
+                    "turma": "CC2005_PL2",
+                    "turmac": "CC2005_PL2",
+                    "duracao": "4",
+                    "sala": "FC6165",
+                    "profsig": "jpleal",
+                    "prof": "Jos\u00e9 Paulo Leal"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Bases de Dados",
+                    "sigla": "CC2005",
+                    "tipo": "PL",
+                    "turma": "CC2005_PL3",
+                    "turmac": "CC2005_PL3",
+                    "duracao": "4",
+                    "sala": "FC6155",
+                    "profsig": "FMAS",
+                    "prof": "Fernando Silva"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Bases de Dados",
+                    "sigla": "CC2005",
+                    "tipo": "PL",
+                    "turma": "CC2005_PL4",
+                    "turmac": "CC2005_PL4",
+                    "duracao": "4",
+                    "sala": "FC6155",
+                    "profsig": "MCPF",
+                    "prof": "Michel Ferreira"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Bases de Dados",
+                    "sigla": "CC2005",
+                    "tipo": "PL",
+                    "turma": "CC2005_PL5",
+                    "turmac": "CC2005_PL5",
+                    "duracao": "4",
+                    "sala": "FC6157",
+                    "profsig": "FMAS",
+                    "prof": "Fernando Silva"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Bases de Dados",
+                    "sigla": "CC2005",
+                    "tipo": "PL",
+                    "turma": "CC2005_PL6",
+                    "turmac": "CC2005_PL6",
+                    "duracao": "4",
+                    "sala": "FC6155",
+                    "profsig": "PMAADO",
+                    "prof": "Pedro dOrey"
+                }
+            ],
+            "nome": "Bases de Dados",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 15,
+                    "nome": "Bases de Dados",
+                    "sigla": "CC2005",
+                    "tipo": "T",
+                    "turma": "CC2005_T",
+                    "turmac": "CC2005_T",
+                    "duracao": "2",
+                    "sala": "FC4041",
+                    "profsig": "FMAS",
+                    "prof": "Fernando Silva"
+                },
+                {
+                    "dia": 4,
+                    "hora": 15,
+                    "nome": "Bases de Dados",
+                    "sigla": "CC2005",
+                    "tipo": "T",
+                    "turma": "CC2005_T",
+                    "turmac": "CC2005_T",
+                    "duracao": "2",
+                    "sala": "FC4041",
+                    "profsig": "FMAS",
+                    "prof": "Fernando Silva"
+                }
+            ]
+        },
+        "CC2006": {
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Intelig\u00eancia Artificial",
+                    "sigla": "CC2006",
+                    "tipo": "PL",
+                    "turma": "CC2006_PL1",
+                    "turmac": "CC2006_PL1",
+                    "duracao": "4",
+                    "sala": "FC6165",
+                    "profsig": "ICD",
+                    "prof": "In\u00eas Dutra"
+                },
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Intelig\u00eancia Artificial",
+                    "sigla": "CC2006",
+                    "tipo": "PL",
+                    "turma": "CC2006_PL2",
+                    "turmac": "CC2006_PL2",
+                    "duracao": "4",
+                    "sala": "FC6157",
+                    "profsig": "ICD",
+                    "prof": "In\u00eas Dutra"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Intelig\u00eancia Artificial",
+                    "sigla": "CC2006",
+                    "tipo": "PL",
+                    "turma": "CC2006_PL3",
+                    "turmac": "CC2006_PL3",
+                    "duracao": "4",
+                    "sala": "FC6155",
+                    "profsig": "ICD",
+                    "prof": "In\u00eas Dutra"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Intelig\u00eancia Artificial",
+                    "sigla": "CC2006",
+                    "tipo": "PL",
+                    "turma": "CC2006_PL4",
+                    "turmac": "CC2006_PL4",
+                    "duracao": "4",
+                    "sala": "FC6163",
+                    "profsig": "AMGJ",
+                    "prof": "Al\u00edpio Jorge"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Intelig\u00eancia Artificial",
+                    "sigla": "CC2006",
+                    "tipo": "PL",
+                    "turma": "CC2006_PL5",
+                    "turmac": "CC2006_PL5",
+                    "duracao": "4",
+                    "sala": "FC6008",
+                    "profsig": "ICD",
+                    "prof": "In\u00eas Dutra"
+                },
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Intelig\u00eancia Artificial",
+                    "sigla": "CC2006",
+                    "tipo": "PL",
+                    "turma": "CC2006_PL6",
+                    "turmac": "CC2006_PL6",
+                    "duracao": "4",
+                    "sala": "FC6155",
+                    "profsig": "AMGJ",
+                    "prof": "Al\u00edpio Jorge"
+                }
+            ],
+            "nome": "Intelig\u00eancia Artificial",
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Intelig\u00eancia Artificial",
+                    "sigla": "CC2006",
+                    "tipo": "T",
+                    "turma": "CC2006_T",
+                    "turmac": "CC2006_T",
+                    "duracao": "2",
+                    "sala": "FC4041",
+                    "profsig": "ICD",
+                    "prof": "In\u00eas Dutra"
+                },
+                {
+                    "dia": 1,
+                    "hora": 15,
+                    "nome": "Intelig\u00eancia Artificial",
+                    "sigla": "CC2006",
+                    "tipo": "T",
+                    "turma": "CC2006_T",
+                    "turmac": "CC2006_T",
+                    "duracao": "2",
+                    "sala": "FC4041",
+                    "profsig": "ICD",
+                    "prof": "In\u00eas Dutra"
+                }
+            ]
+        },
+        "CC3007": {
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Sistemas e Aplica\u00e7\u00f5es",
+                    "sigla": "CC3007",
+                    "tipo": "PL",
+                    "turma": "CC3007_PL1",
+                    "turmac": "CC3007_PL1",
+                    "duracao": "4",
+                    "sala": "FC6165",
+                    "profsig": "\u00c1PBBRF",
+                    "prof": "\u00c1lvaro Figueira"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Sistemas e Aplica\u00e7\u00f5es",
+                    "sigla": "CC3007",
+                    "tipo": "PL",
+                    "turma": "CC3007_PL2",
+                    "turmac": "CC3007_PL2",
+                    "duracao": "4",
+                    "sala": "FC6165",
+                    "profsig": "PMAADO",
+                    "prof": "Pedro dOrey"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Sistemas e Aplica\u00e7\u00f5es",
+                    "sigla": "CC3007",
+                    "tipo": "PL",
+                    "turma": "CC3007_PL3",
+                    "turmac": "CC3007_PL3",
+                    "duracao": "4",
+                    "sala": "FC6155",
+                    "profsig": "\u00c1PBBRF",
+                    "prof": "\u00c1lvaro Figueira"
+                }
+            ],
+            "nome": "Sistemas e Aplica\u00e7\u00f5es",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Sistemas e Aplica\u00e7\u00f5es",
+                    "sigla": "CC3007",
+                    "tipo": "T",
+                    "turma": "CC3007_T",
+                    "turmac": "CC3007_T",
+                    "duracao": "4",
+                    "sala": "FC6029",
+                    "profsig": "\u00c1PBBRF",
+                    "prof": "\u00c1lvaro Figueira"
+                }
+            ]
+        },
+        "CC3013": {
+            "PL": [
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Sistemas Multim\u00e9dia",
+                    "sigla": "CC3013",
+                    "tipo": "PL",
+                    "turma": "CC3013_PL1",
+                    "turmac": "CC3013_PL1",
+                    "duracao": "4",
+                    "sala": "FC6165",
+                    "profsig": "VCTPO",
+                    "prof": "Ver\u00f3nica Orvalho"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Sistemas Multim\u00e9dia",
+                    "sigla": "CC3013",
+                    "tipo": "PL",
+                    "turma": "CC3013_PL2",
+                    "turmac": "CC3013_PL2",
+                    "duracao": "4",
+                    "sala": "FC6165",
+                    "profsig": "VCTPO",
+                    "prof": "Ver\u00f3nica Orvalho"
+                }
+            ],
+            "nome": "Sistemas Multim\u00e9dia",
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Sistemas Multim\u00e9dia",
+                    "sigla": "CC3013",
+                    "tipo": "T",
+                    "turma": "CC3013_T",
+                    "turmac": "CC3013_T",
+                    "duracao": "4",
+                    "sala": "FC6029",
+                    "profsig": "VCTPO",
+                    "prof": "Ver\u00f3nica Orvalho"
+                }
+            ]
+        },
+        "CC3034": {
+            "PL": [
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Arquitetura de Software",
+                    "sigla": "CC3034",
+                    "tipo": "PL",
+                    "turma": "CC3034_PL1",
+                    "turmac": "CC3034_PL1",
+                    "duracao": "4",
+                    "sala": "FC6155",
+                    "profsig": "jpleal",
+                    "prof": "Jos\u00e9 Paulo Leal"
+                },
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Arquitetura de Software",
+                    "sigla": "CC3034",
+                    "tipo": "PL",
+                    "turma": "CC3034_PL2",
+                    "turmac": "CC3034_PL2",
+                    "duracao": "4",
+                    "sala": "FC6157",
+                    "profsig": "jpleal",
+                    "prof": "Jos\u00e9 Paulo Leal"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Arquitetura de Software",
+                    "sigla": "CC3034",
+                    "tipo": "PL",
+                    "turma": "CC3034_PL3",
+                    "turmac": "CC3034_PL3",
+                    "duracao": "4",
+                    "sala": "FC6155",
+                    "profsig": "jpleal",
+                    "prof": "Jos\u00e9 Paulo Leal"
+                }
+            ],
+            "nome": "Arquitetura de Software",
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Arquitetura de Software",
+                    "sigla": "CC3034",
+                    "tipo": "T",
+                    "turma": "CC3034_T",
+                    "turmac": "CC3034_T",
+                    "duracao": "2",
+                    "sala": "FC6029",
+                    "profsig": "jpleal",
+                    "prof": "Jos\u00e9 Paulo Leal"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "Arquitetura de Software",
+                    "sigla": "CC3034",
+                    "tipo": "T",
+                    "turma": "CC3034_T",
+                    "turmac": "CC3034_T",
+                    "duracao": "2",
+                    "sala": "FC6029",
+                    "profsig": "jpleal",
+                    "prof": "Jos\u00e9 Paulo Leal"
+                }
+            ]
+        }
+    },
+    "3\u00ba Ano": {
+        "CC3003": {
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "M\u00e9todos de Apoio \u00e0 Decis\u00e3o",
+                    "sigla": "CC3003",
+                    "tipo": "PL",
+                    "turma": "CC3003_PL1",
+                    "turmac": "CC3003_PL1",
+                    "duracao": "4",
+                    "sala": "FC6165",
+                    "profsig": "APNGT",
+                    "prof": "Ana Paula Tom\u00e1s"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "M\u00e9todos de Apoio \u00e0 Decis\u00e3o",
+                    "sigla": "CC3003",
+                    "tipo": "PL",
+                    "turma": "CC3003_PL2",
+                    "turmac": "CC3003_PL2",
+                    "duracao": "4",
+                    "sala": "FC6155",
+                    "profsig": "APNGT",
+                    "prof": "Ana Paula Tom\u00e1s"
+                }
+            ],
+            "nome": "M\u00e9todos de Apoio \u00e0 Decis\u00e3o",
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "M\u00e9todos de Apoio \u00e0 Decis\u00e3o",
+                    "sigla": "CC3003",
+                    "tipo": "T",
+                    "turma": "CC3003_T",
+                    "turmac": "CC3003_T",
+                    "duracao": "2",
+                    "sala": "FC6029",
+                    "profsig": "APNGT",
+                    "prof": "Ana Paula Tom\u00e1s"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "M\u00e9todos de Apoio \u00e0 Decis\u00e3o",
+                    "sigla": "CC3003",
+                    "tipo": "T",
+                    "turma": "CC3003_T",
+                    "turmac": "CC3003_T",
+                    "duracao": "2",
+                    "sala": "FC6029",
+                    "profsig": "APNGT",
+                    "prof": "Ana Paula Tom\u00e1s"
+                }
+            ]
+        },
+        "CC3004": {
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Computabilidade e Complexidade",
+                    "sigla": "CC3004",
+                    "tipo": "PL",
+                    "turma": "CC3004_PL1",
+                    "turmac": "CC3004_PL1",
+                    "duracao": "4",
+                    "sala": "FC6142",
+                    "profsig": "RVLSR",
+                    "prof": "Rog\u00e9rio Reis"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Computabilidade e Complexidade",
+                    "sigla": "CC3004",
+                    "tipo": "PL",
+                    "turma": "CC3004_PL2",
+                    "turmac": "CC3004_PL2",
+                    "duracao": "4",
+                    "sala": "FC6140",
+                    "profsig": "RVLSR",
+                    "prof": "Rog\u00e9rio Reis"
+                }
+            ],
+            "nome": "Computabilidade e Complexidade",
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Computabilidade e Complexidade",
+                    "sigla": "CC3004",
+                    "tipo": "T",
+                    "turma": "CC3004_T",
+                    "turmac": "CC3004_T",
+                    "duracao": "2",
+                    "sala": "FC6029",
+                    "profsig": "RVLSR",
+                    "prof": "Rog\u00e9rio Reis"
+                },
+                {
+                    "dia": 2,
+                    "hora": 12,
+                    "nome": "Computabilidade e Complexidade",
+                    "sigla": "CC3004",
+                    "tipo": "T",
+                    "turma": "CC3004_T",
+                    "turmac": "CC3004_T",
+                    "duracao": "2",
+                    "sala": "FC6029",
+                    "profsig": "RVLSR",
+                    "prof": "Rog\u00e9rio Reis"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,737 @@
+{
+    "1\u00ba Ano": {
+        "HESEC2": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Hist\u00f3ria Econ\u00f3mica e Social na \u00c9poca Contempor\u00e2nea",
+                    "sigla": "HESEC2",
+                    "tipo": "TP",
+                    "turma": "1LSOCI01",
+                    "turmac": "1LSOCI01",
+                    "duracao": "4",
+                    "sala": "G208",
+                    "profsig": "GMMP",
+                    "prof": "Gaspar Pereira"
+                },
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "Hist\u00f3ria Econ\u00f3mica e Social na \u00c9poca Contempor\u00e2nea",
+                    "sigla": "HESEC2",
+                    "tipo": "TP",
+                    "turma": "1LSOCI01",
+                    "turmac": "1LSOCI01",
+                    "duracao": "2",
+                    "sala": "G103",
+                    "profsig": "GMMP",
+                    "prof": "Gaspar Pereira"
+                }
+            ],
+            "nome": "Hist\u00f3ria Econ\u00f3mica e Social na \u00c9poca Contempor\u00e2nea",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 16.5,
+                    "nome": "Hist\u00f3ria Econ\u00f3mica e Social na \u00c9poca Contempor\u00e2nea",
+                    "sigla": "HESEC2",
+                    "tipo": "OT",
+                    "turma": "1LSOCI01",
+                    "turmac": "1LSOCI01",
+                    "duracao": "2",
+                    "sala": "G103",
+                    "profsig": "GMMP",
+                    "prof": "Gaspar Pereira"
+                }
+            ]
+        },
+        "CIIND": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 8.5,
+                    "nome": "Cultura, Intera\u00e7\u00e3o e Indiv\u00edduo",
+                    "sigla": "CIIND",
+                    "tipo": "TP",
+                    "turma": "1LSOCI01",
+                    "turmac": "1LSOCI01",
+                    "duracao": "4",
+                    "sala": "306.A\/B",
+                    "profsig": "LSAPF",
+                    "prof": "Ligia Ferro"
+                },
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Cultura, Intera\u00e7\u00e3o e Indiv\u00edduo",
+                    "sigla": "CIIND",
+                    "tipo": "TP",
+                    "turma": "1LSOCI01",
+                    "turmac": "1LSOCI01",
+                    "duracao": "2",
+                    "sala": "306.A\/B",
+                    "profsig": "LSAPF",
+                    "prof": "Ligia Ferro"
+                }
+            ],
+            "nome": "Cultura, Intera\u00e7\u00e3o e Indiv\u00edduo",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 9.5,
+                    "nome": "Cultura, Intera\u00e7\u00e3o e Indiv\u00edduo",
+                    "sigla": "CIIND",
+                    "tipo": "OT",
+                    "turma": "1LSOCI01",
+                    "turmac": "1LSOCI01",
+                    "duracao": "2",
+                    "sala": "306.A\/B",
+                    "profsig": "LSAPF",
+                    "prof": "Ligia Ferro"
+                }
+            ]
+        },
+        "SGER2": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "Sociologia Geral II",
+                    "sigla": "SGER2",
+                    "tipo": "TP",
+                    "turma": "1LSOCI01",
+                    "turmac": "1LSOCI01",
+                    "duracao": "2",
+                    "sala": "G208",
+                    "profsig": "CMSG",
+                    "prof": "Carlos Manuel Gon\u00e7alves"
+                },
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "Sociologia Geral II",
+                    "sigla": "SGER2",
+                    "tipo": "TP",
+                    "turma": "1LSOCI01",
+                    "turmac": "1LSOCI01",
+                    "duracao": "4",
+                    "sala": "G208",
+                    "profsig": "CMSG",
+                    "prof": "Carlos Manuel Gon\u00e7alves"
+                }
+            ],
+            "nome": "Sociologia Geral II",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Sociologia Geral II",
+                    "sigla": "SGER2",
+                    "tipo": "OT",
+                    "turma": "1LSOCI01",
+                    "turmac": "1LSOCI01",
+                    "duracao": "2",
+                    "sala": "G208",
+                    "profsig": "CMSG",
+                    "prof": "Carlos Manuel Gon\u00e7alves"
+                }
+            ]
+        },
+        "ADQ1": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 10.5,
+                    "nome": "An\u00e1lise de Dados Quantitativos I",
+                    "sigla": "ADQ1",
+                    "tipo": "TP",
+                    "turma": "1LSOCI01",
+                    "turmac": "1LSOCI01",
+                    "duracao": "4",
+                    "sala": "G206.A",
+                    "profsig": "ACRSL_JMPA",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 10.5,
+                    "nome": "An\u00e1lise de Dados Quantitativos I",
+                    "sigla": "ADQ1",
+                    "tipo": "TP",
+                    "turma": "1LSOCI01",
+                    "turmac": "ADQ1_TP",
+                    "duracao": "4",
+                    "sala": "106.A\/B",
+                    "profsig": "ACRSL",
+                    "prof": "Alexandra Lopes"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10.5,
+                    "nome": "An\u00e1lise de Dados Quantitativos I",
+                    "sigla": "ADQ1",
+                    "tipo": "TP",
+                    "turma": "1LSOCI02",
+                    "turmac": "ADQ1_TP",
+                    "duracao": "4",
+                    "sala": "106.A\/B",
+                    "profsig": "ACRSL",
+                    "prof": "Alexandra Lopes"
+                },
+                {
+                    "dia": 4,
+                    "hora": 13.5,
+                    "nome": "An\u00e1lise de Dados Quantitativos I",
+                    "sigla": "ADQ1",
+                    "tipo": "TP",
+                    "turma": "1LSOCI02",
+                    "turmac": "1LSOCI02",
+                    "duracao": "4",
+                    "sala": "G206.A",
+                    "profsig": "RICL",
+                    "prof": "Rute Lemos"
+                }
+            ],
+            "nome": "An\u00e1lise de Dados Quantitativos I",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 12.5,
+                    "nome": "An\u00e1lise de Dados Quantitativos I",
+                    "sigla": "ADQ1",
+                    "tipo": "OT",
+                    "turma": "1LSOCI01",
+                    "turmac": "ADQ1_OT",
+                    "duracao": "2",
+                    "sala": "106.A\/B",
+                    "profsig": "ACRSL",
+                    "prof": "Alexandra Lopes"
+                },
+                {
+                    "dia": 5,
+                    "hora": 12.5,
+                    "nome": "An\u00e1lise de Dados Quantitativos I",
+                    "sigla": "ADQ1",
+                    "tipo": "OT",
+                    "turma": "1LSOCI02",
+                    "turmac": "ADQ1_OT",
+                    "duracao": "2",
+                    "sala": "106.A\/B",
+                    "profsig": "ACRSL",
+                    "prof": "Alexandra Lopes"
+                }
+            ]
+        },
+        "TSOC2": {
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 12.5,
+                    "nome": "Teorias Sociol\u00f3gicas II",
+                    "sigla": "TSOC2",
+                    "tipo": "OT",
+                    "turma": "1LSOCI01",
+                    "turmac": "1LSOCI01",
+                    "duracao": "2",
+                    "sala": "G104",
+                    "profsig": "CCRP_LSAPF",
+                    "prof": null
+                }
+            ],
+            "nome": "Teorias Sociol\u00f3gicas II",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "Teorias Sociol\u00f3gicas II",
+                    "sigla": "TSOC2",
+                    "tipo": "TP",
+                    "turma": "1LSOCI01",
+                    "turmac": "1LSOCI01",
+                    "duracao": "4",
+                    "sala": "G104",
+                    "profsig": "CCRP_LSAPF",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Teorias Sociol\u00f3gicas II",
+                    "sigla": "TSOC2",
+                    "tipo": "TP",
+                    "turma": "1LSOCI01",
+                    "turmac": "1LSOCI01",
+                    "duracao": "4",
+                    "sala": "G104",
+                    "profsig": "CCRP_LSAPF",
+                    "prof": null
+                }
+            ]
+        }
+    },
+    "2\u00ba Ano": {
+        "SCMOB2": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 8.5,
+                    "nome": "Sociologia das Classes e da Mobilidade II",
+                    "sigla": "SCMOB2",
+                    "tipo": "TP",
+                    "turma": "2LSOCI01 ",
+                    "turmac": "2LSOCI01",
+                    "duracao": "4",
+                    "sala": "G308",
+                    "profsig": "LSAPF",
+                    "prof": "Ligia Ferro"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10.5,
+                    "nome": "Sociologia das Classes e da Mobilidade II",
+                    "sigla": "SCMOB2",
+                    "tipo": "TP",
+                    "turma": "2LSOCI01 ",
+                    "turmac": "2LSOCI01",
+                    "duracao": "2",
+                    "sala": "G102",
+                    "profsig": "LSAPF",
+                    "prof": "Ligia Ferro"
+                }
+            ],
+            "nome": "Sociologia das Classes e da Mobilidade II",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 11.5,
+                    "nome": "Sociologia das Classes e da Mobilidade II",
+                    "sigla": "SCMOB2",
+                    "tipo": "OT",
+                    "turma": "2LSOCI01 ",
+                    "turmac": "2LSOCI01",
+                    "duracao": "2",
+                    "sala": "G102",
+                    "profsig": "LSAPF",
+                    "prof": "Ligia Ferro"
+                }
+            ]
+        },
+        "ADQ3": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 8.5,
+                    "nome": "An\u00e1lise de Dados Quantitativos III",
+                    "sigla": "ADQ3",
+                    "tipo": "TP",
+                    "turma": "2LSOCI01 ",
+                    "turmac": "2LSOCI01",
+                    "duracao": "4",
+                    "sala": "206.A\/B",
+                    "profsig": "ACRSL",
+                    "prof": "Alexandra Lopes"
+                },
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "An\u00e1lise de Dados Quantitativos III",
+                    "sigla": "ADQ3",
+                    "tipo": "TP",
+                    "turma": "2LSOCI01 ",
+                    "turmac": "2LSOCI01",
+                    "duracao": "2",
+                    "sala": "G102",
+                    "profsig": "ACRSL",
+                    "prof": "Alexandra Lopes"
+                }
+            ],
+            "nome": "An\u00e1lise de Dados Quantitativos III",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 9.5,
+                    "nome": "An\u00e1lise de Dados Quantitativos III",
+                    "sigla": "ADQ3",
+                    "tipo": "OT",
+                    "turma": "2LSOCI01 ",
+                    "turmac": "2LSOCI01",
+                    "duracao": "2",
+                    "sala": "G102",
+                    "profsig": "ACRSL",
+                    "prof": "Alexandra Lopes"
+                }
+            ]
+        },
+        "MTIS2": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 10.5,
+                    "nome": "M\u00e9todos e T\u00e9cnicas de Investiga\u00e7\u00e3o Sociol\u00f3gica II",
+                    "sigla": "MTIS2",
+                    "tipo": "TP",
+                    "turma": "2LSOCI01 ",
+                    "turmac": "2LSOCI01",
+                    "duracao": "2",
+                    "sala": "G308",
+                    "profsig": "ACRSL",
+                    "prof": "Alexandra Lopes"
+                },
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "M\u00e9todos e T\u00e9cnicas de Investiga\u00e7\u00e3o Sociol\u00f3gica II",
+                    "sigla": "MTIS2",
+                    "tipo": "TP",
+                    "turma": "2LSOCI01 ",
+                    "turmac": "2LSOCI01",
+                    "duracao": "4",
+                    "sala": "G308",
+                    "profsig": "ACRSL",
+                    "prof": "Alexandra Lopes"
+                }
+            ],
+            "nome": "M\u00e9todos e T\u00e9cnicas de Investiga\u00e7\u00e3o Sociol\u00f3gica II",
+            "OT": [
+                {
+                    "dia": 1,
+                    "hora": 11.5,
+                    "nome": "M\u00e9todos e T\u00e9cnicas de Investiga\u00e7\u00e3o Sociol\u00f3gica II",
+                    "sigla": "MTIS2",
+                    "tipo": "OT",
+                    "turma": "2LSOCI01 ",
+                    "turmac": "2LSOCI01",
+                    "duracao": "2",
+                    "sala": "G308",
+                    "profsig": "ACRSL",
+                    "prof": "Alexandra Lopes"
+                }
+            ]
+        },
+        "SPPOL": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 13.5,
+                    "nome": "Sociologia do Poder Pol\u00edtico",
+                    "sigla": "SPPOL",
+                    "tipo": "TP",
+                    "turma": "2LSOCI01 ",
+                    "turmac": "2LSOCI01",
+                    "duracao": "2",
+                    "sala": "G103",
+                    "profsig": "JVBP",
+                    "prof": "Virg\u00edlio Borges Pereira"
+                }
+            ],
+            "nome": "Sociologia do Poder Pol\u00edtico",
+            "OT": [
+                {
+                    "dia": 1,
+                    "hora": 14.5,
+                    "nome": "Sociologia do Poder Pol\u00edtico",
+                    "sigla": "SPPOL",
+                    "tipo": "OT",
+                    "turma": "2LSOCI01 ",
+                    "turmac": "2LSOCI01",
+                    "duracao": "2",
+                    "sala": "G103",
+                    "profsig": "JVBP",
+                    "prof": "Virg\u00edlio Borges Pereira"
+                },
+                {
+                    "dia": 3,
+                    "hora": 15.5,
+                    "nome": "Sociologia do Poder Pol\u00edtico",
+                    "sigla": "SPPOL",
+                    "tipo": "OT",
+                    "turma": "2LSOCI01 ",
+                    "turmac": "2LSOCI01",
+                    "duracao": "4",
+                    "sala": "G304",
+                    "profsig": "JVBP",
+                    "prof": "Virg\u00edlio Borges Pereira"
+                }
+            ]
+        },
+        "CASOC2": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "Correntes Atuais da Sociologia II",
+                    "sigla": "CASOC2",
+                    "tipo": "TP",
+                    "turma": "2LSOCI01 ",
+                    "turmac": "2LSOCI01",
+                    "duracao": "4",
+                    "sala": "G202",
+                    "profsig": "JMTVTL_JVBP",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Correntes Atuais da Sociologia II",
+                    "sigla": "CASOC2",
+                    "tipo": "TP",
+                    "turma": "2LSOCI01 ",
+                    "turmac": "2LSOCI01",
+                    "duracao": "2",
+                    "sala": "G303",
+                    "profsig": "JMTVTL_JVBP",
+                    "prof": null
+                }
+            ],
+            "nome": "Correntes Atuais da Sociologia II",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 14.5,
+                    "nome": "Correntes Atuais da Sociologia II",
+                    "sigla": "CASOC2",
+                    "tipo": "OT",
+                    "turma": "2LSOCI01 ",
+                    "turmac": "2LSOCI01",
+                    "duracao": "2",
+                    "sala": "G303",
+                    "profsig": "JMTVTL_JVBP",
+                    "prof": null
+                }
+            ]
+        }
+    },
+    "3\u00ba Ano": {
+        "AC": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "Antropologia Social e Cultural",
+                    "sigla": "AC",
+                    "tipo": "TP",
+                    "turma": "3LSOCI_OP01",
+                    "turmac": "3LSOCI_OP01",
+                    "duracao": "2",
+                    "sala": "G309",
+                    "profsig": "MADS",
+                    "prof": "Alice Duarte"
+                },
+                {
+                    "dia": 3,
+                    "hora": 10.5,
+                    "nome": "Antropologia Social e Cultural",
+                    "sigla": "AC",
+                    "tipo": "TP",
+                    "turma": "3LSOCI_OP01",
+                    "turmac": "3LSOCI_OP01",
+                    "duracao": "4",
+                    "sala": "G109",
+                    "profsig": "MADS",
+                    "prof": "Alice Duarte"
+                }
+            ],
+            "nome": "Antropologia Social e Cultural",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Antropologia Social e Cultural",
+                    "sigla": "AC",
+                    "tipo": "OT",
+                    "turma": "3LSOCI_OP01",
+                    "turmac": "3LSOCI_OP01",
+                    "duracao": "2",
+                    "sala": "G309",
+                    "profsig": "MADS",
+                    "prof": "Alice Duarte"
+                }
+            ]
+        },
+        "SCM": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 10.5,
+                    "nome": "Sociologia da Comunica\u00e7\u00e3o e dos Media",
+                    "sigla": "SCM",
+                    "tipo": "TP",
+                    "turma": "3LSOCI_OP01",
+                    "turmac": "3LSOCI_OP01",
+                    "duracao": "4",
+                    "sala": "G301",
+                    "profsig": "JMPA",
+                    "prof": "Jos\u00e9 Manuel Azevedo"
+                },
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "Sociologia da Comunica\u00e7\u00e3o e dos Media",
+                    "sigla": "SCM",
+                    "tipo": "TP",
+                    "turma": "3LSOCI_OP01",
+                    "turmac": "3LSOCI_OP01",
+                    "duracao": "2",
+                    "sala": "G311",
+                    "profsig": "JMPA",
+                    "prof": "Jos\u00e9 Manuel Azevedo"
+                }
+            ],
+            "nome": "Sociologia da Comunica\u00e7\u00e3o e dos Media",
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 14.5,
+                    "nome": "Sociologia da Comunica\u00e7\u00e3o e dos Media",
+                    "sigla": "SCM",
+                    "tipo": "OT",
+                    "turma": "3LSOCI_OP01",
+                    "turmac": "3LSOCI_OP01",
+                    "duracao": "2",
+                    "sala": "G311",
+                    "profsig": "JMPA",
+                    "prof": "Jos\u00e9 Manuel Azevedo"
+                }
+            ]
+        },
+        "STRAB": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Sociologia do Trabalho",
+                    "sigla": "STRAB",
+                    "tipo": "TP",
+                    "turma": "3LSOCI01 ",
+                    "turmac": "3LSOCI01",
+                    "duracao": "4",
+                    "sala": "G310",
+                    "profsig": "CMSG",
+                    "prof": "Carlos Manuel Gon\u00e7alves"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10.5,
+                    "nome": "Sociologia do Trabalho",
+                    "sigla": "STRAB",
+                    "tipo": "TP",
+                    "turma": "3LSOCI01 ",
+                    "turmac": "3LSOCI01",
+                    "duracao": "2",
+                    "sala": "G302",
+                    "profsig": "CMSG",
+                    "prof": "Carlos Manuel Gon\u00e7alves"
+                }
+            ],
+            "nome": "Sociologia do Trabalho",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 11.5,
+                    "nome": "Sociologia do Trabalho",
+                    "sigla": "STRAB",
+                    "tipo": "OT",
+                    "turma": "3LSOCI01 ",
+                    "turmac": "3LSOCI01",
+                    "duracao": "2",
+                    "sala": "G302",
+                    "profsig": "CMSG",
+                    "prof": "Carlos Manuel Gon\u00e7alves"
+                }
+            ]
+        },
+        "SCID": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Sociologia da Cidade",
+                    "sigla": "SCID",
+                    "tipo": "TP",
+                    "turma": "3LSOCI01 ",
+                    "turmac": "3LSOCI01",
+                    "duracao": "2",
+                    "sala": "G304",
+                    "profsig": "HCRV",
+                    "prof": "Helena Vila\u00e7a"
+                },
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "Sociologia da Cidade",
+                    "sigla": "SCID",
+                    "tipo": "TP",
+                    "turma": "3LSOCI01 ",
+                    "turmac": "3LSOCI01",
+                    "duracao": "4",
+                    "sala": "G301",
+                    "profsig": "HCRV",
+                    "prof": "Helena Vila\u00e7a"
+                }
+            ],
+            "nome": "Sociologia da Cidade",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 14.5,
+                    "nome": "Sociologia da Cidade",
+                    "sigla": "SCID",
+                    "tipo": "OT",
+                    "turma": "3LSOCI01 ",
+                    "turmac": "3LSOCI01",
+                    "duracao": "2",
+                    "sala": "G304",
+                    "profsig": "HCRV",
+                    "prof": "Helena Vila\u00e7a"
+                }
+            ]
+        },
+        "SCULT": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 13.5,
+                    "nome": "Sociologia da Cultura",
+                    "sigla": "SCULT",
+                    "tipo": "TP",
+                    "turma": "3LSOCI01 ",
+                    "turmac": "3LSOCI01",
+                    "duracao": "4",
+                    "sala": "G304",
+                    "profsig": "JMTVTL_NMAC",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Sociologia da Cultura",
+                    "sigla": "SCULT",
+                    "tipo": "TP",
+                    "turma": "3LSOCI01 ",
+                    "turmac": "3LSOCI01",
+                    "duracao": "2",
+                    "sala": "G103",
+                    "profsig": "JMTVTL_NMAC",
+                    "prof": null
+                }
+            ],
+            "nome": "Sociologia da Cultura",
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 16.5,
+                    "nome": "Sociologia da Cultura",
+                    "sigla": "SCULT",
+                    "tipo": "OT",
+                    "turma": "3LSOCI01 ",
+                    "turmac": "3LSOCI01",
+                    "duracao": "2",
+                    "sala": "G103",
+                    "profsig": "JMTVTL_NMAC",
+                    "prof": null
+                }
+            ]
+        }
+    }
+}

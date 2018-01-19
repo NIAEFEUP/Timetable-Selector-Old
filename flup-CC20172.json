@@ -1,0 +1,1387 @@
+{
+    "1\u00ba Ano": {
+        "HCPORT": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "Hist\u00f3ria Contempor\u00e2nea de Portugal",
+                    "sigla": "HCPORT",
+                    "tipo": "TP",
+                    "turma": "1LCC01",
+                    "turmac": "1LCC01",
+                    "duracao": "3",
+                    "sala": "GA1",
+                    "profsig": "MVSLL",
+                    "prof": "Manuel Loff"
+                }
+            ],
+            "nome": "Hist\u00f3ria Contempor\u00e2nea de Portugal",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "Hist\u00f3ria Contempor\u00e2nea de Portugal",
+                    "sigla": "HCPORT",
+                    "tipo": "OT",
+                    "turma": "1LCC01",
+                    "turmac": "1LCC01",
+                    "duracao": "1",
+                    "sala": "GA1",
+                    "profsig": "MVSLL",
+                    "prof": "Manuel Loff"
+                }
+            ]
+        },
+        "DCVIS": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Design e Comunica\u00e7\u00e3o Visual",
+                    "sigla": "DCVIS",
+                    "tipo": "TP",
+                    "turma": "1LCC01",
+                    "turmac": "1LCC01",
+                    "duracao": "6",
+                    "sala": "sala_206",
+                    "profsig": "EDC",
+                    "prof": "Em\u00edlia Dias Costa"
+                },
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Design e Comunica\u00e7\u00e3o Visual",
+                    "sigla": "DCVIS",
+                    "tipo": "TP",
+                    "turma": "1LCC02",
+                    "turmac": "1LCC02",
+                    "duracao": "6",
+                    "sala": "sala_205",
+                    "profsig": "CMSPFF",
+                    "prof": "Cristina Ferreira"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Design e Comunica\u00e7\u00e3o Visual",
+                    "sigla": "DCVIS",
+                    "tipo": "TP",
+                    "turma": "1LCC03",
+                    "turmac": "1LCC03",
+                    "duracao": "6",
+                    "sala": "sala_206",
+                    "profsig": "EDC",
+                    "prof": "Em\u00edlia Dias Costa"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Design e Comunica\u00e7\u00e3o Visual",
+                    "sigla": "DCVIS",
+                    "tipo": "TP",
+                    "turma": "1LCC04",
+                    "turmac": "1LCC04",
+                    "duracao": "6",
+                    "sala": "sala_205",
+                    "profsig": "BSG",
+                    "prof": "Bruno Giesteira"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Design e Comunica\u00e7\u00e3o Visual",
+                    "sigla": "DCVIS",
+                    "tipo": "TP",
+                    "turma": "1LCC05",
+                    "turmac": "1LCC05",
+                    "duracao": "6",
+                    "sala": "sala_205",
+                    "profsig": "CMSPFF",
+                    "prof": "Cristina Ferreira"
+                }
+            ],
+            "nome": "Design e Comunica\u00e7\u00e3o Visual",
+            "OT": [
+                {
+                    "dia": 1,
+                    "hora": 12,
+                    "nome": "Design e Comunica\u00e7\u00e3o Visual",
+                    "sigla": "DCVIS",
+                    "tipo": "OT",
+                    "turma": "1LCC01",
+                    "turmac": "1LCC01",
+                    "duracao": "1",
+                    "sala": "sala_206",
+                    "profsig": "EDC",
+                    "prof": "Em\u00edlia Dias Costa"
+                },
+                {
+                    "dia": 1,
+                    "hora": 12,
+                    "nome": "Design e Comunica\u00e7\u00e3o Visual",
+                    "sigla": "DCVIS",
+                    "tipo": "OT",
+                    "turma": "1LCC02",
+                    "turmac": "1LCC02",
+                    "duracao": "1",
+                    "sala": "sala_205",
+                    "profsig": "BSG",
+                    "prof": "Bruno Giesteira"
+                },
+                {
+                    "dia": 3,
+                    "hora": 12,
+                    "nome": "Design e Comunica\u00e7\u00e3o Visual",
+                    "sigla": "DCVIS",
+                    "tipo": "OT",
+                    "turma": "1LCC03",
+                    "turmac": "1LCC03",
+                    "duracao": "1",
+                    "sala": "sala_206",
+                    "profsig": "EDC",
+                    "prof": "Em\u00edlia Dias Costa"
+                },
+                {
+                    "dia": 3,
+                    "hora": 17,
+                    "nome": "Design e Comunica\u00e7\u00e3o Visual",
+                    "sigla": "DCVIS",
+                    "tipo": "OT",
+                    "turma": "1LCC04",
+                    "turmac": "1LCC04",
+                    "duracao": "1",
+                    "sala": "sala_205",
+                    "profsig": "BSG",
+                    "prof": "Bruno Giesteira"
+                },
+                {
+                    "dia": 3,
+                    "hora": 12,
+                    "nome": "Design e Comunica\u00e7\u00e3o Visual",
+                    "sigla": "DCVIS",
+                    "tipo": "OT",
+                    "turma": "1LCC05",
+                    "turmac": "1LCC05",
+                    "duracao": "1",
+                    "sala": "sala_205",
+                    "profsig": "CMSPFF",
+                    "prof": "Cristina Ferreira"
+                }
+            ]
+        },
+        "TEJ_A": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica I- Audiovisual",
+                    "sigla": "TEJ_A",
+                    "tipo": "TP",
+                    "turma": "1LCC01",
+                    "turmac": "1LCC01",
+                    "duracao": "3",
+                    "sala": "sala_204",
+                    "profsig": "AICMR",
+                    "prof": "Ana Isabel Reis"
+                },
+                {
+                    "dia": 3,
+                    "hora": 10.5,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica I- Audiovisual",
+                    "sigla": "TEJ_A",
+                    "tipo": "TP",
+                    "turma": "1LCC01",
+                    "turmac": "1LCC01",
+                    "duracao": "3",
+                    "sala": "sala_105",
+                    "profsig": "HLDL",
+                    "prof": "Helena Lima"
+                },
+                {
+                    "dia": 3,
+                    "hora": 12,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica I- Audiovisual",
+                    "sigla": "TEJ_A",
+                    "tipo": "TP",
+                    "turma": "1LCC01",
+                    "turmac": "1LCC01",
+                    "duracao": "1",
+                    "sala": "sala_105",
+                    "profsig": "AICMR_HLDL",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica I- Audiovisual",
+                    "sigla": "TEJ_A",
+                    "tipo": "TP",
+                    "turma": "1LCC02",
+                    "turmac": "1LCC02",
+                    "duracao": "3",
+                    "sala": "sala_206",
+                    "profsig": "AICMR",
+                    "prof": "Ana Isabel Reis"
+                },
+                {
+                    "dia": 3,
+                    "hora": 15.5,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica I- Audiovisual",
+                    "sigla": "TEJ_A",
+                    "tipo": "TP",
+                    "turma": "1LCC02",
+                    "turmac": "1LCC02",
+                    "duracao": "3",
+                    "sala": "sala_105",
+                    "profsig": "HLDL",
+                    "prof": "Helena Lima"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica I- Audiovisual",
+                    "sigla": "TEJ_A",
+                    "tipo": "TP",
+                    "turma": "1LCC03",
+                    "turmac": "1LCC03",
+                    "duracao": "3",
+                    "sala": "sala_105",
+                    "profsig": "HLDL",
+                    "prof": "Helena Lima"
+                },
+                {
+                    "dia": 3,
+                    "hora": 15.5,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica I- Audiovisual",
+                    "sigla": "TEJ_A",
+                    "tipo": "TP",
+                    "turma": "1LCC03",
+                    "turmac": "1LCC03",
+                    "duracao": "3",
+                    "sala": "sala_206",
+                    "profsig": "AICMR",
+                    "prof": "Ana Isabel Reis"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica I- Audiovisual",
+                    "sigla": "TEJ_A",
+                    "tipo": "TP",
+                    "turma": "1LCC04",
+                    "turmac": "1LCC04",
+                    "duracao": "3",
+                    "sala": "sala_206",
+                    "profsig": "AICMR",
+                    "prof": "Ana Isabel Reis"
+                },
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica I- Audiovisual",
+                    "sigla": "TEJ_A",
+                    "tipo": "TP",
+                    "turma": "1LCC04",
+                    "turmac": "1LCC04",
+                    "duracao": "3",
+                    "sala": "sala_105",
+                    "profsig": "HLDL",
+                    "prof": "Helena Lima"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica I- Audiovisual",
+                    "sigla": "TEJ_A",
+                    "tipo": "TP",
+                    "turma": "1LCC05",
+                    "turmac": "1LCC05",
+                    "duracao": "3",
+                    "sala": "sala_105",
+                    "profsig": "HLDL",
+                    "prof": "Helena Lima"
+                },
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica I- Audiovisual",
+                    "sigla": "TEJ_A",
+                    "tipo": "TP",
+                    "turma": "1LCC05",
+                    "turmac": "1LCC05",
+                    "duracao": "3",
+                    "sala": "sala_206",
+                    "profsig": "AICMR",
+                    "prof": "Ana Isabel Reis"
+                },
+                {
+                    "dia": 1,
+                    "hora": 17,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica I- Audiovisual",
+                    "sigla": "TEJ_A",
+                    "tipo": "TP",
+                    "turma": "1LCC05",
+                    "turmac": "1LCC05",
+                    "duracao": "1",
+                    "sala": "sala_206",
+                    "profsig": "AICMR_HLDL",
+                    "prof": null
+                }
+            ],
+            "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica I- Audiovisual",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 17,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica I- Audiovisual",
+                    "sigla": "TEJ_A",
+                    "tipo": "OT",
+                    "turma": "1LCC02",
+                    "turmac": "1LCC02",
+                    "duracao": "1",
+                    "sala": "sala_105",
+                    "profsig": "AICMR_HLDL",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 17,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica I- Audiovisual",
+                    "sigla": "TEJ_A",
+                    "tipo": "OT",
+                    "turma": "1LCC03",
+                    "turmac": "1LCC03",
+                    "duracao": "1",
+                    "sala": "sala_206",
+                    "profsig": "AICMR_HLDL",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 17,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica I- Audiovisual",
+                    "sigla": "TEJ_A",
+                    "tipo": "OT",
+                    "turma": "1LCC04",
+                    "turmac": "1LCC04",
+                    "duracao": "1",
+                    "sala": "sala_105",
+                    "profsig": "AICMR_HLDL",
+                    "prof": null
+                }
+            ]
+        },
+        "IECON": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Economia",
+                    "sigla": "IECON",
+                    "tipo": "TP",
+                    "turma": "1LCC01",
+                    "turmac": "1LCC01",
+                    "duracao": "6",
+                    "sala": "G303",
+                    "profsig": "CS",
+                    "prof": "Clementina Santos"
+                }
+            ],
+            "nome": "Introdu\u00e7\u00e3o \u00e0 Economia",
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 16.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Economia",
+                    "sigla": "IECON",
+                    "tipo": "OT",
+                    "turma": "1LCC02",
+                    "turmac": "1LCC02",
+                    "duracao": "1",
+                    "sala": "G303",
+                    "profsig": "CS",
+                    "prof": "Clementina Santos"
+                }
+            ]
+        },
+        "CE_CC": {
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 12,
+                    "nome": "Comunica\u00e7\u00e3o Empresarial",
+                    "sigla": "CE_CC",
+                    "tipo": "OT",
+                    "turma": "1LCC01",
+                    "turmac": "1LCC01",
+                    "duracao": "1",
+                    "sala": "G202",
+                    "profsig": "AMPCB",
+                    "prof": "Am\u00e9lia Brand\u00e3o"
+                },
+                {
+                    "dia": 4,
+                    "hora": 15,
+                    "nome": "Comunica\u00e7\u00e3o Empresarial",
+                    "sigla": "CE_CC",
+                    "tipo": "OT",
+                    "turma": "1LCC02",
+                    "turmac": "1LCC02",
+                    "duracao": "1",
+                    "sala": "G202",
+                    "profsig": "AMPCB",
+                    "prof": "Am\u00e9lia Brand\u00e3o"
+                }
+            ],
+            "nome": "Comunica\u00e7\u00e3o Empresarial",
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 13.5,
+                    "nome": "Comunica\u00e7\u00e3o Empresarial",
+                    "sigla": "CE_CC",
+                    "tipo": "TP",
+                    "turma": "1LCC02",
+                    "turmac": "1LCC02",
+                    "duracao": "3",
+                    "sala": "G202",
+                    "profsig": "AMPCB",
+                    "prof": "Am\u00e9lia Brand\u00e3o"
+                }
+            ]
+        },
+        "TEJ_O": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica I- Online",
+                    "sigla": "TEJ_O",
+                    "tipo": "TP",
+                    "turma": "1LCC01",
+                    "turmac": "1LCC01",
+                    "duracao": "3",
+                    "sala": "G204",
+                    "profsig": "FADZS",
+                    "prof": "Fernando Zamith"
+                },
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica I- Online",
+                    "sigla": "TEJ_O",
+                    "tipo": "TP",
+                    "turma": "1LCC02",
+                    "turmac": "1LCC02",
+                    "duracao": "3",
+                    "sala": "G204",
+                    "profsig": "FADZS",
+                    "prof": "Fernando Zamith"
+                },
+                {
+                    "dia": 2,
+                    "hora": 17.5,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica I- Online",
+                    "sigla": "TEJ_O",
+                    "tipo": "TP",
+                    "turma": "1LCC03",
+                    "turmac": "1LCC03",
+                    "duracao": "3",
+                    "sala": "G204",
+                    "profsig": "FADZS",
+                    "prof": "Fernando Zamith"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10.5,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica I- Online",
+                    "sigla": "TEJ_O",
+                    "tipo": "TP",
+                    "turma": "1LCC04",
+                    "turmac": "1LCC04",
+                    "duracao": "3",
+                    "sala": "G204",
+                    "profsig": "FADZS",
+                    "prof": "Fernando Zamith"
+                },
+                {
+                    "dia": 5,
+                    "hora": 13.5,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica I- Online",
+                    "sigla": "TEJ_O",
+                    "tipo": "TP",
+                    "turma": "1LCC05",
+                    "turmac": "1LCC05",
+                    "duracao": "3",
+                    "sala": "G204",
+                    "profsig": "FADZS",
+                    "prof": "Fernando Zamith"
+                }
+            ],
+            "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica I- Online",
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 15,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica I- Online",
+                    "sigla": "TEJ_O",
+                    "tipo": "OT",
+                    "turma": "1LCC01",
+                    "turmac": "1LCC01",
+                    "duracao": "1",
+                    "sala": "G204",
+                    "profsig": "FADZS",
+                    "prof": "Fernando Zamith"
+                },
+                {
+                    "dia": 2,
+                    "hora": 17,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica I- Online",
+                    "sigla": "TEJ_O",
+                    "tipo": "OT",
+                    "turma": "1LCC02",
+                    "turmac": "1LCC02",
+                    "duracao": "1",
+                    "sala": "G204",
+                    "profsig": "FADZS",
+                    "prof": "Fernando Zamith"
+                },
+                {
+                    "dia": 2,
+                    "hora": 19,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica I- Online",
+                    "sigla": "TEJ_O",
+                    "tipo": "OT",
+                    "turma": "1LCC03",
+                    "turmac": "1LCC03",
+                    "duracao": "1",
+                    "sala": "G204",
+                    "profsig": "FADZS",
+                    "prof": "Fernando Zamith"
+                },
+                {
+                    "dia": 5,
+                    "hora": 12,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica I- Online",
+                    "sigla": "TEJ_O",
+                    "tipo": "OT",
+                    "turma": "1LCC04",
+                    "turmac": "1LCC04",
+                    "duracao": "1",
+                    "sala": "G204",
+                    "profsig": "FADZS",
+                    "prof": "Fernando Zamith"
+                },
+                {
+                    "dia": 5,
+                    "hora": 15,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica I- Online",
+                    "sigla": "TEJ_O",
+                    "tipo": "OT",
+                    "turma": "1LCC05",
+                    "turmac": "1LCC05",
+                    "duracao": "1",
+                    "sala": "G204",
+                    "profsig": "FADZS",
+                    "prof": "Fernando Zamith"
+                }
+            ]
+        },
+        "TEJ_I": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 13.5,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica I- Imprensa",
+                    "sigla": "TEJ_I",
+                    "tipo": "TP",
+                    "turma": "1LCC03",
+                    "turmac": "1LCC03",
+                    "duracao": "3",
+                    "sala": "G408",
+                    "profsig": "HMFB",
+                    "prof": "Helder Bastos"
+                },
+                {
+                    "dia": 5,
+                    "hora": 15.5,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica I- Imprensa",
+                    "sigla": "TEJ_I",
+                    "tipo": "TP",
+                    "turma": "1LCC04",
+                    "turmac": "1LCC04",
+                    "duracao": "3",
+                    "sala": "G408",
+                    "profsig": "HMFB",
+                    "prof": "Helder Bastos"
+                }
+            ],
+            "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica I- Imprensa",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 15,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica I- Imprensa",
+                    "sigla": "TEJ_I",
+                    "tipo": "OT",
+                    "turma": "1LCC03",
+                    "turmac": "1LCC03",
+                    "duracao": "1",
+                    "sala": "G408",
+                    "profsig": "HMFB",
+                    "prof": "Helder Bastos"
+                },
+                {
+                    "dia": 5,
+                    "hora": 17,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica I- Imprensa",
+                    "sigla": "TEJ_I",
+                    "tipo": "OT",
+                    "turma": "1LCC04",
+                    "turmac": "1LCC04",
+                    "duracao": "1",
+                    "sala": "G408",
+                    "profsig": "HMFB",
+                    "prof": "Helder Bastos"
+                }
+            ]
+        }
+    },
+    "2\u00ba Ano": {
+        "PSICOM": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Psicossociologia da Comunica\u00e7\u00e3o",
+                    "sigla": "PSICOM",
+                    "tipo": "TP",
+                    "turma": "2LCC_OP01",
+                    "turmac": "2LCC_OP01",
+                    "duracao": "6",
+                    "sala": "G308",
+                    "profsig": "JPMM",
+                    "prof": "Jorge Marinho"
+                }
+            ],
+            "nome": "Psicossociologia da Comunica\u00e7\u00e3o",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 12,
+                    "nome": "Psicossociologia da Comunica\u00e7\u00e3o",
+                    "sigla": "PSICOM",
+                    "tipo": "OT",
+                    "turma": "2LCC_OP01",
+                    "turmac": "2LCC_OP01",
+                    "duracao": "1",
+                    "sala": "G308",
+                    "profsig": "JPMM",
+                    "prof": "Jorge Marinho"
+                }
+            ]
+        },
+        "RELINT": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 10.5,
+                    "nome": "Rela\u00e7\u00f5es Internacionais",
+                    "sigla": "RELINT",
+                    "tipo": "TP",
+                    "turma": "2LCC_OP01",
+                    "turmac": "2LCC_OP01",
+                    "duracao": "6",
+                    "sala": "G402",
+                    "profsig": "TMRCG",
+                    "prof": "Teresa Gomes"
+                }
+            ],
+            "nome": "Rela\u00e7\u00f5es Internacionais",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 13.5,
+                    "nome": "Rela\u00e7\u00f5es Internacionais",
+                    "sigla": "RELINT",
+                    "tipo": "OT",
+                    "turma": "2LCC_OP01",
+                    "turmac": "2LCC_OP01",
+                    "duracao": "1",
+                    "sala": "G402",
+                    "profsig": "TMRCG",
+                    "prof": "Teresa Gomes"
+                }
+            ]
+        },
+        "PUBAUD": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 15,
+                    "nome": "P\u00fablicos e Audi\u00eancias",
+                    "sigla": "PUBAUD",
+                    "tipo": "TP",
+                    "turma": "2LCC_OP01",
+                    "turmac": "2LCC_OP01",
+                    "duracao": "6",
+                    "sala": "G402",
+                    "profsig": "JPMM",
+                    "prof": "Jorge Marinho"
+                }
+            ],
+            "nome": "P\u00fablicos e Audi\u00eancias",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 18,
+                    "nome": "P\u00fablicos e Audi\u00eancias",
+                    "sigla": "PUBAUD",
+                    "tipo": "OT",
+                    "turma": "2LCC_OP01",
+                    "turmac": "2LCC_OP01",
+                    "duracao": "1",
+                    "sala": "G402",
+                    "profsig": "JPMM",
+                    "prof": "Jorge Marinho"
+                }
+            ]
+        },
+        "TIMA": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 15.5,
+                    "nome": "Teoria da Imagem",
+                    "sigla": "TIMA",
+                    "tipo": "TP",
+                    "turma": "2LCC_OP01",
+                    "turmac": "2LCC_OP01",
+                    "duracao": "6",
+                    "sala": "G207",
+                    "profsig": "JAFR",
+                    "prof": "Jo\u00e3o Rangel"
+                }
+            ],
+            "nome": "Teoria da Imagem",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 18.5,
+                    "nome": "Teoria da Imagem",
+                    "sigla": "TIMA",
+                    "tipo": "OT",
+                    "turma": "2LCC_OP01",
+                    "turmac": "2LCC_OP01",
+                    "duracao": "1",
+                    "sala": "G207",
+                    "profsig": "JAFR",
+                    "prof": "Jo\u00e3o Rangel"
+                }
+            ]
+        },
+        "TEJ_A_II": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica II- Audiovisual",
+                    "sigla": "TEJ_A_II",
+                    "tipo": "TP",
+                    "turma": "2LCC01",
+                    "turmac": "2LCC01",
+                    "duracao": "3",
+                    "sala": "sala_105",
+                    "profsig": "SMCSC",
+                    "prof": "Sandra S\u00e1 Couto"
+                },
+                {
+                    "dia": 1,
+                    "hora": 10.5,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica II- Audiovisual",
+                    "sigla": "TEJ_A_II",
+                    "tipo": "TP",
+                    "turma": "2LCC01",
+                    "turmac": "2LCC01",
+                    "duracao": "3",
+                    "sala": "sala_204",
+                    "profsig": "AICMR",
+                    "prof": "Ana Isabel Reis"
+                },
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica II- Audiovisual",
+                    "sigla": "TEJ_A_II",
+                    "tipo": "TP",
+                    "turma": "2LCC02",
+                    "turmac": "2LCC02",
+                    "duracao": "3",
+                    "sala": "sala_204",
+                    "profsig": "AICMR",
+                    "prof": "Ana Isabel Reis"
+                },
+                {
+                    "dia": 1,
+                    "hora": 10.5,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica II- Audiovisual",
+                    "sigla": "TEJ_A_II",
+                    "tipo": "TP",
+                    "turma": "2LCC02",
+                    "turmac": "2LCC02",
+                    "duracao": "3",
+                    "sala": "sala_105",
+                    "profsig": "SMCSC",
+                    "prof": "Sandra S\u00e1 Couto"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica II- Audiovisual",
+                    "sigla": "TEJ_A_II",
+                    "tipo": "TP",
+                    "turma": "2LCC03",
+                    "turmac": "2LCC03",
+                    "duracao": "3",
+                    "sala": "sala_105",
+                    "profsig": "SMCSC",
+                    "prof": "Sandra S\u00e1 Couto"
+                },
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica II- Audiovisual",
+                    "sigla": "TEJ_A_II",
+                    "tipo": "TP",
+                    "turma": "2LCC03",
+                    "turmac": "2LCC03",
+                    "duracao": "3",
+                    "sala": "sala_204",
+                    "profsig": "AICMR",
+                    "prof": "Ana Isabel Reis"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica II- Audiovisual",
+                    "sigla": "TEJ_A_II",
+                    "tipo": "TP",
+                    "turma": "2LCC04",
+                    "turmac": "2LCC04",
+                    "duracao": "3",
+                    "sala": "sala_105",
+                    "profsig": "SMCSC",
+                    "prof": "Sandra S\u00e1 Couto"
+                },
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica II- Audiovisual",
+                    "sigla": "TEJ_A_II",
+                    "tipo": "TP",
+                    "turma": "2LCC04",
+                    "turmac": "2LCC04",
+                    "duracao": "3",
+                    "sala": "sala_204",
+                    "profsig": "AICMR",
+                    "prof": "Ana Isabel Reis"
+                }
+            ],
+            "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica II- Audiovisual",
+            "OT": [
+                {
+                    "dia": 1,
+                    "hora": 12,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica II- Audiovisual",
+                    "sigla": "TEJ_A_II",
+                    "tipo": "OT",
+                    "turma": "2LCC01",
+                    "turmac": "2LCC01",
+                    "duracao": "1",
+                    "sala": "sala_204",
+                    "profsig": "AICMR_SMCSC",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 12,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica II- Audiovisual",
+                    "sigla": "TEJ_A_II",
+                    "tipo": "OT",
+                    "turma": "2LCC02",
+                    "turmac": "2LCC02",
+                    "duracao": "1",
+                    "sala": "sala_105",
+                    "profsig": "AICMR_SMCSC",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 12,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica II- Audiovisual",
+                    "sigla": "TEJ_A_II",
+                    "tipo": "OT",
+                    "turma": "2LCC03",
+                    "turmac": "2LCC03",
+                    "duracao": "1",
+                    "sala": "sala_204",
+                    "profsig": "AICMR_SMCSC",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 17,
+                    "nome": "T\u00e9cnicas de Express\u00e3o Jornal\u00edstica II- Audiovisual",
+                    "sigla": "TEJ_A_II",
+                    "tipo": "OT",
+                    "turma": "2LCC04",
+                    "turmac": "2LCC04",
+                    "duracao": "1",
+                    "sala": "sala_204",
+                    "profsig": "AICMR_SMCSC",
+                    "prof": null
+                }
+            ]
+        },
+        "A_M": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Atelier Multim\u00e9dia",
+                    "sigla": "A_M",
+                    "tipo": "TP",
+                    "turma": "2LCC01",
+                    "turmac": "2LCC01",
+                    "duracao": "4",
+                    "sala": "sala_205",
+                    "profsig": "DOCENTE",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Atelier Multim\u00e9dia",
+                    "sigla": "A_M",
+                    "tipo": "TP",
+                    "turma": "2LCC01",
+                    "turmac": "2LCC01",
+                    "duracao": "4",
+                    "sala": "sala_206",
+                    "profsig": "PGC",
+                    "prof": "Pedro Gomes Da Costa"
+                },
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "Atelier Multim\u00e9dia",
+                    "sigla": "A_M",
+                    "tipo": "TP",
+                    "turma": "2LCC01",
+                    "turmac": "2LCC01",
+                    "duracao": "2",
+                    "sala": "sala_313",
+                    "profsig": "JARCMP",
+                    "prof": "Jos\u00e9 Alberto Pinto"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Atelier Multim\u00e9dia",
+                    "sigla": "A_M",
+                    "tipo": "TP",
+                    "turma": "2LCC02",
+                    "turmac": "2LCC02",
+                    "duracao": "4",
+                    "sala": "sala_206",
+                    "profsig": "PGC",
+                    "prof": "Pedro Gomes Da Costa"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Atelier Multim\u00e9dia",
+                    "sigla": "A_M",
+                    "tipo": "TP",
+                    "turma": "2LCC02",
+                    "turmac": "2LCC02",
+                    "duracao": "4",
+                    "sala": "sala_205",
+                    "profsig": "CMSPFF",
+                    "prof": "Cristina Ferreira"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Atelier Multim\u00e9dia",
+                    "sigla": "A_M",
+                    "tipo": "TP",
+                    "turma": "2LCC02",
+                    "turmac": "2LCC02",
+                    "duracao": "2",
+                    "sala": "sala_313",
+                    "profsig": "JARCMP",
+                    "prof": "Jos\u00e9 Alberto Pinto"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Atelier Multim\u00e9dia",
+                    "sigla": "A_M",
+                    "tipo": "TP",
+                    "turma": "2LCC03",
+                    "turmac": "2LCC03",
+                    "duracao": "4",
+                    "sala": "sala_206",
+                    "profsig": "AVC",
+                    "prof": "Alexandre Valle de Carvalho"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Atelier Multim\u00e9dia",
+                    "sigla": "A_M",
+                    "tipo": "TP",
+                    "turma": "2LCC03",
+                    "turmac": "2LCC03",
+                    "duracao": "4",
+                    "sala": "sala_205",
+                    "profsig": "DOCENTE",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 17,
+                    "nome": "Atelier Multim\u00e9dia",
+                    "sigla": "A_M",
+                    "tipo": "TP",
+                    "turma": "2LCC03",
+                    "turmac": "2LCC03",
+                    "duracao": "2",
+                    "sala": "sala_313",
+                    "profsig": "JARCMP",
+                    "prof": "Jos\u00e9 Alberto Pinto"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10.5,
+                    "nome": "Atelier Multim\u00e9dia",
+                    "sigla": "A_M",
+                    "tipo": "TP",
+                    "turma": "2LCC04",
+                    "turmac": "2LCC04",
+                    "duracao": "2",
+                    "sala": "sala_313",
+                    "profsig": "JARCMP",
+                    "prof": "Jos\u00e9 Alberto Pinto"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Atelier Multim\u00e9dia",
+                    "sigla": "A_M",
+                    "tipo": "TP",
+                    "turma": "2LCC04",
+                    "turmac": "2LCC04",
+                    "duracao": "4",
+                    "sala": "sala_205",
+                    "profsig": "CMSPFF",
+                    "prof": "Cristina Ferreira"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Atelier Multim\u00e9dia",
+                    "sigla": "A_M",
+                    "tipo": "TP",
+                    "turma": "2LCC04",
+                    "turmac": "2LCC04",
+                    "duracao": "4",
+                    "sala": "sala_206",
+                    "profsig": "AVC",
+                    "prof": "Alexandre Valle de Carvalho"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Atelier Multim\u00e9dia",
+                    "sigla": "A_M",
+                    "tipo": "TP",
+                    "turma": "2LCC05",
+                    "turmac": "2LCC05",
+                    "duracao": "4",
+                    "sala": "sala_206",
+                    "profsig": "AVC",
+                    "prof": "Alexandre Valle de Carvalho"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Atelier Multim\u00e9dia",
+                    "sigla": "A_M",
+                    "tipo": "TP",
+                    "turma": "2LCC05",
+                    "turmac": "2LCC05",
+                    "duracao": "4",
+                    "sala": "sala_205",
+                    "profsig": "CMSPFF",
+                    "prof": "Cristina Ferreira"
+                },
+                {
+                    "dia": 4,
+                    "hora": 18.5,
+                    "nome": "Atelier Multim\u00e9dia",
+                    "sigla": "A_M",
+                    "tipo": "TP",
+                    "turma": "2LCC05",
+                    "turmac": "2LCC05",
+                    "duracao": "2",
+                    "sala": "sala_313",
+                    "profsig": "JARCMP",
+                    "prof": "Jos\u00e9 Alberto Pinto"
+                }
+            ],
+            "nome": "Atelier Multim\u00e9dia",
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 12,
+                    "nome": "Atelier Multim\u00e9dia",
+                    "sigla": "A_M",
+                    "tipo": "T",
+                    "turma": "2LCC01",
+                    "turmac": "A_M_T",
+                    "duracao": "2",
+                    "sala": "Anf_1",
+                    "profsig": "AVC",
+                    "prof": "Alexandre Valle de Carvalho"
+                },
+                {
+                    "dia": 4,
+                    "hora": 12,
+                    "nome": "Atelier Multim\u00e9dia",
+                    "sigla": "A_M",
+                    "tipo": "T",
+                    "turma": "2LCC02",
+                    "turmac": "A_M_T",
+                    "duracao": "2",
+                    "sala": "Anf_1",
+                    "profsig": "AVC",
+                    "prof": "Alexandre Valle de Carvalho"
+                },
+                {
+                    "dia": 4,
+                    "hora": 12,
+                    "nome": "Atelier Multim\u00e9dia",
+                    "sigla": "A_M",
+                    "tipo": "T",
+                    "turma": "2LCC03",
+                    "turmac": "A_M_T",
+                    "duracao": "2",
+                    "sala": "Anf_1",
+                    "profsig": "AVC",
+                    "prof": "Alexandre Valle de Carvalho"
+                },
+                {
+                    "dia": 4,
+                    "hora": 12,
+                    "nome": "Atelier Multim\u00e9dia",
+                    "sigla": "A_M",
+                    "tipo": "T",
+                    "turma": "2LCC04",
+                    "turmac": "A_M_T",
+                    "duracao": "2",
+                    "sala": "Anf_1",
+                    "profsig": "AVC",
+                    "prof": "Alexandre Valle de Carvalho"
+                },
+                {
+                    "dia": 4,
+                    "hora": 12,
+                    "nome": "Atelier Multim\u00e9dia",
+                    "sigla": "A_M",
+                    "tipo": "T",
+                    "turma": "2LCC05",
+                    "turmac": "A_M_T",
+                    "duracao": "2",
+                    "sala": "Anf_1",
+                    "profsig": "AVC",
+                    "prof": "Alexandre Valle de Carvalho"
+                }
+            ],
+            "OT": [
+                {
+                    "dia": 4,
+                    "hora": 16.5,
+                    "nome": "Atelier Multim\u00e9dia",
+                    "sigla": "A_M",
+                    "tipo": "OT",
+                    "turma": "2LCC01",
+                    "turmac": "2LCC01",
+                    "duracao": "1",
+                    "sala": "sala_313",
+                    "profsig": "JARCMP",
+                    "prof": "Jos\u00e9 Alberto Pinto"
+                },
+                {
+                    "dia": 4,
+                    "hora": 15,
+                    "nome": "Atelier Multim\u00e9dia",
+                    "sigla": "A_M",
+                    "tipo": "OT",
+                    "turma": "2LCC02",
+                    "turmac": "2LCC02",
+                    "duracao": "1",
+                    "sala": "sala_313",
+                    "profsig": "JARCMP",
+                    "prof": "Jos\u00e9 Alberto Pinto"
+                },
+                {
+                    "dia": 4,
+                    "hora": 18,
+                    "nome": "Atelier Multim\u00e9dia",
+                    "sigla": "A_M",
+                    "tipo": "OT",
+                    "turma": "2LCC03",
+                    "turmac": "2LCC03",
+                    "duracao": "1",
+                    "sala": "sala_313",
+                    "profsig": "JARCMP",
+                    "prof": "Jos\u00e9 Alberto Pinto"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11.5,
+                    "nome": "Atelier Multim\u00e9dia",
+                    "sigla": "A_M",
+                    "tipo": "OT",
+                    "turma": "2LCC04",
+                    "turmac": "2LCC04",
+                    "duracao": "1",
+                    "sala": "sala_313",
+                    "profsig": "JARCMP",
+                    "prof": "Jos\u00e9 Alberto Pinto"
+                },
+                {
+                    "dia": 4,
+                    "hora": 19.5,
+                    "nome": "Atelier Multim\u00e9dia",
+                    "sigla": "A_M",
+                    "tipo": "OT",
+                    "turma": "2LCC05",
+                    "turmac": "2LCC05",
+                    "duracao": "1",
+                    "sala": "sala_313",
+                    "profsig": "JARCMP",
+                    "prof": "Jos\u00e9 Alberto Pinto"
+                }
+            ]
+        },
+        "EDPROF": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 10.5,
+                    "nome": "\u00c9tica e Deontologia Profissional",
+                    "sigla": "EDPROF",
+                    "tipo": "TP",
+                    "turma": "2LCC01",
+                    "turmac": "2LCC01",
+                    "duracao": "6",
+                    "sala": "G208",
+                    "profsig": "SMDSC",
+                    "prof": "Suzana Cavaco"
+                },
+                {
+                    "dia": 5,
+                    "hora": 15,
+                    "nome": "\u00c9tica e Deontologia Profissional",
+                    "sigla": "EDPROF",
+                    "tipo": "TP",
+                    "turma": "2LCC02",
+                    "turmac": "2LCC02",
+                    "duracao": "6",
+                    "sala": "G208",
+                    "profsig": "SMDSC",
+                    "prof": "Suzana Cavaco"
+                }
+            ],
+            "nome": "\u00c9tica e Deontologia Profissional",
+            "OT": [
+                {
+                    "dia": 5,
+                    "hora": 13.5,
+                    "nome": "\u00c9tica e Deontologia Profissional",
+                    "sigla": "EDPROF",
+                    "tipo": "OT",
+                    "turma": "2LCC01",
+                    "turmac": "2LCC01",
+                    "duracao": "1",
+                    "sala": "G208",
+                    "profsig": "SMDSC",
+                    "prof": "Suzana Cavaco"
+                },
+                {
+                    "dia": 5,
+                    "hora": 18,
+                    "nome": "\u00c9tica e Deontologia Profissional",
+                    "sigla": "EDPROF",
+                    "tipo": "OT",
+                    "turma": "2LCC02",
+                    "turmac": "2LCC02",
+                    "duracao": "1",
+                    "sala": "G208",
+                    "profsig": "SMDSC",
+                    "prof": "Suzana Cavaco"
+                }
+            ]
+        },
+        "RELPUB": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Rela\u00e7\u00f5es P\u00fablicas",
+                    "sigla": "RELPUB",
+                    "tipo": "TP",
+                    "turma": "2LCC01",
+                    "turmac": "2LCC01",
+                    "duracao": "3",
+                    "sala": "G301",
+                    "profsig": "FVMR",
+                    "prof": "Vasco Ribeiro"
+                },
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Rela\u00e7\u00f5es P\u00fablicas",
+                    "sigla": "RELPUB",
+                    "tipo": "TP",
+                    "turma": "2LCC02",
+                    "turmac": "2LCC02",
+                    "duracao": "3",
+                    "sala": "G310",
+                    "profsig": "JPMM",
+                    "prof": "Jorge Marinho"
+                }
+            ],
+            "nome": "Rela\u00e7\u00f5es P\u00fablicas",
+            "OT": [
+                {
+                    "dia": 3,
+                    "hora": 15,
+                    "nome": "Rela\u00e7\u00f5es P\u00fablicas",
+                    "sigla": "RELPUB",
+                    "tipo": "OT",
+                    "turma": "2LCC02",
+                    "turmac": "2LCC02",
+                    "duracao": "1",
+                    "sala": "G301",
+                    "profsig": "FVMR",
+                    "prof": "Vasco Ribeiro"
+                }
+            ]
+        }
+    }
+}

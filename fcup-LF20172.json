@@ -1,0 +1,535 @@
+{
+    "1\u00ba Ano": {
+        "M1015": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 10.5,
+                    "nome": "An\u00e1lise II",
+                    "sigla": "M1015",
+                    "tipo": "TP",
+                    "turma": "M1015_TP3",
+                    "turmac": "M1015_TP3",
+                    "duracao": "3",
+                    "sala": "FC1122",
+                    "profsig": "SMAG",
+                    "prof": "S\u00edlvio Gama"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11.5,
+                    "nome": "An\u00e1lise II",
+                    "sigla": "M1015",
+                    "tipo": "TP",
+                    "turma": "M1015_TP3",
+                    "turmac": "M1015_TP3",
+                    "duracao": "3",
+                    "sala": "FC1122",
+                    "profsig": "SMAG",
+                    "prof": "S\u00edlvio Gama"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "An\u00e1lise II",
+                    "sigla": "M1015",
+                    "tipo": "TP",
+                    "turma": "M1015_TP4",
+                    "turmac": "M1015_TP4",
+                    "duracao": "3",
+                    "sala": "FC1029",
+                    "profsig": "AAP",
+                    "prof": "Alberto Pinto"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14.5,
+                    "nome": "An\u00e1lise II",
+                    "sigla": "M1015",
+                    "tipo": "TP",
+                    "turma": "M1015_TP4",
+                    "turmac": "M1015_TP4",
+                    "duracao": "3",
+                    "sala": "FC1029",
+                    "profsig": "AAP",
+                    "prof": "Alberto Pinto"
+                }
+            ],
+            "nome": "An\u00e1lise II"
+        },
+        "Q1005": {
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica Geral",
+                    "sigla": "Q1005",
+                    "tipo": "PL",
+                    "turma": "Q1005_PL1",
+                    "turmac": "Q1005_PL1",
+                    "duracao": "4",
+                    "sala": "FC2-108",
+                    "profsig": "PACG",
+                    "prof": "Paula Gomes"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica Geral",
+                    "sigla": "Q1005",
+                    "tipo": "PL",
+                    "turma": "Q1005_PL2",
+                    "turmac": "Q1005_PL2",
+                    "duracao": "4",
+                    "sala": "FC2-108",
+                    "profsig": "JERB",
+                    "prof": "Enrique Borges"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica Geral",
+                    "sigla": "Q1005",
+                    "tipo": "PL",
+                    "turma": "Q1005_PL3",
+                    "turmac": "Q1005_PL3",
+                    "duracao": "4",
+                    "sala": "FC2-108",
+                    "profsig": "PACG",
+                    "prof": "Paula Gomes"
+                },
+                {
+                    "dia": 1,
+                    "hora": 8.5,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica Geral",
+                    "sigla": "Q1005",
+                    "tipo": "PL",
+                    "turma": "Q1005_PL4",
+                    "turmac": "Q1005_PL4",
+                    "duracao": "4",
+                    "sala": "FC2-108",
+                    "profsig": "JAMR",
+                    "prof": "Jos\u00e9 Rodrigues"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica Geral",
+                    "sigla": "Q1005",
+                    "tipo": "PL",
+                    "turma": "Q1005_PL5",
+                    "turmac": "Q1005_PL5",
+                    "duracao": "4",
+                    "sala": "FC2-108",
+                    "profsig": "PACG",
+                    "prof": "Paula Gomes"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica Geral",
+                    "sigla": "Q1005",
+                    "tipo": "PL",
+                    "turma": "Q1005_PL6",
+                    "turmac": "Q1005_PL6",
+                    "duracao": "4",
+                    "sala": "FC2-108",
+                    "profsig": "JERB",
+                    "prof": "Enrique Borges"
+                },
+                {
+                    "dia": 3,
+                    "hora": 10,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica Geral",
+                    "sigla": "Q1005",
+                    "tipo": "PL",
+                    "turma": "Q1005_PL7",
+                    "turmac": "Q1005_PL7",
+                    "duracao": "4",
+                    "sala": "FC2-108",
+                    "profsig": "JERB",
+                    "prof": "Enrique Borges"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica Geral",
+                    "sigla": "Q1005",
+                    "tipo": "PL",
+                    "turma": "Q1005_PL8",
+                    "turmac": "Q1005_PL8",
+                    "duracao": "4",
+                    "sala": "FC2-108",
+                    "profsig": "PACG",
+                    "prof": "Paula Gomes"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica Geral",
+                    "sigla": "Q1005",
+                    "tipo": "PL",
+                    "turma": "Q1005_PL9",
+                    "turmac": "Q1005_PL9",
+                    "duracao": "4",
+                    "sala": "FC2-108",
+                    "profsig": "PACG",
+                    "prof": "Paula Gomes"
+                }
+            ],
+            "nome": "Laborat\u00f3rio de Qu\u00edmica Geral"
+        }
+    },
+    "2\u00ba Ano": {
+        "AST2003": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Astrof\u00edsica",
+                    "sigla": "AST2003",
+                    "tipo": "T",
+                    "turma": "AST2003_T",
+                    "turmac": "AST2003_T",
+                    "duracao": "2",
+                    "sala": "FC3-120",
+                    "profsig": "MJPFGM",
+                    "prof": "M\u00e1rio Jo\u00e3o Monteiro"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Astrof\u00edsica",
+                    "sigla": "AST2003",
+                    "tipo": "T",
+                    "turma": "AST2003_T",
+                    "turmac": "AST2003_T",
+                    "duracao": "3",
+                    "sala": "FC3-117",
+                    "profsig": "MJPFGM",
+                    "prof": "M\u00e1rio Jo\u00e3o Monteiro"
+                }
+            ],
+            "nome": "Astrof\u00edsica",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 10.5,
+                    "nome": "Astrof\u00edsica",
+                    "sigla": "AST2003",
+                    "tipo": "TP",
+                    "turma": "AST2003_TP1",
+                    "turmac": "AST2003_TP1",
+                    "duracao": "3",
+                    "sala": "FC3-116",
+                    "profsig": "MJPFGM",
+                    "prof": "M\u00e1rio Jo\u00e3o Monteiro"
+                }
+            ]
+        },
+        "FIS2011": {
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Mec\u00e2nica Anal\u00edtica",
+                    "sigla": "FIS2011",
+                    "tipo": "T",
+                    "turma": "FIS2011_T",
+                    "turmac": "FIS2011_T",
+                    "duracao": "2",
+                    "sala": "FC3-119",
+                    "profsig": "JMCNS",
+                    "prof": "Jos\u00e9 Miguel Nunes da Silva"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Mec\u00e2nica Anal\u00edtica",
+                    "sigla": "FIS2011",
+                    "tipo": "T",
+                    "turma": "FIS2011_T",
+                    "turmac": "FIS2011_T",
+                    "duracao": "2",
+                    "sala": "FC3-117",
+                    "profsig": "JMCNS",
+                    "prof": "Jos\u00e9 Miguel Nunes da Silva"
+                }
+            ],
+            "nome": "Mec\u00e2nica Anal\u00edtica",
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 15.5,
+                    "nome": "Mec\u00e2nica Anal\u00edtica",
+                    "sigla": "FIS2011",
+                    "tipo": "TP",
+                    "turma": "FIS2011_TP1",
+                    "turmac": "FIS2011_TP1",
+                    "duracao": "3",
+                    "sala": "FC3014",
+                    "profsig": "JMCNS",
+                    "prof": "Jos\u00e9 Miguel Nunes da Silva"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16.5,
+                    "nome": "Mec\u00e2nica Anal\u00edtica",
+                    "sigla": "FIS2011",
+                    "tipo": "TP",
+                    "turma": "FIS2011_TP2",
+                    "turmac": "FIS2011_TP2",
+                    "duracao": "3",
+                    "sala": "FC3-119",
+                    "profsig": "JMCNS",
+                    "prof": "Jos\u00e9 Miguel Nunes da Silva"
+                }
+            ]
+        },
+        "M2026": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 14.5,
+                    "nome": "Estat\u00edstica Aplicada",
+                    "sigla": "M2026",
+                    "tipo": "T",
+                    "turma": "M2026_T",
+                    "turmac": "M2026_T",
+                    "duracao": "2",
+                    "sala": "FC1007",
+                    "profsig": "\u00d3ALF",
+                    "prof": "\u00d3scar Felgueiras"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14.5,
+                    "nome": "Estat\u00edstica Aplicada",
+                    "sigla": "M2026",
+                    "tipo": "T",
+                    "turma": "M2026_T",
+                    "turmac": "M2026_T",
+                    "duracao": "2",
+                    "sala": "FC1007",
+                    "profsig": "\u00d3ALF",
+                    "prof": "\u00d3scar Felgueiras"
+                }
+            ],
+            "nome": "Estat\u00edstica Aplicada",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Estat\u00edstica Aplicada",
+                    "sigla": "M2026",
+                    "tipo": "TP",
+                    "turma": "M2026_TP1",
+                    "turmac": "M2026_TP1",
+                    "duracao": "4",
+                    "sala": "FC1119",
+                    "profsig": "\u00d3ALF",
+                    "prof": "\u00d3scar Felgueiras"
+                },
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "Estat\u00edstica Aplicada",
+                    "sigla": "M2026",
+                    "tipo": "TP",
+                    "turma": "M2026_TP2",
+                    "turmac": "M2026_TP2",
+                    "duracao": "4",
+                    "sala": "FC1119",
+                    "profsig": "\u00d3ALF",
+                    "prof": "\u00d3scar Felgueiras"
+                }
+            ]
+        }
+    },
+    "3\u00ba Ano": {
+        "AST3006": {
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 10.5,
+                    "nome": "Astrof\u00edsica\u00a0Relativista\u00a0e\u00a0Cosmologia\u00a0",
+                    "sigla": "AST3006",
+                    "tipo": "T",
+                    "turma": "AST3006_T",
+                    "turmac": "AST3006_T",
+                    "duracao": "3",
+                    "sala": "FC3026",
+                    "profsig": "PTPV",
+                    "prof": "Pedro Viana"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Astrof\u00edsica\u00a0Relativista\u00a0e\u00a0Cosmologia\u00a0",
+                    "sigla": "AST3006",
+                    "tipo": "T",
+                    "turma": "AST3006_T",
+                    "turmac": "AST3006_T",
+                    "duracao": "2",
+                    "sala": "FC3-117",
+                    "profsig": "PTPV",
+                    "prof": "Pedro Viana"
+                }
+            ],
+            "nome": "Astrof\u00edsica\u00a0Relativista\u00a0e\u00a0Cosmologia\u00a0",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 15,
+                    "nome": "Astrof\u00edsica\u00a0Relativista\u00a0e\u00a0Cosmologia\u00a0",
+                    "sigla": "AST3006",
+                    "tipo": "TP",
+                    "turma": "AST3006_TP",
+                    "turmac": "AST3006_TP",
+                    "duracao": "3",
+                    "sala": "FC3-117",
+                    "profsig": "PTPV",
+                    "prof": "Pedro Viana"
+                }
+            ]
+        },
+        "AST3010": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Processos\u00a0Radiativos\u00a0em\u00a0Astrof\u00edsica\u00a0",
+                    "sigla": "AST3010",
+                    "tipo": "TP",
+                    "turma": "AST3010_T",
+                    "turmac": "AST3010_T",
+                    "duracao": "2",
+                    "sala": "FC3023",
+                    "profsig": "Jgameiro+NunoS",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 10.5,
+                    "nome": "Processos\u00a0Radiativos\u00a0em\u00a0Astrof\u00edsica\u00a0",
+                    "sigla": "AST3010",
+                    "tipo": "TP",
+                    "turma": "AST3010_TP",
+                    "turmac": "AST3010_TP",
+                    "duracao": "3",
+                    "sala": "FC3023",
+                    "profsig": "Jgameiro+NunoS",
+                    "prof": null
+                }
+            ],
+            "nome": "Processos\u00a0Radiativos\u00a0em\u00a0Astrof\u00edsica\u00a0",
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 15,
+                    "nome": "Processos\u00a0Radiativos\u00a0em\u00a0Astrof\u00edsica\u00a0",
+                    "sigla": "AST3010",
+                    "tipo": "T",
+                    "turma": "AST3010_T",
+                    "turmac": "AST3010_T",
+                    "duracao": "3",
+                    "sala": "FC3023",
+                    "profsig": "Jgameiro+NunoS",
+                    "prof": null
+                }
+            ]
+        },
+        "FIS3006": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "F\u00edsica do N\u00facleo e das Part\u00edculas",
+                    "sigla": "FIS3006",
+                    "tipo": "T",
+                    "turma": "FIS3006_T",
+                    "turmac": "FIS3006_T",
+                    "duracao": "2",
+                    "sala": "FC3014",
+                    "profsig": "MC+MFM",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 15,
+                    "nome": "F\u00edsica do N\u00facleo e das Part\u00edculas",
+                    "sigla": "FIS3006",
+                    "tipo": "T",
+                    "turma": "FIS3006_T",
+                    "turmac": "FIS3006_T",
+                    "duracao": "2",
+                    "sala": "FC3026",
+                    "profsig": "MFGM",
+                    "prof": "Maria de F\u00e1tima Mota"
+                }
+            ],
+            "nome": "F\u00edsica do N\u00facleo e das Part\u00edculas",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "F\u00edsica do N\u00facleo e das Part\u00edculas",
+                    "sigla": "FIS3006",
+                    "tipo": "TP",
+                    "turma": "FIS3006_TP",
+                    "turmac": "FIS3006_TP",
+                    "duracao": "3",
+                    "sala": "FC3014",
+                    "profsig": "MC+MFM",
+                    "prof": null
+                }
+            ]
+        },
+        "FIS3012": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Mec\u00e2nica Quantica II",
+                    "sigla": "FIS3012",
+                    "tipo": "T",
+                    "turma": "FIS3012_T",
+                    "turmac": "FIS3012_T",
+                    "duracao": "2",
+                    "sala": "FC3014",
+                    "profsig": "MFGM",
+                    "prof": "Maria de F\u00e1tima Mota"
+                }
+            ],
+            "nome": "Mec\u00e2nica Quantica II",
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 15.5,
+                    "nome": "Mec\u00e2nica Quantica II",
+                    "sigla": "FIS3012",
+                    "tipo": "TP",
+                    "turma": "FIS3012_T",
+                    "turmac": "FIS3012_T",
+                    "duracao": "2",
+                    "sala": "FC3-117",
+                    "profsig": "MFGM",
+                    "prof": "Maria de F\u00e1tima Mota"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Mec\u00e2nica Quantica II",
+                    "sigla": "FIS3012",
+                    "tipo": "TP",
+                    "turma": "FIS3012_TP",
+                    "turmac": "FIS3012_TP",
+                    "duracao": "3",
+                    "sala": "FC3-117",
+                    "profsig": "MFGM",
+                    "prof": "Maria de F\u00e1tima Mota"
+                }
+            ]
+        }
+    }
+}

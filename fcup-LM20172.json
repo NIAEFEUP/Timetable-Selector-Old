@@ -1,0 +1,1072 @@
+{
+    "1\u00ba Ano": {
+        "CC1015": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "Programa\u00e7\u00e3o I",
+                    "sigla": "CC1015",
+                    "tipo": "PL",
+                    "turma": "CC1015PL1",
+                    "turmac": "CC1015PL1",
+                    "duracao": "4",
+                    "sala": "FC1106",
+                    "profsig": "PBV",
+                    "prof": "Pedro Vasconcelos"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Programa\u00e7\u00e3o I",
+                    "sigla": "CC1015",
+                    "tipo": "PL",
+                    "turma": "CC1015PL2",
+                    "turmac": "CC1015PL2",
+                    "duracao": "4",
+                    "sala": "FC1106",
+                    "profsig": "ICD",
+                    "prof": "In\u00eas Dutra"
+                },
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "Programa\u00e7\u00e3o I",
+                    "sigla": "CC1015",
+                    "tipo": "PL",
+                    "turma": "CC1015PL3",
+                    "turmac": "CC1015PL3",
+                    "duracao": "4",
+                    "sala": "FC1106",
+                    "profsig": "ICD",
+                    "prof": "In\u00eas Dutra"
+                }
+            ],
+            "nome": "Programa\u00e7\u00e3o I",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 14.5,
+                    "nome": "Programa\u00e7\u00e3o I",
+                    "sigla": "CC1015",
+                    "tipo": "T",
+                    "turma": "CC1015T",
+                    "turmac": "CC1015T",
+                    "duracao": "2",
+                    "sala": "FC1003",
+                    "profsig": "PBV",
+                    "prof": "Pedro Vasconcelos"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14.5,
+                    "nome": "Programa\u00e7\u00e3o I",
+                    "sigla": "CC1015",
+                    "tipo": "T",
+                    "turma": "CC1015T",
+                    "turmac": "CC1015T",
+                    "duracao": "2",
+                    "sala": "FC1003",
+                    "profsig": "PBV",
+                    "prof": "Pedro Vasconcelos"
+                }
+            ]
+        },
+        "M1016": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "An\u00e1lise Real II",
+                    "sigla": "M1016",
+                    "tipo": "T",
+                    "turma": "M1016_T",
+                    "turmac": "M1016_T",
+                    "duracao": "2",
+                    "sala": "FC1003",
+                    "profsig": "JCSOS",
+                    "prof": "Jos\u00e9 Carlos Santos"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "An\u00e1lise Real II",
+                    "sigla": "M1016",
+                    "tipo": "T",
+                    "turma": "M1016_T",
+                    "turmac": "M1016_T",
+                    "duracao": "2",
+                    "sala": "FC1003",
+                    "profsig": "JCSOS",
+                    "prof": "Jos\u00e9 Carlos Santos"
+                }
+            ],
+            "nome": "An\u00e1lise Real II",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "An\u00e1lise Real II",
+                    "sigla": "M1016",
+                    "tipo": "TP",
+                    "turma": "M1016_TP1",
+                    "turmac": "M1016_TP1",
+                    "duracao": "4",
+                    "sala": "FC1120",
+                    "profsig": "JCSOS",
+                    "prof": "Jos\u00e9 Carlos Santos"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "An\u00e1lise Real II",
+                    "sigla": "M1016",
+                    "tipo": "TP",
+                    "turma": "M1016_TP2",
+                    "turmac": "M1016_TP2",
+                    "duracao": "4",
+                    "sala": "FC1003",
+                    "profsig": "JCSOS",
+                    "prof": "Jos\u00e9 Carlos Santos"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "An\u00e1lise Real II",
+                    "sigla": "M1016",
+                    "tipo": "TP",
+                    "turma": "M1016_TP3",
+                    "turmac": "M1016_TP3",
+                    "duracao": "4",
+                    "sala": "FC1120",
+                    "profsig": "PVA",
+                    "prof": "Paulo Ara\u00fajo"
+                }
+            ]
+        },
+        "M1018": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 10,
+                    "nome": "Matem\u00e1tica II",
+                    "sigla": "M1018",
+                    "tipo": "T",
+                    "turma": "M1018_T",
+                    "turmac": "M1018_T",
+                    "duracao": "2",
+                    "sala": "FC1031",
+                    "profsig": "JFA",
+                    "prof": "Jos\u00e9 Ferreira Alves"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Matem\u00e1tica II",
+                    "sigla": "M1018",
+                    "tipo": "T",
+                    "turma": "M1018_T",
+                    "turmac": "M1018_T",
+                    "duracao": "2",
+                    "sala": "FC1005",
+                    "profsig": "JFA",
+                    "prof": "Jos\u00e9 Ferreira Alves"
+                }
+            ],
+            "nome": "Matem\u00e1tica II",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Matem\u00e1tica II",
+                    "sigla": "M1018",
+                    "tipo": "TP",
+                    "turma": "M1018_TP1",
+                    "turmac": "M1018_TP1",
+                    "duracao": "4",
+                    "sala": "FC1031",
+                    "profsig": "JFA",
+                    "prof": "Jos\u00e9 Ferreira Alves"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Matem\u00e1tica II",
+                    "sigla": "M1018",
+                    "tipo": "TP",
+                    "turma": "M1018_TP2",
+                    "turmac": "M1018_TP2",
+                    "duracao": "4",
+                    "sala": "FC1005",
+                    "profsig": "JFA",
+                    "prof": "Jos\u00e9 Ferreira Alves"
+                }
+            ]
+        },
+        "M1026": {
+            "T": [
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "\u00c1lgebra Linear e Geometria Anal\u00edtica II",
+                    "sigla": "M1026",
+                    "tipo": "T",
+                    "turma": "M1026_T",
+                    "turmac": "M1026_T",
+                    "duracao": "2",
+                    "sala": "FC1003",
+                    "profsig": "APSD",
+                    "prof": "Ana Dias"
+                },
+                {
+                    "dia": 2,
+                    "hora": 10,
+                    "nome": "\u00c1lgebra Linear e Geometria Anal\u00edtica II",
+                    "sigla": "M1026",
+                    "tipo": "T",
+                    "turma": "M1026_T",
+                    "turmac": "M1026_T",
+                    "duracao": "2",
+                    "sala": "FC1003",
+                    "profsig": "APSD",
+                    "prof": "Ana Dias"
+                }
+            ],
+            "nome": "\u00c1lgebra Linear e Geometria Anal\u00edtica II",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "\u00c1lgebra Linear e Geometria Anal\u00edtica II",
+                    "sigla": "M1026",
+                    "tipo": "TP",
+                    "turma": "M1026_TP1",
+                    "turmac": "M1026_TP1",
+                    "duracao": "4",
+                    "sala": "FC1120",
+                    "profsig": "APSD",
+                    "prof": "Ana Dias"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "\u00c1lgebra Linear e Geometria Anal\u00edtica II",
+                    "sigla": "M1026",
+                    "tipo": "TP",
+                    "turma": "M1026_TP2",
+                    "turmac": "M1026_TP2",
+                    "duracao": "4",
+                    "sala": "FC1120",
+                    "profsig": "APSD",
+                    "prof": "Ana Dias"
+                }
+            ]
+        },
+        "M1027": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0s Aplica\u00e7\u00f5es da Matem\u00e1tica",
+                    "sigla": "M1027",
+                    "tipo": "T",
+                    "turma": "M1027_T",
+                    "turmac": "M1027_T",
+                    "duracao": "2",
+                    "sala": "FC1003",
+                    "profsig": "ISL",
+                    "prof": "Isabel Labouriau"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0s Aplica\u00e7\u00f5es da Matem\u00e1tica",
+                    "sigla": "M1027",
+                    "tipo": "T",
+                    "turma": "M1027_T",
+                    "turmac": "M1027_T",
+                    "duracao": "2",
+                    "sala": "FC1003",
+                    "profsig": "ISL",
+                    "prof": "Isabel Labouriau"
+                }
+            ],
+            "nome": "Introdu\u00e7\u00e3o \u00e0s Aplica\u00e7\u00f5es da Matem\u00e1tica",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0s Aplica\u00e7\u00f5es da Matem\u00e1tica",
+                    "sigla": "M1027",
+                    "tipo": "TP",
+                    "turma": "M1027_TP1",
+                    "turmac": "M1027_TP1",
+                    "duracao": "4",
+                    "sala": "FC1106",
+                    "profsig": "MZRAR",
+                    "prof": "Maria Z\u00e9lia Rocha"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0s Aplica\u00e7\u00f5es da Matem\u00e1tica",
+                    "sigla": "M1027",
+                    "tipo": "TP",
+                    "turma": "M1027_TP2",
+                    "turmac": "M1027_TP2",
+                    "duracao": "4",
+                    "sala": "FC1106",
+                    "profsig": "MZRAR",
+                    "prof": "Maria Z\u00e9lia Rocha"
+                }
+            ]
+        },
+        "M1028": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 10,
+                    "nome": "Geometria",
+                    "sigla": "M1028",
+                    "tipo": "T",
+                    "turma": "M1028_T",
+                    "turmac": "M1028_T",
+                    "duracao": "2",
+                    "sala": "FC1003",
+                    "profsig": "ACHGO",
+                    "prof": "Ant\u00f3nio Guedes de Oliveira"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Geometria",
+                    "sigla": "M1028",
+                    "tipo": "T",
+                    "turma": "M1028_T",
+                    "turmac": "M1028_T",
+                    "duracao": "2",
+                    "sala": "FC1003",
+                    "profsig": "ACHGO",
+                    "prof": "Ant\u00f3nio Guedes de Oliveira"
+                }
+            ],
+            "nome": "Geometria",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Geometria",
+                    "sigla": "M1028",
+                    "tipo": "TP",
+                    "turma": "M1028_TP1",
+                    "turmac": "M1028_TP1",
+                    "duracao": "4",
+                    "sala": "FC1106",
+                    "profsig": "ACHGO",
+                    "prof": "Ant\u00f3nio Guedes de Oliveira"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Geometria",
+                    "sigla": "M1028",
+                    "tipo": "TP",
+                    "turma": "M1028_TP2",
+                    "turmac": "M1028_TP2",
+                    "duracao": "4",
+                    "sala": "FC1106",
+                    "profsig": "ACHGO",
+                    "prof": "Ant\u00f3nio Guedes de Oliveira"
+                }
+            ]
+        }
+    },
+    "2\u00ba Ano": {
+        "CC1022": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Programa\u00e7\u00e3o II",
+                    "sigla": "CC1022",
+                    "tipo": "PL",
+                    "turma": "CC1022_PL1",
+                    "turmac": "CC1022_PL1",
+                    "duracao": "4",
+                    "sala": "FC6184",
+                    "profsig": "SALC",
+                    "prof": "S\u00e9rgio Cris\u00f3stomo"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Programa\u00e7\u00e3o II",
+                    "sigla": "CC1022",
+                    "tipo": "PL",
+                    "turma": "CC1022_PL2",
+                    "turmac": "CC1022_PL2",
+                    "duracao": "4",
+                    "sala": "FC6163",
+                    "profsig": "SALC",
+                    "prof": "S\u00e9rgio Cris\u00f3stomo"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Programa\u00e7\u00e3o II",
+                    "sigla": "CC1022",
+                    "tipo": "PL",
+                    "turma": "CC1022_PL3",
+                    "turmac": "CC1022_PL3",
+                    "duracao": "4",
+                    "sala": "FC6008",
+                    "profsig": "SALC",
+                    "prof": "S\u00e9rgio Cris\u00f3stomo"
+                }
+            ],
+            "nome": "Programa\u00e7\u00e3o II",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Programa\u00e7\u00e3o II",
+                    "sigla": "CC1022",
+                    "tipo": "T",
+                    "turma": "CC1022_T",
+                    "turmac": "CC1022_T",
+                    "duracao": "3",
+                    "sala": "FC1005",
+                    "profsig": "SALC",
+                    "prof": "S\u00e9rgio Cris\u00f3stomo"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14.5,
+                    "nome": "Programa\u00e7\u00e3o II",
+                    "sigla": "CC1022",
+                    "tipo": "T",
+                    "turma": "CC1022_T",
+                    "turmac": "CC1022_T",
+                    "duracao": "3",
+                    "sala": "FC6029",
+                    "profsig": "SALC",
+                    "prof": "S\u00e9rgio Cris\u00f3stomo"
+                }
+            ]
+        },
+        "M2008": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 10,
+                    "nome": "An\u00e1lise Complexa",
+                    "sigla": "M2008",
+                    "tipo": "T",
+                    "turma": "M2008_T",
+                    "turmac": "M2008_T",
+                    "duracao": "2",
+                    "sala": "FC1005",
+                    "profsig": "CMM",
+                    "prof": "Carlos Menezes"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "An\u00e1lise Complexa",
+                    "sigla": "M2008",
+                    "tipo": "T",
+                    "turma": "M2008_T",
+                    "turmac": "M2008_T",
+                    "duracao": "2",
+                    "sala": "FC1005",
+                    "profsig": "CMM",
+                    "prof": "Carlos Menezes"
+                }
+            ],
+            "nome": "An\u00e1lise Complexa",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "An\u00e1lise Complexa",
+                    "sigla": "M2008",
+                    "tipo": "TP",
+                    "turma": "M2008_TP1",
+                    "turmac": "M2008_TP1",
+                    "duracao": "4",
+                    "sala": "FC1005",
+                    "profsig": "CMM",
+                    "prof": "Carlos Menezes"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "An\u00e1lise Complexa",
+                    "sigla": "M2008",
+                    "tipo": "TP",
+                    "turma": "M2008_TP2",
+                    "turmac": "M2008_TP2",
+                    "duracao": "4",
+                    "sala": "FC1122",
+                    "profsig": "CMM",
+                    "prof": "Carlos Menezes"
+                }
+            ]
+        },
+        "M2011": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Equa\u00e7\u00f5es Diferenciais",
+                    "sigla": "M2011",
+                    "tipo": "T",
+                    "turma": "M2011_T",
+                    "turmac": "M2011_T",
+                    "duracao": "2",
+                    "sala": "FC1007",
+                    "profsig": "IMBFC",
+                    "prof": "In\u00eas Cruz"
+                },
+                {
+                    "dia": 3,
+                    "hora": 10,
+                    "nome": "Equa\u00e7\u00f5es Diferenciais",
+                    "sigla": "M2011",
+                    "tipo": "T",
+                    "turma": "M2011_T",
+                    "turmac": "M2011_T",
+                    "duracao": "2",
+                    "sala": "FC1007",
+                    "profsig": "IMBFC",
+                    "prof": "In\u00eas Cruz"
+                }
+            ],
+            "nome": "Equa\u00e7\u00f5es Diferenciais",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Equa\u00e7\u00f5es Diferenciais",
+                    "sigla": "M2011",
+                    "tipo": "TP",
+                    "turma": "M2011_TP1",
+                    "turmac": "M2011_TP1",
+                    "duracao": "4",
+                    "sala": "FC1107",
+                    "profsig": "IMBFC",
+                    "prof": "In\u00eas Cruz"
+                },
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Equa\u00e7\u00f5es Diferenciais",
+                    "sigla": "M2011",
+                    "tipo": "TP",
+                    "turma": "M2011_TP2",
+                    "turmac": "M2011_TP2",
+                    "duracao": "4",
+                    "sala": "FC1107",
+                    "profsig": "IMBFC",
+                    "prof": "In\u00eas Cruz"
+                }
+            ]
+        },
+        "M2012": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 14.5,
+                    "nome": "Teoria de An\u00e9is e Aplica\u00e7\u00f5es",
+                    "sigla": "M2012",
+                    "tipo": "T",
+                    "turma": "M2012_T",
+                    "turmac": "M2012_T",
+                    "duracao": "2",
+                    "sala": "FC1107",
+                    "profsig": "JMMGA",
+                    "prof": "Jorge Almeida"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14.5,
+                    "nome": "Teoria de An\u00e9is e Aplica\u00e7\u00f5es",
+                    "sigla": "M2012",
+                    "tipo": "T",
+                    "turma": "M2012_T",
+                    "turmac": "M2012_T",
+                    "duracao": "2",
+                    "sala": "FC1030",
+                    "profsig": "JMMGA",
+                    "prof": "Jorge Almeida"
+                }
+            ],
+            "nome": "Teoria de An\u00e9is e Aplica\u00e7\u00f5es",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "Teoria de An\u00e9is e Aplica\u00e7\u00f5es",
+                    "sigla": "M2012",
+                    "tipo": "TP",
+                    "turma": "M2012_TP",
+                    "turmac": "M2012_TP",
+                    "duracao": "4",
+                    "sala": "FC1107",
+                    "profsig": "JMMGA",
+                    "prof": "Jorge Almeida"
+                }
+            ]
+        },
+        "M2018": {
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "An\u00e1lise Num\u00e9rica",
+                    "sigla": "M2018",
+                    "tipo": "T",
+                    "turma": "M2018_T",
+                    "turmac": "M2018_T",
+                    "duracao": "2",
+                    "sala": "FC1007",
+                    "profsig": "MJPSR",
+                    "prof": "Maria Jo\u00e3o Rodrigues"
+                },
+                {
+                    "dia": 1,
+                    "hora": 10,
+                    "nome": "An\u00e1lise Num\u00e9rica",
+                    "sigla": "M2018",
+                    "tipo": "T",
+                    "turma": "M2018_T",
+                    "turmac": "M2018_T",
+                    "duracao": "2",
+                    "sala": "FC1007",
+                    "profsig": "MJPSR",
+                    "prof": "Maria Jo\u00e3o Rodrigues"
+                }
+            ],
+            "nome": "An\u00e1lise Num\u00e9rica",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "An\u00e1lise Num\u00e9rica",
+                    "sigla": "M2018",
+                    "tipo": "TP",
+                    "turma": "M2018_TP1",
+                    "turmac": "M2018_TP1",
+                    "duracao": "4",
+                    "sala": "FC1118",
+                    "profsig": "MJPSR",
+                    "prof": "Maria Jo\u00e3o Rodrigues"
+                },
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "An\u00e1lise Num\u00e9rica",
+                    "sigla": "M2018",
+                    "tipo": "TP",
+                    "turma": "M2018_TP2",
+                    "turmac": "M2018_TP2",
+                    "duracao": "4",
+                    "sala": "FC1106",
+                    "profsig": "MJPSR",
+                    "prof": "Maria Jo\u00e3o Rodrigues"
+                }
+            ]
+        },
+        "M2020": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 14.5,
+                    "nome": "Estat\u00edstica Aplicada",
+                    "sigla": "M2020",
+                    "tipo": "T",
+                    "turma": "M2020_T",
+                    "turmac": "M2020_T",
+                    "duracao": "2",
+                    "sala": "FC1007",
+                    "profsig": "\u00d3ALF",
+                    "prof": "\u00d3scar Felgueiras"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14.5,
+                    "nome": "Estat\u00edstica Aplicada",
+                    "sigla": "M2020",
+                    "tipo": "T",
+                    "turma": "M2020_T",
+                    "turmac": "M2020_T",
+                    "duracao": "2",
+                    "sala": "FC1007",
+                    "profsig": "\u00d3ALF",
+                    "prof": "\u00d3scar Felgueiras"
+                }
+            ],
+            "nome": "Estat\u00edstica Aplicada",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Estat\u00edstica Aplicada",
+                    "sigla": "M2020",
+                    "tipo": "TP",
+                    "turma": "M2020_TP1",
+                    "turmac": "M2020_TP1",
+                    "duracao": "4",
+                    "sala": "FC1119",
+                    "profsig": "\u00d3ALF",
+                    "prof": "\u00d3scar Felgueiras"
+                },
+                {
+                    "dia": 4,
+                    "hora": 15.5,
+                    "nome": "Estat\u00edstica Aplicada",
+                    "sigla": "M2020",
+                    "tipo": "TP",
+                    "turma": "M2020_TP2",
+                    "turmac": "M2020_TP2",
+                    "duracao": "4",
+                    "sala": "FC1119",
+                    "profsig": "\u00d3ALF",
+                    "prof": "\u00d3scar Felgueiras"
+                }
+            ]
+        },
+        "M2021": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Hist\u00f3ria da Matem\u00e1tica",
+                    "sigla": "M2021",
+                    "tipo": "T",
+                    "turma": "M2021_T",
+                    "turmac": "M2021_T",
+                    "duracao": "2",
+                    "sala": "FC1005",
+                    "profsig": "JCSOS",
+                    "prof": "Jos\u00e9 Carlos Santos"
+                },
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Hist\u00f3ria da Matem\u00e1tica",
+                    "sigla": "M2021",
+                    "tipo": "T",
+                    "turma": "M2021_T",
+                    "turmac": "M2021_T",
+                    "duracao": "2",
+                    "sala": "FC1005",
+                    "profsig": "JCSOS",
+                    "prof": "Jos\u00e9 Carlos Santos"
+                }
+            ],
+            "nome": "Hist\u00f3ria da Matem\u00e1tica",
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Hist\u00f3ria da Matem\u00e1tica",
+                    "sigla": "M2021",
+                    "tipo": "TP",
+                    "turma": "M2021_TP",
+                    "turmac": "M2021_TP",
+                    "duracao": "4",
+                    "sala": "FC1030",
+                    "profsig": "JCSOS",
+                    "prof": "Jos\u00e9 Carlos Santos"
+                }
+            ]
+        },
+        "M3003": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "An\u00e1lise Linear",
+                    "sigla": "M3003",
+                    "tipo": "TP",
+                    "turma": "M3003_TP",
+                    "turmac": "M3003_TP",
+                    "duracao": "4",
+                    "sala": "FC1004",
+                    "profsig": "SBY",
+                    "prof": "Semyon Yakubovich"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "An\u00e1lise Linear",
+                    "sigla": "M3003",
+                    "tipo": "TP",
+                    "turma": "M3003_TP",
+                    "turmac": "M3003_TP",
+                    "duracao": "4",
+                    "sala": "FC1031",
+                    "profsig": "SBY",
+                    "prof": "Semyon Yakubovich"
+                }
+            ],
+            "nome": "An\u00e1lise Linear"
+        },
+        "M3006": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Equa\u00e7\u00f5es \u00e0s Derivadas Parciais e An\u00e1lise de Fourier",
+                    "sigla": "M3006",
+                    "tipo": "TP",
+                    "turma": "M3006_TP",
+                    "turmac": "M3006_TP",
+                    "duracao": "4",
+                    "sala": "FC1031",
+                    "profsig": "PVA",
+                    "prof": "Paulo Ara\u00fajo"
+                },
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Equa\u00e7\u00f5es \u00e0s Derivadas Parciais e An\u00e1lise de Fourier",
+                    "sigla": "M3006",
+                    "tipo": "TP",
+                    "turma": "M3006_TP",
+                    "turmac": "M3006_TP",
+                    "duracao": "4",
+                    "sala": "FC1031",
+                    "profsig": "PVA",
+                    "prof": "Paulo Ara\u00fajo"
+                }
+            ],
+            "nome": "Equa\u00e7\u00f5es \u00e0s Derivadas Parciais e An\u00e1lise de Fourier"
+        },
+        "M3007": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 14.5,
+                    "nome": "Geometria Diferencial",
+                    "sigla": "M3007",
+                    "tipo": "TP",
+                    "turma": "M3007_TP",
+                    "turmac": "M3007_TP",
+                    "duracao": "4",
+                    "sala": "FC1031",
+                    "profsig": "PBG",
+                    "prof": "Peter Gothen"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14.5,
+                    "nome": "Geometria Diferencial",
+                    "sigla": "M3007",
+                    "tipo": "TP",
+                    "turma": "M3007_TP",
+                    "turmac": "M3007_TP",
+                    "duracao": "4",
+                    "sala": "FC1031",
+                    "profsig": "PBG",
+                    "prof": "Peter Gothen"
+                }
+            ],
+            "nome": "Geometria Diferencial"
+        },
+        "M3009": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 14.5,
+                    "nome": "L\u00f3gica e Fundamentos",
+                    "sigla": "M3009",
+                    "tipo": "TP",
+                    "turma": "M3009_TP",
+                    "turmac": "M3009_TP",
+                    "duracao": "4",
+                    "sala": "FC1031",
+                    "profsig": "LMCL",
+                    "prof": "Lucinda Lima"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14.5,
+                    "nome": "L\u00f3gica e Fundamentos",
+                    "sigla": "M3009",
+                    "tipo": "TP",
+                    "turma": "M3009_TP",
+                    "turmac": "M3009_TP",
+                    "duracao": "4",
+                    "sala": "FC1031",
+                    "profsig": "LMCL",
+                    "prof": "Lucinda Lima"
+                }
+            ],
+            "nome": "L\u00f3gica e Fundamentos"
+        },
+        "M3010": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Matem\u00e1tica Computacional",
+                    "sigla": "M3010",
+                    "tipo": "TP",
+                    "turma": "M3010_TP",
+                    "turmac": "M3010_TP",
+                    "duracao": "4",
+                    "sala": "FC1029+FC1119",
+                    "profsig": "CEL+MZR",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 16.5,
+                    "nome": "Matem\u00e1tica Computacional",
+                    "sigla": "M3010",
+                    "tipo": "TP",
+                    "turma": "M3010_TP",
+                    "turmac": "M3010_TP",
+                    "duracao": "4",
+                    "sala": "FC1006",
+                    "profsig": "CEL+MZR",
+                    "prof": null
+                }
+            ],
+            "nome": "Matem\u00e1tica Computacional"
+        },
+        "M3014": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Simula\u00e7\u00e3o e Processos Estoc\u00e1sticos",
+                    "sigla": "M3014",
+                    "tipo": "TP",
+                    "turma": "M3014_TP",
+                    "turmac": "M3014_TP",
+                    "duracao": "4",
+                    "sala": "FC1030",
+                    "profsig": "SMAG",
+                    "prof": "S\u00edlvio Gama"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Simula\u00e7\u00e3o e Processos Estoc\u00e1sticos",
+                    "sigla": "M3014",
+                    "tipo": "TP",
+                    "turma": "M3014_TP",
+                    "turmac": "M3014_TP",
+                    "duracao": "4",
+                    "sala": "FC1030",
+                    "profsig": "SMAG",
+                    "prof": "S\u00edlvio Gama"
+                }
+            ],
+            "nome": "Simula\u00e7\u00e3o e Processos Estoc\u00e1sticos"
+        }
+    },
+    "3\u00ba Ano": {
+        "M1015": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 10,
+                    "nome": "An\u00e1lise II",
+                    "sigla": "M1015",
+                    "tipo": "T",
+                    "turma": "M1015_T",
+                    "turmac": "M1015_T",
+                    "duracao": "2",
+                    "sala": "FC1027",
+                    "profsig": "AAP",
+                    "prof": "Alberto Pinto"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "An\u00e1lise II",
+                    "sigla": "M1015",
+                    "tipo": "T",
+                    "turma": "M1015_T",
+                    "turmac": "M1015_T",
+                    "duracao": "2",
+                    "sala": "FC1027",
+                    "profsig": "AAP",
+                    "prof": "Alberto Pinto"
+                },
+                {
+                    "dia": 5,
+                    "hora": 12,
+                    "nome": "An\u00e1lise II",
+                    "sigla": "M1015",
+                    "tipo": "T",
+                    "turma": "M1015_T",
+                    "turmac": "M1015_T",
+                    "duracao": "2",
+                    "sala": "FC1027",
+                    "profsig": "AAP",
+                    "prof": "Alberto Pinto"
+                }
+            ],
+            "nome": "An\u00e1lise II",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "An\u00e1lise II",
+                    "sigla": "M1015",
+                    "tipo": "TP",
+                    "turma": "M1015_TP1",
+                    "turmac": "M1015_TP1",
+                    "duracao": "3",
+                    "sala": "FC1107",
+                    "profsig": "AAP",
+                    "prof": "Alberto Pinto"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "An\u00e1lise II",
+                    "sigla": "M1015",
+                    "tipo": "TP",
+                    "turma": "M1015_TP1",
+                    "turmac": "M1015_TP1",
+                    "duracao": "3",
+                    "sala": "FC1107",
+                    "profsig": "AAP",
+                    "prof": "Alberto Pinto"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "An\u00e1lise II",
+                    "sigla": "M1015",
+                    "tipo": "TP",
+                    "turma": "M1015_TP2",
+                    "turmac": "M1015_TP2",
+                    "duracao": "3",
+                    "sala": "FC1107",
+                    "profsig": "SBY",
+                    "prof": "Semyon Yakubovich"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14.5,
+                    "nome": "An\u00e1lise II",
+                    "sigla": "M1015",
+                    "tipo": "TP",
+                    "turma": "M1015_TP2",
+                    "turmac": "M1015_TP2",
+                    "duracao": "3",
+                    "sala": "FC1107",
+                    "profsig": "SBY",
+                    "prof": "Semyon Yakubovich"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,812 @@
+{
+    "2\u00ba Ano": {
+        "IESB": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 14.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Engenharia de Sistemas e de Bioprocessos",
+                    "sigla": "IESB",
+                    "tipo": "TP",
+                    "turma": "MIB2A",
+                    "turmac": "COMP_1332",
+                    "duracao": "3",
+                    "sala": "B029",
+                    "profsig": "LM",
+                    "prof": "Lu\u00eds Melo"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Engenharia de Sistemas e de Bioprocessos",
+                    "sigla": "IESB",
+                    "tipo": "TP",
+                    "turma": "MIB2A",
+                    "turmac": "COMP_1332",
+                    "duracao": "3",
+                    "sala": "B035",
+                    "profsig": "LM",
+                    "prof": "Lu\u00eds Melo"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Engenharia de Sistemas e de Bioprocessos",
+                    "sigla": "IESB",
+                    "tipo": "TP",
+                    "turma": "MIB2B",
+                    "turmac": "COMP_1332",
+                    "duracao": "3",
+                    "sala": "B029",
+                    "profsig": "LM",
+                    "prof": "Lu\u00eds Melo"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Engenharia de Sistemas e de Bioprocessos",
+                    "sigla": "IESB",
+                    "tipo": "TP",
+                    "turma": "MIB2B",
+                    "turmac": "COMP_1332",
+                    "duracao": "3",
+                    "sala": "B035",
+                    "profsig": "LM",
+                    "prof": "Lu\u00eds Melo"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Engenharia de Sistemas e de Bioprocessos",
+                    "sigla": "IESB",
+                    "tipo": "TP",
+                    "turma": "MIB2C",
+                    "turmac": "COMP_1332",
+                    "duracao": "3",
+                    "sala": "B029",
+                    "profsig": "LM",
+                    "prof": "Lu\u00eds Melo"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14.5,
+                    "nome": "Introdu\u00e7\u00e3o \u00e0 Engenharia de Sistemas e de Bioprocessos",
+                    "sigla": "IESB",
+                    "tipo": "TP",
+                    "turma": "MIB2C",
+                    "turmac": "COMP_1332",
+                    "duracao": "3",
+                    "sala": "B035",
+                    "profsig": "LM",
+                    "prof": "Lu\u00eds Melo"
+                }
+            ],
+            "nome": "Introdu\u00e7\u00e3o \u00e0 Engenharia de Sistemas e de Bioprocessos"
+        },
+        "SELE": {
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Sinais e Eletr\u00f3nica",
+                    "sigla": "SELE",
+                    "tipo": "PL",
+                    "turma": "MIB2A",
+                    "turmac": "MIB2A",
+                    "duracao": "4",
+                    "sala": "I008",
+                    "profsig": "DSF",
+                    "prof": "Diamantino Freitas"
+                },
+                {
+                    "dia": 5,
+                    "hora": 16,
+                    "nome": "Sinais e Eletr\u00f3nica",
+                    "sigla": "SELE",
+                    "tipo": "PL",
+                    "turma": "MIB2B",
+                    "turmac": "MIB2B",
+                    "duracao": "4",
+                    "sala": "I008",
+                    "profsig": "DSF",
+                    "prof": "Diamantino Freitas"
+                },
+                {
+                    "dia": 4,
+                    "hora": 18,
+                    "nome": "Sinais e Eletr\u00f3nica",
+                    "sigla": "SELE",
+                    "tipo": "PL",
+                    "turma": "MIB2C",
+                    "turmac": "MIB2C",
+                    "duracao": "4",
+                    "sala": "I008",
+                    "profsig": "DSF",
+                    "prof": "Diamantino Freitas"
+                }
+            ],
+            "nome": "Sinais e Eletr\u00f3nica"
+        }
+    },
+    "3\u00ba Ano": {
+        "ENGP": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Engenharia de Prote\u00ednas",
+                    "sigla": "ENGP",
+                    "tipo": "TP",
+                    "turma": "MIBEBIOL3A",
+                    "turmac": "COMP_758",
+                    "duracao": "3",
+                    "sala": "B027",
+                    "profsig": "FJMM",
+                    "prof": "Filipe Mergulh\u00e3o"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Engenharia de Prote\u00ednas",
+                    "sigla": "ENGP",
+                    "tipo": "TP",
+                    "turma": "MIBEBIOL3A",
+                    "turmac": "COMP_758",
+                    "duracao": "3",
+                    "sala": "B034",
+                    "profsig": "FJMM",
+                    "prof": "Filipe Mergulh\u00e3o"
+                }
+            ],
+            "nome": "Engenharia de Prote\u00ednas"
+        },
+        "PSEP": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Processos de Separa\u00e7\u00e3o",
+                    "sigla": "PSEP",
+                    "tipo": "TP",
+                    "turma": "MIBEBIOL3A",
+                    "turmac": "MIBEBIOL3A",
+                    "duracao": "4",
+                    "sala": "B022",
+                    "profsig": "DGB",
+                    "prof": "Domingos Barbosa"
+                },
+                {
+                    "dia": 1,
+                    "hora": 13.5,
+                    "nome": "Processos de Separa\u00e7\u00e3o",
+                    "sigla": "PSEP",
+                    "tipo": "TP",
+                    "turma": "MIBEBIOL3A",
+                    "turmac": "MIBEBIOL3A",
+                    "duracao": "4",
+                    "sala": "B022",
+                    "profsig": "DGB",
+                    "prof": "Domingos Barbosa"
+                }
+            ],
+            "nome": "Processos de Separa\u00e7\u00e3o"
+        },
+        "EENZ": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 10.5,
+                    "nome": "Engenharia Enzim\u00e1tica",
+                    "sigla": "EENZ",
+                    "tipo": "TP",
+                    "turma": "MIBEBIOL3A",
+                    "turmac": "COMP_758",
+                    "duracao": "3",
+                    "sala": "B027",
+                    "profsig": "FXDDAM",
+                    "prof": "Francisco Malcata"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Engenharia Enzim\u00e1tica",
+                    "sigla": "EENZ",
+                    "tipo": "TP",
+                    "turma": "MIBEBIOL3A",
+                    "turmac": "COMP_758",
+                    "duracao": "3",
+                    "sala": "B022",
+                    "profsig": "FXDDAM",
+                    "prof": "Francisco Malcata"
+                }
+            ],
+            "nome": "Engenharia Enzim\u00e1tica"
+        },
+        "EBIO": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Engenharia de Biorrecursos",
+                    "sigla": "EBIO",
+                    "tipo": "TP",
+                    "turma": "MIBEBIOL3A",
+                    "turmac": "COMP_758",
+                    "duracao": "3",
+                    "sala": "B034",
+                    "profsig": "MJVS",
+                    "prof": "Manuel Sim\u00f5es"
+                },
+                {
+                    "dia": 1,
+                    "hora": 15.5,
+                    "nome": "Engenharia de Biorrecursos",
+                    "sigla": "EBIO",
+                    "tipo": "TP",
+                    "turma": "MIBEBIOL3A",
+                    "turmac": "COMP_758",
+                    "duracao": "3",
+                    "sala": "B022",
+                    "profsig": "MJVS",
+                    "prof": "Manuel Sim\u00f5es"
+                }
+            ],
+            "nome": "Engenharia de Biorrecursos"
+        },
+        "CPIN": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Controlo de Processos e Instrumenta\u00e7\u00e3o",
+                    "sigla": "CPIN",
+                    "tipo": "TP",
+                    "turma": "MIBEBIOL3A",
+                    "turmac": "MIBEBIOL3A",
+                    "duracao": "3",
+                    "sala": "B016",
+                    "profsig": "FDM",
+                    "prof": "Fern\u00e3o Magalh\u00e3es"
+                }
+            ],
+            "nome": "Controlo de Processos e Instrumenta\u00e7\u00e3o",
+            "PL": [
+                {
+                    "dia": 5,
+                    "hora": 15.5,
+                    "nome": "Controlo de Processos e Instrumenta\u00e7\u00e3o",
+                    "sigla": "CPIN",
+                    "tipo": "PL",
+                    "turma": "MIBEBIOL3A",
+                    "turmac": "MIBEBIOL3A",
+                    "duracao": "4",
+                    "sala": "B305",
+                    "profsig": "FDM",
+                    "prof": "Fern\u00e3o Magalh\u00e3es"
+                }
+            ]
+        },
+        "INSB": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Instrumenta\u00e7\u00e3o Biom\u00e9dica",
+                    "sigla": "INSB",
+                    "tipo": "PL",
+                    "turma": "MIBEBIOM3A",
+                    "turmac": "MIBEBIOM3A",
+                    "duracao": "4",
+                    "sala": "I008",
+                    "profsig": "JFS+MVC",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Instrumenta\u00e7\u00e3o Biom\u00e9dica",
+                    "sigla": "INSB",
+                    "tipo": "PL",
+                    "turma": "MIBEBIOM3B",
+                    "turmac": "COMP_1490",
+                    "duracao": "4",
+                    "sala": "I008",
+                    "profsig": "JFS+MVC",
+                    "prof": null
+                }
+            ],
+            "nome": "Instrumenta\u00e7\u00e3o Biom\u00e9dica",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Instrumenta\u00e7\u00e3o Biom\u00e9dica",
+                    "sigla": "INSB",
+                    "tipo": "TP",
+                    "turma": "MIBEBIOM3A",
+                    "turmac": "COMP_1489",
+                    "duracao": "3",
+                    "sala": "B012",
+                    "profsig": "JFS+MVC",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 14.5,
+                    "nome": "Instrumenta\u00e7\u00e3o Biom\u00e9dica",
+                    "sigla": "INSB",
+                    "tipo": "TP",
+                    "turma": "MIBEBIOM3A",
+                    "turmac": "COMP_1489",
+                    "duracao": "3",
+                    "sala": "B028",
+                    "profsig": "JFS+MVC",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Instrumenta\u00e7\u00e3o Biom\u00e9dica",
+                    "sigla": "INSB",
+                    "tipo": "TP",
+                    "turma": "MIBEBIOM3B",
+                    "turmac": "COMP_1489",
+                    "duracao": "3",
+                    "sala": "B012",
+                    "profsig": "JFS+MVC",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 14.5,
+                    "nome": "Instrumenta\u00e7\u00e3o Biom\u00e9dica",
+                    "sigla": "INSB",
+                    "tipo": "TP",
+                    "turma": "MIBEBIOM3B",
+                    "turmac": "COMP_1489",
+                    "duracao": "3",
+                    "sala": "B028",
+                    "profsig": "JFS+MVC",
+                    "prof": null
+                }
+            ]
+        },
+        "LIEB": {
+            "PL": [
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Laborat\u00f3rio Integrado em Engenharia Biom\u00e9dica",
+                    "sigla": "LIEB",
+                    "tipo": "PL",
+                    "turma": "MIBEBIOM3A",
+                    "turmac": "COMP_978",
+                    "duracao": "8",
+                    "sala": "B203+I008",
+                    "profsig": "MVC",
+                    "prof": "Miguel Velhote Correia"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Laborat\u00f3rio Integrado em Engenharia Biom\u00e9dica",
+                    "sigla": "LIEB",
+                    "tipo": "PL",
+                    "turma": "MIBEBIOM3B",
+                    "turmac": "COMP_978",
+                    "duracao": "8",
+                    "sala": "B203+I008",
+                    "profsig": "MVC",
+                    "prof": "Miguel Velhote Correia"
+                }
+            ],
+            "nome": "Laborat\u00f3rio Integrado em Engenharia Biom\u00e9dica"
+        },
+        "BCHU": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Biomec\u00e2nica do Corpo Humano",
+                    "sigla": "BCHU",
+                    "tipo": "TP",
+                    "turma": "MIBEBIOM3A",
+                    "turmac": "COMP_978",
+                    "duracao": "3",
+                    "sala": "B012",
+                    "profsig": "RMG+MPV+RNJ",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 15.5,
+                    "nome": "Biomec\u00e2nica do Corpo Humano",
+                    "sigla": "BCHU",
+                    "tipo": "TP",
+                    "turma": "MIBEBIOM3A",
+                    "turmac": "COMP_978",
+                    "duracao": "3",
+                    "sala": "B034",
+                    "profsig": "RMG+MPV+RNJ",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Biomec\u00e2nica do Corpo Humano",
+                    "sigla": "BCHU",
+                    "tipo": "TP",
+                    "turma": "MIBEBIOM3B",
+                    "turmac": "COMP_978",
+                    "duracao": "3",
+                    "sala": "B012",
+                    "profsig": "RMG+MPV+RNJ",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 15.5,
+                    "nome": "Biomec\u00e2nica do Corpo Humano",
+                    "sigla": "BCHU",
+                    "tipo": "TP",
+                    "turma": "MIBEBIOM3B",
+                    "turmac": "COMP_978",
+                    "duracao": "3",
+                    "sala": "B034",
+                    "profsig": "RMG+MPV+RNJ",
+                    "prof": null
+                }
+            ],
+            "nome": "Biomec\u00e2nica do Corpo Humano",
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Biomec\u00e2nica do Corpo Humano",
+                    "sigla": "BCHU",
+                    "tipo": "PL",
+                    "turma": "MIBEBIOM3A",
+                    "turmac": "COMP_978",
+                    "duracao": "4",
+                    "sala": "L101",
+                    "profsig": "RMG+MPV+RNJ",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Biomec\u00e2nica do Corpo Humano",
+                    "sigla": "BCHU",
+                    "tipo": "PL",
+                    "turma": "MIBEBIOM3B",
+                    "turmac": "COMP_978",
+                    "duracao": "4",
+                    "sala": "L101",
+                    "profsig": "RMG+MPV+RNJ",
+                    "prof": null
+                }
+            ]
+        },
+        "BIOM": {
+            "PL": [
+                {
+                    "dia": 5,
+                    "hora": 9.5,
+                    "nome": "Biomateriais",
+                    "sigla": "BIOM",
+                    "tipo": "PL",
+                    "turma": "MIBEBIOM3A",
+                    "turmac": "MIBEBIOM3A",
+                    "duracao": "6",
+                    "sala": "F202",
+                    "profsig": "MLopes",
+                    "prof": "Maria Ascens\u00e3o Lopes"
+                }
+            ],
+            "nome": "Biomateriais",
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Biomateriais",
+                    "sigla": "BIOM",
+                    "tipo": "TP",
+                    "turma": "MIBEBIOM3A",
+                    "turmac": "COMP_978",
+                    "duracao": "3",
+                    "sala": "B029",
+                    "profsig": "JDS+MLopes+FMM",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Biomateriais",
+                    "sigla": "BIOM",
+                    "tipo": "TP",
+                    "turma": "MIBEBIOM3A",
+                    "turmac": "COMP_978",
+                    "duracao": "3",
+                    "sala": "B029",
+                    "profsig": "JDS+MLopes+FMM",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Biomateriais",
+                    "sigla": "BIOM",
+                    "tipo": "TP",
+                    "turma": "MIBEBIOM3B",
+                    "turmac": "COMP_978",
+                    "duracao": "3",
+                    "sala": "B029",
+                    "profsig": "JDS+MLopes+FMM",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Biomateriais",
+                    "sigla": "BIOM",
+                    "tipo": "TP",
+                    "turma": "MIBEBIOM3B",
+                    "turmac": "COMP_978",
+                    "duracao": "3",
+                    "sala": "B029",
+                    "profsig": "JDS+MLopes+FMM",
+                    "prof": null
+                }
+            ]
+        }
+    },
+    "4\u00ba Ano": {
+        "PRINV": {
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 12.5,
+                    "nome": "Projeto de Investiga\u00e7\u00e3o",
+                    "sigla": "PRINV",
+                    "tipo": "PL",
+                    "turma": "MIBEBIOL4",
+                    "turmac": "MIBEBIOL4",
+                    "duracao": "2",
+                    "sala": "B214",
+                    "profsig": "MJVS",
+                    "prof": "Manuel Sim\u00f5es"
+                }
+            ],
+            "nome": "Projeto de Investiga\u00e7\u00e3o"
+        },
+        "LBDAW": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 8.5,
+                    "nome": "Laborat\u00f3rio de Bases de Dados e Aplica\u00e7\u00f5es Web",
+                    "sigla": "LBDAW",
+                    "tipo": "T",
+                    "turma": "MIBEBIOM4A",
+                    "turmac": "MIBEBIOM4A",
+                    "duracao": "4",
+                    "sala": "B002",
+                    "profsig": "JCL+SSN",
+                    "prof": null
+                }
+            ],
+            "nome": "Laborat\u00f3rio de Bases de Dados e Aplica\u00e7\u00f5es Web",
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 10.5,
+                    "nome": "Laborat\u00f3rio de Bases de Dados e Aplica\u00e7\u00f5es Web",
+                    "sigla": "LBDAW",
+                    "tipo": "PL",
+                    "turma": "MIBEBIOM4A",
+                    "turmac": "MIBEBIOM4A",
+                    "duracao": "6",
+                    "sala": "B307",
+                    "profsig": "SSN",
+                    "prof": "S\u00e9rgio Nunes"
+                }
+            ]
+        },
+        "MEBI": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Modela\u00e7\u00e3o em Engenharia Biom\u00e9dica",
+                    "sigla": "MEBI",
+                    "tipo": "TP",
+                    "turma": "MIBEBIOM4A",
+                    "turmac": "COMP_680",
+                    "duracao": "6",
+                    "sala": "B028",
+                    "profsig": "JDS+LFB",
+                    "prof": null
+                }
+            ],
+            "nome": "Modela\u00e7\u00e3o em Engenharia Biom\u00e9dica"
+        },
+        "IO": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 9.5,
+                    "nome": "Investiga\u00e7\u00e3o Operacional",
+                    "sigla": "IO",
+                    "tipo": "TP",
+                    "turma": "MIBEBIOM4A",
+                    "turmac": "MIBEBIOM4A",
+                    "duracao": "4",
+                    "sala": "B103",
+                    "profsig": "LGRRF",
+                    "prof": "Gon\u00e7alo Figueira"
+                }
+            ],
+            "nome": "Investiga\u00e7\u00e3o Operacional",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Investiga\u00e7\u00e3o Operacional",
+                    "sigla": "IO",
+                    "tipo": "T",
+                    "turma": "MIBEBIOM4A",
+                    "turmac": "MIBEBIOM4A",
+                    "duracao": "4",
+                    "sala": "B006",
+                    "profsig": "JSF",
+                    "prof": "Jos\u00e9 Soeiro Ferreira"
+                }
+            ]
+        },
+        "ESB": {
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 10,
+                    "nome": "Eletr\u00f3nica de Sistemas Biom\u00e9dicos",
+                    "sigla": "ESB",
+                    "tipo": "PL",
+                    "turma": "MIBEBIOM4A",
+                    "turmac": "MIBEBIOM4A",
+                    "duracao": "4",
+                    "sala": "I008",
+                    "profsig": "JAM",
+                    "prof": "Jos\u00e9 Machado Da Silva"
+                }
+            ],
+            "nome": "Eletr\u00f3nica de Sistemas Biom\u00e9dicos",
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Eletr\u00f3nica de Sistemas Biom\u00e9dicos",
+                    "sigla": "ESB",
+                    "tipo": "T",
+                    "turma": "MIBEBIOM4A",
+                    "turmac": "MIBEBIOM4A",
+                    "duracao": "4",
+                    "sala": "I221",
+                    "profsig": "JAM",
+                    "prof": "Jos\u00e9 Machado Da Silva"
+                }
+            ]
+        },
+        "IM": {
+            "PL": [
+                {
+                    "dia": 5,
+                    "hora": 11.5,
+                    "nome": "Imagiologia M\u00e9dica",
+                    "sigla": "IM",
+                    "tipo": "PL",
+                    "turma": "MIBEBIOM4A",
+                    "turmac": "MIBEBIOM4A",
+                    "duracao": "2",
+                    "sala": "B031",
+                    "profsig": "AJSS",
+                    "prof": "Ant\u00f3nio Jos\u00e9 Santos Silva"
+                }
+            ],
+            "nome": "Imagiologia M\u00e9dica",
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 18,
+                    "nome": "Imagiologia M\u00e9dica",
+                    "sigla": "IM",
+                    "tipo": "TP",
+                    "turma": "MIBEBIOM4A",
+                    "turmac": "COMP_682",
+                    "duracao": "3",
+                    "sala": "B021",
+                    "profsig": "AJSS+IMAPR",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 18,
+                    "nome": "Imagiologia M\u00e9dica",
+                    "sigla": "IM",
+                    "tipo": "TP",
+                    "turma": "MIBEBIOM4A",
+                    "turmac": "COMP_682",
+                    "duracao": "3",
+                    "sala": "B028",
+                    "profsig": "AJSS+IMAPR",
+                    "prof": null
+                }
+            ]
+        },
+        "NEU": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "Neuroengenharia",
+                    "sigla": "NEU",
+                    "tipo": "TP",
+                    "turma": "MIBEBIOM4A",
+                    "turmac": "COMP_680",
+                    "duracao": "4",
+                    "sala": "B021",
+                    "profsig": "JPTSC",
+                    "prof": "Jo\u00e3o Paulo Cunha"
+                }
+            ],
+            "nome": "Neuroengenharia",
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 17.5,
+                    "nome": "Neuroengenharia",
+                    "sigla": "NEU",
+                    "tipo": "PL",
+                    "turma": "MIBEBIOM4A",
+                    "turmac": "COMP_680",
+                    "duracao": "4",
+                    "sala": "I305+I304",
+                    "profsig": "JPTSC",
+                    "prof": "Jo\u00e3o Paulo Cunha"
+                }
+            ]
+        },
+        "TES": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Telemedicina e e-Sa\u00fade",
+                    "sigla": "TES",
+                    "tipo": "TP",
+                    "turma": "MIBEBIOM4A",
+                    "turmac": "COMP_680",
+                    "duracao": "6",
+                    "sala": "B016",
+                    "profsig": "JPTSC",
+                    "prof": "Jo\u00e3o Paulo Cunha"
+                }
+            ],
+            "nome": "Telemedicina e e-Sa\u00fade",
+            "PL": [
+                {
+                    "dia": 3,
+                    "hora": 17,
+                    "nome": "Telemedicina e e-Sa\u00fade",
+                    "sigla": "TES",
+                    "tipo": "PL",
+                    "turma": "MIBEBIOM4A",
+                    "turmac": "COMP_680",
+                    "duracao": "2",
+                    "sala": "I305+I304",
+                    "profsig": "JPTSC",
+                    "prof": "Jo\u00e3o Paulo Cunha"
+                }
+            ]
+        }
+    }
+}

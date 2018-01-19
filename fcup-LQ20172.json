@@ -1,0 +1,1278 @@
+{
+    "1\u00ba Ano": {
+        "FIS1008": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "F\u00edsica II",
+                    "sigla": "FIS1008",
+                    "tipo": "T",
+                    "turma": "FIS1008_T",
+                    "turmac": "FIS1008_T",
+                    "duracao": "2",
+                    "sala": "FC2023",
+                    "profsig": "TMS",
+                    "prof": "Teresa Seixas"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "F\u00edsica II",
+                    "sigla": "FIS1008",
+                    "tipo": "T",
+                    "turma": "FIS1008_T",
+                    "turmac": "FIS1008_T",
+                    "duracao": "2",
+                    "sala": "FC2023",
+                    "profsig": "TMS",
+                    "prof": "Teresa Seixas"
+                }
+            ],
+            "nome": "F\u00edsica II",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "F\u00edsica II",
+                    "sigla": "FIS1008",
+                    "tipo": "TP",
+                    "turma": "FIS1008_TP1",
+                    "turmac": "FIS1008_TP1",
+                    "duracao": "4",
+                    "sala": "FC3013",
+                    "profsig": "MMRSALS",
+                    "prof": "Manuela Lopes dos Santos"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "F\u00edsica II",
+                    "sigla": "FIS1008",
+                    "tipo": "TP",
+                    "turma": "FIS1008_TP2",
+                    "turmac": "FIS1008_TP2",
+                    "duracao": "4",
+                    "sala": "FC3013",
+                    "profsig": "MMRSALS",
+                    "prof": "Manuela Lopes dos Santos"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "F\u00edsica II",
+                    "sigla": "FIS1008",
+                    "tipo": "TP",
+                    "turma": "FIS1008_TP3",
+                    "turmac": "FIS1008_TP3",
+                    "duracao": "4",
+                    "sala": "FC3013",
+                    "profsig": "PTPV",
+                    "prof": "Pedro Viana"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "F\u00edsica II",
+                    "sigla": "FIS1008",
+                    "tipo": "TP",
+                    "turma": "FIS1008_TP4",
+                    "turmac": "FIS1008_TP4",
+                    "duracao": "4",
+                    "sala": "FC3013",
+                    "profsig": "CSS",
+                    "prof": "Caroline Silva"
+                }
+            ]
+        },
+        "Q1001": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Qu\u00edmica Org\u00e2nica I",
+                    "sigla": "Q1001",
+                    "tipo": "TP",
+                    "turma": "Q1001_TP1",
+                    "turmac": "Q1001_TP1",
+                    "duracao": "2",
+                    "sala": "FC2-101",
+                    "profsig": "MLCV",
+                    "prof": "Maria Luisa Vale"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Qu\u00edmica Org\u00e2nica I",
+                    "sigla": "Q1001",
+                    "tipo": "TP",
+                    "turma": "Q1001_TP2",
+                    "turmac": "Q1001_TP2",
+                    "duracao": "2",
+                    "sala": "FC2-101",
+                    "profsig": "MLCV",
+                    "prof": "Maria Luisa Vale"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Qu\u00edmica Org\u00e2nica I",
+                    "sigla": "Q1001",
+                    "tipo": "TP",
+                    "turma": "Q1001_TP3",
+                    "turmac": "Q1001_TP3",
+                    "duracao": "2",
+                    "sala": "FC2-101",
+                    "profsig": "MJSMPA",
+                    "prof": "Maria Jo\u00e3o Ara\u00fajo"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Qu\u00edmica Org\u00e2nica I",
+                    "sigla": "Q1001",
+                    "tipo": "TP",
+                    "turma": "Q1001_TP4",
+                    "turmac": "Q1001_TP4",
+                    "duracao": "2",
+                    "sala": "FC2-101",
+                    "profsig": "MLCV",
+                    "prof": "Maria Luisa Vale"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Qu\u00edmica Org\u00e2nica I",
+                    "sigla": "Q1001",
+                    "tipo": "TP",
+                    "turma": "Q1001_TP5",
+                    "turmac": "Q1001_TP5",
+                    "duracao": "2",
+                    "sala": "FC2-101",
+                    "profsig": "MLCV",
+                    "prof": "Maria Luisa Vale"
+                },
+                {
+                    "dia": 4,
+                    "hora": 12,
+                    "nome": "Qu\u00edmica Org\u00e2nica I",
+                    "sigla": "Q1001",
+                    "tipo": "TP",
+                    "turma": "Q1001_TP6",
+                    "turmac": "Q1001_TP6",
+                    "duracao": "2",
+                    "sala": "FC2-101",
+                    "profsig": "MJSMPA",
+                    "prof": "Maria Jo\u00e3o Ara\u00fajo"
+                }
+            ],
+            "nome": "Qu\u00edmica Org\u00e2nica I",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 10,
+                    "nome": "Qu\u00edmica Org\u00e2nica I",
+                    "sigla": "Q1001",
+                    "tipo": "T",
+                    "turma": "Q1001_T1",
+                    "turmac": "Q1001_T1",
+                    "duracao": "2",
+                    "sala": "FC2007",
+                    "profsig": "MLCV",
+                    "prof": "Maria Luisa Vale"
+                },
+                {
+                    "dia": 3,
+                    "hora": 10,
+                    "nome": "Qu\u00edmica Org\u00e2nica I",
+                    "sigla": "Q1001",
+                    "tipo": "T",
+                    "turma": "Q1001_T1",
+                    "turmac": "Q1001_T1",
+                    "duracao": "2",
+                    "sala": "FC2007",
+                    "profsig": "MLCV",
+                    "prof": "Maria Luisa Vale"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "Qu\u00edmica Org\u00e2nica I",
+                    "sigla": "Q1001",
+                    "tipo": "T",
+                    "turma": "Q1001_T1",
+                    "turmac": "Q1001_T1",
+                    "duracao": "2",
+                    "sala": "FC2007",
+                    "profsig": "MLCV",
+                    "prof": "Maria Luisa Vale"
+                },
+                {
+                    "dia": 1,
+                    "hora": 12,
+                    "nome": "Qu\u00edmica Org\u00e2nica I",
+                    "sigla": "Q1001",
+                    "tipo": "T",
+                    "turma": "Q1001_T2",
+                    "turmac": "Q1001_T2",
+                    "duracao": "2",
+                    "sala": "FC2007",
+                    "profsig": "VAPF",
+                    "prof": "Victor Freitas"
+                },
+                {
+                    "dia": 3,
+                    "hora": 12,
+                    "nome": "Qu\u00edmica Org\u00e2nica I",
+                    "sigla": "Q1001",
+                    "tipo": "T",
+                    "turma": "Q1001_T2",
+                    "turmac": "Q1001_T2",
+                    "duracao": "2",
+                    "sala": "FC2007",
+                    "profsig": "VAPF",
+                    "prof": "Victor Freitas"
+                },
+                {
+                    "dia": 5,
+                    "hora": 12,
+                    "nome": "Qu\u00edmica Org\u00e2nica I",
+                    "sigla": "Q1001",
+                    "tipo": "T",
+                    "turma": "Q1001_T2",
+                    "turmac": "Q1001_T2",
+                    "duracao": "2",
+                    "sala": "FC2007",
+                    "profsig": "VAPF",
+                    "prof": "Victor Freitas"
+                }
+            ]
+        },
+        "Q1006": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica II",
+                    "sigla": "Q1006",
+                    "tipo": "PL",
+                    "turma": "Q1006_PL1",
+                    "turmac": "Q1006_PL1",
+                    "duracao": "4",
+                    "sala": "FC2-105+FC2-111",
+                    "profsig": "JMG",
+                    "prof": "Jorge Gon\u00e7alves"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica II",
+                    "sigla": "Q1006",
+                    "tipo": "PL",
+                    "turma": "Q1006_PL2",
+                    "turmac": "Q1006_PL2",
+                    "duracao": "4",
+                    "sala": "FC2-105+FC2-111",
+                    "profsig": "JMG",
+                    "prof": "Jorge Gon\u00e7alves"
+                },
+                {
+                    "dia": 5,
+                    "hora": 8,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica II",
+                    "sigla": "Q1006",
+                    "tipo": "PL",
+                    "turma": "Q1006_PL3",
+                    "turmac": "Q1006_PL3",
+                    "duracao": "4",
+                    "sala": "FC2-105+FC2-111",
+                    "profsig": "JMG",
+                    "prof": "Jorge Gon\u00e7alves"
+                },
+                {
+                    "dia": 3,
+                    "hora": 8,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica II",
+                    "sigla": "Q1006",
+                    "tipo": "PL",
+                    "turma": "Q1006_PL4",
+                    "turmac": "Q1006_PL4",
+                    "duracao": "4",
+                    "sala": "FC2-105+FC2-104",
+                    "profsig": "JMG",
+                    "prof": "Jorge Gon\u00e7alves"
+                }
+            ],
+            "nome": "Laborat\u00f3rio de Qu\u00edmica II"
+        },
+        "Q1011": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Qu\u00edmica II",
+                    "sigla": "Q1011",
+                    "tipo": "T",
+                    "turma": "Q1011_T",
+                    "turmac": "Q1011_T",
+                    "duracao": "2",
+                    "sala": "FC2007",
+                    "profsig": "BMRC",
+                    "prof": "Baltazar Castro"
+                },
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Qu\u00edmica II",
+                    "sigla": "Q1011",
+                    "tipo": "T",
+                    "turma": "Q1011_T",
+                    "turmac": "Q1011_T",
+                    "duracao": "2",
+                    "sala": "FC2007",
+                    "profsig": "BMRC",
+                    "prof": "Baltazar Castro"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Qu\u00edmica II",
+                    "sigla": "Q1011",
+                    "tipo": "T",
+                    "turma": "Q1011_T",
+                    "turmac": "Q1011_T",
+                    "duracao": "2",
+                    "sala": "FC2007",
+                    "profsig": "BMRC",
+                    "prof": "Baltazar Castro"
+                }
+            ],
+            "nome": "Qu\u00edmica II",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 10,
+                    "nome": "Qu\u00edmica II",
+                    "sigla": "Q1011",
+                    "tipo": "TP",
+                    "turma": "Q1011_TP1",
+                    "turmac": "Q1011_TP1",
+                    "duracao": "4",
+                    "sala": "FC2-103",
+                    "profsig": "APLMGS",
+                    "prof": "Paula Gameiro"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Qu\u00edmica II",
+                    "sigla": "Q1011",
+                    "tipo": "TP",
+                    "turma": "Q1011_TP2",
+                    "turmac": "Q1011_TP2",
+                    "duracao": "4",
+                    "sala": "FC2-103",
+                    "profsig": "MAA",
+                    "prof": "Manuel Azenha"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Qu\u00edmica II",
+                    "sigla": "Q1011",
+                    "tipo": "TP",
+                    "turma": "Q1011_TP3",
+                    "turmac": "Q1011_TP3",
+                    "duracao": "4",
+                    "sala": "FC2-101",
+                    "profsig": "MAA",
+                    "prof": "Manuel Azenha"
+                },
+                {
+                    "dia": 3,
+                    "hora": 16,
+                    "nome": "Qu\u00edmica II",
+                    "sigla": "Q1011",
+                    "tipo": "TP",
+                    "turma": "Q1011_TP4",
+                    "turmac": "Q1011_TP4",
+                    "duracao": "4",
+                    "sala": "FC2-101",
+                    "profsig": "MAA",
+                    "prof": "Manuel Azenha"
+                },
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Qu\u00edmica II",
+                    "sigla": "Q1011",
+                    "tipo": "TP",
+                    "turma": "Q1011_TP5",
+                    "turmac": "Q1011_TP5",
+                    "duracao": "4",
+                    "sala": "FC2-103",
+                    "profsig": "LMAR",
+                    "prof": "Lu\u00eds Miguel \u00c1lvares Ribeiro"
+                }
+            ]
+        }
+    },
+    "2\u00ba Ano": {
+        "Q2005": {
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica Anal\u00edtica",
+                    "sigla": "Q2005",
+                    "tipo": "PL",
+                    "turma": "Q2005_PL1",
+                    "turmac": "Q2005_PL1",
+                    "duracao": "4",
+                    "sala": "FC2013",
+                    "profsig": "JAMR",
+                    "prof": "Jos\u00e9 Rodrigues"
+                },
+                {
+                    "dia": 4,
+                    "hora": 15,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica Anal\u00edtica",
+                    "sigla": "Q2005",
+                    "tipo": "PL",
+                    "turma": "Q2005_PL3",
+                    "turmac": "Q2005_PL3",
+                    "duracao": "4",
+                    "sala": "FC2013",
+                    "profsig": "PJFA",
+                    "prof": "Paulo Almeida"
+                }
+            ],
+            "nome": "Laborat\u00f3rio de Qu\u00edmica Anal\u00edtica"
+        },
+        "Q2006": {
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica F\u00edsica",
+                    "sigla": "Q2006",
+                    "tipo": "PL",
+                    "turma": "Q2006_PL1",
+                    "turmac": "Q2006_PL1",
+                    "duracao": "4",
+                    "sala": "FC2-105+FC2019",
+                    "profsig": "LMNBFS",
+                    "prof": "Lu\u00eds Santos"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica F\u00edsica",
+                    "sigla": "Q2006",
+                    "tipo": "PL",
+                    "turma": "Q2006_PL2",
+                    "turmac": "Q2006_PL2",
+                    "duracao": "4",
+                    "sala": "FC2-105+FC2019",
+                    "profsig": "LMNBFS",
+                    "prof": "Lu\u00eds Santos"
+                },
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica F\u00edsica",
+                    "sigla": "Q2006",
+                    "tipo": "PL",
+                    "turma": "Q2006_PL3",
+                    "turmac": "Q2006_PL3",
+                    "duracao": "4",
+                    "sala": "FC2-105+FC2-111",
+                    "profsig": "LMNBFS",
+                    "prof": "Lu\u00eds Santos"
+                }
+            ],
+            "nome": "Laborat\u00f3rio de Qu\u00edmica F\u00edsica"
+        },
+        "Q2009": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 12,
+                    "nome": "Qu\u00edmica F\u00edsica",
+                    "sigla": "Q2009",
+                    "tipo": "T",
+                    "turma": "Q2009_T",
+                    "turmac": "Q2009_T",
+                    "duracao": "2",
+                    "sala": "FC2023",
+                    "profsig": "MDMCRS",
+                    "prof": "Maria das Dores Silva"
+                },
+                {
+                    "dia": 3,
+                    "hora": 12,
+                    "nome": "Qu\u00edmica F\u00edsica",
+                    "sigla": "Q2009",
+                    "tipo": "T",
+                    "turma": "Q2009_T",
+                    "turmac": "Q2009_T",
+                    "duracao": "2",
+                    "sala": "FC2023",
+                    "profsig": "MDMCRS",
+                    "prof": "Maria das Dores Silva"
+                },
+                {
+                    "dia": 5,
+                    "hora": 12,
+                    "nome": "Qu\u00edmica F\u00edsica",
+                    "sigla": "Q2009",
+                    "tipo": "T",
+                    "turma": "Q2009_T",
+                    "turmac": "Q2009_T",
+                    "duracao": "2",
+                    "sala": "FC2023",
+                    "profsig": "MDMCRS",
+                    "prof": "Maria das Dores Silva"
+                }
+            ],
+            "nome": "Qu\u00edmica F\u00edsica",
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "Qu\u00edmica F\u00edsica",
+                    "sigla": "Q2009",
+                    "tipo": "TP",
+                    "turma": "Q2009_TP1",
+                    "turmac": "Q2009_TP1",
+                    "duracao": "2",
+                    "sala": "FC2023",
+                    "profsig": "MDMCRS",
+                    "prof": "Maria das Dores Silva"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Qu\u00edmica F\u00edsica",
+                    "sigla": "Q2009",
+                    "tipo": "TP",
+                    "turma": "Q2009_TP2",
+                    "turmac": "Q2009_TP2",
+                    "duracao": "2",
+                    "sala": "FC2023",
+                    "profsig": "MDMCRS",
+                    "prof": "Maria das Dores Silva"
+                }
+            ]
+        },
+        "Q2012": {
+            "PL": [
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Estrutura At\u00f3mica e Molecular",
+                    "sigla": "Q2012",
+                    "tipo": "PL",
+                    "turma": "Q2012_PL1",
+                    "turmac": "Q2012_PL1",
+                    "duracao": "4",
+                    "sala": "FC2-104",
+                    "profsig": "MNDSC",
+                    "prof": "Maria Nat\u00e1lia Cordeiro"
+                }
+            ],
+            "nome": "Estrutura At\u00f3mica e Molecular",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 10,
+                    "nome": "Estrutura At\u00f3mica e Molecular",
+                    "sigla": "Q2012",
+                    "tipo": "T",
+                    "turma": "Q2012_T",
+                    "turmac": "Q2012_T",
+                    "duracao": "2",
+                    "sala": "FC2-103",
+                    "profsig": "MNDSC",
+                    "prof": "Maria Nat\u00e1lia Cordeiro"
+                },
+                {
+                    "dia": 3,
+                    "hora": 10,
+                    "nome": "Estrutura At\u00f3mica e Molecular",
+                    "sigla": "Q2012",
+                    "tipo": "T",
+                    "turma": "Q2012_T",
+                    "turmac": "Q2012_T",
+                    "duracao": "2",
+                    "sala": "FC2-103",
+                    "profsig": "MNDSC",
+                    "prof": "Maria Nat\u00e1lia Cordeiro"
+                }
+            ]
+        },
+        "Q2013": {
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 15,
+                    "nome": "M\u00e9todos de An\u00e1lise Estrutural",
+                    "sigla": "Q2013",
+                    "tipo": "PL",
+                    "turma": "Q2013_PL1",
+                    "turmac": "Q2013_PL1",
+                    "duracao": "4",
+                    "sala": "-113+-116+010",
+                    "profsig": "APLMGS+MFMB",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 15,
+                    "nome": "M\u00e9todos de An\u00e1lise Estrutural",
+                    "sigla": "Q2013",
+                    "tipo": "PL",
+                    "turma": "Q2013_PL2",
+                    "turmac": "Q2013_PL2",
+                    "duracao": "4",
+                    "sala": "-113+-116+010",
+                    "profsig": "APLMGS+MFMB",
+                    "prof": null
+                }
+            ],
+            "nome": "M\u00e9todos de An\u00e1lise Estrutural",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "M\u00e9todos de An\u00e1lise Estrutural",
+                    "sigla": "Q2013",
+                    "tipo": "T",
+                    "turma": "Q2013_T",
+                    "turmac": "Q2013_T",
+                    "duracao": "2",
+                    "sala": "FC2-103",
+                    "profsig": "MFMB+APLMGS",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "M\u00e9todos de An\u00e1lise Estrutural",
+                    "sigla": "Q2013",
+                    "tipo": "T",
+                    "turma": "Q2013_T",
+                    "turmac": "Q2013_T",
+                    "duracao": "2",
+                    "sala": "FC2-103",
+                    "profsig": "MFMB+APLMGS",
+                    "prof": null
+                }
+            ]
+        },
+        "Q2019": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Qu\u00edmica Anal\u00edtica",
+                    "sigla": "Q2019",
+                    "tipo": "T",
+                    "turma": "Q2019_T",
+                    "turmac": "Q2019_T",
+                    "duracao": "2",
+                    "sala": "FC2023",
+                    "profsig": "CMMP",
+                    "prof": "Carlos Pereira"
+                },
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Qu\u00edmica Anal\u00edtica",
+                    "sigla": "Q2019",
+                    "tipo": "T",
+                    "turma": "Q2019_T",
+                    "turmac": "Q2019_T",
+                    "duracao": "2",
+                    "sala": "FC2023",
+                    "profsig": "CMMP",
+                    "prof": "Carlos Pereira"
+                }
+            ],
+            "nome": "Qu\u00edmica Anal\u00edtica",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Qu\u00edmica Anal\u00edtica",
+                    "sigla": "Q2019",
+                    "tipo": "TP",
+                    "turma": "Q2019_TP1",
+                    "turmac": "Q2019_TP1",
+                    "duracao": "4",
+                    "sala": "FC2007",
+                    "profsig": "PJFA",
+                    "prof": "Paulo Almeida"
+                },
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Qu\u00edmica Anal\u00edtica",
+                    "sigla": "Q2019",
+                    "tipo": "TP",
+                    "turma": "Q2019_TP2",
+                    "turmac": "Q2019_TP2",
+                    "duracao": "4",
+                    "sala": "FC2007",
+                    "profsig": "PJFA",
+                    "prof": "Paulo Almeida"
+                }
+            ]
+        }
+    },
+    "3\u00ba Ano": {
+        "AST2001": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Estrelas",
+                    "sigla": "AST2001",
+                    "tipo": "T",
+                    "turma": "AST2001_T",
+                    "turmac": "AST2001_T",
+                    "duracao": "2",
+                    "sala": "FC3-120",
+                    "profsig": "MJPFGM",
+                    "prof": "M\u00e1rio Jo\u00e3o Monteiro"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Estrelas",
+                    "sigla": "AST2001",
+                    "tipo": "T",
+                    "turma": "AST2001_T",
+                    "turmac": "AST2001_T",
+                    "duracao": "3",
+                    "sala": "FC3-117",
+                    "profsig": "MJPFGM",
+                    "prof": "M\u00e1rio Jo\u00e3o Monteiro"
+                }
+            ],
+            "nome": "Estrelas",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 10.5,
+                    "nome": "Estrelas",
+                    "sigla": "AST2001",
+                    "tipo": "TP",
+                    "turma": "AST2001_TP",
+                    "turmac": "AST2001_TP",
+                    "duracao": "3",
+                    "sala": "FC3-116",
+                    "profsig": "MJPFGM",
+                    "prof": "M\u00e1rio Jo\u00e3o Monteiro"
+                }
+            ]
+        },
+        "BIOL1004": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 16.5,
+                    "nome": "Ecologia Geral",
+                    "sigla": "BIOL1004",
+                    "tipo": "T",
+                    "turma": "BIOL1004_T",
+                    "turmac": "BIOL1004_T",
+                    "duracao": "2",
+                    "sala": "FC4040",
+                    "profsig": "NF+SA",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 18,
+                    "nome": "Ecologia Geral",
+                    "sigla": "BIOL1004",
+                    "tipo": "T",
+                    "turma": "BIOL1004_T",
+                    "turmac": "BIOL1004_T",
+                    "duracao": "2",
+                    "sala": "FC4040",
+                    "profsig": "NF+SA",
+                    "prof": null
+                }
+            ],
+            "nome": "Ecologia Geral",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Ecologia Geral",
+                    "sigla": "BIOL1004",
+                    "tipo": "TP",
+                    "turma": "BIOL1004_TP1",
+                    "turmac": "BIOL1004_TP1",
+                    "duracao": "4",
+                    "sala": "FC4011",
+                    "profsig": "LFC+LOT+PE",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Ecologia Geral",
+                    "sigla": "BIOL1004",
+                    "tipo": "TP",
+                    "turma": "BIOL1004_TP2",
+                    "turmac": "BIOL1004_TP2",
+                    "duracao": "4",
+                    "sala": "FC4011",
+                    "profsig": "LFC+LOT+PE",
+                    "prof": null
+                }
+            ]
+        },
+        "BIOL2001": {
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Fisiologia Geral",
+                    "sigla": "BIOL2001",
+                    "tipo": "PL",
+                    "turma": "BIOL2001_PL",
+                    "turmac": "BIOL2001_PL",
+                    "duracao": "4",
+                    "sala": "FC4035",
+                    "profsig": "AMP+AG+CC+TB",
+                    "prof": null
+                }
+            ],
+            "nome": "Fisiologia Geral",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 10,
+                    "nome": "Fisiologia Geral",
+                    "sigla": "BIOL2001",
+                    "tipo": "T",
+                    "turma": "BIOL2001_T",
+                    "turmac": "BIOL2001_T",
+                    "duracao": "4",
+                    "sala": "FC4012",
+                    "profsig": "AMP+AG+CC+TB",
+                    "prof": null
+                }
+            ]
+        },
+        "BIOL2002": {
+            "PL": [
+                {
+                    "dia": 3,
+                    "hora": 10,
+                    "nome": "Gen\u00e9tica Geral",
+                    "sigla": "BIOL2002",
+                    "tipo": "PL",
+                    "turma": "BIOL2002_PL1",
+                    "turmac": "BIOL2002_PL1",
+                    "duracao": "5",
+                    "sala": "FC4109",
+                    "profsig": "IA+LA",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Gen\u00e9tica Geral",
+                    "sigla": "BIOL2002",
+                    "tipo": "PL",
+                    "turma": "BIOL2002_PL2",
+                    "turmac": "BIOL2002_PL2",
+                    "duracao": "5",
+                    "sala": "FC4109",
+                    "profsig": "IA+LA",
+                    "prof": null
+                }
+            ],
+            "nome": "Gen\u00e9tica Geral",
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Gen\u00e9tica Geral",
+                    "sigla": "BIOL2002",
+                    "tipo": "T",
+                    "turma": "BIOL2002_T",
+                    "turmac": "BIOL2002_T",
+                    "duracao": "2",
+                    "sala": "FC4011",
+                    "profsig": "IA+LA",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 11.5,
+                    "nome": "Gen\u00e9tica Geral",
+                    "sigla": "BIOL2002",
+                    "tipo": "T",
+                    "turma": "BIOL2002_T",
+                    "turmac": "BIOL2002_T",
+                    "duracao": "2",
+                    "sala": "FC4011",
+                    "profsig": "IA+LA",
+                    "prof": null
+                }
+            ]
+        },
+        "Q2007": {
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Qu\u00edmica dos Alimentos e Nutri\u00e7\u00e3o",
+                    "sigla": "Q2007",
+                    "tipo": "PL",
+                    "turma": "Q2007_PL1",
+                    "turmac": "Q2007_PL1",
+                    "duracao": "4",
+                    "sala": "FC2-115",
+                    "profsig": "MFABAPM",
+                    "prof": "Maria de F\u00e1tima Martins"
+                },
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Qu\u00edmica dos Alimentos e Nutri\u00e7\u00e3o",
+                    "sigla": "Q2007",
+                    "tipo": "PL",
+                    "turma": "Q2007_PL2",
+                    "turmac": "Q2007_PL2",
+                    "duracao": "4",
+                    "sala": "FC2-115",
+                    "profsig": "NFCBM",
+                    "prof": "Nuno Mateus"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Qu\u00edmica dos Alimentos e Nutri\u00e7\u00e3o",
+                    "sigla": "Q2007",
+                    "tipo": "PL",
+                    "turma": "Q2007_PL3",
+                    "turmac": "Q2007_PL3",
+                    "duracao": "4",
+                    "sala": "FC2-115",
+                    "profsig": "NFCBM",
+                    "prof": "Nuno Mateus"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Qu\u00edmica dos Alimentos e Nutri\u00e7\u00e3o",
+                    "sigla": "Q2007",
+                    "tipo": "PL",
+                    "turma": "Q2007_PL4",
+                    "turmac": "Q2007_PL4",
+                    "duracao": "4",
+                    "sala": "FC2-115",
+                    "profsig": "NFCBM",
+                    "prof": "Nuno Mateus"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Qu\u00edmica dos Alimentos e Nutri\u00e7\u00e3o",
+                    "sigla": "Q2007",
+                    "tipo": "PL",
+                    "turma": "Q2007_PL5",
+                    "turmac": "Q2007_PL5",
+                    "duracao": "4",
+                    "sala": "FC2-115",
+                    "profsig": "NFCBM",
+                    "prof": "Nuno Mateus"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Qu\u00edmica dos Alimentos e Nutri\u00e7\u00e3o",
+                    "sigla": "Q2007",
+                    "tipo": "PL",
+                    "turma": "Q2007_PL6",
+                    "turmac": "Q2007_PL6",
+                    "duracao": "4",
+                    "sala": "FC2-115",
+                    "profsig": "NFCBM",
+                    "prof": "Nuno Mateus"
+                }
+            ],
+            "nome": "Qu\u00edmica dos Alimentos e Nutri\u00e7\u00e3o",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 10,
+                    "nome": "Qu\u00edmica dos Alimentos e Nutri\u00e7\u00e3o",
+                    "sigla": "Q2007",
+                    "tipo": "T",
+                    "turma": "Q2007_T",
+                    "turmac": "Q2007_T",
+                    "duracao": "2",
+                    "sala": "FC2023",
+                    "profsig": "VAPF",
+                    "prof": "Victor Freitas"
+                },
+                {
+                    "dia": 3,
+                    "hora": 10,
+                    "nome": "Qu\u00edmica dos Alimentos e Nutri\u00e7\u00e3o",
+                    "sigla": "Q2007",
+                    "tipo": "T",
+                    "turma": "Q2007_T",
+                    "turmac": "Q2007_T",
+                    "duracao": "2",
+                    "sala": "FC2023",
+                    "profsig": "VAPF",
+                    "prof": "Victor Freitas"
+                }
+            ]
+        },
+        "Q3005": {
+            "PL": [
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Recolha e Tratamento de Amostras",
+                    "sigla": "Q3005",
+                    "tipo": "PL",
+                    "turma": "Q3005_PL1",
+                    "turmac": "Q3005_PL1",
+                    "duracao": "4",
+                    "sala": "FC2013",
+                    "profsig": "MAA",
+                    "prof": "Manuel Azenha"
+                }
+            ],
+            "nome": "Recolha e Tratamento de Amostras",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Recolha e Tratamento de Amostras",
+                    "sigla": "Q3005",
+                    "tipo": "TP",
+                    "turma": "Q3005_TP",
+                    "turmac": "Q3005_TP",
+                    "duracao": "4",
+                    "sala": "FC2-104",
+                    "profsig": "CMMP+MAA",
+                    "prof": null
+                }
+            ]
+        },
+        "Q3006": {
+            "PL": [
+                {
+                    "dia": 3,
+                    "hora": 16,
+                    "nome": "Qu\u00edmica Ambiental",
+                    "sigla": "Q3006",
+                    "tipo": "PL",
+                    "turma": "Q3006_PL",
+                    "turmac": "Q3006_PL",
+                    "duracao": "4",
+                    "sala": "FC2-112+FC2-103",
+                    "profsig": "LMAR",
+                    "prof": "Lu\u00eds Miguel \u00c1lvares Ribeiro"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Qu\u00edmica Ambiental",
+                    "sigla": "Q3006",
+                    "tipo": "PL",
+                    "turma": "Q3006_T",
+                    "turmac": "Q3006_T",
+                    "duracao": "2",
+                    "sala": "FC2019",
+                    "profsig": "LMAR",
+                    "prof": "Lu\u00eds Miguel \u00c1lvares Ribeiro"
+                }
+            ],
+            "nome": "Qu\u00edmica Ambiental",
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Qu\u00edmica Ambiental",
+                    "sigla": "Q3006",
+                    "tipo": "T",
+                    "turma": "Q3006_T",
+                    "turmac": "Q3006_T",
+                    "duracao": "2",
+                    "sala": "FC2010",
+                    "profsig": "LMAR",
+                    "prof": "Lu\u00eds Miguel \u00c1lvares Ribeiro"
+                }
+            ]
+        },
+        "Q3019": {
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Eletroqu\u00edmica Industrial",
+                    "sigla": "Q3019",
+                    "tipo": "PL",
+                    "turma": "Q3019_PL",
+                    "turmac": "Q3019_PL",
+                    "duracao": "4",
+                    "sala": "FC2-105+FC2-104",
+                    "profsig": "MJEFS",
+                    "prof": "Maria Jo\u00e3o Sottomayor"
+                }
+            ],
+            "nome": "Eletroqu\u00edmica Industrial",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Eletroqu\u00edmica Industrial",
+                    "sigla": "Q3019",
+                    "tipo": "T",
+                    "turma": "Q3019_T",
+                    "turmac": "Q3019_T",
+                    "duracao": "4",
+                    "sala": "FC2-105+FC2-104",
+                    "profsig": "MJEFS",
+                    "prof": "Maria Jo\u00e3o Sottomayor"
+                }
+            ]
+        },
+        "Q3020": {
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Ind\u00fastrias Alimentares",
+                    "sigla": "Q3020",
+                    "tipo": "PL",
+                    "turma": "Q3020_PL1",
+                    "turmac": "Q3020_PL1",
+                    "duracao": "4",
+                    "sala": "FC2-110",
+                    "profsig": "MLCV",
+                    "prof": "Maria Luisa Vale"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Ind\u00fastrias Alimentares",
+                    "sigla": "Q3020",
+                    "tipo": "PL",
+                    "turma": "Q3020_PL2",
+                    "turmac": "Q3020_PL2",
+                    "duracao": "4",
+                    "sala": "FC2-110",
+                    "profsig": "MLCV",
+                    "prof": "Maria Luisa Vale"
+                }
+            ],
+            "nome": "Ind\u00fastrias Alimentares",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Ind\u00fastrias Alimentares",
+                    "sigla": "Q3020",
+                    "tipo": "T",
+                    "turma": "Q3020_T",
+                    "turmac": "Q3020_T",
+                    "duracao": "4",
+                    "sala": "FC2019",
+                    "profsig": "MFABAPM",
+                    "prof": "Maria de F\u00e1tima Martins"
+                }
+            ]
+        },
+        "Q3021": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Qu\u00edmica Aplicada ao Design de F\u00e1rmacos",
+                    "sigla": "Q3021",
+                    "tipo": "PL",
+                    "turma": "Q3021_PL1",
+                    "turmac": "Q3021_PL1",
+                    "duracao": "4",
+                    "sala": "FC2014",
+                    "profsig": "PMAAF",
+                    "prof": "Pedro Alexandrino Fernandes"
+                },
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Qu\u00edmica Aplicada ao Design de F\u00e1rmacos",
+                    "sigla": "Q3021",
+                    "tipo": "PL",
+                    "turma": "Q3021_PL2",
+                    "turmac": "Q3021_PL2",
+                    "duracao": "4",
+                    "sala": "FC2014",
+                    "profsig": "PMAAF",
+                    "prof": "Pedro Alexandrino Fernandes"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Qu\u00edmica Aplicada ao Design de F\u00e1rmacos",
+                    "sigla": "Q3021",
+                    "tipo": "PL",
+                    "turma": "Q3021_T",
+                    "turmac": "Q3021_T",
+                    "duracao": "4",
+                    "sala": "FC1122",
+                    "profsig": "PMAAF",
+                    "prof": "Pedro Alexandrino Fernandes"
+                }
+            ],
+            "nome": "Qu\u00edmica Aplicada ao Design de F\u00e1rmacos"
+        },
+        "Q3022": {
+            "PL": [
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Sensores Qu\u00edmicos e Bioqu\u00edmicos",
+                    "sigla": "Q3022",
+                    "tipo": "PL",
+                    "turma": "Q3022_PL",
+                    "turmac": "Q3022_PL",
+                    "duracao": "4",
+                    "sala": "FC2013+FC2019",
+                    "profsig": "CMMP+JAMR",
+                    "prof": null
+                }
+            ],
+            "nome": "Sensores Qu\u00edmicos e Bioqu\u00edmicos",
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Sensores Qu\u00edmicos e Bioqu\u00edmicos",
+                    "sigla": "Q3022",
+                    "tipo": "TP",
+                    "turma": "Q3022_TP",
+                    "turmac": "Q3022_TP",
+                    "duracao": "4",
+                    "sala": "FC2019",
+                    "profsig": "CMMP+JAMR",
+                    "prof": null
+                }
+            ]
+        }
+    }
+}

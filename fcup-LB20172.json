@@ -1,0 +1,1646 @@
+{
+    "1\u00ba Ano": {
+        "BIOL1013": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Biologia Molecular",
+                    "sigla": "BIOL1013",
+                    "tipo": "PL",
+                    "turma": "BIOL1013_PL1",
+                    "turmac": "BIOL1013_PL1",
+                    "duracao": "4",
+                    "sala": "FC4032",
+                    "profsig": "AS+PT+SP",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Biologia Molecular",
+                    "sigla": "BIOL1013",
+                    "tipo": "PL",
+                    "turma": "BIOL1013_PL2",
+                    "turmac": "BIOL1013_PL2",
+                    "duracao": "4",
+                    "sala": "FC4032",
+                    "profsig": "AS+PT+SP",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Biologia Molecular",
+                    "sigla": "BIOL1013",
+                    "tipo": "PL",
+                    "turma": "BIOL1013_PL3",
+                    "turmac": "BIOL1013_PL3",
+                    "duracao": "4",
+                    "sala": "FC4032",
+                    "profsig": "AS+PT+SP",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Biologia Molecular",
+                    "sigla": "BIOL1013",
+                    "tipo": "PL",
+                    "turma": "BIOL1013_PL4",
+                    "turmac": "BIOL1013_PL4",
+                    "duracao": "4",
+                    "sala": "FC4032",
+                    "profsig": "AS+PT+SP",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Biologia Molecular",
+                    "sigla": "BIOL1013",
+                    "tipo": "PL",
+                    "turma": "BIOL1013_PL5",
+                    "turmac": "BIOL1013_PL5",
+                    "duracao": "4",
+                    "sala": "FC4032",
+                    "profsig": "AS+PT+SP",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Biologia Molecular",
+                    "sigla": "BIOL1013",
+                    "tipo": "PL",
+                    "turma": "BIOL1013_PL6",
+                    "turmac": "BIOL1013_PL6",
+                    "duracao": "4",
+                    "sala": "FC4032",
+                    "profsig": "AS+PT+SP",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Biologia Molecular",
+                    "sigla": "BIOL1013",
+                    "tipo": "PL",
+                    "turma": "BIOL1013_PL7",
+                    "turmac": "BIOL1013_PL7",
+                    "duracao": "4",
+                    "sala": "FC4032",
+                    "profsig": "AS+PT+SP",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Biologia Molecular",
+                    "sigla": "BIOL1013",
+                    "tipo": "PL",
+                    "turma": "BIOL1013_PL8",
+                    "turmac": "BIOL1013_PL8",
+                    "duracao": "4",
+                    "sala": "FC4032",
+                    "profsig": "AS+PT+SP",
+                    "prof": null
+                }
+            ],
+            "nome": "Biologia Molecular",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 10,
+                    "nome": "Biologia Molecular",
+                    "sigla": "BIOL1013",
+                    "tipo": "T",
+                    "turma": "BIOL1013_T",
+                    "turmac": "BIOL1013_T",
+                    "duracao": "2",
+                    "sala": "FC4041",
+                    "profsig": "AS+CS+PT",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 10,
+                    "nome": "Biologia Molecular",
+                    "sigla": "BIOL1013",
+                    "tipo": "T",
+                    "turma": "BIOL1013_T",
+                    "turmac": "BIOL1013_T",
+                    "duracao": "2",
+                    "sala": "FC4041",
+                    "profsig": "AS+CS+PT",
+                    "prof": null
+                }
+            ]
+        },
+        "BIOL1014": {
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Biologia das Plantas",
+                    "sigla": "BIOL1014",
+                    "tipo": "PL",
+                    "turma": "BIOL1014_PL1",
+                    "turmac": "BIOL1014_PL1",
+                    "duracao": "4",
+                    "sala": "FC4108",
+                    "profsig": "JP+RS+SC",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Biologia das Plantas",
+                    "sigla": "BIOL1014",
+                    "tipo": "PL",
+                    "turma": "BIOL1014_PL2",
+                    "turmac": "BIOL1014_PL2",
+                    "duracao": "4",
+                    "sala": "FC4108",
+                    "profsig": "JP+RS+SC",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Biologia das Plantas",
+                    "sigla": "BIOL1014",
+                    "tipo": "PL",
+                    "turma": "BIOL1014_PL3",
+                    "turmac": "BIOL1014_PL3",
+                    "duracao": "4",
+                    "sala": "FC4108",
+                    "profsig": "JP+RS+SC",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Biologia das Plantas",
+                    "sigla": "BIOL1014",
+                    "tipo": "PL",
+                    "turma": "BIOL1014_PL4",
+                    "turmac": "BIOL1014_PL4",
+                    "duracao": "4",
+                    "sala": "FC4108",
+                    "profsig": "JP+RS+SC",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Biologia das Plantas",
+                    "sigla": "BIOL1014",
+                    "tipo": "PL",
+                    "turma": "BIOL1014_PL5",
+                    "turmac": "BIOL1014_PL5",
+                    "duracao": "4",
+                    "sala": "FC4108",
+                    "profsig": "JP+RS+SC",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Biologia das Plantas",
+                    "sigla": "BIOL1014",
+                    "tipo": "PL",
+                    "turma": "BIOL1014_PL6",
+                    "turmac": "BIOL1014_PL6",
+                    "duracao": "4",
+                    "sala": "FC4108",
+                    "profsig": "JP+RS+SC",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Biologia das Plantas",
+                    "sigla": "BIOL1014",
+                    "tipo": "PL",
+                    "turma": "BIOL1014_PL7",
+                    "turmac": "BIOL1014_PL7",
+                    "duracao": "4",
+                    "sala": "FC4108",
+                    "profsig": "JP+RS+SC",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Biologia das Plantas",
+                    "sigla": "BIOL1014",
+                    "tipo": "PL",
+                    "turma": "BIOL1014_PL8",
+                    "turmac": "BIOL1014_PL8",
+                    "duracao": "4",
+                    "sala": "FC4108",
+                    "profsig": "JP+RS+SC",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 16,
+                    "nome": "Biologia das Plantas",
+                    "sigla": "BIOL1014",
+                    "tipo": "PL",
+                    "turma": "BIOL1014_PL9",
+                    "turmac": "BIOL1014_PL9",
+                    "duracao": "4",
+                    "sala": "FC4108",
+                    "profsig": "JP+RS+SC",
+                    "prof": null
+                }
+            ],
+            "nome": "Biologia das Plantas",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 10,
+                    "nome": "Biologia das Plantas",
+                    "sigla": "BIOL1014",
+                    "tipo": "T",
+                    "turma": "BIOL1014_T",
+                    "turmac": "BIOL1014_T",
+                    "duracao": "2",
+                    "sala": "FC4041",
+                    "profsig": "JP+RS",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 12,
+                    "nome": "Biologia das Plantas",
+                    "sigla": "BIOL1014",
+                    "tipo": "T",
+                    "turma": "BIOL1014_T",
+                    "turmac": "BIOL1014_T",
+                    "duracao": "2",
+                    "sala": "FC4041",
+                    "profsig": "JP+RS",
+                    "prof": null
+                }
+            ]
+        },
+        "BIOL1015": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Biologia dos Vertebrados ",
+                    "sigla": "BIOL1015",
+                    "tipo": "PL",
+                    "turma": "BIOL1015_PL1",
+                    "turmac": "BIOL1015_PL1",
+                    "duracao": "4",
+                    "sala": "FC4037",
+                    "profsig": "AV+AG+MJS",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 16.5,
+                    "nome": "Biologia dos Vertebrados ",
+                    "sigla": "BIOL1015",
+                    "tipo": "PL",
+                    "turma": "BIOL1015_PL2",
+                    "turmac": "BIOL1015_PL2",
+                    "duracao": "4",
+                    "sala": "FC4037",
+                    "profsig": "AV+AG+MJS",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Biologia dos Vertebrados ",
+                    "sigla": "BIOL1015",
+                    "tipo": "PL",
+                    "turma": "BIOL1015_PL3",
+                    "turmac": "BIOL1015_PL3",
+                    "duracao": "4",
+                    "sala": "FC4037",
+                    "profsig": "AV+AG+MJS",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 16.5,
+                    "nome": "Biologia dos Vertebrados ",
+                    "sigla": "BIOL1015",
+                    "tipo": "PL",
+                    "turma": "BIOL1015_PL4",
+                    "turmac": "BIOL1015_PL4",
+                    "duracao": "4",
+                    "sala": "FC4037",
+                    "profsig": "AV+AG+MJS",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Biologia dos Vertebrados ",
+                    "sigla": "BIOL1015",
+                    "tipo": "PL",
+                    "turma": "BIOL1015_PL5",
+                    "turmac": "BIOL1015_PL5",
+                    "duracao": "4",
+                    "sala": "FC4037",
+                    "profsig": "AV+AG+MJS",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 16.5,
+                    "nome": "Biologia dos Vertebrados ",
+                    "sigla": "BIOL1015",
+                    "tipo": "PL",
+                    "turma": "BIOL1015_PL6",
+                    "turmac": "BIOL1015_PL6",
+                    "duracao": "4",
+                    "sala": "FC4037",
+                    "profsig": "AV+AG+MJS",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Biologia dos Vertebrados ",
+                    "sigla": "BIOL1015",
+                    "tipo": "PL",
+                    "turma": "BIOL1015_PL7",
+                    "turmac": "BIOL1015_PL7",
+                    "duracao": "4",
+                    "sala": "FC4037",
+                    "profsig": "AV+AG+MJS",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Biologia dos Vertebrados ",
+                    "sigla": "BIOL1015",
+                    "tipo": "PL",
+                    "turma": "BIOL1015_PL8",
+                    "turmac": "BIOL1015_PL8",
+                    "duracao": "4",
+                    "sala": "FC4037",
+                    "profsig": "AV+AG+MJS",
+                    "prof": null
+                }
+            ],
+            "nome": "Biologia dos Vertebrados ",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Biologia dos Vertebrados ",
+                    "sigla": "BIOL1015",
+                    "tipo": "T",
+                    "turma": "BIOL1015_T",
+                    "turmac": "BIOL1015_T",
+                    "duracao": "2",
+                    "sala": "FC4041",
+                    "profsig": "AOT+AM+MJS",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Biologia dos Vertebrados ",
+                    "sigla": "BIOL1015",
+                    "tipo": "T",
+                    "turma": "BIOL1015_T",
+                    "turmac": "BIOL1015_T",
+                    "duracao": "2",
+                    "sala": "FC4041",
+                    "profsig": "AOT+AM+MJS",
+                    "prof": null
+                }
+            ]
+        },
+        "M1020": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Fundamentos de Estat\u00edstica",
+                    "sigla": "M1020",
+                    "tipo": "TP",
+                    "turma": "M1020_TP1",
+                    "turmac": "M1020_TP1",
+                    "duracao": "4",
+                    "sala": "FC1219",
+                    "profsig": "MHPRMM",
+                    "prof": "Helena Mena Matos"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Fundamentos de Estat\u00edstica",
+                    "sigla": "M1020",
+                    "tipo": "TP",
+                    "turma": "M1020_TP2",
+                    "turmac": "M1020_TP2",
+                    "duracao": "4",
+                    "sala": "FC1226",
+                    "profsig": "TMGTFM",
+                    "prof": "Teresa Mendon\u00e7a"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Fundamentos de Estat\u00edstica",
+                    "sigla": "M1020",
+                    "tipo": "TP",
+                    "turma": "M1020_TP3",
+                    "turmac": "M1020_TP3",
+                    "duracao": "4",
+                    "sala": "FC1219",
+                    "profsig": "MHPRMM",
+                    "prof": "Helena Mena Matos"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Fundamentos de Estat\u00edstica",
+                    "sigla": "M1020",
+                    "tipo": "TP",
+                    "turma": "M1020_TP4",
+                    "turmac": "M1020_TP4",
+                    "duracao": "4",
+                    "sala": "FC1226",
+                    "profsig": "MMAB",
+                    "prof": "Margarida Brito"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Fundamentos de Estat\u00edstica",
+                    "sigla": "M1020",
+                    "tipo": "TP",
+                    "turma": "M1020_TP5",
+                    "turmac": "M1020_TP5",
+                    "duracao": "4",
+                    "sala": "FC1031",
+                    "profsig": "MHPRMM",
+                    "prof": "Helena Mena Matos"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Fundamentos de Estat\u00edstica",
+                    "sigla": "M1020",
+                    "tipo": "TP",
+                    "turma": "M1020_TP6",
+                    "turmac": "M1020_TP6",
+                    "duracao": "4",
+                    "sala": "FC1226",
+                    "profsig": "TMGTFM",
+                    "prof": "Teresa Mendon\u00e7a"
+                }
+            ],
+            "nome": "Fundamentos de Estat\u00edstica",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Fundamentos de Estat\u00edstica",
+                    "sigla": "M1020",
+                    "tipo": "T",
+                    "turma": "M1020_T1",
+                    "turmac": "M1020_T1",
+                    "duracao": "2",
+                    "sala": "FC4041",
+                    "profsig": "MHPRMM",
+                    "prof": "Helena Mena Matos"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Fundamentos de Estat\u00edstica",
+                    "sigla": "M1020",
+                    "tipo": "T",
+                    "turma": "M1020_T1",
+                    "turmac": "M1020_T1",
+                    "duracao": "2",
+                    "sala": "FC4041",
+                    "profsig": "MHPRMM",
+                    "prof": "Helena Mena Matos"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Fundamentos de Estat\u00edstica",
+                    "sigla": "M1020",
+                    "tipo": "T",
+                    "turma": "M1020_T2",
+                    "turmac": "M1020_T2",
+                    "duracao": "2",
+                    "sala": "FC1007",
+                    "profsig": "TMGTFM",
+                    "prof": "Teresa Mendon\u00e7a"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Fundamentos de Estat\u00edstica",
+                    "sigla": "M1020",
+                    "tipo": "T",
+                    "turma": "M1020_T2",
+                    "turmac": "M1020_T2",
+                    "duracao": "2",
+                    "sala": "FC1007",
+                    "profsig": "TMGTFM",
+                    "prof": "Teresa Mendon\u00e7a"
+                }
+            ]
+        },
+        "Q1002": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 12,
+                    "nome": "Fundamentos de Qu\u00edmica",
+                    "sigla": "Q1002",
+                    "tipo": "T",
+                    "turma": "Q1002_T",
+                    "turmac": "Q1002_T",
+                    "duracao": "2",
+                    "sala": "FC4041",
+                    "profsig": "MARM",
+                    "prof": "Maria Agostinha Matos"
+                },
+                {
+                    "dia": 3,
+                    "hora": 12,
+                    "nome": "Fundamentos de Qu\u00edmica",
+                    "sigla": "Q1002",
+                    "tipo": "T",
+                    "turma": "Q1002_T",
+                    "turmac": "Q1002_T",
+                    "duracao": "2",
+                    "sala": "FC4041",
+                    "profsig": "MARM",
+                    "prof": "Maria Agostinha Matos"
+                }
+            ],
+            "nome": "Fundamentos de Qu\u00edmica",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 11.5,
+                    "nome": "Fundamentos de Qu\u00edmica",
+                    "sigla": "Q1002",
+                    "tipo": "TP",
+                    "turma": "Q1002_TP1",
+                    "turmac": "Q1002_TP1",
+                    "duracao": "3",
+                    "sala": "FC2007",
+                    "profsig": "MMHMB",
+                    "prof": "Margarida Bastos"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Fundamentos de Qu\u00edmica",
+                    "sigla": "Q1002",
+                    "tipo": "TP",
+                    "turma": "Q1002_TP2",
+                    "turmac": "Q1002_TP2",
+                    "duracao": "3",
+                    "sala": "FC2023",
+                    "profsig": "AMMVR",
+                    "prof": "Ana Reis"
+                },
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Fundamentos de Qu\u00edmica",
+                    "sigla": "Q1002",
+                    "tipo": "TP",
+                    "turma": "Q1002_TP3",
+                    "turmac": "Q1002_TP3",
+                    "duracao": "3",
+                    "sala": "FC2007",
+                    "profsig": "MMHMB",
+                    "prof": "Margarida Bastos"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11.5,
+                    "nome": "Fundamentos de Qu\u00edmica",
+                    "sigla": "Q1002",
+                    "tipo": "TP",
+                    "turma": "Q1002_TP4",
+                    "turmac": "Q1002_TP4",
+                    "duracao": "3",
+                    "sala": "FC2007",
+                    "profsig": "MARM",
+                    "prof": "Maria Agostinha Matos"
+                },
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Fundamentos de Qu\u00edmica",
+                    "sigla": "Q1002",
+                    "tipo": "TP",
+                    "turma": "Q1002_TP5",
+                    "turmac": "Q1002_TP5",
+                    "duracao": "3",
+                    "sala": "FC2-101",
+                    "profsig": "AMMVR",
+                    "prof": "Ana Reis"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14.5,
+                    "nome": "Fundamentos de Qu\u00edmica",
+                    "sigla": "Q1002",
+                    "tipo": "TP",
+                    "turma": "Q1002_TP6",
+                    "turmac": "Q1002_TP6",
+                    "duracao": "3",
+                    "sala": "FC2-104",
+                    "profsig": "MARM",
+                    "prof": "Maria Agostinha Matos"
+                }
+            ]
+        }
+    },
+    "2\u00ba Ano": {
+        "BIOL2003": {
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Biologia Humana",
+                    "sigla": "BIOL2003",
+                    "tipo": "PL",
+                    "turma": "BIOL2003_PL1",
+                    "turmac": "BIOL2003_PL1",
+                    "duracao": "4",
+                    "sala": "FC4035",
+                    "profsig": "AP+JR+MJR+LA+PE",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Biologia Humana",
+                    "sigla": "BIOL2003",
+                    "tipo": "PL",
+                    "turma": "BIOL2003_PL2",
+                    "turmac": "BIOL2003_PL2",
+                    "duracao": "4",
+                    "sala": "FC4035",
+                    "profsig": "AP+JR+MJR+LA+PE",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 18,
+                    "nome": "Biologia Humana",
+                    "sigla": "BIOL2003",
+                    "tipo": "PL",
+                    "turma": "BIOL2003_PL3",
+                    "turmac": "BIOL2003_PL3",
+                    "duracao": "4",
+                    "sala": "FC4035",
+                    "profsig": "AP+JR+MJR+LA+PE",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Biologia Humana",
+                    "sigla": "BIOL2003",
+                    "tipo": "PL",
+                    "turma": "BIOL2003_PL4",
+                    "turmac": "BIOL2003_PL4",
+                    "duracao": "4",
+                    "sala": "FC4035",
+                    "profsig": "AP+JR+MJR+LA+PE",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Biologia Humana",
+                    "sigla": "BIOL2003",
+                    "tipo": "PL",
+                    "turma": "BIOL2003_PL5",
+                    "turmac": "BIOL2003_PL5",
+                    "duracao": "4",
+                    "sala": "FC4035",
+                    "profsig": "AP+JR+MJR+LA+PE",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 16,
+                    "nome": "Biologia Humana",
+                    "sigla": "BIOL2003",
+                    "tipo": "PL",
+                    "turma": "BIOL2003_PL6",
+                    "turmac": "BIOL2003_PL6",
+                    "duracao": "4",
+                    "sala": "FC4035",
+                    "profsig": "AP+JR+MJR+LA+PE",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 18,
+                    "nome": "Biologia Humana",
+                    "sigla": "BIOL2003",
+                    "tipo": "PL",
+                    "turma": "BIOL2003_PL7",
+                    "turmac": "BIOL2003_PL7",
+                    "duracao": "4",
+                    "sala": "FC4035",
+                    "profsig": "AP+JR+MJR+LA+PE",
+                    "prof": null
+                }
+            ],
+            "nome": "Biologia Humana",
+            "T": [
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "Biologia Humana",
+                    "sigla": "BIOL2003",
+                    "tipo": "T",
+                    "turma": "BIOL2003_T",
+                    "turmac": "BIOL2003_T",
+                    "duracao": "2",
+                    "sala": "FC4041",
+                    "profsig": "JR+MJR",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Biologia Humana",
+                    "sigla": "BIOL2003",
+                    "tipo": "T",
+                    "turma": "BIOL2003_T",
+                    "turmac": "BIOL2003_T",
+                    "duracao": "2",
+                    "sala": "FC4041",
+                    "profsig": "JR+MJR",
+                    "prof": null
+                }
+            ]
+        },
+        "BIOL2012": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Ecologia",
+                    "sigla": "BIOL2012",
+                    "tipo": "PL",
+                    "turma": "BIOL2012_PL1",
+                    "turmac": "BIOL2012_PL1",
+                    "duracao": "4",
+                    "sala": "FC4031",
+                    "profsig": "LOT+MS+RP",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Ecologia",
+                    "sigla": "BIOL2012",
+                    "tipo": "PL",
+                    "turma": "BIOL2012_PL2",
+                    "turmac": "BIOL2012_PL2",
+                    "duracao": "4",
+                    "sala": "FC4031",
+                    "profsig": "LOT+MS+RP",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Ecologia",
+                    "sigla": "BIOL2012",
+                    "tipo": "PL",
+                    "turma": "BIOL2012_PL3",
+                    "turmac": "BIOL2012_PL3",
+                    "duracao": "4",
+                    "sala": "FC4031",
+                    "profsig": "LOT+MS+RP",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Ecologia",
+                    "sigla": "BIOL2012",
+                    "tipo": "PL",
+                    "turma": "BIOL2012_PL4",
+                    "turmac": "BIOL2012_PL4",
+                    "duracao": "4",
+                    "sala": "FC4031",
+                    "profsig": "LOT+MS+RP",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Ecologia",
+                    "sigla": "BIOL2012",
+                    "tipo": "PL",
+                    "turma": "BIOL2012_PL5",
+                    "turmac": "BIOL2012_PL5",
+                    "duracao": "4",
+                    "sala": "FC4031",
+                    "profsig": "LOT+MS+RP",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 16,
+                    "nome": "Ecologia",
+                    "sigla": "BIOL2012",
+                    "tipo": "PL",
+                    "turma": "BIOL2012_PL6",
+                    "turmac": "BIOL2012_PL6",
+                    "duracao": "4",
+                    "sala": "FC4031",
+                    "profsig": "LOT+MS+RP",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Ecologia",
+                    "sigla": "BIOL2012",
+                    "tipo": "PL",
+                    "turma": "BIOL2012_PL7",
+                    "turmac": "BIOL2012_PL7",
+                    "duracao": "4",
+                    "sala": "FC4031",
+                    "profsig": "LOT+MS+RP",
+                    "prof": null
+                }
+            ],
+            "nome": "Ecologia",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 10,
+                    "nome": "Ecologia",
+                    "sigla": "BIOL2012",
+                    "tipo": "T",
+                    "turma": "BIOL2012_T",
+                    "turmac": "BIOL2012_T",
+                    "duracao": "2",
+                    "sala": "FC4040",
+                    "profsig": "ISP+JH+RP",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 10,
+                    "nome": "Ecologia",
+                    "sigla": "BIOL2012",
+                    "tipo": "T",
+                    "turma": "BIOL2012_T",
+                    "turmac": "BIOL2012_T",
+                    "duracao": "2",
+                    "sala": "FC4041",
+                    "profsig": "ISP+JH+RP",
+                    "prof": null
+                }
+            ]
+        },
+        "BIOL2013": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Fisiologia Animal II",
+                    "sigla": "BIOL2013",
+                    "tipo": "PL",
+                    "turma": "BIOL2013_PL1",
+                    "turmac": "BIOL2013_PL1",
+                    "duracao": "4",
+                    "sala": "FC4035",
+                    "profsig": "AMP+AG+CC+TB",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Fisiologia Animal II",
+                    "sigla": "BIOL2013",
+                    "tipo": "PL",
+                    "turma": "BIOL2013_PL2",
+                    "turmac": "BIOL2013_PL2",
+                    "duracao": "4",
+                    "sala": "FC4035",
+                    "profsig": "AMP+AG+CC+TB",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Fisiologia Animal II",
+                    "sigla": "BIOL2013",
+                    "tipo": "PL",
+                    "turma": "BIOL2013_PL3",
+                    "turmac": "BIOL2013_PL3",
+                    "duracao": "4",
+                    "sala": "FC4035",
+                    "profsig": "AMP+AG+CC+TB",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Fisiologia Animal II",
+                    "sigla": "BIOL2013",
+                    "tipo": "PL",
+                    "turma": "BIOL2013_PL4",
+                    "turmac": "BIOL2013_PL4",
+                    "duracao": "4",
+                    "sala": "FC4035",
+                    "profsig": "AMP+AG+CC+TB",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 16,
+                    "nome": "Fisiologia Animal II",
+                    "sigla": "BIOL2013",
+                    "tipo": "PL",
+                    "turma": "BIOL2013_PL5",
+                    "turmac": "BIOL2013_PL5",
+                    "duracao": "4",
+                    "sala": "FC4035",
+                    "profsig": "AMP+AG+CC+TB",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Fisiologia Animal II",
+                    "sigla": "BIOL2013",
+                    "tipo": "PL",
+                    "turma": "BIOL2013_PL6",
+                    "turmac": "BIOL2013_PL6",
+                    "duracao": "4",
+                    "sala": "FC4035",
+                    "profsig": "AMP+AG+CC+TB",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Fisiologia Animal II",
+                    "sigla": "BIOL2013",
+                    "tipo": "PL",
+                    "turma": "BIOL2013_PL7",
+                    "turmac": "BIOL2013_PL7",
+                    "duracao": "4",
+                    "sala": "FC4035",
+                    "profsig": "AMP+AG+CC+TB",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 18,
+                    "nome": "Fisiologia Animal II",
+                    "sigla": "BIOL2013",
+                    "tipo": "PL",
+                    "turma": "BIOL2013_PL8",
+                    "turmac": "BIOL2013_PL8",
+                    "duracao": "4",
+                    "sala": "FC4035",
+                    "profsig": "AMP+AG+CC+TB",
+                    "prof": null
+                }
+            ],
+            "nome": "Fisiologia Animal II",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Fisiologia Animal II",
+                    "sigla": "BIOL2013",
+                    "tipo": "T",
+                    "turma": "BIOL2013_T",
+                    "turmac": "BIOL2013_T",
+                    "duracao": "2",
+                    "sala": "FC4041",
+                    "profsig": "AMP+AG+CC+TB",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Fisiologia Animal II",
+                    "sigla": "BIOL2013",
+                    "tipo": "T",
+                    "turma": "BIOL2013_T",
+                    "turmac": "BIOL2013_T",
+                    "duracao": "2",
+                    "sala": "FC4041",
+                    "profsig": "AMP+AG+CC+TB",
+                    "prof": null
+                }
+            ]
+        },
+        "BIOL2014": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Gen\u00e9tica Molecular e Citogen\u00e9tica",
+                    "sigla": "BIOL2014",
+                    "tipo": "PL",
+                    "turma": "BIOL2014_PL1",
+                    "turmac": "BIOL2014_PL1",
+                    "duracao": "4",
+                    "sala": "FC4103",
+                    "profsig": "AA+JT+LC+MS+VA",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Gen\u00e9tica Molecular e Citogen\u00e9tica",
+                    "sigla": "BIOL2014",
+                    "tipo": "PL",
+                    "turma": "BIOL2014_PL2",
+                    "turmac": "BIOL2014_PL2",
+                    "duracao": "4",
+                    "sala": "FC4103",
+                    "profsig": "AA+JT+LC+MS+VA",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Gen\u00e9tica Molecular e Citogen\u00e9tica",
+                    "sigla": "BIOL2014",
+                    "tipo": "PL",
+                    "turma": "BIOL2014_PL3",
+                    "turmac": "BIOL2014_PL3",
+                    "duracao": "4",
+                    "sala": "FC4103",
+                    "profsig": "AA+JT+LC+MS+VA",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Gen\u00e9tica Molecular e Citogen\u00e9tica",
+                    "sigla": "BIOL2014",
+                    "tipo": "PL",
+                    "turma": "BIOL2014_PL4",
+                    "turmac": "BIOL2014_PL4",
+                    "duracao": "4",
+                    "sala": "FC4103",
+                    "profsig": "AA+JT+LC+MS+VA",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Gen\u00e9tica Molecular e Citogen\u00e9tica",
+                    "sigla": "BIOL2014",
+                    "tipo": "PL",
+                    "turma": "BIOL2014_PL5",
+                    "turmac": "BIOL2014_PL5",
+                    "duracao": "4",
+                    "sala": "FC4103",
+                    "profsig": "AA+JT+LC+MS+VA",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Gen\u00e9tica Molecular e Citogen\u00e9tica",
+                    "sigla": "BIOL2014",
+                    "tipo": "PL",
+                    "turma": "BIOL2014_PL6",
+                    "turmac": "BIOL2014_PL6",
+                    "duracao": "4",
+                    "sala": "FC4103",
+                    "profsig": "AA+JT+LC+MS+VA",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Gen\u00e9tica Molecular e Citogen\u00e9tica",
+                    "sigla": "BIOL2014",
+                    "tipo": "PL",
+                    "turma": "BIOL2014_PL7",
+                    "turmac": "BIOL2014_PL7",
+                    "duracao": "4",
+                    "sala": "FC4103",
+                    "profsig": "AA+JT+LC+MS+VA",
+                    "prof": null
+                }
+            ],
+            "nome": "Gen\u00e9tica Molecular e Citogen\u00e9tica",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 12,
+                    "nome": "Gen\u00e9tica Molecular e Citogen\u00e9tica",
+                    "sigla": "BIOL2014",
+                    "tipo": "T",
+                    "turma": "BIOL2014_T",
+                    "turmac": "BIOL2014_T",
+                    "duracao": "2",
+                    "sala": "FC4041",
+                    "profsig": "JT+PCA+VA",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 12,
+                    "nome": "Gen\u00e9tica Molecular e Citogen\u00e9tica",
+                    "sigla": "BIOL2014",
+                    "tipo": "T",
+                    "turma": "BIOL2014_T",
+                    "turmac": "BIOL2014_T",
+                    "duracao": "2",
+                    "sala": "FC4041",
+                    "profsig": "JT+PCA+VA",
+                    "prof": null
+                }
+            ]
+        }
+    },
+    "3\u00ba Ano": {
+        "AGR1002": {
+            "PL": [
+                {
+                    "dia": 5,
+                    "hora": 16,
+                    "nome": "Bases Fisiol\u00f3gicas de Produ\u00e7\u00e3o Animal",
+                    "sigla": "AGR1002",
+                    "tipo": "PL",
+                    "turma": "AGR1002_PL",
+                    "turmac": "AGR1002_PL",
+                    "duracao": "3",
+                    "sala": "VAIRAOB",
+                    "profsig": "CFX",
+                    "prof": "Cristina Xavier"
+                }
+            ],
+            "nome": "Bases Fisiol\u00f3gicas de Produ\u00e7\u00e3o Animal",
+            "T": [
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Bases Fisiol\u00f3gicas de Produ\u00e7\u00e3o Animal",
+                    "sigla": "AGR1002",
+                    "tipo": "T",
+                    "turma": "AGR1002_T",
+                    "turmac": "AGR1002_T",
+                    "duracao": "4",
+                    "sala": "VAIRAOB",
+                    "profsig": "IADFLC",
+                    "prof": "Isabel Correia"
+                }
+            ]
+        },
+        "BIOL2004": {
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Microbiologia Alimentar",
+                    "sigla": "BIOL2004",
+                    "tipo": "PL",
+                    "turma": "BIOL2004_PL1",
+                    "turmac": "BIOL2004_PL1",
+                    "duracao": "6",
+                    "sala": "FC4109",
+                    "profsig": "JC+FT+SQ",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 17,
+                    "nome": "Microbiologia Alimentar",
+                    "sigla": "BIOL2004",
+                    "tipo": "PL",
+                    "turma": "BIOL2004_PL2",
+                    "turmac": "BIOL2004_PL2",
+                    "duracao": "6",
+                    "sala": "FC4109",
+                    "profsig": "JC+FT+SQ",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Microbiologia Alimentar",
+                    "sigla": "BIOL2004",
+                    "tipo": "PL",
+                    "turma": "BIOL2004_PL3",
+                    "turmac": "BIOL2004_PL3",
+                    "duracao": "6",
+                    "sala": "FC4109",
+                    "profsig": "JC+FT+SQ",
+                    "prof": null
+                }
+            ],
+            "nome": "Microbiologia Alimentar",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 12,
+                    "nome": "Microbiologia Alimentar",
+                    "sigla": "BIOL2004",
+                    "tipo": "T",
+                    "turma": "BIOL2004_T",
+                    "turmac": "BIOL2004_T",
+                    "duracao": "2",
+                    "sala": "FC4040",
+                    "profsig": "FT+JPC",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 12,
+                    "nome": "Microbiologia Alimentar",
+                    "sigla": "BIOL2004",
+                    "tipo": "T",
+                    "turma": "BIOL2004_T",
+                    "turmac": "BIOL2004_T",
+                    "duracao": "2",
+                    "sala": "FC4040",
+                    "profsig": "FT+JPC",
+                    "prof": null
+                }
+            ]
+        },
+        "BIOL3002": {
+            "T": [
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Biogeografia e Macroecologia ",
+                    "sigla": "BIOL3002",
+                    "tipo": "T",
+                    "turma": "BIOL3002_T",
+                    "turmac": "BIOL3002_T",
+                    "duracao": "4",
+                    "sala": "FC4040",
+                    "profsig": "AS+ISP+JH",
+                    "prof": null
+                }
+            ],
+            "nome": "Biogeografia e Macroecologia ",
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Biogeografia e Macroecologia ",
+                    "sigla": "BIOL3002",
+                    "tipo": "TP",
+                    "turma": "BIOL3002_TP1",
+                    "turmac": "BIOL3002_TP1",
+                    "duracao": "4",
+                    "sala": "FC4021+FC4129",
+                    "profsig": "AS+ISP+LFC+LOT",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Biogeografia e Macroecologia ",
+                    "sigla": "BIOL3002",
+                    "tipo": "TP",
+                    "turma": "BIOL3002_TP2",
+                    "turmac": "BIOL3002_TP2",
+                    "duracao": "4",
+                    "sala": "FC4021+FC4129",
+                    "profsig": "AS+ISP+LFC+LOT",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Biogeografia e Macroecologia ",
+                    "sigla": "BIOL3002",
+                    "tipo": "TP",
+                    "turma": "BIOL3002_TP3",
+                    "turmac": "BIOL3002_TP3",
+                    "duracao": "4",
+                    "sala": "FC4021+FC4129",
+                    "profsig": "AS+ISP+LFC+LOT",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Biogeografia e Macroecologia ",
+                    "sigla": "BIOL3002",
+                    "tipo": "TP",
+                    "turma": "BIOL3002_TP4",
+                    "turmac": "BIOL3002_TP4",
+                    "duracao": "4",
+                    "sala": "FC4021+FC4129",
+                    "profsig": "AS+ISP+LFC+LOT",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 16,
+                    "nome": "Biogeografia e Macroecologia ",
+                    "sigla": "BIOL3002",
+                    "tipo": "TP",
+                    "turma": "BIOL3002_TP5",
+                    "turmac": "BIOL3002_TP5",
+                    "duracao": "4",
+                    "sala": "FC4021+FC4129",
+                    "profsig": "AS+ISP+LFC+LOT",
+                    "prof": null
+                }
+            ]
+        },
+        "BIOL3007": {
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 11,
+                    "nome": "Biologia do Desenvolvimento",
+                    "sigla": "BIOL3007",
+                    "tipo": "T",
+                    "turma": "BIOL3007_T",
+                    "turmac": "BIOL3007_T",
+                    "duracao": "4",
+                    "sala": "FC4012",
+                    "profsig": "JP+CS+SC+AA",
+                    "prof": null
+                }
+            ],
+            "nome": "Biologia do Desenvolvimento",
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Biologia do Desenvolvimento",
+                    "sigla": "BIOL3007",
+                    "tipo": "TP",
+                    "turma": "BIOL3007_TP",
+                    "turmac": "BIOL3007_TP",
+                    "duracao": "4",
+                    "sala": "FC4109+FC4012",
+                    "profsig": "JP+CS+SC+MS+RA",
+                    "prof": null
+                }
+            ]
+        },
+        "BIOL3010": {
+            "T": [
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "Ecologia Marinha",
+                    "sigla": "BIOL3010",
+                    "tipo": "T",
+                    "turma": "BIOL3010_T",
+                    "turmac": "BIOL3010_T",
+                    "duracao": "2",
+                    "sala": "FC4012",
+                    "profsig": "ISP+MNV+PTS+SA",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 12,
+                    "nome": "Ecologia Marinha",
+                    "sigla": "BIOL3010",
+                    "tipo": "T",
+                    "turma": "BIOL3010_T",
+                    "turmac": "BIOL3010_T",
+                    "duracao": "2",
+                    "sala": "FC4012",
+                    "profsig": "ISP+MNV+PTS+SA",
+                    "prof": null
+                }
+            ],
+            "nome": "Ecologia Marinha",
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Ecologia Marinha",
+                    "sigla": "BIOL3010",
+                    "tipo": "TP",
+                    "turma": "BIOL3010_TP1",
+                    "turmac": "BIOL3010_TP1",
+                    "duracao": "4",
+                    "sala": "FC4031+FC4012",
+                    "profsig": "ISP+MNV+PTS+SA",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Ecologia Marinha",
+                    "sigla": "BIOL3010",
+                    "tipo": "TP",
+                    "turma": "BIOL3010_TP2",
+                    "turmac": "BIOL3010_TP2",
+                    "duracao": "4",
+                    "sala": "FC4031+FC4012",
+                    "profsig": "ISP+MNV+PTS+SA",
+                    "prof": null
+                }
+            ]
+        },
+        "BIOL3015": {
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 8,
+                    "nome": "Gest\u00e3o e Conserva\u00e7\u00e3o de Aves e Mam\u00edferos",
+                    "sigla": "BIOL3015",
+                    "tipo": "PL",
+                    "turma": "BIOL3015_PL1",
+                    "turmac": "BIOL3015_PL1",
+                    "duracao": "4",
+                    "sala": "FC4037",
+                    "profsig": "ABP+DG+PCA",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 10,
+                    "nome": "Gest\u00e3o e Conserva\u00e7\u00e3o de Aves e Mam\u00edferos",
+                    "sigla": "BIOL3015",
+                    "tipo": "PL",
+                    "turma": "BIOL3015_PL2",
+                    "turmac": "BIOL3015_PL2",
+                    "duracao": "4",
+                    "sala": "FC4037",
+                    "profsig": "ABP+DG+PCA",
+                    "prof": null
+                }
+            ],
+            "nome": "Gest\u00e3o e Conserva\u00e7\u00e3o de Aves e Mam\u00edferos",
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Gest\u00e3o e Conserva\u00e7\u00e3o de Aves e Mam\u00edferos",
+                    "sigla": "BIOL3015",
+                    "tipo": "T",
+                    "turma": "BIOL3015_T",
+                    "turmac": "BIOL3015_T",
+                    "duracao": "4",
+                    "sala": "FC4011",
+                    "profsig": "ABP+DG+PCA",
+                    "prof": null
+                }
+            ]
+        },
+        "BIOL3021": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Parasitologia Animal",
+                    "sigla": "BIOL3021",
+                    "tipo": "PL",
+                    "turma": "BIOL3021_PL1",
+                    "turmac": "BIOL3021_PL1",
+                    "duracao": "4",
+                    "sala": "FC4105",
+                    "profsig": "AMS+CC",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 18,
+                    "nome": "Parasitologia Animal",
+                    "sigla": "BIOL3021",
+                    "tipo": "PL",
+                    "turma": "BIOL3021_PL2",
+                    "turmac": "BIOL3021_PL2",
+                    "duracao": "4",
+                    "sala": "FC4105",
+                    "profsig": "AMS+CC",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Parasitologia Animal",
+                    "sigla": "BIOL3021",
+                    "tipo": "PL",
+                    "turma": "BIOL3021_PL3",
+                    "turmac": "BIOL3021_PL3",
+                    "duracao": "4",
+                    "sala": "FC4105",
+                    "profsig": "AMS+CC",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Parasitologia Animal",
+                    "sigla": "BIOL3021",
+                    "tipo": "PL",
+                    "turma": "BIOL3021_PL4",
+                    "turmac": "BIOL3021_PL4",
+                    "duracao": "4",
+                    "sala": "FC4105",
+                    "profsig": "AMS+CC",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Parasitologia Animal",
+                    "sigla": "BIOL3021",
+                    "tipo": "PL",
+                    "turma": "BIOL3021_PL5",
+                    "turmac": "BIOL3021_PL5",
+                    "duracao": "4",
+                    "sala": "FC4105",
+                    "profsig": "AMS+CC",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Parasitologia Animal",
+                    "sigla": "BIOL3021",
+                    "tipo": "PL",
+                    "turma": "BIOL3021_PL6",
+                    "turmac": "BIOL3021_PL6",
+                    "duracao": "4",
+                    "sala": "FC4105",
+                    "profsig": "AMS+CC",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 18,
+                    "nome": "Parasitologia Animal",
+                    "sigla": "BIOL3021",
+                    "tipo": "PL",
+                    "turma": "BIOL3021_PL7",
+                    "turmac": "BIOL3021_PL7",
+                    "duracao": "4",
+                    "sala": "FC4105",
+                    "profsig": "AMS+CC",
+                    "prof": null
+                }
+            ],
+            "nome": "Parasitologia Animal",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Parasitologia Animal",
+                    "sigla": "BIOL3021",
+                    "tipo": "T",
+                    "turma": "BIOL3021_T",
+                    "turmac": "BIOL3021_T",
+                    "duracao": "4",
+                    "sala": "FC4040",
+                    "profsig": "AMS+CC",
+                    "prof": null
+                }
+            ]
+        },
+        "BIOL3023": {
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Evolu\u00e7\u00e3o",
+                    "sigla": "BIOL3023",
+                    "tipo": "T",
+                    "turma": "BIOL3023_T",
+                    "turmac": "BIOL3023_T",
+                    "duracao": "4",
+                    "sala": "FC4040",
+                    "profsig": "ABP+PE",
+                    "prof": null
+                }
+            ],
+            "nome": "Evolu\u00e7\u00e3o"
+        }
+    }
+}

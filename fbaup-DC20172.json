@@ -1,0 +1,470 @@
+{
+    "Sem Ano": {
+        "DED": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Design Editorial",
+                    "sigla": "DED",
+                    "tipo": "TP",
+                    "turma": "DED500",
+                    "turmac": "DED500",
+                    "duracao": "6",
+                    "sala": "PS13 B",
+                    "profsig": "MASM",
+                    "prof": "M\u00e1rio Moura"
+                }
+            ],
+            "nome": "Design Editorial"
+        },
+        "I2": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 17,
+                    "nome": "Ilustra\u00e7\u00e3o II",
+                    "sigla": "I2",
+                    "tipo": "TP",
+                    "turma": "I502",
+                    "turmac": "I502",
+                    "duracao": "6",
+                    "sala": "PS13 B",
+                    "profsig": "LM",
+                    "prof": "Lu\u00eds Mendon\u00e7a"
+                }
+            ],
+            "nome": "Ilustra\u00e7\u00e3o II"
+        },
+        "SDII": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Semin\u00e1rio de Design II",
+                    "sigla": "SDII",
+                    "tipo": "T",
+                    "turma": "SDII211",
+                    "turmac": "SDII211",
+                    "duracao": "4",
+                    "sala": "PS13 A",
+                    "profsig": "PJCC",
+                    "prof": "Pedro Cardoso"
+                }
+            ],
+            "nome": "Semin\u00e1rio de Design II"
+        },
+        "SDI": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Semin\u00e1rio de Design I",
+                    "sigla": "SDI",
+                    "tipo": "T",
+                    "turma": "SDI211",
+                    "turmac": "SDI211",
+                    "duracao": "4",
+                    "sala": "PS13 A",
+                    "profsig": "BSG",
+                    "prof": "Bruno Giesteira"
+                }
+            ],
+            "nome": "Semin\u00e1rio de Design I"
+        },
+        "VD 2": {
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Video II",
+                    "sigla": "VD 2",
+                    "tipo": "PL",
+                    "turma": "VD502",
+                    "turmac": "VD502",
+                    "duracao": "6",
+                    "sala": "PS42",
+                    "profsig": "VARA",
+                    "prof": "Vitor Almeida"
+                }
+            ],
+            "nome": "Video II"
+        }
+    },
+    "1\u00ba Ano": {
+        "ITD": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 10,
+                    "nome": "Introdu\u00e7\u00e3o ao Design",
+                    "sigla": "ITD",
+                    "tipo": "TP",
+                    "turma": "1LDC01",
+                    "turmac": "1LDC01",
+                    "duracao": "6",
+                    "sala": "PS13 A",
+                    "profsig": "JD",
+                    "prof": "J\u00falio Dolbeth"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10,
+                    "nome": "Introdu\u00e7\u00e3o ao Design",
+                    "sigla": "ITD",
+                    "tipo": "TP",
+                    "turma": "1LDC01",
+                    "turmac": "1LDC01",
+                    "duracao": "6",
+                    "sala": "PS13 A",
+                    "profsig": "JD",
+                    "prof": "J\u00falio Dolbeth"
+                },
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Introdu\u00e7\u00e3o ao Design",
+                    "sigla": "ITD",
+                    "tipo": "TP",
+                    "turma": "1LDC02",
+                    "turmac": "1LDC02",
+                    "duracao": "6",
+                    "sala": "PS13 A",
+                    "profsig": "RPVS",
+                    "prof": "Rui Santos"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Introdu\u00e7\u00e3o ao Design",
+                    "sigla": "ITD",
+                    "tipo": "TP",
+                    "turma": "1LDC02",
+                    "turmac": "1LDC02",
+                    "duracao": "6",
+                    "sala": "PS13 A",
+                    "profsig": "RPVS",
+                    "prof": "Rui Santos"
+                }
+            ],
+            "nome": "Introdu\u00e7\u00e3o ao Design"
+        },
+        "DI": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Desenho I",
+                    "sigla": "DI",
+                    "tipo": "TP",
+                    "turma": "1LDC01",
+                    "turmac": "1LAP01+1LDC01",
+                    "duracao": "6",
+                    "sala": "PT203",
+                    "profsig": "MB",
+                    "prof": "M\u00e1rio Bismarck"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Desenho I",
+                    "sigla": "DI",
+                    "tipo": "TP",
+                    "turma": "1LDC01",
+                    "turmac": "1LAP01+1LDC01",
+                    "duracao": "6",
+                    "sala": "PS33",
+                    "profsig": "MB",
+                    "prof": "M\u00e1rio Bismarck"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Desenho I",
+                    "sigla": "DI",
+                    "tipo": "TP",
+                    "turma": "1LDC02",
+                    "turmac": "1LAP02+1LDC02",
+                    "duracao": "6",
+                    "sala": "PS33",
+                    "profsig": "CA",
+                    "prof": "Cl\u00e1udia Amandi"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Desenho I",
+                    "sigla": "DI",
+                    "tipo": "TP",
+                    "turma": "1LDC02",
+                    "turmac": "1LAP02+1LDC02",
+                    "duracao": "6",
+                    "sala": "PT203",
+                    "profsig": "CA",
+                    "prof": "Cl\u00e1udia Amandi"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Desenho I",
+                    "sigla": "DI",
+                    "tipo": "TP",
+                    "turma": "1LDC03",
+                    "turmac": "1LAP03+1LDC03",
+                    "duracao": "6",
+                    "sala": "PS33",
+                    "profsig": "CA",
+                    "prof": "Cl\u00e1udia Amandi"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Desenho I",
+                    "sigla": "DI",
+                    "tipo": "TP",
+                    "turma": "1LDC03",
+                    "turmac": "1LAP03+1LDC03",
+                    "duracao": "6",
+                    "sala": "PT203",
+                    "profsig": "CA",
+                    "prof": "Cl\u00e1udia Amandi"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Desenho I",
+                    "sigla": "DI",
+                    "tipo": "TP",
+                    "turma": "1LDC04",
+                    "turmac": "1LAP04+1LDC04",
+                    "duracao": "6",
+                    "sala": "PT203",
+                    "profsig": "PFFSM",
+                    "prof": "Pedro Maia"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Desenho I",
+                    "sigla": "DI",
+                    "tipo": "TP",
+                    "turma": "1LDC04",
+                    "turmac": "1LAP04+1LDC04",
+                    "duracao": "6",
+                    "sala": "PS33",
+                    "profsig": "PFFSM",
+                    "prof": "Pedro Maia"
+                },
+                {
+                    "dia": 2,
+                    "hora": 17,
+                    "nome": "Desenho I",
+                    "sigla": "DI",
+                    "tipo": "TP",
+                    "turma": "1LDC05",
+                    "turmac": "1LAP05+1LDC05",
+                    "duracao": "6",
+                    "sala": "PS33",
+                    "profsig": "RMON",
+                    "prof": "Rui Neto"
+                },
+                {
+                    "dia": 4,
+                    "hora": 17,
+                    "nome": "Desenho I",
+                    "sigla": "DI",
+                    "tipo": "TP",
+                    "turma": "1LDC05",
+                    "turmac": "1LAP05+1LDC05",
+                    "duracao": "6",
+                    "sala": "PT203",
+                    "profsig": "RMON",
+                    "prof": "Rui Neto"
+                },
+                {
+                    "dia": 2,
+                    "hora": 17,
+                    "nome": "Desenho I",
+                    "sigla": "DI",
+                    "tipo": "TP",
+                    "turma": "1LDC06",
+                    "turmac": "1LAP06+1LDC06",
+                    "duracao": "6",
+                    "sala": "PT203",
+                    "profsig": "EAFR",
+                    "prof": "Em\u00edlio Remelhe"
+                },
+                {
+                    "dia": 4,
+                    "hora": 17,
+                    "nome": "Desenho I",
+                    "sigla": "DI",
+                    "tipo": "TP",
+                    "turma": "1LDC06",
+                    "turmac": "1LAP06+1LDC06",
+                    "duracao": "6",
+                    "sala": "PS33",
+                    "profsig": "EAFR",
+                    "prof": "Em\u00edlio Remelhe"
+                }
+            ],
+            "nome": "Desenho I"
+        }
+    },
+    "2\u00ba Ano": {
+        "DSG 1": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Design I",
+                    "sigla": "DSG 1",
+                    "tipo": "TP",
+                    "turma": "2LDC01",
+                    "turmac": "2LDC01",
+                    "duracao": "6",
+                    "sala": "PS13 B",
+                    "profsig": "LM",
+                    "prof": "Lu\u00eds Mendon\u00e7a"
+                },
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Design I",
+                    "sigla": "DSG 1",
+                    "tipo": "TP",
+                    "turma": "2LDC01",
+                    "turmac": "2LDC01",
+                    "duracao": "6",
+                    "sala": "PS13 B",
+                    "profsig": "LM",
+                    "prof": "Lu\u00eds Mendon\u00e7a"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Design I",
+                    "sigla": "DSG 1",
+                    "tipo": "TP",
+                    "turma": "2LDC02",
+                    "turmac": "2LDC02",
+                    "duracao": "6",
+                    "sala": "PS13 B",
+                    "profsig": "JAMF",
+                    "prof": "Antero Ferreira"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Design I",
+                    "sigla": "DSG 1",
+                    "tipo": "TP",
+                    "turma": "2LDC02",
+                    "turmac": "2LDC02",
+                    "duracao": "6",
+                    "sala": "PS13 B",
+                    "profsig": "JAMF",
+                    "prof": "Antero Ferreira"
+                }
+            ],
+            "nome": "Design I"
+        },
+        "F 1": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 17,
+                    "nome": "Fotografia I",
+                    "sigla": "F 1",
+                    "tipo": "TP",
+                    "turma": "2LDC03",
+                    "turmac": "2LDC03",
+                    "duracao": "6",
+                    "sala": "PS32",
+                    "profsig": "JC",
+                    "prof": "Jos\u00e9 Carneiro"
+                }
+            ],
+            "nome": "Fotografia I"
+        }
+    },
+    "3\u00ba Ano": {
+        "DSG 2": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Design II",
+                    "sigla": "DSG 2",
+                    "tipo": "TP",
+                    "turma": "3LDC01",
+                    "turmac": "3LDC01",
+                    "duracao": "6",
+                    "sala": "PS13 A",
+                    "profsig": "AMCN",
+                    "prof": "Ant\u00f3nio Modesto Nunes"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Design II",
+                    "sigla": "DSG 2",
+                    "tipo": "TP",
+                    "turma": "3LDC01",
+                    "turmac": "3LDC01",
+                    "duracao": "6",
+                    "sala": "PS13 A",
+                    "profsig": "AMCN",
+                    "prof": "Ant\u00f3nio Modesto Nunes"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Design II",
+                    "sigla": "DSG 2",
+                    "tipo": "TP",
+                    "turma": "3LDC02",
+                    "turmac": "3LDC02",
+                    "duracao": "6",
+                    "sala": "PS13 A",
+                    "profsig": "EA",
+                    "prof": "Eduardo Aires"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Design II",
+                    "sigla": "DSG 2",
+                    "tipo": "TP",
+                    "turma": "3LDC02",
+                    "turmac": "3LDC02",
+                    "duracao": "6",
+                    "sala": "PS13 A",
+                    "profsig": "EA",
+                    "prof": "Eduardo Aires"
+                }
+            ],
+            "nome": "Design II"
+        }
+    },
+    "4\u00ba Ano": {
+        "ED": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Estudos de Design",
+                    "sigla": "ED",
+                    "tipo": "T",
+                    "turma": "4LDC01",
+                    "turmac": "4LDC01",
+                    "duracao": "6",
+                    "sala": "PS42",
+                    "profsig": "MASM",
+                    "prof": "M\u00e1rio Moura"
+                }
+            ],
+            "nome": "Estudos de Design"
+        }
+    }
+}

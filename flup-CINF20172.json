@@ -1,0 +1,879 @@
+{
+    "1\u00ba Ano": {
+        "LING": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Lingu\u00edstica",
+                    "sigla": "LING",
+                    "tipo": "TP",
+                    "turma": "1LCINF01",
+                    "turmac": "1LCINF01",
+                    "duracao": "4",
+                    "sala": "G302",
+                    "profsig": "MAAGP",
+                    "prof": "Maria Alexandra Guedes Pinto"
+                },
+                {
+                    "dia": 3,
+                    "hora": 8.5,
+                    "nome": "Lingu\u00edstica",
+                    "sigla": "LING",
+                    "tipo": "TP",
+                    "turma": "1LCINF01",
+                    "turmac": "1LCINF01",
+                    "duracao": "4",
+                    "sala": "G301",
+                    "profsig": "MAAGP",
+                    "prof": "Maria Alexandra Guedes Pinto"
+                }
+            ],
+            "nome": "Lingu\u00edstica"
+        },
+        "HAP": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "Hist\u00f3ria da Administra\u00e7\u00e3o P\u00fablica",
+                    "sigla": "HAP",
+                    "tipo": "TP",
+                    "turma": "1LCINF01",
+                    "turmac": "1LCINF01",
+                    "duracao": "4",
+                    "sala": "G303",
+                    "profsig": "AMBC",
+                    "prof": "Ant\u00f3nio Barros Cardoso"
+                },
+                {
+                    "dia": 3,
+                    "hora": 10.5,
+                    "nome": "Hist\u00f3ria da Administra\u00e7\u00e3o P\u00fablica",
+                    "sigla": "HAP",
+                    "tipo": "TP",
+                    "turma": "1LCINF01",
+                    "turmac": "1LCINF01",
+                    "duracao": "4",
+                    "sala": "106.A\/B",
+                    "profsig": "AMBC",
+                    "prof": "Ant\u00f3nio Barros Cardoso"
+                }
+            ],
+            "nome": "Hist\u00f3ria da Administra\u00e7\u00e3o P\u00fablica"
+        },
+        "INGTEC": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "Ingl\u00eas T\u00e9cnico",
+                    "sigla": "INGTEC",
+                    "tipo": "TP",
+                    "turma": "1LCINF01",
+                    "turmac": "1LCINF01",
+                    "duracao": "4",
+                    "sala": "G105",
+                    "profsig": "MEEM",
+                    "prof": "Maria Ellison"
+                },
+                {
+                    "dia": 3,
+                    "hora": 15.5,
+                    "nome": "Ingl\u00eas T\u00e9cnico",
+                    "sigla": "INGTEC",
+                    "tipo": "TP",
+                    "turma": "1LCINF01",
+                    "turmac": "1LCINF01",
+                    "duracao": "4",
+                    "sala": "G408",
+                    "profsig": "MEEM",
+                    "prof": "Maria Ellison"
+                },
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Ingl\u00eas T\u00e9cnico",
+                    "sigla": "INGTEC",
+                    "tipo": "TP",
+                    "turma": "1LCINF02",
+                    "turmac": "1LCINF02",
+                    "duracao": "4",
+                    "sala": "G408",
+                    "profsig": "MEEM",
+                    "prof": "Maria Ellison"
+                },
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Ingl\u00eas T\u00e9cnico",
+                    "sigla": "INGTEC",
+                    "tipo": "TP",
+                    "turma": "1LCINF02",
+                    "turmac": "1LCINF02",
+                    "duracao": "4",
+                    "sala": "G105",
+                    "profsig": "MEEM",
+                    "prof": "Maria Ellison"
+                }
+            ],
+            "nome": "Ingl\u00eas T\u00e9cnico"
+        },
+        "FG": {
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Fundamentos de Gest\u00e3o",
+                    "sigla": "FG",
+                    "tipo": "T",
+                    "turma": "1LCI1",
+                    "turmac": "COMP_49",
+                    "duracao": "4",
+                    "sala": "B011",
+                    "profsig": "APSG",
+                    "prof": "Alcibiades Soares Guedes"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Fundamentos de Gest\u00e3o",
+                    "sigla": "FG",
+                    "tipo": "T",
+                    "turma": "1LCI2",
+                    "turmac": "COMP_49",
+                    "duracao": "4",
+                    "sala": "B011",
+                    "profsig": "APSG",
+                    "prof": "Alcibiades Soares Guedes"
+                }
+            ],
+            "nome": "Fundamentos de Gest\u00e3o",
+            "P": [
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Fundamentos de Gest\u00e3o",
+                    "sigla": "FG",
+                    "tipo": "P",
+                    "turma": "1LCI1",
+                    "turmac": "1LCI1",
+                    "duracao": "4",
+                    "sala": "B334",
+                    "profsig": "APSG",
+                    "prof": "Alcibiades Soares Guedes"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Fundamentos de Gest\u00e3o",
+                    "sigla": "FG",
+                    "tipo": "P",
+                    "turma": "1LCI2",
+                    "turmac": "1LCI2",
+                    "duracao": "4",
+                    "sala": "B222",
+                    "profsig": "APSG",
+                    "prof": "Alcibiades Soares Guedes"
+                }
+            ]
+        },
+        "SCCOM": {
+            "P": [
+                {
+                    "dia": 1,
+                    "hora": 9.5,
+                    "nome": "Sistemas Computacionais e de Comunica\u00e7\u00e3o",
+                    "sigla": "SCCOM",
+                    "tipo": "P",
+                    "turma": "1LCI1",
+                    "turmac": "1LCI1",
+                    "duracao": "4",
+                    "sala": "B201",
+                    "profsig": "DCS",
+                    "prof": "Daniel Castro Silva"
+                },
+                {
+                    "dia": 1,
+                    "hora": 15,
+                    "nome": "Sistemas Computacionais e de Comunica\u00e7\u00e3o",
+                    "sigla": "SCCOM",
+                    "tipo": "P",
+                    "turma": "1LCI2",
+                    "turmac": "1LCI2",
+                    "duracao": "4",
+                    "sala": "B201",
+                    "profsig": "DCS",
+                    "prof": "Daniel Castro Silva"
+                }
+            ],
+            "nome": "Sistemas Computacionais e de Comunica\u00e7\u00e3o",
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 11.5,
+                    "nome": "Sistemas Computacionais e de Comunica\u00e7\u00e3o",
+                    "sigla": "SCCOM",
+                    "tipo": "T",
+                    "turma": "1LCI1",
+                    "turmac": "COMP_49",
+                    "duracao": "2",
+                    "sala": "B018",
+                    "profsig": "DCS",
+                    "prof": "Daniel Castro Silva"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Sistemas Computacionais e de Comunica\u00e7\u00e3o",
+                    "sigla": "SCCOM",
+                    "tipo": "T",
+                    "turma": "1LCI1",
+                    "turmac": "COMP_49",
+                    "duracao": "2",
+                    "sala": "B019",
+                    "profsig": "DCS",
+                    "prof": "Daniel Castro Silva"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11.5,
+                    "nome": "Sistemas Computacionais e de Comunica\u00e7\u00e3o",
+                    "sigla": "SCCOM",
+                    "tipo": "T",
+                    "turma": "1LCI2",
+                    "turmac": "COMP_49",
+                    "duracao": "2",
+                    "sala": "B018",
+                    "profsig": "DCS",
+                    "prof": "Daniel Castro Silva"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Sistemas Computacionais e de Comunica\u00e7\u00e3o",
+                    "sigla": "SCCOM",
+                    "tipo": "T",
+                    "turma": "1LCI2",
+                    "turmac": "COMP_49",
+                    "duracao": "2",
+                    "sala": "B019",
+                    "profsig": "DCS",
+                    "prof": "Daniel Castro Silva"
+                }
+            ]
+        }
+    },
+    "2\u00ba Ano": {
+        "EI": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 17.5,
+                    "nome": "\u00c9tica da Informa\u00e7\u00e3o",
+                    "sigla": "EI",
+                    "tipo": "TP",
+                    "turma": "2LCINF_OP01",
+                    "turmac": "2LCINF_OP01",
+                    "duracao": "4",
+                    "sala": "G209",
+                    "profsig": "AMBMS",
+                    "prof": "Armando Malheiro"
+                },
+                {
+                    "dia": 3,
+                    "hora": 17.5,
+                    "nome": "\u00c9tica da Informa\u00e7\u00e3o",
+                    "sigla": "EI",
+                    "tipo": "TP",
+                    "turma": "2LCINF_OP01",
+                    "turmac": "2LCINF_OP01",
+                    "duracao": "4",
+                    "sala": "G209",
+                    "profsig": "AMBMS",
+                    "prof": "Armando Malheiro"
+                }
+            ],
+            "nome": "\u00c9tica da Informa\u00e7\u00e3o"
+        },
+        "CAI": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Controlo de Autoridade e Indexa\u00e7\u00e3o",
+                    "sigla": "CAI",
+                    "tipo": "T",
+                    "turma": "2LCINF01",
+                    "turmac": "CAI_T",
+                    "duracao": "4",
+                    "sala": "G204",
+                    "profsig": "MERMC_OMMP",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Controlo de Autoridade e Indexa\u00e7\u00e3o",
+                    "sigla": "CAI",
+                    "tipo": "T",
+                    "turma": "2LCINF02",
+                    "turmac": "CAI_T",
+                    "duracao": "4",
+                    "sala": "G204",
+                    "profsig": "MERMC_OMMP",
+                    "prof": null
+                }
+            ],
+            "nome": "Controlo de Autoridade e Indexa\u00e7\u00e3o",
+            "P": [
+                {
+                    "dia": 2,
+                    "hora": 10.5,
+                    "nome": "Controlo de Autoridade e Indexa\u00e7\u00e3o",
+                    "sigla": "CAI",
+                    "tipo": "P",
+                    "turma": "2LCINF01",
+                    "turmac": "2LCINF01",
+                    "duracao": "4",
+                    "sala": "G204",
+                    "profsig": "MERMC_OMMP",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 10.5,
+                    "nome": "Controlo de Autoridade e Indexa\u00e7\u00e3o",
+                    "sigla": "CAI",
+                    "tipo": "P",
+                    "turma": "2LCINF01",
+                    "turmac": "2LCINF01",
+                    "duracao": "4",
+                    "sala": "206.A\/B",
+                    "profsig": "MERMC_OMMP",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "Controlo de Autoridade e Indexa\u00e7\u00e3o",
+                    "sigla": "CAI",
+                    "tipo": "P",
+                    "turma": "2LCINF02",
+                    "turmac": "2LCINF02",
+                    "duracao": "4",
+                    "sala": "206.A\/B",
+                    "profsig": "MERMC_OMMP",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 15.5,
+                    "nome": "Controlo de Autoridade e Indexa\u00e7\u00e3o",
+                    "sigla": "CAI",
+                    "tipo": "P",
+                    "turma": "2LCINF02",
+                    "turmac": "2LCINF02",
+                    "duracao": "4",
+                    "sala": "G204",
+                    "profsig": "MERMC_OMMP",
+                    "prof": null
+                }
+            ]
+        },
+        "CINF": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Comportamento Informacional",
+                    "sigla": "CINF",
+                    "tipo": "TP",
+                    "turma": "2LCINF01",
+                    "turmac": "2LCINF01",
+                    "duracao": "4",
+                    "sala": "G202",
+                    "profsig": "MFSM",
+                    "prof": "Maria Fernanda Martins"
+                },
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Comportamento Informacional",
+                    "sigla": "CINF",
+                    "tipo": "TP",
+                    "turma": "2LCINF01",
+                    "turmac": "2LCINF01",
+                    "duracao": "4",
+                    "sala": "G102",
+                    "profsig": "MFSM",
+                    "prof": "Maria Fernanda Martins"
+                }
+            ],
+            "nome": "Comportamento Informacional"
+        },
+        "TECM": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Tecnologia Multim\u00e9dia",
+                    "sigla": "TECM",
+                    "tipo": "T",
+                    "turma": "2LCI1",
+                    "turmac": "COMP_1522",
+                    "duracao": "4",
+                    "sala": "B012",
+                    "profsig": "RJVB",
+                    "prof": "Ricardo Baptista"
+                },
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Tecnologia Multim\u00e9dia",
+                    "sigla": "TECM",
+                    "tipo": "T",
+                    "turma": "2LCI2",
+                    "turmac": "COMP_1522",
+                    "duracao": "4",
+                    "sala": "B012",
+                    "profsig": "RJVB",
+                    "prof": "Ricardo Baptista"
+                }
+            ],
+            "nome": "Tecnologia Multim\u00e9dia",
+            "P": [
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Tecnologia Multim\u00e9dia",
+                    "sigla": "TECM",
+                    "tipo": "P",
+                    "turma": "2LCI1",
+                    "turmac": "COMP_1522",
+                    "duracao": "4",
+                    "sala": "B308",
+                    "profsig": "RJVB",
+                    "prof": "Ricardo Baptista"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Tecnologia Multim\u00e9dia",
+                    "sigla": "TECM",
+                    "tipo": "P",
+                    "turma": "2LCI2",
+                    "turmac": "COMP_1522",
+                    "duracao": "4",
+                    "sala": "B308",
+                    "profsig": "RJVB",
+                    "prof": "Ricardo Baptista"
+                }
+            ]
+        },
+        "SIO": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Sistemas de Informa\u00e7\u00e3o nas Organiza\u00e7\u00f5es",
+                    "sigla": "SIO",
+                    "tipo": "TP",
+                    "turma": "2LCI1",
+                    "turmac": "COMP_1522",
+                    "duracao": "4",
+                    "sala": "B012",
+                    "profsig": "ALS",
+                    "prof": "Ant\u00f3nio Lucas Soares"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Sistemas de Informa\u00e7\u00e3o nas Organiza\u00e7\u00f5es",
+                    "sigla": "SIO",
+                    "tipo": "TP",
+                    "turma": "2LCI2",
+                    "turmac": "COMP_1522",
+                    "duracao": "4",
+                    "sala": "B012",
+                    "profsig": "ALS",
+                    "prof": "Ant\u00f3nio Lucas Soares"
+                }
+            ],
+            "nome": "Sistemas de Informa\u00e7\u00e3o nas Organiza\u00e7\u00f5es"
+        },
+        "FISR": {
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Fontes de Informa\u00e7\u00e3o e Servi\u00e7os de Refer\u00eancia",
+                    "sigla": "FISR",
+                    "tipo": "T",
+                    "turma": "2LCI1",
+                    "turmac": "COMP_1522",
+                    "duracao": "4",
+                    "sala": "B011",
+                    "profsig": "MFSG",
+                    "prof": "Maria Gon\u00e7alves"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Fontes de Informa\u00e7\u00e3o e Servi\u00e7os de Refer\u00eancia",
+                    "sigla": "FISR",
+                    "tipo": "T",
+                    "turma": "2LCI2",
+                    "turmac": "COMP_1522",
+                    "duracao": "4",
+                    "sala": "B011",
+                    "profsig": "MFSG",
+                    "prof": "Maria Gon\u00e7alves"
+                }
+            ],
+            "nome": "Fontes de Informa\u00e7\u00e3o e Servi\u00e7os de Refer\u00eancia",
+            "P": [
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Fontes de Informa\u00e7\u00e3o e Servi\u00e7os de Refer\u00eancia",
+                    "sigla": "FISR",
+                    "tipo": "P",
+                    "turma": "2LCI1",
+                    "turmac": "2LCI1",
+                    "duracao": "4",
+                    "sala": "B302",
+                    "profsig": "MFSG",
+                    "prof": "Maria Gon\u00e7alves"
+                },
+                {
+                    "dia": 4,
+                    "hora": 18,
+                    "nome": "Fontes de Informa\u00e7\u00e3o e Servi\u00e7os de Refer\u00eancia",
+                    "sigla": "FISR",
+                    "tipo": "P",
+                    "turma": "2LCI2",
+                    "turmac": "2LCI2",
+                    "duracao": "4",
+                    "sala": "B302",
+                    "profsig": "MFSG",
+                    "prof": "Maria Gon\u00e7alves"
+                }
+            ]
+        }
+    },
+    "3\u00ba Ano": {
+        "P": {
+            "OT": [
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "Projeto",
+                    "sigla": "P",
+                    "tipo": "OT",
+                    "turma": "P",
+                    "turmac": "P",
+                    "duracao": "12",
+                    "sala": "SALA",
+                    "profsig": "OMMP",
+                    "prof": "Ol\u00edvia Pestana"
+                },
+                {
+                    "dia": 3,
+                    "hora": 13.5,
+                    "nome": "Projeto",
+                    "sigla": "P",
+                    "tipo": "OT",
+                    "turma": "P",
+                    "turmac": "P",
+                    "duracao": "12",
+                    "sala": "SALA",
+                    "profsig": "OMMP",
+                    "prof": "Ol\u00edvia Pestana"
+                }
+            ],
+            "nome": "Projeto"
+        },
+        "PI": {
+            "T": [
+                {
+                    "dia": 2,
+                    "hora": 13.5,
+                    "nome": "Preserva\u00e7\u00e3o da Informa\u00e7\u00e3o",
+                    "sigla": "PI",
+                    "tipo": "T",
+                    "turma": "PI_01",
+                    "turmac": "PI_01",
+                    "duracao": "4",
+                    "sala": "G305",
+                    "profsig": "MMGAP",
+                    "prof": "Maria Manuela Pinto"
+                },
+                {
+                    "dia": 3,
+                    "hora": 8.5,
+                    "nome": "Preserva\u00e7\u00e3o da Informa\u00e7\u00e3o",
+                    "sigla": "PI",
+                    "tipo": "T",
+                    "turma": "PI_02",
+                    "turmac": "PI_02",
+                    "duracao": "4",
+                    "sala": "G208",
+                    "profsig": "MMGAP",
+                    "prof": "Maria Manuela Pinto"
+                }
+            ],
+            "nome": "Preserva\u00e7\u00e3o da Informa\u00e7\u00e3o",
+            "P": [
+                {
+                    "dia": 2,
+                    "hora": 15.5,
+                    "nome": "Preserva\u00e7\u00e3o da Informa\u00e7\u00e3o",
+                    "sigla": "PI",
+                    "tipo": "P",
+                    "turma": "PI_01",
+                    "turmac": "PI_01",
+                    "duracao": "8",
+                    "sala": "G305",
+                    "profsig": "MMGAP",
+                    "prof": "Maria Manuela Pinto"
+                },
+                {
+                    "dia": 3,
+                    "hora": 10.5,
+                    "nome": "Preserva\u00e7\u00e3o da Informa\u00e7\u00e3o",
+                    "sigla": "PI",
+                    "tipo": "P",
+                    "turma": "PI_02",
+                    "turmac": "PI_02",
+                    "duracao": "8",
+                    "sala": "G208",
+                    "profsig": "MMGAP",
+                    "prof": "Maria Manuela Pinto"
+                }
+            ]
+        },
+        "SAD": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Sistemas de Apoio \u00e0 Decis\u00e3o",
+                    "sigla": "SAD",
+                    "tipo": "T",
+                    "turma": "3LCI1",
+                    "turmac": "COMP_145",
+                    "duracao": "4",
+                    "sala": "B016",
+                    "profsig": "MAC+JFO",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Sistemas de Apoio \u00e0 Decis\u00e3o",
+                    "sigla": "SAD",
+                    "tipo": "T",
+                    "turma": "3LCI1",
+                    "turmac": "COMP_145",
+                    "duracao": "4",
+                    "sala": "B016",
+                    "profsig": "MAC+JFO",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Sistemas de Apoio \u00e0 Decis\u00e3o",
+                    "sigla": "SAD",
+                    "tipo": "T",
+                    "turma": "3LCI2",
+                    "turmac": "COMP_145",
+                    "duracao": "4",
+                    "sala": "B016",
+                    "profsig": "MAC+JFO",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Sistemas de Apoio \u00e0 Decis\u00e3o",
+                    "sigla": "SAD",
+                    "tipo": "T",
+                    "turma": "3LCI2",
+                    "turmac": "COMP_145",
+                    "duracao": "4",
+                    "sala": "B016",
+                    "profsig": "MAC+JFO",
+                    "prof": null
+                }
+            ],
+            "nome": "Sistemas de Apoio \u00e0 Decis\u00e3o",
+            "P": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Sistemas de Apoio \u00e0 Decis\u00e3o",
+                    "sigla": "SAD",
+                    "tipo": "P",
+                    "turma": "3LCI1",
+                    "turmac": "3LCI1",
+                    "duracao": "4",
+                    "sala": "B313",
+                    "profsig": "MAC+JFO",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Sistemas de Apoio \u00e0 Decis\u00e3o",
+                    "sigla": "SAD",
+                    "tipo": "P",
+                    "turma": "3LCI1",
+                    "turmac": "3LCI1",
+                    "duracao": "4",
+                    "sala": "B204",
+                    "profsig": "MAC+JFO",
+                    "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Sistemas de Apoio \u00e0 Decis\u00e3o",
+                    "sigla": "SAD",
+                    "tipo": "P",
+                    "turma": "3LCI2",
+                    "turmac": "3LCI2",
+                    "duracao": "4",
+                    "sala": "B313",
+                    "profsig": "MAC+JFO",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Sistemas de Apoio \u00e0 Decis\u00e3o",
+                    "sigla": "SAD",
+                    "tipo": "P",
+                    "turma": "3LCI2",
+                    "turmac": "3LCI2",
+                    "duracao": "4",
+                    "sala": "B204",
+                    "profsig": "MAC+JFO",
+                    "prof": null
+                }
+            ]
+        },
+        "BD": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Bases de Dados",
+                    "sigla": "BD",
+                    "tipo": "T",
+                    "turma": "3LCI1",
+                    "turmac": "COMP_145",
+                    "duracao": "4",
+                    "sala": "B016",
+                    "profsig": "GTD",
+                    "prof": "Gabriel David"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Bases de Dados",
+                    "sigla": "BD",
+                    "tipo": "T",
+                    "turma": "3LCI1",
+                    "turmac": "COMP_145",
+                    "duracao": "4",
+                    "sala": "B016",
+                    "profsig": "GTD",
+                    "prof": "Gabriel David"
+                },
+                {
+                    "dia": 1,
+                    "hora": 11,
+                    "nome": "Bases de Dados",
+                    "sigla": "BD",
+                    "tipo": "T",
+                    "turma": "3LCI2",
+                    "turmac": "COMP_145",
+                    "duracao": "4",
+                    "sala": "B016",
+                    "profsig": "GTD",
+                    "prof": "Gabriel David"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Bases de Dados",
+                    "sigla": "BD",
+                    "tipo": "T",
+                    "turma": "3LCI2",
+                    "turmac": "COMP_145",
+                    "duracao": "4",
+                    "sala": "B016",
+                    "profsig": "GTD",
+                    "prof": "Gabriel David"
+                }
+            ],
+            "nome": "Bases de Dados",
+            "P": [
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Bases de Dados",
+                    "sigla": "BD",
+                    "tipo": "P",
+                    "turma": "3LCI1",
+                    "turmac": "3LCI1",
+                    "duracao": "4",
+                    "sala": "B309",
+                    "profsig": "GTD",
+                    "prof": "Gabriel David"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Bases de Dados",
+                    "sigla": "BD",
+                    "tipo": "P",
+                    "turma": "3LCI1",
+                    "turmac": "3LCI1",
+                    "duracao": "4",
+                    "sala": "B309",
+                    "profsig": "GTD",
+                    "prof": "Gabriel David"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Bases de Dados",
+                    "sigla": "BD",
+                    "tipo": "P",
+                    "turma": "3LCI2",
+                    "turmac": "3LCI2",
+                    "duracao": "4",
+                    "sala": "B309",
+                    "profsig": "GTD",
+                    "prof": "Gabriel David"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Bases de Dados",
+                    "sigla": "BD",
+                    "tipo": "P",
+                    "turma": "3LCI2",
+                    "turmac": "3LCI2",
+                    "duracao": "4",
+                    "sala": "B309",
+                    "profsig": "GTD",
+                    "prof": "Gabriel David"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1198 @@
+{
+    "Sem Ano": {
+        "AII": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Anima\u00e7\u00e3o II",
+                    "sigla": "AII",
+                    "tipo": "TP",
+                    "turma": "AII500",
+                    "turmac": "AII500",
+                    "duracao": "6",
+                    "sala": "PS42",
+                    "profsig": "VARA",
+                    "prof": "Vitor Almeida"
+                }
+            ],
+            "nome": "Anima\u00e7\u00e3o II"
+        },
+        "AU": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "\u00c1udio",
+                    "sigla": "AU",
+                    "tipo": "TP",
+                    "turma": "AU201",
+                    "turmac": "AU201",
+                    "duracao": "8",
+                    "sala": "PS42",
+                    "profsig": "PT",
+                    "prof": "Pedro Tudela"
+                }
+            ],
+            "nome": "\u00c1udio"
+        },
+        "CN": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Cenografia",
+                    "sigla": "CN",
+                    "tipo": "TP",
+                    "turma": "CN500",
+                    "turmac": "CN500",
+                    "duracao": "8",
+                    "sala": "PE201",
+                    "profsig": "NSJ",
+                    "prof": "Norberto Jorge"
+                }
+            ],
+            "nome": "Cenografia"
+        },
+        "C": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Cer\u00e2mica",
+                    "sigla": "C",
+                    "tipo": "TP",
+                    "turma": "C500",
+                    "turmac": "C500",
+                    "duracao": "8",
+                    "sala": "PT101",
+                    "profsig": "LDLFM",
+                    "prof": "Leonor Marques"
+                }
+            ],
+            "nome": "Cer\u00e2mica"
+        },
+        "DI": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Desenho e Ilustra\u00e7\u00e3o",
+                    "sigla": "DI",
+                    "tipo": "TP",
+                    "turma": "DI211",
+                    "turmac": "DI211",
+                    "duracao": "6",
+                    "sala": "PS33",
+                    "profsig": "SPMS",
+                    "prof": "S\u00edlvia Sim\u00f5es"
+                }
+            ],
+            "nome": "Desenho e Ilustra\u00e7\u00e3o"
+        },
+        "ECC": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Estudos Complementares de Cer\u00e2mica",
+                    "sigla": "ECC",
+                    "tipo": "TP",
+                    "turma": "ECC500",
+                    "turmac": "ECC500",
+                    "duracao": "8",
+                    "sala": "PT101",
+                    "profsig": "LDLFM",
+                    "prof": "Leonor Marques"
+                }
+            ],
+            "nome": "Estudos Complementares de Cer\u00e2mica"
+        },
+        "GC": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Gravura: Calcografia",
+                    "sigla": "GC",
+                    "tipo": "TP",
+                    "turma": "GC501",
+                    "turmac": "GC501",
+                    "duracao": "8",
+                    "sala": "PT303",
+                    "profsig": "MGCM",
+                    "prof": "Graciela Machado"
+                }
+            ],
+            "nome": "Gravura: Calcografia"
+        },
+        "GTRS": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Gravura: T\u00e9cnicas de Relevo e Serigrafia",
+                    "sigla": "GTRS",
+                    "tipo": "TP",
+                    "turma": "GTRS500",
+                    "turmac": "GTRS500",
+                    "duracao": "8",
+                    "sala": "PT303",
+                    "profsig": "MGCM",
+                    "prof": "Graciela Machado"
+                }
+            ],
+            "nome": "Gravura: T\u00e9cnicas de Relevo e Serigrafia"
+        },
+        "LF": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Laborat\u00f3rio de Fotografia",
+                    "sigla": "LF",
+                    "tipo": "TP",
+                    "turma": "LF500",
+                    "turmac": "LF500",
+                    "duracao": "8",
+                    "sala": "PT306",
+                    "profsig": "SLM",
+                    "prof": "Susana Louren\u00e7o Marques"
+                }
+            ],
+            "nome": "Laborat\u00f3rio de Fotografia"
+        },
+        "MA3D": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Modela\u00e7\u00e3o e Anima\u00e7\u00e3o 3D",
+                    "sigla": "MA3D",
+                    "tipo": "TP",
+                    "turma": "MA3D211",
+                    "turmac": "MA3D211",
+                    "duracao": "8",
+                    "sala": "PS43",
+                    "profsig": "Ricardo Megre",
+                    "prof": null
+                }
+            ],
+            "nome": "Modela\u00e7\u00e3o e Anima\u00e7\u00e3o 3D"
+        },
+        "MF": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Moldagem e Fundi\u00e7\u00e3o",
+                    "sigla": "MF",
+                    "tipo": "TP",
+                    "turma": "MF500",
+                    "turmac": "MF500",
+                    "duracao": "8",
+                    "sala": "PE101",
+                    "profsig": "RF+NJ",
+                    "prof": null
+                }
+            ],
+            "nome": "Moldagem e Fundi\u00e7\u00e3o"
+        },
+        "MM": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Modela\u00e7\u00e3o e Moldagem",
+                    "sigla": "MM",
+                    "tipo": "TP",
+                    "turma": "MM211",
+                    "turmac": "MM211",
+                    "duracao": "8",
+                    "sala": "PE102",
+                    "profsig": "ARFM",
+                    "prof": "Rui Ferro"
+                }
+            ],
+            "nome": "Modela\u00e7\u00e3o e Moldagem"
+        },
+        "M": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Mosaico",
+                    "sigla": "M",
+                    "tipo": "TP",
+                    "turma": "M503",
+                    "turmac": "M503",
+                    "duracao": "8",
+                    "sala": "PT207",
+                    "profsig": "TMCA",
+                    "prof": "Teresa Almeida"
+                }
+            ],
+            "nome": "Mosaico"
+        },
+        "PAT": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 18,
+                    "nome": "Psicologia da Arte",
+                    "sigla": "PAT",
+                    "tipo": "T",
+                    "turma": "PAT500",
+                    "turmac": "PAT500",
+                    "duracao": "4",
+                    "sala": "PS01",
+                    "profsig": "DMACR",
+                    "prof": "Dinis Ribeiro"
+                }
+            ],
+            "nome": "Psicologia da Arte"
+        },
+        "PCS": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Processos Construtivos e Subtrativos",
+                    "sigla": "PCS",
+                    "tipo": "TP",
+                    "turma": "PCS500",
+                    "turmac": "PCS500",
+                    "duracao": "8",
+                    "sala": "PM102",
+                    "profsig": "SMCSP",
+                    "prof": "Susana Piteira"
+                }
+            ],
+            "nome": "Processos Construtivos e Subtrativos"
+        },
+        "PD": {
+            "TP": [
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Pr\u00e1ticas do Desenho",
+                    "sigla": "PD",
+                    "tipo": "TP",
+                    "turma": "PD500",
+                    "turmac": "PD500",
+                    "duracao": "6",
+                    "sala": "PS32",
+                    "profsig": "PFFSM",
+                    "prof": "Pedro Maia"
+                }
+            ],
+            "nome": "Pr\u00e1ticas do Desenho"
+        },
+        "PE": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Pr\u00e1ticas da Escultura",
+                    "sigla": "PE",
+                    "tipo": "TP",
+                    "turma": "PE500",
+                    "turmac": "PE500",
+                    "duracao": "8",
+                    "sala": "PE103",
+                    "profsig": "SMCSP",
+                    "prof": "Susana Piteira"
+                }
+            ],
+            "nome": "Pr\u00e1ticas da Escultura"
+        },
+        "PP": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "Pr\u00e1ticas da Pintura",
+                    "sigla": "PP",
+                    "tipo": "TP",
+                    "turma": "PP500",
+                    "turmac": "PP500",
+                    "duracao": "8",
+                    "sala": "PA202",
+                    "profsig": "FAVTL",
+                    "prof": "Francisco Laranjo"
+                }
+            ],
+            "nome": "Pr\u00e1ticas da Pintura"
+        },
+        "PVI": {
+            "TP": [
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Pr\u00e1ticas do Video I",
+                    "sigla": "PVI",
+                    "tipo": "TP",
+                    "turma": "PVI211",
+                    "turmac": "PVI211",
+                    "duracao": "8",
+                    "sala": "PS42",
+                    "profsig": "AECMC",
+                    "prof": "Aida Castro"
+                }
+            ],
+            "nome": "Pr\u00e1ticas do Video I"
+        },
+        "TC": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "T\u00eaxteis Constru\u00eddos",
+                    "sigla": "TC",
+                    "tipo": "TP",
+                    "turma": "TC500",
+                    "turmac": "TC500",
+                    "duracao": "8",
+                    "sala": "PT205",
+                    "profsig": "MIFSQN",
+                    "prof": "ISABEL QUARESMA"
+                }
+            ],
+            "nome": "T\u00eaxteis Constru\u00eddos"
+        },
+        "TFV": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 14,
+                    "nome": "T\u00e9cnicas de Fus\u00e3o em Vidro",
+                    "sigla": "TFV",
+                    "tipo": "TP",
+                    "turma": "TFV500",
+                    "turmac": "TFV500",
+                    "duracao": "8",
+                    "sala": "PT207",
+                    "profsig": "TMCA",
+                    "prof": "Teresa Almeida"
+                }
+            ],
+            "nome": "T\u00e9cnicas de Fus\u00e3o em Vidro"
+        },
+        "THF": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 18,
+                    "nome": "Teoria e Hist\u00f3ria da Fotografia",
+                    "sigla": "THF",
+                    "tipo": "T",
+                    "turma": "THF500",
+                    "turmac": "THF500",
+                    "duracao": "4",
+                    "sala": "PS32",
+                    "profsig": "SLM",
+                    "prof": "Susana Louren\u00e7o Marques"
+                }
+            ],
+            "nome": "Teoria e Hist\u00f3ria da Fotografia"
+        },
+        "THP": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 18,
+                    "nome": "Teoria e Hist\u00f3ria da Performance",
+                    "sigla": "THP",
+                    "tipo": "T",
+                    "turma": "THP500",
+                    "turmac": "THP500",
+                    "duracao": "4",
+                    "sala": "PS12",
+                    "profsig": "RACN",
+                    "prof": "Rita Castro Neves"
+                }
+            ],
+            "nome": "Teoria e Hist\u00f3ria da Performance"
+        },
+        "THV": {
+            "T": [
+                {
+                    "dia": 4,
+                    "hora": 18,
+                    "nome": "Teoria e Hist\u00f3ria do V\u00eddeo",
+                    "sigla": "THV",
+                    "tipo": "T",
+                    "turma": "THV211",
+                    "turmac": "THV211",
+                    "duracao": "4",
+                    "sala": "PA101",
+                    "profsig": "JPSC",
+                    "prof": "Jo\u00e3o Cardoso"
+                }
+            ],
+            "nome": "Teoria e Hist\u00f3ria do V\u00eddeo"
+        }
+    },
+    "1\u00ba Ano": {
+        "AP": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Artes Pl\u00e1sticas",
+                    "sigla": "AP",
+                    "tipo": "TP",
+                    "turma": "1LAP01",
+                    "turmac": "1LAP01",
+                    "duracao": "6",
+                    "sala": "PA302",
+                    "profsig": "CM",
+                    "prof": "Cristina Mateus"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Artes Pl\u00e1sticas",
+                    "sigla": "AP",
+                    "tipo": "TP",
+                    "turma": "1LAP01",
+                    "turmac": "1LAP01",
+                    "duracao": "6",
+                    "sala": "PA302",
+                    "profsig": "CM",
+                    "prof": "Cristina Mateus"
+                },
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Artes Pl\u00e1sticas",
+                    "sigla": "AP",
+                    "tipo": "TP",
+                    "turma": "1LAP01",
+                    "turmac": "1LAP01",
+                    "duracao": "4",
+                    "sala": "PA302",
+                    "profsig": "CM",
+                    "prof": "Cristina Mateus"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Artes Pl\u00e1sticas",
+                    "sigla": "AP",
+                    "tipo": "TP",
+                    "turma": "1LAP02",
+                    "turmac": "1LAP02",
+                    "duracao": "6",
+                    "sala": "PE103",
+                    "profsig": "ARFM",
+                    "prof": "Rui Ferro"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Artes Pl\u00e1sticas",
+                    "sigla": "AP",
+                    "tipo": "TP",
+                    "turma": "1LAP02",
+                    "turmac": "1LAP02",
+                    "duracao": "6",
+                    "sala": "PE103",
+                    "profsig": "ARFM",
+                    "prof": "Rui Ferro"
+                },
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Artes Pl\u00e1sticas",
+                    "sigla": "AP",
+                    "tipo": "TP",
+                    "turma": "1LAP02",
+                    "turmac": "1LAP02",
+                    "duracao": "4",
+                    "sala": "PE103",
+                    "profsig": "ARFM",
+                    "prof": "Rui Ferro"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Artes Pl\u00e1sticas",
+                    "sigla": "AP",
+                    "tipo": "TP",
+                    "turma": "1LAP03",
+                    "turmac": "1LAP03",
+                    "duracao": "6",
+                    "sala": "PA202",
+                    "profsig": "JARCV",
+                    "prof": "Jos\u00e9 Vaz"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Artes Pl\u00e1sticas",
+                    "sigla": "AP",
+                    "tipo": "TP",
+                    "turma": "1LAP03",
+                    "turmac": "1LAP03",
+                    "duracao": "6",
+                    "sala": "PA202",
+                    "profsig": "JARCV",
+                    "prof": "Jos\u00e9 Vaz"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Artes Pl\u00e1sticas",
+                    "sigla": "AP",
+                    "tipo": "TP",
+                    "turma": "1LAP03",
+                    "turmac": "1LAP03",
+                    "duracao": "4",
+                    "sala": "PA202",
+                    "profsig": "JARCV",
+                    "prof": "Jos\u00e9 Vaz"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Artes Pl\u00e1sticas",
+                    "sigla": "AP",
+                    "tipo": "TP",
+                    "turma": "1LAP04",
+                    "turmac": "1LAP04",
+                    "duracao": "6",
+                    "sala": "PA302",
+                    "profsig": "JMBC",
+                    "prof": "Joana Costa"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Artes Pl\u00e1sticas",
+                    "sigla": "AP",
+                    "tipo": "TP",
+                    "turma": "1LAP04",
+                    "turmac": "1LAP04",
+                    "duracao": "6",
+                    "sala": "PA302",
+                    "profsig": "JMBC",
+                    "prof": "Joana Costa"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Artes Pl\u00e1sticas",
+                    "sigla": "AP",
+                    "tipo": "TP",
+                    "turma": "1LAP04",
+                    "turmac": "1LAP04",
+                    "duracao": "4",
+                    "sala": "PA302",
+                    "profsig": "JMBC",
+                    "prof": "Joana Costa"
+                }
+            ],
+            "nome": "Artes Pl\u00e1sticas"
+        },
+        "DI": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Desenho I",
+                    "sigla": "DI",
+                    "tipo": "TP",
+                    "turma": "1LAP01",
+                    "turmac": "1LAP01+1LDC01",
+                    "duracao": "6",
+                    "sala": "PT203",
+                    "profsig": "MB",
+                    "prof": "M\u00e1rio Bismarck"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Desenho I",
+                    "sigla": "DI",
+                    "tipo": "TP",
+                    "turma": "1LAP01",
+                    "turmac": "1LAP01+1LDC01",
+                    "duracao": "6",
+                    "sala": "PS33",
+                    "profsig": "MB",
+                    "prof": "M\u00e1rio Bismarck"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Desenho I",
+                    "sigla": "DI",
+                    "tipo": "TP",
+                    "turma": "1LAP02",
+                    "turmac": "1LAP02+1LDC02",
+                    "duracao": "6",
+                    "sala": "PS33",
+                    "profsig": "CA",
+                    "prof": "Cl\u00e1udia Amandi"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Desenho I",
+                    "sigla": "DI",
+                    "tipo": "TP",
+                    "turma": "1LAP02",
+                    "turmac": "1LAP02+1LDC02",
+                    "duracao": "6",
+                    "sala": "PT203",
+                    "profsig": "CA",
+                    "prof": "Cl\u00e1udia Amandi"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Desenho I",
+                    "sigla": "DI",
+                    "tipo": "TP",
+                    "turma": "1LAP03",
+                    "turmac": "1LAP03+1LDC03",
+                    "duracao": "6",
+                    "sala": "PS33",
+                    "profsig": "CA",
+                    "prof": "Cl\u00e1udia Amandi"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Desenho I",
+                    "sigla": "DI",
+                    "tipo": "TP",
+                    "turma": "1LAP03",
+                    "turmac": "1LAP03+1LDC03",
+                    "duracao": "6",
+                    "sala": "PT203",
+                    "profsig": "CA",
+                    "prof": "Cl\u00e1udia Amandi"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Desenho I",
+                    "sigla": "DI",
+                    "tipo": "TP",
+                    "turma": "1LAP04",
+                    "turmac": "1LAP04+1LDC04",
+                    "duracao": "6",
+                    "sala": "PT203",
+                    "profsig": "PFFSM",
+                    "prof": "Pedro Maia"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Desenho I",
+                    "sigla": "DI",
+                    "tipo": "TP",
+                    "turma": "1LAP04",
+                    "turmac": "1LAP04+1LDC04",
+                    "duracao": "6",
+                    "sala": "PS33",
+                    "profsig": "PFFSM",
+                    "prof": "Pedro Maia"
+                },
+                {
+                    "dia": 2,
+                    "hora": 17,
+                    "nome": "Desenho I",
+                    "sigla": "DI",
+                    "tipo": "TP",
+                    "turma": "1LAP05",
+                    "turmac": "1LAP05+1LDC05",
+                    "duracao": "6",
+                    "sala": "PS33",
+                    "profsig": "RMON",
+                    "prof": "Rui Neto"
+                },
+                {
+                    "dia": 4,
+                    "hora": 17,
+                    "nome": "Desenho I",
+                    "sigla": "DI",
+                    "tipo": "TP",
+                    "turma": "1LAP05",
+                    "turmac": "1LAP05+1LDC05",
+                    "duracao": "6",
+                    "sala": "PT203",
+                    "profsig": "RMON",
+                    "prof": "Rui Neto"
+                },
+                {
+                    "dia": 2,
+                    "hora": 17,
+                    "nome": "Desenho I",
+                    "sigla": "DI",
+                    "tipo": "TP",
+                    "turma": "1LAP06",
+                    "turmac": "1LAP06+1LDC06",
+                    "duracao": "6",
+                    "sala": "PT203",
+                    "profsig": "EAFR",
+                    "prof": "Em\u00edlio Remelhe"
+                },
+                {
+                    "dia": 4,
+                    "hora": 17,
+                    "nome": "Desenho I",
+                    "sigla": "DI",
+                    "tipo": "TP",
+                    "turma": "1LAP06",
+                    "turmac": "1LAP06+1LDC06",
+                    "duracao": "6",
+                    "sala": "PS33",
+                    "profsig": "EAFR",
+                    "prof": "Em\u00edlio Remelhe"
+                }
+            ],
+            "nome": "Desenho I"
+        }
+    },
+    "2\u00ba Ano": {
+        "AEI": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Atelier I - Escultura",
+                    "sigla": "AEI",
+                    "tipo": "TP",
+                    "turma": "2LAP(E)",
+                    "turmac": "2LAP(E)",
+                    "duracao": "8",
+                    "sala": "PE101",
+                    "profsig": "NSJ",
+                    "prof": "Norberto Jorge"
+                },
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Atelier I - Escultura",
+                    "sigla": "AEI",
+                    "tipo": "TP",
+                    "turma": "2LAP(E)",
+                    "turmac": "2LAP(E)",
+                    "duracao": "8",
+                    "sala": "PE101",
+                    "profsig": "NSJ",
+                    "prof": "Norberto Jorge"
+                }
+            ],
+            "nome": "Atelier I - Escultura"
+        },
+        "AMI": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Atelier I - Multim\u00e9dia",
+                    "sigla": "AMI",
+                    "tipo": "TP",
+                    "turma": "2LAP(M)",
+                    "turmac": "2LAP(M)",
+                    "duracao": "8",
+                    "sala": "PS21",
+                    "profsig": "MMDSC",
+                    "prof": "Maria Mire"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Atelier I - Multim\u00e9dia",
+                    "sigla": "AMI",
+                    "tipo": "TP",
+                    "turma": "2LAP(M)",
+                    "turmac": "2LAP(M)",
+                    "duracao": "8",
+                    "sala": "PS21",
+                    "profsig": "MMDSC",
+                    "prof": "Maria Mire"
+                }
+            ],
+            "nome": "Atelier I - Multim\u00e9dia"
+        },
+        "API": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Atelier I - Pintura",
+                    "sigla": "API",
+                    "tipo": "TP",
+                    "turma": "2LAP(P)",
+                    "turmac": "2LAP(P)",
+                    "duracao": "8",
+                    "sala": "PE301",
+                    "profsig": "RJBPL",
+                    "prof": "Ricardo Leite"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Atelier I - Pintura",
+                    "sigla": "API",
+                    "tipo": "TP",
+                    "turma": "2LAP(P)",
+                    "turmac": "2LAP(P)",
+                    "duracao": "8",
+                    "sala": "PE301",
+                    "profsig": "RJBPL",
+                    "prof": "Ricardo Leite"
+                }
+            ],
+            "nome": "Atelier I - Pintura"
+        },
+        "DIII": {
+            "TP": [
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Desenho III",
+                    "sigla": "DIII",
+                    "tipo": "TP",
+                    "turma": "2LAP01",
+                    "turmac": "2LAP01",
+                    "duracao": "6",
+                    "sala": "PS33",
+                    "profsig": "SPMS",
+                    "prof": "S\u00edlvia Sim\u00f5es"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Desenho III",
+                    "sigla": "DIII",
+                    "tipo": "TP",
+                    "turma": "2LAP01",
+                    "turmac": "2LAP01",
+                    "duracao": "6",
+                    "sala": "PS33",
+                    "profsig": "SPMS",
+                    "prof": "S\u00edlvia Sim\u00f5es"
+                },
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Desenho III",
+                    "sigla": "DIII",
+                    "tipo": "TP",
+                    "turma": "2LAP02",
+                    "turmac": "2LAP02",
+                    "duracao": "6",
+                    "sala": "PS34",
+                    "profsig": "PLFA",
+                    "prof": "Paulo Lu\u00eds Almeida"
+                },
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Desenho III",
+                    "sigla": "DIII",
+                    "tipo": "TP",
+                    "turma": "2LAP02",
+                    "turmac": "2LAP02",
+                    "duracao": "6",
+                    "sala": "PS34",
+                    "profsig": "PLFA",
+                    "prof": "Paulo Lu\u00eds Almeida"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Desenho III",
+                    "sigla": "DIII",
+                    "tipo": "TP",
+                    "turma": "2LAP03",
+                    "turmac": "2LAP03",
+                    "duracao": "6",
+                    "sala": "PS34",
+                    "profsig": "JJM",
+                    "prof": "Jorge Marques"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Desenho III",
+                    "sigla": "DIII",
+                    "tipo": "TP",
+                    "turma": "2LAP03",
+                    "turmac": "2LAP03",
+                    "duracao": "6",
+                    "sala": "PS34",
+                    "profsig": "JJM",
+                    "prof": "Jorge Marques"
+                }
+            ],
+            "nome": "Desenho III"
+        },
+        "EII": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Est\u00e9tica II",
+                    "sigla": "EII",
+                    "tipo": "T",
+                    "turma": "2LAP01",
+                    "turmac": "2LAP01",
+                    "duracao": "4",
+                    "sala": "PA101",
+                    "profsig": "HMJG",
+                    "prof": "Helder Gomes"
+                }
+            ],
+            "nome": "Est\u00e9tica II"
+        }
+    },
+    "3\u00ba Ano": {
+        "AEII": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Atelier II - Escultura",
+                    "sigla": "AEII",
+                    "tipo": "TP",
+                    "turma": "3LAP(E)",
+                    "turmac": "3LAP(E)",
+                    "duracao": "8",
+                    "sala": "PE105",
+                    "profsig": "RRR",
+                    "prof": "Rute Rosas"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Atelier II - Escultura",
+                    "sigla": "AEII",
+                    "tipo": "TP",
+                    "turma": "3LAP(E)",
+                    "turmac": "3LAP(E)",
+                    "duracao": "8",
+                    "sala": "PE105",
+                    "profsig": "RRR",
+                    "prof": "Rute Rosas"
+                }
+            ],
+            "nome": "Atelier II - Escultura"
+        },
+        "AMII": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Atelier II - Multim\u00e9dia",
+                    "sigla": "AMII",
+                    "tipo": "TP",
+                    "turma": "3LAP(M)",
+                    "turmac": "3LAP(M)",
+                    "duracao": "8",
+                    "sala": "PS22 A",
+                    "profsig": "SJMS",
+                    "prof": "Samuel Silva"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Atelier II - Multim\u00e9dia",
+                    "sigla": "AMII",
+                    "tipo": "TP",
+                    "turma": "3LAP(M)",
+                    "turmac": "3LAP(M)",
+                    "duracao": "8",
+                    "sala": "PS22 A",
+                    "profsig": "SJMS",
+                    "prof": "Samuel Silva"
+                }
+            ],
+            "nome": "Atelier II - Multim\u00e9dia"
+        },
+        "APII": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Atelier II - Pintura",
+                    "sigla": "APII",
+                    "tipo": "TP",
+                    "turma": "3LAP(P)",
+                    "turmac": "3LAP(P)",
+                    "duracao": "8",
+                    "sala": "PE303",
+                    "profsig": "STG",
+                    "prof": "Sofia Gon\u00e7alves"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Atelier II - Pintura",
+                    "sigla": "APII",
+                    "tipo": "TP",
+                    "turma": "3LAP(P)",
+                    "turmac": "3LAP(P)",
+                    "duracao": "8",
+                    "sala": "PE303",
+                    "profsig": "STG",
+                    "prof": "Sofia Gon\u00e7alves"
+                }
+            ],
+            "nome": "Atelier II - Pintura"
+        },
+        "EAMCII": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 10,
+                    "nome": "Estudos de Arte Moderna e Contempor\u00e2nea II",
+                    "sigla": "EAMCII",
+                    "tipo": "T",
+                    "turma": "3LAP01",
+                    "turmac": "3LAP01",
+                    "duracao": "6",
+                    "sala": "PS01",
+                    "profsig": "LAM",
+                    "prof": "L\u00facia Matos"
+                }
+            ],
+            "nome": "Estudos de Arte Moderna e Contempor\u00e2nea II"
+        }
+    },
+    "4\u00ba Ano": {
+        "P": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Projeto",
+                    "sigla": "P",
+                    "tipo": "TP",
+                    "turma": "4LAP(E)",
+                    "turmac": "4LAP(E)",
+                    "duracao": "8",
+                    "sala": "PE203",
+                    "profsig": "FMAC",
+                    "prof": "Fernando Amaral da Cunha"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Projeto",
+                    "sigla": "P",
+                    "tipo": "TP",
+                    "turma": "4LAP(E)",
+                    "turmac": "4LAP(E)",
+                    "duracao": "8",
+                    "sala": "PE203",
+                    "profsig": "FMAC",
+                    "prof": "Fernando Amaral da Cunha"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Projeto",
+                    "sigla": "P",
+                    "tipo": "TP",
+                    "turma": "4LAP(M)",
+                    "turmac": "4LAP(M)",
+                    "duracao": "8",
+                    "sala": "PS22 B",
+                    "profsig": "ml",
+                    "prof": "Miguel Leal"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Projeto",
+                    "sigla": "P",
+                    "tipo": "TP",
+                    "turma": "4LAP(M)",
+                    "turmac": "4LAP(M)",
+                    "duracao": "8",
+                    "sala": "PS22 B",
+                    "profsig": "ml",
+                    "prof": "Miguel Leal"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Projeto",
+                    "sigla": "P",
+                    "tipo": "TP",
+                    "turma": "4LAP(P)",
+                    "turmac": "4LAP(P)",
+                    "duracao": "8",
+                    "sala": "PA402",
+                    "profsig": "DFSL",
+                    "prof": "Domingos Loureiro"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Projeto",
+                    "sigla": "P",
+                    "tipo": "TP",
+                    "turma": "4LAP(P)",
+                    "turmac": "4LAP(P)",
+                    "duracao": "8",
+                    "sala": "PA402",
+                    "profsig": "DFSL",
+                    "prof": "Domingos Loureiro"
+                }
+            ],
+            "nome": "Projeto"
+        },
+        "SCA": {
+            "T": [
+                {
+                    "dia": 1,
+                    "hora": 10,
+                    "nome": "Semin\u00e1rio de Ciencias da Arte",
+                    "sigla": "SCA",
+                    "tipo": "T",
+                    "turma": "4LAP01",
+                    "turmac": "4LAP01",
+                    "duracao": "6",
+                    "sala": "PS32",
+                    "profsig": "BAFPA",
+                    "prof": "Bernardo Almeida"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Semin\u00e1rio de Ciencias da Arte",
+                    "sigla": "SCA",
+                    "tipo": "T",
+                    "turma": "4LAP02",
+                    "turmac": "4LAP02",
+                    "duracao": "6",
+                    "sala": "PC201",
+                    "profsig": "MJGM",
+                    "prof": "Maria Jos\u00e9 Goul\u00e3o"
+                },
+                {
+                    "dia": 1,
+                    "hora": 17,
+                    "nome": "Semin\u00e1rio de Ciencias da Arte",
+                    "sigla": "SCA",
+                    "tipo": "T",
+                    "turma": "4LAP03",
+                    "turmac": "4LAP03",
+                    "duracao": "6",
+                    "sala": "PA101",
+                    "profsig": "HMJG",
+                    "prof": "Helder Gomes"
+                }
+            ],
+            "nome": "Semin\u00e1rio de Ciencias da Arte"
+        }
+    }
+}

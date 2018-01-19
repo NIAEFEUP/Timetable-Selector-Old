@@ -1,0 +1,290 @@
+{
+    "1\u00ba Ano": {
+        "BIOL1010": {
+            "PL": [
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Fisiologia das Plantas",
+                    "sigla": "BIOL1010",
+                    "tipo": "PL",
+                    "turma": "BIOL1010_PL1",
+                    "turmac": "BIOL1010_PL1",
+                    "duracao": "4",
+                    "sala": "FC4034",
+                    "profsig": "AMC+HA+MF+MS",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Fisiologia das Plantas",
+                    "sigla": "BIOL1010",
+                    "tipo": "PL",
+                    "turma": "BIOL1010_PL2",
+                    "turmac": "BIOL1010_PL2",
+                    "duracao": "4",
+                    "sala": "FC4034",
+                    "profsig": "AMC+HA+MF+MS",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Fisiologia das Plantas",
+                    "sigla": "BIOL1010",
+                    "tipo": "PL",
+                    "turma": "BIOL1010_PL3",
+                    "turmac": "BIOL1010_PL3",
+                    "duracao": "4",
+                    "sala": "FC4034",
+                    "profsig": "AMC+HA+MF+MS",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 16,
+                    "nome": "Fisiologia das Plantas",
+                    "sigla": "BIOL1010",
+                    "tipo": "PL",
+                    "turma": "BIOL1010_PL4",
+                    "turmac": "BIOL1010_PL4",
+                    "duracao": "4",
+                    "sala": "FC4034",
+                    "profsig": "AMC+HA+MF+MS",
+                    "prof": null
+                }
+            ],
+            "nome": "Fisiologia das Plantas",
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Fisiologia das Plantas",
+                    "sigla": "BIOL1010",
+                    "tipo": "T",
+                    "turma": "BIOL1010_T",
+                    "turmac": "BIOL1010_T",
+                    "duracao": "4",
+                    "sala": "FC4040",
+                    "profsig": "MFF",
+                    "prof": "Manuel Ferreira"
+                }
+            ]
+        },
+        "Q1013": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica",
+                    "sigla": "Q1013",
+                    "tipo": "PL",
+                    "turma": "Q1013_PL1",
+                    "turmac": "Q1013_PL1",
+                    "duracao": "6",
+                    "sala": "FC2-119",
+                    "profsig": "MJSMPA",
+                    "prof": "Maria Jo\u00e3o Ara\u00fajo"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica",
+                    "sigla": "Q1013",
+                    "tipo": "PL",
+                    "turma": "Q1013_PL2",
+                    "turmac": "Q1013_PL2",
+                    "duracao": "6",
+                    "sala": "FC2-119",
+                    "profsig": "MJSMPA",
+                    "prof": "Maria Jo\u00e3o Ara\u00fajo"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica",
+                    "sigla": "Q1013",
+                    "tipo": "PL",
+                    "turma": "Q1013_PL3",
+                    "turmac": "Q1013_PL3",
+                    "duracao": "6",
+                    "sala": "FC2-119",
+                    "profsig": "LGLFG",
+                    "prof": "Luis Guido"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica",
+                    "sigla": "Q1013",
+                    "tipo": "PL",
+                    "turma": "Q1013_PL4",
+                    "turmac": "Q1013_PL4",
+                    "duracao": "6",
+                    "sala": "FC2-119",
+                    "profsig": "AMMVR",
+                    "prof": "Ana Reis"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica",
+                    "sigla": "Q1013",
+                    "tipo": "PL",
+                    "turma": "Q1013_PL5",
+                    "turmac": "Q1013_PL5",
+                    "duracao": "6",
+                    "sala": "FC2-119",
+                    "profsig": "MJSMPA",
+                    "prof": "Maria Jo\u00e3o Ara\u00fajo"
+                },
+                {
+                    "dia": 5,
+                    "hora": 14,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica",
+                    "sigla": "Q1013",
+                    "tipo": "PL",
+                    "turma": "Q1013_PL6",
+                    "turmac": "Q1013_PL6",
+                    "duracao": "6",
+                    "sala": "FC2-119",
+                    "profsig": "MJSMPA",
+                    "prof": "Maria Jo\u00e3o Ara\u00fajo"
+                }
+            ],
+            "nome": "Laborat\u00f3rio de Qu\u00edmica"
+        }
+    },
+    "2\u00ba Ano": {
+        "Q2016": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 8,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica F\u00edsica Biol\u00f3gica",
+                    "sigla": "Q2016",
+                    "tipo": "PL",
+                    "turma": "Q2016_PL1",
+                    "turmac": "Q2016_PL1",
+                    "duracao": "6",
+                    "sala": "FC2-107",
+                    "profsig": "JMG",
+                    "prof": "Jorge Gon\u00e7alves"
+                },
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica F\u00edsica Biol\u00f3gica",
+                    "sigla": "Q2016",
+                    "tipo": "PL",
+                    "turma": "Q2016_PL2",
+                    "turmac": "Q2016_PL2",
+                    "duracao": "6",
+                    "sala": "FC2-107",
+                    "profsig": "AMMVR",
+                    "prof": "Ana Reis"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14,
+                    "nome": "Laborat\u00f3rio de Qu\u00edmica F\u00edsica Biol\u00f3gica",
+                    "sigla": "Q2016",
+                    "tipo": "PL",
+                    "turma": "Q2016_PL3",
+                    "turmac": "Q2016_PL3",
+                    "duracao": "6",
+                    "sala": "FC2-107",
+                    "profsig": "MMHMB",
+                    "prof": "Margarida Bastos"
+                }
+            ],
+            "nome": "Laborat\u00f3rio de Qu\u00edmica F\u00edsica Biol\u00f3gica"
+        },
+        "Q2017": {
+            "PL": [
+                {
+                    "dia": 1,
+                    "hora": 14,
+                    "nome": "Qu\u00edmica Bioinorg\u00e2nica",
+                    "sigla": "Q2017",
+                    "tipo": "PL",
+                    "turma": "Q2017_PL1",
+                    "turmac": "Q2017_PL1",
+                    "duracao": "4",
+                    "sala": "FC2-118+FC2-101",
+                    "profsig": "LMAR",
+                    "prof": "Lu\u00eds Miguel \u00c1lvares Ribeiro"
+                },
+                {
+                    "dia": 1,
+                    "hora": 16,
+                    "nome": "Qu\u00edmica Bioinorg\u00e2nica",
+                    "sigla": "Q2017",
+                    "tipo": "PL",
+                    "turma": "Q2017_PL2",
+                    "turmac": "Q2017_PL2",
+                    "duracao": "4",
+                    "sala": "FC2-118+FC2-101",
+                    "profsig": "LMAR",
+                    "prof": "Lu\u00eds Miguel \u00c1lvares Ribeiro"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "Qu\u00edmica Bioinorg\u00e2nica",
+                    "sigla": "Q2017",
+                    "tipo": "PL",
+                    "turma": "Q2017_PL3",
+                    "turmac": "Q2017_PL3",
+                    "duracao": "4",
+                    "sala": "FC2-118+FC2-103",
+                    "profsig": "APLMGS",
+                    "prof": "Paula Gameiro"
+                },
+                {
+                    "dia": 4,
+                    "hora": 11,
+                    "nome": "Qu\u00edmica Bioinorg\u00e2nica",
+                    "sigla": "Q2017",
+                    "tipo": "PL",
+                    "turma": "Q2017_PL4",
+                    "turmac": "Q2017_PL4",
+                    "duracao": "4",
+                    "sala": "FC2-118+FC2-103",
+                    "profsig": "APLMGS",
+                    "prof": "Paula Gameiro"
+                }
+            ],
+            "nome": "Qu\u00edmica Bioinorg\u00e2nica",
+            "T": [
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Qu\u00edmica Bioinorg\u00e2nica",
+                    "sigla": "Q2017",
+                    "tipo": "T",
+                    "turma": "Q2017_T",
+                    "turmac": "Q2017_T",
+                    "duracao": "2",
+                    "sala": "FC2023",
+                    "profsig": "BMRC",
+                    "prof": "Baltazar Castro"
+                },
+                {
+                    "dia": 5,
+                    "hora": 9,
+                    "nome": "Qu\u00edmica Bioinorg\u00e2nica",
+                    "sigla": "Q2017",
+                    "tipo": "T",
+                    "turma": "Q2017_T",
+                    "turmac": "Q2017_T",
+                    "duracao": "2",
+                    "sala": "FC2023",
+                    "profsig": "BMRC",
+                    "prof": "Baltazar Castro"
+                }
+            ]
+        }
+    }
+}
