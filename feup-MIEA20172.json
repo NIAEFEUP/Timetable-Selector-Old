@@ -234,15 +234,15 @@
                     "prof": "Diana Urbano"
                 },
                 {
-                    "dia": 4,
-                    "hora": 14.5,
+                    "dia": 3,
+                    "hora": 16,
                     "nome": "F\u00edsica I",
                     "sigla": "FI",
                     "tipo": "PL",
                     "turma": "MIEA103",
                     "turmac": "MIEA103",
                     "duracao": "2",
-                    "sala": "B319",
+                    "sala": "B225",
                     "profsig": "DPU",
                     "prof": "Diana Urbano"
                 }
@@ -301,7 +301,7 @@
                     "sigla": "QA II",
                     "tipo": "T",
                     "turma": "MIEA101",
-                    "turmac": "COMP_316",
+                    "turmac": "COMP_1223",
                     "duracao": "4",
                     "sala": "B016",
                     "profsig": "CMB",
@@ -314,7 +314,7 @@
                     "sigla": "QA II",
                     "tipo": "T",
                     "turma": "MIEA101",
-                    "turmac": "COMP_316",
+                    "turmac": "COMP_1223",
                     "duracao": "2",
                     "sala": "B016",
                     "profsig": "CMB",
@@ -327,7 +327,7 @@
                     "sigla": "QA II",
                     "tipo": "T",
                     "turma": "MIEA102",
-                    "turmac": "COMP_316",
+                    "turmac": "COMP_1223",
                     "duracao": "4",
                     "sala": "B016",
                     "profsig": "CMB",
@@ -340,7 +340,33 @@
                     "sigla": "QA II",
                     "tipo": "T",
                     "turma": "MIEA102",
-                    "turmac": "COMP_316",
+                    "turmac": "COMP_1223",
+                    "duracao": "2",
+                    "sala": "B016",
+                    "profsig": "CMB",
+                    "prof": "Cid\u00e1lia Botelho"
+                },
+                {
+                    "dia": 4,
+                    "hora": 14.5,
+                    "nome": "Qu\u00edmica Ambiental II",
+                    "sigla": "QA II",
+                    "tipo": "T",
+                    "turma": "MIEA103",
+                    "turmac": "COMP_1223",
+                    "duracao": "4",
+                    "sala": "B016",
+                    "profsig": "CMB",
+                    "prof": "Cid\u00e1lia Botelho"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16.5,
+                    "nome": "Qu\u00edmica Ambiental II",
+                    "sigla": "QA II",
+                    "tipo": "T",
+                    "turma": "MIEA103",
+                    "turmac": "COMP_1223",
                     "duracao": "2",
                     "sala": "B016",
                     "profsig": "CMB",
@@ -1106,7 +1132,7 @@
                     "prof": "Paulo Jos\u00e9 Coelho"
                 },
                 {
-                    "dia": 4,
+                    "dia": 3,
                     "hora": 9.5,
                     "nome": "Laborat\u00f3rios de Engenharia do Ambiente II",
                     "sigla": "LEA II",
@@ -1580,6 +1606,63 @@
                     "prof": "Ant\u00f3nio Carvalho"
                 }
             ]
+        },
+        "ARE": {
+            "TP": [
+                {
+                    "dia": 3,
+                    "hora": 14.5,
+                    "nome": "Avalia\u00e7\u00e3o de Riscos e Emerg\u00eancia",
+                    "sigla": "ARE",
+                    "tipo": "TP",
+                    "turma": "MIEA401",
+                    "turmac": "MIEA",
+                    "duracao": "4",
+                    "sala": "B312",
+                    "profsig": "ARE",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 18,
+                    "nome": "Avalia\u00e7\u00e3o de Riscos e Emerg\u00eancia",
+                    "sigla": "ARE",
+                    "tipo": "TP",
+                    "turma": "MIEA401",
+                    "turmac": "MESHO+MIEA",
+                    "duracao": "4",
+                    "sala": "B232A",
+                    "profsig": "ARE",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 14.5,
+                    "nome": "Avalia\u00e7\u00e3o de Riscos e Emerg\u00eancia",
+                    "sigla": "ARE",
+                    "tipo": "TP",
+                    "turma": "MIEA402",
+                    "turmac": "MIEA",
+                    "duracao": "4",
+                    "sala": "B312",
+                    "profsig": "ARE",
+                    "prof": null
+                },
+                {
+                    "dia": 2,
+                    "hora": 18,
+                    "nome": "Avalia\u00e7\u00e3o de Riscos e Emerg\u00eancia",
+                    "sigla": "ARE",
+                    "tipo": "TP",
+                    "turma": "MIEA402",
+                    "turmac": "MESHO+MIEA",
+                    "duracao": "4",
+                    "sala": "B232A",
+                    "profsig": "ARE",
+                    "prof": null
+                }
+            ],
+            "nome": "Avalia\u00e7\u00e3o de Riscos e Emerg\u00eancia"
         }
     }
 }

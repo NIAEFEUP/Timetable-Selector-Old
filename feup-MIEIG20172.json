@@ -145,8 +145,8 @@
                     "turmac": "1MIEGI05",
                     "duracao": "4",
                     "sala": "B202",
-                    "profsig": "CBO",
-                    "prof": "Carlos Bragan\u00e7a"
+                    "profsig": "DNGF",
+                    "prof": "Duarte Ferreira"
                 },
                 {
                     "dia": 3,
@@ -979,8 +979,8 @@
                     "turmac": "COMP_832",
                     "duracao": "4",
                     "sala": "B301",
-                    "profsig": "JOF+JST",
-                    "prof": null
+                    "profsig": "MC",
+                    "prof": "Marcelo Costa"
                 },
                 {
                     "dia": 3,
@@ -992,8 +992,8 @@
                     "turmac": "COMP_832",
                     "duracao": "4",
                     "sala": "B301",
-                    "profsig": "JOF+JST",
-                    "prof": null
+                    "profsig": "MC",
+                    "prof": "Marcelo Costa"
                 },
                 {
                     "dia": 4,
@@ -1005,8 +1005,8 @@
                     "turmac": "COMP_479",
                     "duracao": "4",
                     "sala": "B308",
-                    "profsig": "JOF+M",
-                    "prof": null
+                    "profsig": "JF",
+                    "prof": "Jo\u00e3o Ferreira"
                 },
                 {
                     "dia": 4,
@@ -1018,8 +1018,8 @@
                     "turmac": "COMP_479",
                     "duracao": "4",
                     "sala": "B308",
-                    "profsig": "JOF+M",
-                    "prof": null
+                    "profsig": "JF",
+                    "prof": "Jo\u00e3o Ferreira"
                 },
                 {
                     "dia": 1,
@@ -1031,8 +1031,8 @@
                     "turmac": "1MIEGI05",
                     "duracao": "4",
                     "sala": "B308",
-                    "profsig": "JOF+JST",
-                    "prof": null
+                    "profsig": "JST",
+                    "prof": "Jo\u00e3o Manuel Ribeiro da Silva Tavares"
                 },
                 {
                     "dia": 3,
@@ -1044,8 +1044,8 @@
                     "turmac": "1MIEGI06",
                     "duracao": "4",
                     "sala": "B308",
-                    "profsig": "JOF+JST",
-                    "prof": null
+                    "profsig": "MC",
+                    "prof": "Marcelo Costa"
                 }
             ]
         }
@@ -2190,22 +2190,22 @@
                     "sigla": "CF",
                     "tipo": "TP",
                     "turma": "3MIEGI01",
-                    "turmac": "COMP_1086",
+                    "turmac": "3MIEGI01",
                     "duracao": "4",
                     "sala": "B304",
                     "profsig": "CMS",
                     "prof": "Carlos Moreira Da Silva"
                 },
                 {
-                    "dia": 5,
-                    "hora": 8,
+                    "dia": 3,
+                    "hora": 14,
                     "nome": "Conce\u00e7\u00e3o e Fabrico",
                     "sigla": "CF",
                     "tipo": "TP",
                     "turma": "3MIEGI02",
-                    "turmac": "COMP_1086",
+                    "turmac": "3MIEGI02",
                     "duracao": "4",
-                    "sala": "B304",
+                    "sala": "B308",
                     "profsig": "CMS",
                     "prof": "Carlos Moreira Da Silva"
                 },
@@ -2342,7 +2342,7 @@
                     "turma": "3MIEGI03",
                     "turmac": "3MIEGI03",
                     "duracao": "4",
-                    "sala": "B313",
+                    "sala": "B310",
                     "profsig": "JLMB",
                     "prof": "Jos\u00e9 Lu\u00eds Moura Borges"
                 }
@@ -2703,14 +2703,14 @@
                 },
                 {
                     "dia": 4,
-                    "hora": 16.5,
+                    "hora": 15.5,
                     "nome": "Sistemas de Informa\u00e7\u00e3o II",
                     "sigla": "SI II",
                     "tipo": "TP",
                     "turma": "4MIEGI02",
                     "turmac": "4MIEGI02",
                     "duracao": "4",
-                    "sala": "B311",
+                    "sala": "B306",
                     "profsig": "MIEGI_SI_IIdoc-",
                     "prof": null
                 },

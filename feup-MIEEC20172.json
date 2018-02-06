@@ -1230,14 +1230,14 @@
                 },
                 {
                     "dia": 4,
-                    "hora": 14,
+                    "hora": 11,
                     "nome": "Circuitos 1",
                     "sigla": "CIR1",
                     "tipo": "PL",
                     "turma": "1MIEEC12",
                     "turmac": "1MIEEC12",
                     "duracao": "4",
-                    "sala": "B336+I007",
+                    "sala": "B330+I007",
                     "profsig": "MHV",
                     "prof": "Maria Helena Vasconcelos"
                 }
@@ -2061,6 +2061,32 @@
                     "sala": "B004",
                     "profsig": "AAG+AAM",
                     "prof": null
+                },
+                {
+                    "dia": 1,
+                    "hora": 9,
+                    "nome": "Informa\u00e7\u00e3o e Comunica\u00e7\u00e3o",
+                    "sigla": "IC",
+                    "tipo": "T",
+                    "turma": "2MIEEC11",
+                    "turmac": "COMP_941",
+                    "duracao": "2",
+                    "sala": "B014",
+                    "profsig": "MJL+AJC",
+                    "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 9.5,
+                    "nome": "Informa\u00e7\u00e3o e Comunica\u00e7\u00e3o",
+                    "sigla": "IC",
+                    "tipo": "T",
+                    "turma": "2MIEEC11",
+                    "turmac": "COMP_941",
+                    "duracao": "2",
+                    "sala": "B014",
+                    "profsig": "MJL+AJC",
+                    "prof": null
                 }
             ],
             "nome": "Informa\u00e7\u00e3o e Comunica\u00e7\u00e3o",
@@ -2591,6 +2617,32 @@
                     "sala": "B015",
                     "profsig": "AMM+MAM",
                     "prof": null
+                },
+                {
+                    "dia": 3,
+                    "hora": 10.5,
+                    "nome": "Sistemas El\u00e9ctricos de Energia",
+                    "sigla": "SEEN",
+                    "tipo": "T",
+                    "turma": "2MIEEC11",
+                    "turmac": "COMP_941",
+                    "duracao": "2",
+                    "sala": "B014",
+                    "profsig": "AMM+MAM",
+                    "prof": null
+                },
+                {
+                    "dia": 4,
+                    "hora": 13.5,
+                    "nome": "Sistemas El\u00e9ctricos de Energia",
+                    "sigla": "SEEN",
+                    "tipo": "T",
+                    "turma": "2MIEEC11",
+                    "turmac": "COMP_941",
+                    "duracao": "2",
+                    "sala": "B005",
+                    "profsig": "AMM+MAM",
+                    "prof": null
                 }
             ]
         },
@@ -2855,6 +2907,32 @@
                     "sala": "B007",
                     "profsig": "FLP",
                     "prof": "Fernando Lobo Pereira"
+                },
+                {
+                    "dia": 1,
+                    "hora": 10,
+                    "nome": "Teoria do Controlo",
+                    "sigla": "TCON",
+                    "tipo": "T",
+                    "turma": "2MIEEC11",
+                    "turmac": "COMP_941",
+                    "duracao": "2",
+                    "sala": "B014",
+                    "profsig": "JMC",
+                    "prof": "Jorge Martins De Carvalho"
+                },
+                {
+                    "dia": 2,
+                    "hora": 11,
+                    "nome": "Teoria do Controlo",
+                    "sigla": "TCON",
+                    "tipo": "T",
+                    "turma": "2MIEEC11",
+                    "turmac": "COMP_941",
+                    "duracao": "2",
+                    "sala": "B014",
+                    "profsig": "JMC",
+                    "prof": "Jorge Martins De Carvalho"
                 }
             ],
             "nome": "Teoria do Controlo",
@@ -2881,7 +2959,7 @@
                     "turma": "2MIEEC02",
                     "turmac": "2MIEEC02",
                     "duracao": "4",
-                    "sala": "B319",
+                    "sala": "B318",
                     "profsig": "JMC",
                     "prof": "Jorge Martins De Carvalho"
                 },
@@ -3124,8 +3202,8 @@
                     "prof": "C\u00e2ndido Duarte"
                 },
                 {
-                    "dia": 4,
-                    "hora": 10.5,
+                    "dia": 5,
+                    "hora": 14,
                     "nome": "Electr\u00f3nica 1",
                     "sigla": "ELEC1",
                     "tipo": "PL",
@@ -3400,30 +3478,30 @@
                     "prof": "C\u00e2ndido Duarte"
                 },
                 {
-                    "dia": 4,
-                    "hora": 13.5,
+                    "dia": 2,
+                    "hora": 12,
                     "nome": "Electr\u00f3nica 1",
                     "sigla": "ELEC1",
                     "tipo": "T",
                     "turma": "2MIEEC11",
-                    "turmac": "COMP_1120",
+                    "turmac": "COMP_941",
                     "duracao": "2",
-                    "sala": "B007",
-                    "profsig": "CANDIDO",
-                    "prof": "C\u00e2ndido Duarte"
+                    "sala": "B014",
+                    "profsig": "VGT",
+                    "prof": "V\u00edtor Tavares"
                 },
                 {
-                    "dia": 5,
-                    "hora": 14,
+                    "dia": 4,
+                    "hora": 17.5,
                     "nome": "Electr\u00f3nica 1",
                     "sigla": "ELEC1",
                     "tipo": "T",
                     "turma": "2MIEEC11",
-                    "turmac": "COMP_1120",
+                    "turmac": "COMP_941",
                     "duracao": "2",
-                    "sala": "B004",
-                    "profsig": "CANDIDO",
-                    "prof": "C\u00e2ndido Duarte"
+                    "sala": "B007",
+                    "profsig": "VGT",
+                    "prof": "V\u00edtor Tavares"
                 }
             ]
         },
@@ -3684,6 +3762,32 @@
                     "tipo": "T",
                     "turma": "2MIEEC10",
                     "turmac": "COMP_1121",
+                    "duracao": "2",
+                    "sala": "B007",
+                    "profsig": "AJS",
+                    "prof": "Armando Jorge Sousa"
+                },
+                {
+                    "dia": 3,
+                    "hora": 11.5,
+                    "nome": "Sistemas e Automa\u00e7\u00e3o",
+                    "sigla": "SA",
+                    "tipo": "T",
+                    "turma": "2MIEEC11",
+                    "turmac": "COMP_941",
+                    "duracao": "2",
+                    "sala": "B014",
+                    "profsig": "AJS",
+                    "prof": "Armando Jorge Sousa"
+                },
+                {
+                    "dia": 4,
+                    "hora": 16.5,
+                    "nome": "Sistemas e Automa\u00e7\u00e3o",
+                    "sigla": "SA",
+                    "tipo": "T",
+                    "turma": "2MIEEC11",
+                    "turmac": "COMP_941",
                     "duracao": "2",
                     "sala": "B007",
                     "profsig": "AJS",
@@ -4303,8 +4407,8 @@
                     "turmac": "3MIEEC_A4",
                     "duracao": "4",
                     "sala": "I103",
-                    "profsig": "AMAR",
-                    "prof": "Agostinho Afonso da Rocha"
+                    "profsig": "CJR",
+                    "prof": "Carlos Ramos"
                 },
                 {
                     "dia": 2,
@@ -4316,8 +4420,8 @@
                     "turmac": "3MIEEC_A5",
                     "duracao": "4",
                     "sala": "I103",
-                    "profsig": "CJR",
-                    "prof": "Carlos Ramos"
+                    "profsig": "AMAR",
+                    "prof": "Agostinho Afonso da Rocha"
                 }
             ]
         },
@@ -5568,8 +5672,8 @@
                     "turmac": "3MIEEC_T1",
                     "duracao": "4",
                     "sala": "I007",
-                    "profsig": "AJF",
-                    "prof": "An\u00edbal Ferreira"
+                    "profsig": "PMSS",
+                    "prof": "Pedro Santos"
                 },
                 {
                     "dia": 5,
@@ -5581,8 +5685,8 @@
                     "turmac": "3MIEEC_T2",
                     "duracao": "4",
                     "sala": "I007",
-                    "profsig": "AJF",
-                    "prof": "An\u00edbal Ferreira"
+                    "profsig": "PMSS",
+                    "prof": "Pedro Santos"
                 },
                 {
                     "dia": 1,
@@ -6326,7 +6430,7 @@
                     "turma": "4MIEEC_A_GI",
                     "turmac": "4MIEEC_A_GI",
                     "duracao": "4",
-                    "sala": "I103",
+                    "sala": "I304",
                     "profsig": "AJM",
                     "prof": "Ant\u00f3nio Pina Martins"
                 },
@@ -6352,7 +6456,7 @@
                     "turma": "4MIEEC_A_RS1",
                     "turmac": "4MIEEC_A_RS1",
                     "duracao": "4",
-                    "sala": "I103",
+                    "sala": "I221",
                     "profsig": "AJM",
                     "prof": "Ant\u00f3nio Pina Martins"
                 },
@@ -7320,8 +7424,21 @@
                     "nome": "Planeamento e Gest\u00e3o de Redes",
                     "sigla": "PGRE",
                     "tipo": "T",
+                    "turma": "4MIEEC_T_INF",
+                    "turmac": "COMP_INF",
+                    "duracao": "4",
+                    "sala": "B027",
+                    "profsig": "JMCN",
+                    "prof": "Jo\u00e3o Neves"
+                },
+                {
+                    "dia": 2,
+                    "hora": 8.5,
+                    "nome": "Planeamento e Gest\u00e3o de Redes",
+                    "sigla": "PGRE",
+                    "tipo": "T",
                     "turma": "4MIEEC_T_RC",
-                    "turmac": "4MIEEC_T_RC",
+                    "turmac": "COMP_INF",
                     "duracao": "4",
                     "sala": "B027",
                     "profsig": "JMCN",
@@ -7330,6 +7447,19 @@
             ],
             "nome": "Planeamento e Gest\u00e3o de Redes",
             "PL": [
+                {
+                    "dia": 3,
+                    "hora": 9,
+                    "nome": "Planeamento e Gest\u00e3o de Redes",
+                    "sigla": "PGRE",
+                    "tipo": "PL",
+                    "turma": "4MIEEC_T_INF",
+                    "turmac": "4MIEEC_T_INF",
+                    "duracao": "4",
+                    "sala": "I320+I321",
+                    "profsig": "JMCN",
+                    "prof": "Jo\u00e3o Neves"
+                },
                 {
                     "dia": 2,
                     "hora": 10.5,
@@ -7353,8 +7483,21 @@
                     "nome": "Comunica\u00e7\u00f5es M\u00f3veis",
                     "sigla": "COMO",
                     "tipo": "T",
+                    "turma": "4MIEEC_T_INF",
+                    "turmac": "COMP_INF",
+                    "duracao": "4",
+                    "sala": "B019",
+                    "profsig": "MPR",
+                    "prof": "Manuel Pereira Ricardo"
+                },
+                {
+                    "dia": 4,
+                    "hora": 8.5,
+                    "nome": "Comunica\u00e7\u00f5es M\u00f3veis",
+                    "sigla": "COMO",
+                    "tipo": "T",
                     "turma": "4MIEEC_T_RC",
-                    "turmac": "4MIEEC_T_RC",
+                    "turmac": "COMP_INF",
                     "duracao": "4",
                     "sala": "B019",
                     "profsig": "MPR",
@@ -7363,6 +7506,19 @@
             ],
             "nome": "Comunica\u00e7\u00f5es M\u00f3veis",
             "PL": [
+                {
+                    "dia": 4,
+                    "hora": 10.5,
+                    "nome": "Comunica\u00e7\u00f5es M\u00f3veis",
+                    "sigla": "COMO",
+                    "tipo": "PL",
+                    "turma": "4MIEEC_T_INF",
+                    "turmac": "4MIEEC_T_INF",
+                    "duracao": "4",
+                    "sala": "I320+I321",
+                    "profsig": "MPR",
+                    "prof": "Manuel Pereira Ricardo"
+                },
                 {
                     "dia": 1,
                     "hora": 9,

@@ -1,5 +1,129 @@
 {
     "2\u00ba Ano": {
+        "SELE": {
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 9.5,
+                    "nome": "Sinais e Eletr\u00f3nica",
+                    "sigla": "SELE",
+                    "tipo": "TP",
+                    "turma": "MIB2A",
+                    "turmac": "COMP_1332",
+                    "duracao": "3",
+                    "sala": "ICBAS_Anf_1",
+                    "profsig": "DSF",
+                    "prof": "Diamantino Freitas"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Sinais e Eletr\u00f3nica",
+                    "sigla": "SELE",
+                    "tipo": "TP",
+                    "turma": "MIB2A",
+                    "turmac": "COMP_1332",
+                    "duracao": "3",
+                    "sala": "ICBAS_Anf_1",
+                    "profsig": "DSF",
+                    "prof": "Diamantino Freitas"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9.5,
+                    "nome": "Sinais e Eletr\u00f3nica",
+                    "sigla": "SELE",
+                    "tipo": "TP",
+                    "turma": "MIB2B",
+                    "turmac": "COMP_1332",
+                    "duracao": "3",
+                    "sala": "ICBAS_Anf_1",
+                    "profsig": "DSF",
+                    "prof": "Diamantino Freitas"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Sinais e Eletr\u00f3nica",
+                    "sigla": "SELE",
+                    "tipo": "TP",
+                    "turma": "MIB2B",
+                    "turmac": "COMP_1332",
+                    "duracao": "3",
+                    "sala": "ICBAS_Anf_1",
+                    "profsig": "DSF",
+                    "prof": "Diamantino Freitas"
+                },
+                {
+                    "dia": 2,
+                    "hora": 9.5,
+                    "nome": "Sinais e Eletr\u00f3nica",
+                    "sigla": "SELE",
+                    "tipo": "TP",
+                    "turma": "MIB2C",
+                    "turmac": "COMP_1332",
+                    "duracao": "3",
+                    "sala": "ICBAS_Anf_1",
+                    "profsig": "DSF",
+                    "prof": "Diamantino Freitas"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9.5,
+                    "nome": "Sinais e Eletr\u00f3nica",
+                    "sigla": "SELE",
+                    "tipo": "TP",
+                    "turma": "MIB2C",
+                    "turmac": "COMP_1332",
+                    "duracao": "3",
+                    "sala": "ICBAS_Anf_1",
+                    "profsig": "DSF",
+                    "prof": "Diamantino Freitas"
+                }
+            ],
+            "nome": "Sinais e Eletr\u00f3nica",
+            "PL": [
+                {
+                    "dia": 4,
+                    "hora": 16,
+                    "nome": "Sinais e Eletr\u00f3nica",
+                    "sigla": "SELE",
+                    "tipo": "PL",
+                    "turma": "MIB2A",
+                    "turmac": "MIB2A",
+                    "duracao": "4",
+                    "sala": "I008",
+                    "profsig": "DSF",
+                    "prof": "Diamantino Freitas"
+                },
+                {
+                    "dia": 5,
+                    "hora": 16,
+                    "nome": "Sinais e Eletr\u00f3nica",
+                    "sigla": "SELE",
+                    "tipo": "PL",
+                    "turma": "MIB2B",
+                    "turmac": "MIB2B",
+                    "duracao": "4",
+                    "sala": "I008",
+                    "profsig": "DSF",
+                    "prof": "Diamantino Freitas"
+                },
+                {
+                    "dia": 4,
+                    "hora": 18,
+                    "nome": "Sinais e Eletr\u00f3nica",
+                    "sigla": "SELE",
+                    "tipo": "PL",
+                    "turma": "MIB2C",
+                    "turmac": "MIB2C",
+                    "duracao": "4",
+                    "sala": "I008",
+                    "profsig": "DSF",
+                    "prof": "Diamantino Freitas"
+                }
+            ]
+        },
         "IESB": {
             "TP": [
                 {
@@ -82,50 +206,6 @@
                 }
             ],
             "nome": "Introdu\u00e7\u00e3o \u00e0 Engenharia de Sistemas e de Bioprocessos"
-        },
-        "SELE": {
-            "PL": [
-                {
-                    "dia": 4,
-                    "hora": 16,
-                    "nome": "Sinais e Eletr\u00f3nica",
-                    "sigla": "SELE",
-                    "tipo": "PL",
-                    "turma": "MIB2A",
-                    "turmac": "MIB2A",
-                    "duracao": "4",
-                    "sala": "I008",
-                    "profsig": "DSF",
-                    "prof": "Diamantino Freitas"
-                },
-                {
-                    "dia": 5,
-                    "hora": 16,
-                    "nome": "Sinais e Eletr\u00f3nica",
-                    "sigla": "SELE",
-                    "tipo": "PL",
-                    "turma": "MIB2B",
-                    "turmac": "MIB2B",
-                    "duracao": "4",
-                    "sala": "I008",
-                    "profsig": "DSF",
-                    "prof": "Diamantino Freitas"
-                },
-                {
-                    "dia": 4,
-                    "hora": 18,
-                    "nome": "Sinais e Eletr\u00f3nica",
-                    "sigla": "SELE",
-                    "tipo": "PL",
-                    "turma": "MIB2C",
-                    "turmac": "MIB2C",
-                    "duracao": "4",
-                    "sala": "I008",
-                    "profsig": "DSF",
-                    "prof": "Diamantino Freitas"
-                }
-            ],
-            "nome": "Sinais e Eletr\u00f3nica"
         }
     },
     "3\u00ba Ano": {
@@ -252,39 +332,6 @@
                 }
             ],
             "nome": "Engenharia de Biorrecursos"
-        },
-        "CPIN": {
-            "TP": [
-                {
-                    "dia": 5,
-                    "hora": 14,
-                    "nome": "Controlo de Processos e Instrumenta\u00e7\u00e3o",
-                    "sigla": "CPIN",
-                    "tipo": "TP",
-                    "turma": "MIBEBIOL3A",
-                    "turmac": "MIBEBIOL3A",
-                    "duracao": "3",
-                    "sala": "B016",
-                    "profsig": "FDM",
-                    "prof": "Fern\u00e3o Magalh\u00e3es"
-                }
-            ],
-            "nome": "Controlo de Processos e Instrumenta\u00e7\u00e3o",
-            "PL": [
-                {
-                    "dia": 5,
-                    "hora": 15.5,
-                    "nome": "Controlo de Processos e Instrumenta\u00e7\u00e3o",
-                    "sigla": "CPIN",
-                    "tipo": "PL",
-                    "turma": "MIBEBIOL3A",
-                    "turmac": "MIBEBIOL3A",
-                    "duracao": "4",
-                    "sala": "B305",
-                    "profsig": "FDM",
-                    "prof": "Fern\u00e3o Magalh\u00e3es"
-                }
-            ]
         },
         "INSB": {
             "PL": [

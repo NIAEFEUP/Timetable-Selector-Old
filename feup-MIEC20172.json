@@ -733,14 +733,14 @@
                 },
                 {
                     "dia": 4,
-                    "hora": 11,
+                    "hora": 13.5,
                     "nome": "An\u00e1lise Matem\u00e1tica 2",
                     "sigla": "AMAT2",
                     "tipo": "P",
                     "turma": "12MC10",
                     "turmac": "12MC10",
                     "duracao": "4",
-                    "sala": "B330",
+                    "sala": "B111",
                     "profsig": "IMS",
                     "prof": "Isabel Maria Silva"
                 }
@@ -780,7 +780,7 @@
                     "sigla": "AMAT2",
                     "tipo": "T",
                     "turma": "12MC02",
-                    "turmac": "COMP_857",
+                    "turmac": "COMP_10",
                     "duracao": "3",
                     "sala": "B023",
                     "profsig": "LAV",
@@ -793,7 +793,7 @@
                     "sigla": "AMAT2",
                     "tipo": "T",
                     "turma": "12MC02",
-                    "turmac": "COMP_857",
+                    "turmac": "COMP_10",
                     "duracao": "3",
                     "sala": "B015",
                     "profsig": "LAV",
@@ -858,7 +858,7 @@
                     "sigla": "AMAT2",
                     "tipo": "T",
                     "turma": "12MC05",
-                    "turmac": "COMP_857",
+                    "turmac": "COMP_10",
                     "duracao": "3",
                     "sala": "B023",
                     "profsig": "LAV",
@@ -871,7 +871,7 @@
                     "sigla": "AMAT2",
                     "tipo": "T",
                     "turma": "12MC05",
-                    "turmac": "COMP_857",
+                    "turmac": "COMP_10",
                     "duracao": "3",
                     "sala": "B015",
                     "profsig": "LAV",
@@ -936,7 +936,7 @@
                     "sigla": "AMAT2",
                     "tipo": "T",
                     "turma": "12MC08",
-                    "turmac": "COMP_857",
+                    "turmac": "COMP_10",
                     "duracao": "3",
                     "sala": "B023",
                     "profsig": "LAV",
@@ -949,7 +949,7 @@
                     "sigla": "AMAT2",
                     "tipo": "T",
                     "turma": "12MC08",
-                    "turmac": "COMP_857",
+                    "turmac": "COMP_10",
                     "duracao": "3",
                     "sala": "B015",
                     "profsig": "LAV",
@@ -983,27 +983,27 @@
                 },
                 {
                     "dia": 1,
-                    "hora": 14,
+                    "hora": 11,
                     "nome": "An\u00e1lise Matem\u00e1tica 2",
                     "sigla": "AMAT2",
                     "tipo": "T",
                     "turma": "12MC10",
-                    "turmac": "COMP_322",
+                    "turmac": "COMP_10",
                     "duracao": "3",
-                    "sala": "B017",
+                    "sala": "B023",
                     "profsig": "LAV",
                     "prof": "Lu\u00eds Almeida Vieira"
                 },
                 {
                     "dia": 4,
-                    "hora": 14,
+                    "hora": 11,
                     "nome": "An\u00e1lise Matem\u00e1tica 2",
                     "sigla": "AMAT2",
                     "tipo": "T",
                     "turma": "12MC10",
-                    "turmac": "COMP_322",
+                    "turmac": "COMP_10",
                     "duracao": "3",
-                    "sala": "B017",
+                    "sala": "B015",
                     "profsig": "LAV",
                     "prof": "Lu\u00eds Almeida Vieira"
                 }
@@ -1368,13 +1368,13 @@
             ]
         },
         "ANUM": {
-            "T": [
+            "P": [
                 {
                     "dia": 3,
                     "hora": 10,
                     "nome": "An\u00e1lise Num\u00e9rica",
                     "sigla": "ANUM",
-                    "tipo": "T",
+                    "tipo": "P",
                     "turma": "12MC01",
                     "turmac": "12MC01",
                     "duracao": "4",
@@ -1382,6 +1382,74 @@
                     "profsig": "VGS",
                     "prof": "Vitor Gon\u00e7alves De Sousa"
                 },
+                {
+                    "dia": 5,
+                    "hora": 10.5,
+                    "nome": "An\u00e1lise Num\u00e9rica",
+                    "sigla": "ANUM",
+                    "tipo": "P",
+                    "turma": "12MC02",
+                    "turmac": "12MC02",
+                    "duracao": "4",
+                    "sala": "B012",
+                    "profsig": "VGS",
+                    "prof": "Vitor Gon\u00e7alves De Sousa"
+                },
+                {
+                    "dia": 4,
+                    "hora": 9,
+                    "nome": "An\u00e1lise Num\u00e9rica",
+                    "sigla": "ANUM",
+                    "tipo": "P",
+                    "turma": "12MC03",
+                    "turmac": "12MC03",
+                    "duracao": "4",
+                    "sala": "B031",
+                    "profsig": "IMR",
+                    "prof": "Isabel Martins Ribeiro"
+                },
+                {
+                    "dia": 2,
+                    "hora": 14.5,
+                    "nome": "An\u00e1lise Num\u00e9rica",
+                    "sigla": "ANUM",
+                    "tipo": "P",
+                    "turma": "12MC04",
+                    "turmac": "12MC04",
+                    "duracao": "4",
+                    "sala": "B009",
+                    "profsig": "AMF",
+                    "prof": "Ana Maria Faustino"
+                },
+                {
+                    "dia": 5,
+                    "hora": 10.5,
+                    "nome": "An\u00e1lise Num\u00e9rica",
+                    "sigla": "ANUM",
+                    "tipo": "P",
+                    "turma": "12MC05",
+                    "turmac": "12MC05",
+                    "duracao": "4",
+                    "sala": "B011",
+                    "profsig": "AMF+IMR",
+                    "prof": null
+                },
+                {
+                    "dia": 5,
+                    "hora": 8.5,
+                    "nome": "An\u00e1lise Num\u00e9rica",
+                    "sigla": "ANUM",
+                    "tipo": "P",
+                    "turma": "12MC06",
+                    "turmac": "12MC06",
+                    "duracao": "4",
+                    "sala": "B011",
+                    "profsig": "IMR",
+                    "prof": "Isabel Martins Ribeiro"
+                }
+            ],
+            "nome": "An\u00e1lise Num\u00e9rica",
+            "T": [
                 {
                     "dia": 1,
                     "hora": 15,
@@ -1392,19 +1460,6 @@
                     "turmac": "12MC01",
                     "duracao": "4",
                     "sala": "B019",
-                    "profsig": "VGS",
-                    "prof": "Vitor Gon\u00e7alves De Sousa"
-                },
-                {
-                    "dia": 5,
-                    "hora": 10.5,
-                    "nome": "An\u00e1lise Num\u00e9rica",
-                    "sigla": "ANUM",
-                    "tipo": "T",
-                    "turma": "12MC02",
-                    "turmac": "12MC02",
-                    "duracao": "4",
-                    "sala": "B012",
                     "profsig": "VGS",
                     "prof": "Vitor Gon\u00e7alves De Sousa"
                 },
@@ -1435,34 +1490,8 @@
                     "prof": "Isabel Martins Ribeiro"
                 },
                 {
-                    "dia": 4,
-                    "hora": 9,
-                    "nome": "An\u00e1lise Num\u00e9rica",
-                    "sigla": "ANUM",
-                    "tipo": "T",
-                    "turma": "12MC03",
-                    "turmac": "12MC03",
-                    "duracao": "4",
-                    "sala": "B031",
-                    "profsig": "IMR",
-                    "prof": "Isabel Martins Ribeiro"
-                },
-                {
                     "dia": 1,
                     "hora": 13.5,
-                    "nome": "An\u00e1lise Num\u00e9rica",
-                    "sigla": "ANUM",
-                    "tipo": "T",
-                    "turma": "12MC04",
-                    "turmac": "12MC04",
-                    "duracao": "4",
-                    "sala": "B009",
-                    "profsig": "AMF",
-                    "prof": "Ana Maria Faustino"
-                },
-                {
-                    "dia": 2,
-                    "hora": 14.5,
                     "nome": "An\u00e1lise Num\u00e9rica",
                     "sigla": "ANUM",
                     "tipo": "T",
@@ -1487,32 +1516,6 @@
                     "prof": null
                 },
                 {
-                    "dia": 5,
-                    "hora": 10.5,
-                    "nome": "An\u00e1lise Num\u00e9rica",
-                    "sigla": "ANUM",
-                    "tipo": "T",
-                    "turma": "12MC05",
-                    "turmac": "12MC05",
-                    "duracao": "4",
-                    "sala": "B011",
-                    "profsig": "AMF+IMR",
-                    "prof": null
-                },
-                {
-                    "dia": 5,
-                    "hora": 8.5,
-                    "nome": "An\u00e1lise Num\u00e9rica",
-                    "sigla": "ANUM",
-                    "tipo": "T",
-                    "turma": "12MC06",
-                    "turmac": "12MC06",
-                    "duracao": "4",
-                    "sala": "B011",
-                    "profsig": "IMR",
-                    "prof": "Isabel Martins Ribeiro"
-                },
-                {
                     "dia": 4,
                     "hora": 11,
                     "nome": "An\u00e1lise Num\u00e9rica",
@@ -1525,27 +1528,13 @@
                     "profsig": "IMR",
                     "prof": "Isabel Martins Ribeiro"
                 }
-            ],
-            "nome": "An\u00e1lise Num\u00e9rica"
+            ]
         }
     },
     "2\u00ba Ano": {
         "FISI": {
             "T": [
                 {
-                    "dia": 2,
-                    "hora": 8,
-                    "nome": "F\u00edsica",
-                    "sigla": "FISI",
-                    "tipo": "T",
-                    "turma": "22MC01",
-                    "turmac": "COMP_418",
-                    "duracao": "2",
-                    "sala": "B013",
-                    "profsig": "DPU",
-                    "prof": "Diana Urbano"
-                },
-                {
                     "dia": 4,
                     "hora": 8.5,
                     "nome": "F\u00edsica",
@@ -1559,15 +1548,15 @@
                     "prof": "Diana Urbano"
                 },
                 {
-                    "dia": 2,
-                    "hora": 8,
+                    "dia": 5,
+                    "hora": 11,
                     "nome": "F\u00edsica",
                     "sigla": "FISI",
                     "tipo": "T",
-                    "turma": "22MC02",
+                    "turma": "22MC01",
                     "turmac": "COMP_418",
                     "duracao": "2",
-                    "sala": "B013",
+                    "sala": "B023",
                     "profsig": "DPU",
                     "prof": "Diana Urbano"
                 },
@@ -1581,6 +1570,19 @@
                     "turmac": "COMP_418",
                     "duracao": "2",
                     "sala": "B014",
+                    "profsig": "DPU",
+                    "prof": "Diana Urbano"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "F\u00edsica",
+                    "sigla": "FISI",
+                    "tipo": "T",
+                    "turma": "22MC02",
+                    "turmac": "COMP_418",
+                    "duracao": "2",
+                    "sala": "B023",
                     "profsig": "DPU",
                     "prof": "Diana Urbano"
                 },
@@ -1663,19 +1665,6 @@
                     "prof": "Joana Oliveira"
                 },
                 {
-                    "dia": 2,
-                    "hora": 8,
-                    "nome": "F\u00edsica",
-                    "sigla": "FISI",
-                    "tipo": "T",
-                    "turma": "22MC06",
-                    "turmac": "COMP_418",
-                    "duracao": "2",
-                    "sala": "B013",
-                    "profsig": "DPU",
-                    "prof": "Diana Urbano"
-                },
-                {
                     "dia": 4,
                     "hora": 8.5,
                     "nome": "F\u00edsica",
@@ -1689,15 +1678,15 @@
                     "prof": "Diana Urbano"
                 },
                 {
-                    "dia": 2,
-                    "hora": 8,
+                    "dia": 5,
+                    "hora": 11,
                     "nome": "F\u00edsica",
                     "sigla": "FISI",
                     "tipo": "T",
-                    "turma": "22MC07",
+                    "turma": "22MC06",
                     "turmac": "COMP_418",
                     "duracao": "2",
-                    "sala": "B013",
+                    "sala": "B023",
                     "profsig": "DPU",
                     "prof": "Diana Urbano"
                 },
@@ -1711,6 +1700,19 @@
                     "turmac": "COMP_418",
                     "duracao": "2",
                     "sala": "B014",
+                    "profsig": "DPU",
+                    "prof": "Diana Urbano"
+                },
+                {
+                    "dia": 5,
+                    "hora": 11,
+                    "nome": "F\u00edsica",
+                    "sigla": "FISI",
+                    "tipo": "T",
+                    "turma": "22MC07",
+                    "turmac": "COMP_418",
+                    "duracao": "2",
+                    "sala": "B023",
                     "profsig": "DPU",
                     "prof": "Diana Urbano"
                 }
@@ -1731,20 +1733,20 @@
                     "prof": "Joana Oliveira"
                 },
                 {
-                    "dia": 5,
-                    "hora": 11,
+                    "dia": 1,
+                    "hora": 15.5,
                     "nome": "F\u00edsica",
                     "sigla": "FISI",
                     "tipo": "TP",
                     "turma": "22MC02",
                     "turmac": "22MC02",
                     "duracao": "4",
-                    "sala": "B323",
+                    "sala": "B219",
                     "profsig": "MIEC_Fisica",
                     "prof": null
                 },
                 {
-                    "dia": 5,
+                    "dia": 1,
                     "hora": 8,
                     "nome": "F\u00edsica",
                     "sigla": "FISI",
@@ -1766,8 +1768,8 @@
                     "turmac": "22MC04",
                     "duracao": "4",
                     "sala": "B225",
-                    "profsig": "MHB",
-                    "prof": "Helena Braga"
+                    "profsig": "JSBA",
+                    "prof": "Joana Ascenso"
                 },
                 {
                     "dia": 4,
@@ -1876,7 +1878,7 @@
                     "turma": "22MC01",
                     "turmac": "22MC01",
                     "duracao": "4",
-                    "sala": "B319",
+                    "sala": "B109",
                     "profsig": "BRC",
                     "prof": "B\u00e1rbara Rangel Carvalho"
                 },
@@ -2338,7 +2340,7 @@
                     "turma": "22MC01",
                     "turmac": "22MC01",
                     "duracao": "3",
-                    "sala": "B322",
+                    "sala": "B319",
                     "profsig": "CFFS",
                     "prof": "Carlos Sousa"
                 },
@@ -2525,6 +2527,19 @@
                     "prof": "Lu\u00eds Filipe Pereira Juvandes"
                 },
                 {
+                    "dia": 1,
+                    "hora": 10.5,
+                    "nome": "Resist\u00eancia dos Materiais 2",
+                    "sigla": "RMAT2",
+                    "tipo": "TP",
+                    "turma": "22MC10",
+                    "turmac": "22MC10",
+                    "duracao": "3",
+                    "sala": "B319",
+                    "profsig": "CFFS+ASN",
+                    "prof": null
+                },
+                {
                     "dia": 4,
                     "hora": 15,
                     "nome": "Resist\u00eancia dos Materiais 2",
@@ -2534,19 +2549,6 @@
                     "turmac": "22MC10",
                     "duracao": "3",
                     "sala": "B110",
-                    "profsig": "CFFS+ASN",
-                    "prof": null
-                },
-                {
-                    "dia": 1,
-                    "hora": 16,
-                    "nome": "Resist\u00eancia dos Materiais 2",
-                    "sigla": "RMAT2",
-                    "tipo": "TP",
-                    "turma": "22MC10",
-                    "turmac": "22MC10",
-                    "duracao": "3",
-                    "sala": "B225",
                     "profsig": "CFFS+ASN",
                     "prof": null
                 }
@@ -3333,7 +3335,7 @@
                     "turma": "32MC08",
                     "turmac": "32MC08",
                     "duracao": "4",
-                    "sala": "B109",
+                    "sala": "B319",
                     "profsig": "PJRS",
                     "prof": "Paulo Rosa Santos"
                 }

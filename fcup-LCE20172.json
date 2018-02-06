@@ -218,7 +218,7 @@
                     "turma": "EM192_PL",
                     "turmac": "EM192_PL",
                     "duracao": "4",
-                    "sala": "FC1226",
+                    "sala": "FC1029",
                     "profsig": "AMAMO",
                     "prof": "Ana Oliveira"
                 }
@@ -1271,7 +1271,7 @@
                     "turmac": "EQ356_PL2",
                     "duracao": "4",
                     "sala": "FC2-115",
-                    "profsig": "NFCBM",
+                    "profsig": "NM",
                     "prof": "Nuno Mateus"
                 },
                 {
@@ -1284,7 +1284,7 @@
                     "turmac": "EQ356_PL3",
                     "duracao": "4",
                     "sala": "FC2-115",
-                    "profsig": "NFCBM",
+                    "profsig": "NM",
                     "prof": "Nuno Mateus"
                 },
                 {
@@ -1297,7 +1297,7 @@
                     "turmac": "EQ356_PL4",
                     "duracao": "4",
                     "sala": "FC2-115",
-                    "profsig": "NFCBM",
+                    "profsig": "NM",
                     "prof": "Nuno Mateus"
                 },
                 {
@@ -1310,7 +1310,7 @@
                     "turmac": "EQ356_PL5",
                     "duracao": "4",
                     "sala": "FC2-115",
-                    "profsig": "NFCBM",
+                    "profsig": "NM",
                     "prof": "Nuno Mateus"
                 },
                 {
@@ -1323,7 +1323,7 @@
                     "turmac": "EQ356_PL6",
                     "duracao": "4",
                     "sala": "FC2-115",
-                    "profsig": "NFCBM",
+                    "profsig": "NM",
                     "prof": "Nuno Mateus"
                 }
             ],

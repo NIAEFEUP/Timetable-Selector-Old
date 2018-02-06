@@ -237,7 +237,7 @@
                     "tipo": "T",
                     "turma": "FIS2011_T",
                     "turmac": "FIS2011_T",
-                    "duracao": "2",
+                    "duracao": "3",
                     "sala": "FC3-119",
                     "profsig": "JMCNS",
                     "prof": "Jos\u00e9 Miguel Nunes da Silva"
@@ -350,7 +350,7 @@
         "AST3006": {
             "T": [
                 {
-                    "dia": 4,
+                    "dia": 3,
                     "hora": 10.5,
                     "nome": "Astrof\u00edsica\u00a0Relativista\u00a0e\u00a0Cosmologia\u00a0",
                     "sigla": "AST3006",
@@ -358,7 +358,7 @@
                     "turma": "AST3006_T",
                     "turmac": "AST3006_T",
                     "duracao": "3",
-                    "sala": "FC3026",
+                    "sala": "FC3014",
                     "profsig": "PTPV",
                     "prof": "Pedro Viana"
                 },
@@ -371,7 +371,7 @@
                     "turma": "AST3006_T",
                     "turmac": "AST3006_T",
                     "duracao": "2",
-                    "sala": "FC3-117",
+                    "sala": "FC3026",
                     "profsig": "PTPV",
                     "prof": "Pedro Viana"
                 }
@@ -387,53 +387,53 @@
                     "turma": "AST3006_TP",
                     "turmac": "AST3006_TP",
                     "duracao": "3",
-                    "sala": "FC3-117",
+                    "sala": "FC3026",
                     "profsig": "PTPV",
                     "prof": "Pedro Viana"
                 }
             ]
         },
         "AST3010": {
-            "TP": [
+            "T": [
                 {
-                    "dia": 3,
-                    "hora": 9,
+                    "dia": 2,
+                    "hora": 10,
                     "nome": "Processos\u00a0Radiativos\u00a0em\u00a0Astrof\u00edsica\u00a0",
                     "sigla": "AST3010",
-                    "tipo": "TP",
+                    "tipo": "T",
                     "turma": "AST3010_T",
                     "turmac": "AST3010_T",
                     "duracao": "2",
-                    "sala": "FC3023",
+                    "sala": "FC3014",
                     "profsig": "Jgameiro+NunoS",
                     "prof": null
                 },
                 {
-                    "dia": 3,
-                    "hora": 10.5,
-                    "nome": "Processos\u00a0Radiativos\u00a0em\u00a0Astrof\u00edsica\u00a0",
-                    "sigla": "AST3010",
-                    "tipo": "TP",
-                    "turma": "AST3010_TP",
-                    "turmac": "AST3010_TP",
-                    "duracao": "3",
-                    "sala": "FC3023",
-                    "profsig": "Jgameiro+NunoS",
-                    "prof": null
-                }
-            ],
-            "nome": "Processos\u00a0Radiativos\u00a0em\u00a0Astrof\u00edsica\u00a0",
-            "T": [
-                {
                     "dia": 4,
-                    "hora": 15,
+                    "hora": 15.5,
                     "nome": "Processos\u00a0Radiativos\u00a0em\u00a0Astrof\u00edsica\u00a0",
                     "sigla": "AST3010",
                     "tipo": "T",
                     "turma": "AST3010_T",
                     "turmac": "AST3010_T",
                     "duracao": "3",
-                    "sala": "FC3023",
+                    "sala": "FC3-117",
+                    "profsig": "Jgameiro+NunoS",
+                    "prof": null
+                }
+            ],
+            "nome": "Processos\u00a0Radiativos\u00a0em\u00a0Astrof\u00edsica\u00a0",
+            "TP": [
+                {
+                    "dia": 2,
+                    "hora": 11.5,
+                    "nome": "Processos\u00a0Radiativos\u00a0em\u00a0Astrof\u00edsica\u00a0",
+                    "sigla": "AST3010",
+                    "tipo": "TP",
+                    "turma": "AST3010_TP",
+                    "turmac": "AST3010_TP",
+                    "duracao": "3",
+                    "sala": "FC3014",
                     "profsig": "Jgameiro+NunoS",
                     "prof": null
                 }
@@ -442,7 +442,7 @@
         "FIS3006": {
             "T": [
                 {
-                    "dia": 2,
+                    "dia": 1,
                     "hora": 9,
                     "nome": "F\u00edsica do N\u00facleo e das Part\u00edculas",
                     "sigla": "FIS3006",
@@ -450,20 +450,20 @@
                     "turma": "FIS3006_T",
                     "turmac": "FIS3006_T",
                     "duracao": "2",
-                    "sala": "FC3014",
-                    "profsig": "MC+MFM",
-                    "prof": null
+                    "sala": "FC3023",
+                    "profsig": "MFGM",
+                    "prof": "Maria de F\u00e1tima Mota"
                 },
                 {
                     "dia": 4,
-                    "hora": 15,
+                    "hora": 12,
                     "nome": "F\u00edsica do N\u00facleo e das Part\u00edculas",
                     "sigla": "FIS3006",
                     "tipo": "T",
                     "turma": "FIS3006_T",
                     "turmac": "FIS3006_T",
                     "duracao": "2",
-                    "sala": "FC3026",
+                    "sala": "FC3-117",
                     "profsig": "MFGM",
                     "prof": "Maria de F\u00e1tima Mota"
                 }
@@ -471,7 +471,7 @@
             "nome": "F\u00edsica do N\u00facleo e das Part\u00edculas",
             "TP": [
                 {
-                    "dia": 2,
+                    "dia": 1,
                     "hora": 10.5,
                     "nome": "F\u00edsica do N\u00facleo e das Part\u00edculas",
                     "sigla": "FIS3006",
@@ -479,9 +479,9 @@
                     "turma": "FIS3006_TP",
                     "turmac": "FIS3006_TP",
                     "duracao": "3",
-                    "sala": "FC3014",
-                    "profsig": "MC+MFM",
-                    "prof": null
+                    "sala": "FC3023",
+                    "profsig": "MFGM",
+                    "prof": "Maria de F\u00e1tima Mota"
                 }
             ]
         },
@@ -489,14 +489,14 @@
             "T": [
                 {
                     "dia": 2,
-                    "hora": 14,
+                    "hora": 15,
                     "nome": "Mec\u00e2nica Quantica II",
                     "sigla": "FIS3012",
                     "tipo": "T",
                     "turma": "FIS3012_T",
                     "turmac": "FIS3012_T",
                     "duracao": "2",
-                    "sala": "FC3014",
+                    "sala": "FC3-117",
                     "profsig": "MFGM",
                     "prof": "Maria de F\u00e1tima Mota"
                 }
@@ -518,7 +518,7 @@
                 },
                 {
                     "dia": 2,
-                    "hora": 16,
+                    "hora": 16.5,
                     "nome": "Mec\u00e2nica Quantica II",
                     "sigla": "FIS3012",
                     "tipo": "TP",
